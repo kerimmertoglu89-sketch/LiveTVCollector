@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-27 13:45:18",
+  "date": "2025-09-27 21:44:15",
   "channels": {
     "Music": [
       {
@@ -947,104 +947,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-      },
-      {
-        "name": "AXN HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd"
-      },
-      {
-        "name": "Lifetime HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Lifetime.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd"
-      },
-      {
-        "name": "PRIMEtime",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd"
-      },
-      {
-        "name": "HITS HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd"
-      },
-      {
-        "name": "TLC HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd"
-      },
-      {
-        "name": "Food Network HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd"
-      },
-      {
-        "name": "Asian Food Network HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/afn_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd"
-      },
-      {
-        "name": "Warner TV HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd"
-      },
-      {
-        "name": "Paramount Network",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Paramount.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd"
-      },
-      {
-        "name": "Crime & Investigation HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/CI_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd"
-      },
-      {
-        "name": "HGTV HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd"
-      },
-      {
-        "name": "DMAX HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd"
-      },
-      {
-        "name": "BBC Lifestyle",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd"
-      },
-      {
-        "name": "MTV Asia HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd"
       }
     ],
     "Movies;Series": [
@@ -1147,139 +1049,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Unifi Sports 1",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848 group-title=",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd"
-      },
-      {
-        "name": "Unifi Sports 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd"
-      },
-      {
-        "name": "RTM Sports HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8"
-      },
-      {
-        "name": "eGG Network HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/eGG_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd"
-      },
-      {
-        "name": "Astro Arena HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd"
-      },
-      {
-        "name": "Astro Arena 2 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/AstroArena2.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd"
-      },
-      {
-        "name": "Astro SuperSport HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd"
-      },
-      {
-        "name": "Astro SuperSport 5 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default.mpd"
-      },
-      {
-        "name": "SPOTV HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/SPOTV.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd"
-      },
-      {
-        "name": "beIN Sports HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd"
-      },
-      {
-        "name": "beIN Sports 2 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd"
-      },
-      {
-        "name": "beIN Sports 3 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd"
-      },
-      {
-        "name": "Eurosport HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd"
-      },
-      {
-        "name": "WWE Network HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd"
-      },
-      {
-        "name": "Golf Channel HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Golf_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd"
-      },
-      {
-        "name": "Premier Sports HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/PremierSports.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd"
-      },
-      {
-        "name": "Astro Cricket HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd"
-      },
-      {
-        "name": "FIGHT SPORTS",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd"
-      },
-      {
-        "name": "Soccer Channel",
-        "logo": "http://dusktill.masuk.web.id/img/soccerchannel.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd"
       }
     ],
     "News": [
@@ -1430,49 +1199,49 @@
         "logo": "https://images.pluto.tv/channels/664f0ddbf78a8500092dcffa/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/664f0ddbf78a8500092dcffa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/664f0ddbf78a8500092dcffa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Cucina",
         "logo": "https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Real Life",
         "logo": "https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Viaggi",
         "logo": "https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV ASMR",
         "logo": "https://images.pluto.tv/channels/66867b9919311200085313d9/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66867b9919311200085313d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66867b9919311200085313d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Case Pazzesche",
         "logo": "https://images.pluto.tv/channels/626bb07a58b8dd0007e9f36e/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Extreme Makeover Home Edition",
         "logo": "https://images.pluto.tv/channels/6661739641af6400080cd8f1/colorLogoPNG.png",
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6661739641af6400080cd8f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6661739641af6400080cd8f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Culture": [
@@ -1582,62 +1351,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Astro Xiao Tai Yang HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Xiao_Tai_Yang_v1.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default.mpd"
-      },
-      {
-        "name": "Astro Ceria HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd"
-      },
-      {
-        "name": "TA-DAA!",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd"
-      },
-      {
-        "name": "Cartoon Network HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd"
-      },
-      {
-        "name": "Nickelodeon HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd"
-      },
-      {
-        "name": "Nickelodeon Junior",
-        "logo": "https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd"
-      },
-      {
-        "name": "Moonbug Kids",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd"
-      },
-      {
-        "name": "Boomerang",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Boomerang_Logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd"
       }
     ],
     "Undefined": [
@@ -2556,111 +2269,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-      },
-      {
-        "name": "ABO Movies Thangathirai HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd"
-      },
-      {
-        "name": "Celestial Movies HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd"
-      },
-      {
-        "name": "CCM SD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd"
-      },
-      {
-        "name": "HITS Movies HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd"
-      },
-      {
-        "name": "BOO HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd"
-      },
-      {
-        "name": "HBO HD",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/hbo.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
-      },
-      {
-        "name": "Cinemax HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd"
-      },
-      {
-        "name": "Showcase Movies",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd"
-      },
-      {
-        "name": "HBO Family HD",
-        "logo": "https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd"
-      },
-      {
-        "name": "415 HBO Hits HD",
-        "logo": "https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd"
-      },
-      {
-        "name": "HBO Signature HD",
-        "logo": "http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
-      },
-      {
-        "name": "tvN Movies HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd"
-      },
-      {
-        "name": "GALAXY HD",
-        "logo": "https://i.imgur.com/w8pi4Ip.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
-      },
-      {
-        "name": "GALAXY PREMIUM HD",
-        "logo": "https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
-      },
-      {
-        "name": "THRILL HD",
-        "logo": "http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
       }
     ],
     "Business": [
@@ -2699,35 +2307,35 @@
         "logo": "https://images.pluto.tv/channels/62bc1f502b70e3000706298e/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "I soliti idioti",
         "logo": "https://images.pluto.tv/channels/6602acadb2abe500081cf28a/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6602acadb2abe500081cf28a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6602acadb2abe500081cf28a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Scherzi e risate",
         "logo": "https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "FailArmy",
         "logo": "https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Just for Laughs GAGS",
         "logo": "https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG_1745912777006.png",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Religious": [
@@ -3521,69 +3129,6 @@
         "url": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8"
       },
       {
-        "name": "MELAYU KLASIK",
-        "logo": "https://raw.githubusercontent.com/gresketh/perma/main/Picsart_22-09-01_11-47-44-836.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "http://node-17.zeno.fm:80/s93mzhh7yf9uv"
-      },
-      {
-        "name": "JOHOR FM",
-        "logo": "https://cdn.webrad.io/images/logos/radioonline-my/johor.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac"
-      },
-      {
-        "name": "BEST FM",
-        "logo": "https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a"
-      },
-      {
-        "name": "SURIA FM",
-        "logo": "https://static.suria.my/static/images/suria-logo.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://22283.live.streamtheworld.com/SURIA_FMAAC.aac"
-      },
-      {
-        "name": "SINAR FM",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "http://astro2.rastream.com/sinar?type=.flv"
-      },
-      {
-        "name": "ERA FM",
-        "logo": "https://assets.radioactive.sg/org-astro/12be960e-a439-423e-9bae-7839a060869c-Era-Logo-color-336x160.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "http://astro2.rastream.com/era?type=.flv"
-      },
-      {
-        "name": "HOT FM",
-        "logo": "https://assets.hotfm.audio/2021/07/7ksjlZxl-logo_hotfm_master.svg",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "http://mediaprima.rastream.com/mediaprima-hotfm"
-      },
-      {
-        "name": "LITE FM",
-        "logo": "https://media2.fishtank.my/app_themes/litefm/assets/images/logo-lite.svg",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8"
-      },
-      {
-        "name": "GOLD 905",
-        "logo": "https://onecms-res.cloudinary.com/image/upload/v1640182647/mediacorp/mel/image/2021-12/gold905-logoimage_0.jpg",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://22403.live.streamtheworld.com/GOLD905_PREM.aac"
-      },
-      {
         "name": "Radio 105 TV",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png",
         "group": "Radio",
@@ -3619,277 +3164,545 @@
         "url": "https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd"
       }
     ],
-    "myFreeview": [
+    "Sport": [
       {
-        "name": "BERITA RTM",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",
-        "group": "myFreeview",
+        "name": "Dubai Sports 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8"
+        "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
       },
       {
-        "name": "TV1 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",
-        "group": "myFreeview",
+        "name": "Dubai Sports 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd"
+        "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
       },
       {
-        "name": "TV2 HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",
-        "group": "myFreeview",
+        "name": "Dubai Sports 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8"
+        "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
       },
       {
-        "name": "TV3",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",
-        "group": "myFreeview",
+        "name": "Tennis Channel (UK)",
+        "logo": "https://i.imgur.com/tsljAnY.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd"
+        "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8"
       },
       {
-        "name": "TV6",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",
-        "group": "myFreeview",
+        "name": "CBS Sports Network USA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd"
+        "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
       },
       {
-        "name": "Al-Hijrah",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",
-        "group": "myFreeview",
+        "name": "ESPN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd"
+        "url": "https://tvpass.org/live/ESPN/sd"
       },
       {
-        "name": "TVS",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",
-        "group": "myFreeview",
+        "name": "ESPN2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd"
+        "url": "https://tvpass.org/live/ESPN2/sd"
       },
       {
-        "name": "Awesome TV",
-        "logo": "https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",
-        "group": "myFreeview",
+        "name": "Fox Sports 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd"
+        "url": "https://tvpass.org/live/FoxSports1/sd"
       },
       {
-        "name": "DidikTV KPM",
-        "logo": "https://didik.tv/images/logotv2.png",
-        "group": "myFreeview",
+        "name": "Fox Sports 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8"
+        "url": "https://tvpass.org/live/FoxSports2/sd"
       },
       {
-        "name": "TV IKIM HD",
-        "logo": "https://iili.io/1NTfv2.png",
-        "group": "myFreeview",
+        "name": "Golf Channel USA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8"
+        "url": "https://tvpass.org/live/GolfChannel/sd"
       },
       {
-        "name": "8TV",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",
-        "group": "myFreeview",
+        "name": "NBC Sports Bay Area",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8"
+        "url": "https://tvpass.org/live/nbc-sports-bay-area/sd"
       },
       {
-        "name": "TV9",
-        "logo": "https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",
-        "group": "myFreeview",
+        "name": "NBC Sports Boston",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8"
-      }
-    ],
-    "Myfreeview": [
-      {
-        "name": "TV Okey",
-        "logo": "https://iili.io/1NqeAg.png",
-        "group": "Myfreeview",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd"
-      }
-    ],
-    "Astro": [
-      {
-        "name": "Astro Ria HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "group": "Astro",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd"
+        "url": "https://tvpass.org/live/nbc-sports-boston/sd"
       },
       {
-        "name": "Astro Warna HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "group": "Astro",
+        "name": "NBC Sports California",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://aqfadtv.xyz/live/warna/index.mpd"
+        "url": "https://tvpass.org/live/nbc-sports-california/sd"
       },
       {
-        "name": "Astro Citra HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "group": "Astro",
+        "name": "NBC Sports Philadelphia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://aqfadtv.xyz/live/citra/index.mpd"
+        "url": "https://tvpass.org/live/nbc-sports-philadelphia/sd"
       },
       {
-        "name": "Astro Prima HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",
-        "group": "Astro",
+        "name": "New England Sports Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd"
+        "url": "https://tvpass.org/live/new-england-sports-network/sd"
       },
       {
-        "name": "Astro Oasis HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",
-        "group": "Astro",
+        "name": "The Tennis Channel",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd"
+        "url": "https://tvpass.org/live/TennisChannel/sd"
       },
       {
-        "name": "Astro Awani HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
-        "group": "Astro",
+        "name": "TSN1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mp"
+        "url": "https://tvpass.org/live/tsn1/sd"
       },
       {
-        "name": "Astro Sensasi",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",
-        "group": "Astro",
+        "name": "TSN2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts"
+        "url": "https://tvpass.org/live/tsn2/sd"
       },
       {
-        "name": "Astro Aura HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/AstroAura.png",
-        "group": "Astro",
+        "name": "TSN3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd"
+        "url": "https://tvpass.org/live/tsn3/sd"
       },
       {
-        "name": "Astro Rania HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/AstroRania.png",
-        "group": "Astro",
+        "name": "TSN4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd"
-      }
-    ],
-    "Documentaries": [
-      {
-        "name": "Nat Geo Wild HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",
-        "group": "Documentaries",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd"
+        "url": "https://tvpass.org/live/tsn4/sd"
       },
       {
-        "name": "National Geographic HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png",
-        "group": "Documentaries",
+        "name": "TSN5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default.mpd"
+        "url": "https://tvpass.org/live/tsn5/sd"
       },
       {
-        "name": "Discovery Channel HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",
-        "group": "Documentaries",
+        "name": "ESPN News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd"
+        "url": "https://tvpass.org/live/ESPNews/sd"
       },
       {
-        "name": "Discovery Asia HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",
-        "group": "Documentaries",
+        "name": "ESPN U",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd"
+        "url": "https://tvpass.org/live/ESPNU/sd"
       },
       {
-        "name": "BBC Earth",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",
-        "group": "Documentaries",
+        "name": "Fanduel Sports Network Great Lakes",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd"
+        "url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/sd"
       },
       {
-        "name": "History HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/History_v1.png",
-        "group": "Documentaries",
+        "name": "Fanduel Sports Network Oklahoma",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd"
+        "url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/sd"
       },
       {
-        "name": "Animal Planet HD",
-        "logo": "http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",
-        "group": "Documentaries",
+        "name": "Fanduel Sports Southeast Georgia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd"
-      }
-    ],
-    "Singapore": [
-      {
-        "name": "Channel 5",
-        "logo": "https://i.kampung.xyz/c/748c9035fcc93ed3.png",
-        "group": "Singapore",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd"
-      }
-    ],
-    "Shopping": [
-      {
-        "name": "Go Shop BAARU CH111",
-        "logo": "https://iili.io/1Nqo9n.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default.mpd"
+        "url": "https://tvpass.org/live/fanduel-sports-southeast-georgia/sd"
       },
       {
-        "name": "Go Shop RUUMA CH118",
-        "logo": "https://iili.io/1Nqo9n.png",
-        "group": "Shopping",
+        "name": "CBS Sports HQ",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default.mpd"
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d"
       },
       {
-        "name": "Go Shop GAAYA CH120",
-        "logo": "https://iili.io/1Nqo9n.png",
-        "group": "Shopping",
+        "name": "Formula 1 Channel",
+        "logo": "https://i.ibb.co/DzNrVKh/f1.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default.mpd"
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996"
       },
       {
-        "name": "Go Shop 2 CH303",
-        "logo": "https://iili.io/1NBo0B.png",
-        "group": "Shopping",
+        "name": "FOX Sports",
+        "logo": "https://i.ibb.co/JRVCCY6/images.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default.mpd"
-      }
-    ],
-    "CHANNEL 4K": [
-      {
-        "name": "q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4\",Clarity",
-        "logo": "https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4",
-        "group": "CHANNEL 4K",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8"
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54"
       },
       {
-        "name": "Loupe",
-        "logo": "https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",
-        "group": "CHANNEL 4K",
+        "name": "Monster Jam",
+        "logo": "https://i.ibb.co/CbcVC1J/mj.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8"
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959"
       },
       {
-        "name": "Love Nature 4K",
-        "logo": "https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",
-        "group": "CHANNEL 4K",
+        "name": "Red Bull TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+      },
+      {
+        "name": "Trace Sport Stars",
+        "logo": "https://trace.company/wp-content/uploads/2022/12/TraceSportStars_Logo_Colour_578x278.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8"
+      },
+      {
+        "name": "GolfPass",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f"
+      },
+      {
+        "name": "BeIN Sports XTRA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "NFL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8"
+      },
+      {
+        "name": "NHL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8"
+      },
+      {
+        "name": "NHRA TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://apollo.production-public.tubi.io/live/ac-nhra.m3u8"
+      },
+      {
+        "name": "ACC Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/ACCNetwork/sd"
+      },
+      {
+        "name": "Altitude Sports Denver",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/altitude-sports-denver/sd"
+      },
+      {
+        "name": "Big Ten Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/BTN/sd"
+      },
+      {
+        "name": "Chicago Sports Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/chicago-sports-network/sd"
+      },
+      {
+        "name": "Marquee Sports Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/marquee-sports-network/sd"
+      },
+      {
+        "name": "Midatlantic Sports Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/midatlantic-sports-network/sd"
+      },
+      {
+        "name": "MLB Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/MLBNetwork/sd"
+      },
+      {
+        "name": "Monumental Sports Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/monumental-sports-network/sd"
+      },
+      {
+        "name": "MSG Madison Square Gardens SD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/msg-madison-square-gardens/sd"
+      },
+      {
+        "name": "MSG Plus",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/msg-plus/sd"
+      },
+      {
+        "name": "SEC Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/SECN/sd"
+      },
+      {
+        "name": "SNY Sportsnet New York Comcast",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd"
+      },
+      {
+        "name": "Space City Home Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/space-city-home-network/sd"
+      },
+      {
+        "name": "Spectrum SportsNet LA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/spectrum-sportsnet-la/sd"
+      },
+      {
+        "name": "Spectrum Sportsnet Lakers",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/spectrum-sportsnet/sd"
+      },
+      {
+        "name": "Sportsnet (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-east/sd"
+      },
+      {
+        "name": "Sportsnet 360",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-360/sd"
+      },
+      {
+        "name": "Sportsnet One",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-one/sd"
+      },
+      {
+        "name": "Sportsnet Ontario",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-ontario/sd"
+      },
+      {
+        "name": "Sportsnet Pacific",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-pacific/sd"
+      },
+      {
+        "name": "Sportsnet Pittsburgh",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-pittsburgh/sd"
+      },
+      {
+        "name": "Sportsnet (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://tvpass.org/live/sportsnet-west/sd"
+      },
+      {
+        "name": "FIFA+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "SKY SPORTS NEWS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115462"
+      },
+      {
+        "name": "SKY SPORTS MAIN EVENTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464"
+      },
+      {
+        "name": "TNT SPORTS 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115466"
+      },
+      {
+        "name": "TNT SPORTS 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115468"
+      },
+      {
+        "name": "TNT SPORTS 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115470"
+      },
+      {
+        "name": "TNT SPORTS 4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115472"
+      },
+      {
+        "name": "RACING UK",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115476"
+      },
+      {
+        "name": "SKY SPORTS ACTION",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115478"
+      },
+      {
+        "name": "SKY SPORTS ARENA",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115480"
+      },
+      {
+        "name": "SKY SPORTS CRICKET",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115482"
+      },
+      {
+        "name": "SKY SPORTS FOOTBALL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115484"
+      },
+      {
+        "name": "SKY SPORTS GOLF",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115486"
+      },
+      {
+        "name": "SKY SPORTS MIX",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115488"
+      },
+      {
+        "name": "SKY SPORTS NEWS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115490"
+      },
+      {
+        "name": "SKY SPORTS PREMIER LEAGUE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492"
+      },
+      {
+        "name": "SKY SPORTS RACING",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115493"
+      },
+      {
+        "name": "PREMIER SPORTS 1 IRELAND",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sport",
+        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
+        "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115500"
       }
     ],
     "film": [
@@ -4408,7 +4221,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjhkMmViMzYtZGRmYS00Y2EzLWJiZjAtOTQ5YzIwYTRlYTBhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNmU3MTk2MDMtZDcxNC00NDE5LTlhMjMtOGUzY2U1ZTMwNjJiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -4450,7 +4263,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMjhkN2E1OGYtNDZmZS00N2I2LThiMGItZWJlOWIyYWE0YmU2IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMDk1ZWU3NTctY2YxYS00MTUxLWFlZjAtM2Q1ZWEwNjdhZGE5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -4487,7 +4300,7 @@
         "logo": "https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png",
         "group": "Novità su Pluto TV",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/68750875759366af05a151ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/68750875759366af05a151ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Serie": [
@@ -4496,70 +4309,70 @@
         "logo": "https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "I Jefferson",
         "logo": "https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG-1652710570039.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62442f28afe626000747f195/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62442f28afe626000747f195/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Baywatch",
         "logo": "https://images.pluto.tv/channels/660fc6630cd4630008fae92f/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/660fc6630cd4630008fae92f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/660fc6630cd4630008fae92f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Settimo Cielo",
         "logo": "https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6245d3792792150007e20634/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6245d3792792150007e20634/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Relic Hunter",
         "logo": "https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67d9836ba1609bdb523f0c9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67d9836ba1609bdb523f0c9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Serie",
         "logo": "https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Le sorelle McLeod",
         "logo": "https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "BBC Drama",
         "logo": "https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Mai dire sì",
         "logo": "https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Top Serie",
         "logo": "https://images.pluto.tv/channels/654c955683595c00081d9d87/colorLogoPNG_1748417004383.png",
         "group": "Serie",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/654c955683595c00081d9d87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/654c955683595c00081d9d87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Serie Crime": [
@@ -4568,56 +4381,56 @@
         "logo": "https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d7120815d2c60008cec006/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d7120815d2c60008cec006/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Cherif",
         "logo": "https://images.pluto.tv/channels/66a8c7aefe11e500085b1587/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c7aefe11e500085b1587/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c7aefe11e500085b1587/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Tandem",
         "logo": "https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c8b3d2d50d000821fc4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c8b3d2d50d000821fc4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Alice Nevers",
         "logo": "https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9aa4315d2c60008d4ac40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9aa4315d2c60008d4ac40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Sulle tracce del crimine",
         "logo": "https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9a98961dbf00008efb5fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9a98961dbf00008efb5fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Squadra Speciale Cobra 11",
         "logo": "https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Autostop per il cielo",
         "logo": "https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Serie Crime",
         "logo": "https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png",
         "group": "Serie Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Serie Classiche": [
@@ -4626,42 +4439,42 @@
         "logo": "https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb78b83a116800079e2e35/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb78b83a116800079e2e35/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Love Boat",
         "logo": "https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb76723a116800079e1fc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb76723a116800079e1fc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Dynasty",
         "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb76ea11ced70008206b66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb76ea11ced70008206b66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Mission Impossible",
         "logo": "https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Renegade",
         "logo": "https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "MacGyver",
         "logo": "https://images.pluto.tv/channels/6245d4511358320007029cdf/colorLogoPNG.png",
         "group": "Serie Classiche",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Film": [
@@ -4670,140 +4483,140 @@
         "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Film Azione",
         "logo": "https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Horror",
         "logo": "https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Film Thriller",
         "logo": "https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Legami Letali",
         "logo": "https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64808a8c536e0c0008a276d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64808a8c536e0c0008a276d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Film Romantici",
         "logo": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Film Commedia",
         "logo": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Cinema Emozione",
         "logo": "https://images.pluto.tv/channels/608aa42b5c2b8f0007197529/colorLogoPNG_1746815914026.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Film Classici",
         "logo": "https://images.pluto.tv/channels/608aa3c446d73500075f0e24/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Western",
         "logo": "https://images.pluto.tv/channels/62e7fb67478a5b0007e6c50c/colorLogoPNG_1732029652283.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Totò",
         "logo": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Alberto Sordi",
         "logo": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Cinema Italiano",
         "logo": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Dive Italiane",
         "logo": "https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6875080e3484d607323641f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6875080e3484d607323641f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Cinema Poliziottesco",
         "logo": "https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/671754d8e482950008962aaf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/671754d8e482950008962aaf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Eros",
         "logo": "https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66335489307fa300082bd6e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66335489307fa300082bd6e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Cinema Orientale",
         "logo": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6786235bd648bf0008c2780a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6786235bd648bf0008c2780a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Duri a Morire",
         "logo": "https://images.pluto.tv/channels/65f865a62873090008d06382/colorLogoPNG.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f865a62873090008d06382/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f865a62873090008d06382/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Gli Immortali | Van Damme vs Lundgren",
         "logo": "https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG_1748416779748.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "CineThriller",
         "logo": "https://images.pluto.tv/channels/653660b4295b840008a70ba3/colorLogoPNG_1749022092472.png",
         "group": "Film",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Horror e Paranormale": [
@@ -4812,42 +4625,42 @@
         "logo": "https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8d3c2c2db99000787b786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8d3c2c2db99000787b786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Mostri e Vampiri",
         "logo": "https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6633551323e24f00084744aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6633551323e24f00084744aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Zombie",
         "logo": "https://images.pluto.tv/channels/663354f3cd43940008602115/colorLogoPNG.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/663354f3cd43940008602115/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/663354f3cd43940008602115/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Splatter",
         "logo": "https://images.pluto.tv/channels/66335533307fa300082bd80a/colorLogoPNG.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66335533307fa300082bd80a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66335533307fa300082bd80a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Horror Club",
         "logo": "https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Paranormal",
         "logo": "https://images.pluto.tv/channels/66c70033b1a34600087bb09a/colorLogoPNG.png",
         "group": "Horror e Paranormale",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c70033b1a34600087bb09a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c70033b1a34600087bb09a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Star Trek": [
@@ -4856,14 +4669,14 @@
         "logo": "https://images.pluto.tv/channels/6581a09edfed030008e12b39/colorLogoPNG.png",
         "group": "Star Trek",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Star Trek: Voyager",
         "logo": "https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png",
         "group": "Star Trek",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Sci-Fi": [
@@ -4872,35 +4685,35 @@
         "logo": "https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png",
         "group": "Sci-Fi",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Serie Sci-Fi",
         "logo": "https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",
         "group": "Sci-Fi",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67ed14aaf7c5d70b9089c3bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67ed14aaf7c5d70b9089c3bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Sci-Fi",
         "logo": "https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png",
         "group": "Sci-Fi",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Andromeda",
         "logo": "https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png",
         "group": "Sci-Fi",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Sanctuary",
         "logo": "https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",
         "group": "Sci-Fi",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "True Crime": [
@@ -4909,21 +4722,21 @@
         "logo": "https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png",
         "group": "True Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9ab4bf0f17500084e9b7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d9ab4bf0f17500084e9b7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Forensic Files",
         "logo": "https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/colorLogoPNG.png",
         "group": "True Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Storie Criminali",
         "logo": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
         "group": "True Crime",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Intrattenimento": [
@@ -4932,35 +4745,35 @@
         "logo": "https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png",
         "group": "Intrattenimento",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Affare Fatto",
         "logo": "https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png",
         "group": "Intrattenimento",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Wicked Tuna",
         "logo": "https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/colorLogoPNG.png",
         "group": "Intrattenimento",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67c832cc9b53325ee16fb899/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67c832cc9b53325ee16fb899/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Il Testimone",
         "logo": "https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",
         "group": "Intrattenimento",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Catfish",
         "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
         "group": "Intrattenimento",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Reality Show": [
@@ -4969,35 +4782,35 @@
         "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
         "group": "Reality Show",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Shore",
         "logo": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
         "group": "Reality Show",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67e3b0d2443f0671bc8a1297/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67e3b0d2443f0671bc8a1297/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Reality",
         "logo": "https://images.pluto.tv/channels/61925f874b1ec000075e700a/colorLogoPNG.png",
         "group": "Reality Show",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "16 Anni e Incinta",
         "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
         "group": "Reality Show",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Teen Mom",
         "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
         "group": "Reality Show",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Motori e Sport": [
@@ -5006,91 +4819,91 @@
         "logo": "https://images.pluto.tv/channels/64c109a4798def0008a6e03e/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pimp My Ride",
         "logo": "https://images.pluto.tv/channels/636a4eaf77279a0007f14861/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "FIFA+",
         "logo": "https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "World Poker Tour",
         "logo": "https://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Triton Poker",
         "logo": "https://images.pluto.tv/channels/6616a51124e1d00008761a7e/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6616a51124e1d00008761a7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6616a51124e1d00008761a7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Billiard TV",
         "logo": "https://images.pluto.tv/channels/65df0b428b24c80008eec0b6/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df0b428b24c80008eec0b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df0b428b24c80008eec0b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "The Boat Show",
         "logo": "https://images.pluto.tv/channels/63eb58aa60bc8f0008caa8f8/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Sport",
         "logo": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "DFB Play TV",
         "logo": "https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66461e4394d5580008cfd9c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66461e4394d5580008cfd9c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Realmadrid TV",
         "logo": "https://images.pluto.tv/channels/65f955ff18036500084e88fc/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f955ff18036500084e88fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f955ff18036500084e88fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "UFC",
         "logo": "https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/679203d4bc03978b9b4b79a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/679203d4bc03978b9b4b79a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Monster Jam",
         "logo": "https://images.pluto.tv/channels/65bce7f1d77d450008b3a430/colorLogoPNG.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "MODUS Super Series Darts",
         "logo": "https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png",
         "group": "Motori e Sport",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/671655b2daad7f00085d202d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/671655b2daad7f00085d202d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Animazione e Bambini": [
@@ -5099,105 +4912,105 @@
         "logo": "https://images.pluto.tv/channels/67851bd7d648bf0008c00bc2/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67851bd7d648bf0008c00bc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67851bd7d648bf0008c00bc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! SpongeBob",
         "logo": "https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1749451468739.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Cartoni Animati",
         "logo": "https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG_1749626196712.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Kids Classics",
         "logo": "https://images.pluto.tv/channels/67f4f99729b03f18cb36647e/colorLogoPNG_1749212422489.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67f4f99729b03f18cb36647e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/67f4f99729b03f18cb36647e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Due Fantagenitori",
         "logo": "https://images.pluto.tv/channels/62b57a6752a0060008bc65cd/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Avatar",
         "logo": "https://images.pluto.tv/channels/624da1cd2af90c0007c13205/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Yu-Gi-Oh!",
         "logo": "https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Anime",
         "logo": "https://images.pluto.tv/channels/65b90daed77d450008a43345/colorLogoPNG_1747395522672.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Inazuma Eleven",
         "logo": "https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Teenage Mutant Ninja Turtles",
         "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Gormiti",
         "logo": "https://images.pluto.tv/channels/66a8c64814a2bb00084d09d6/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c64814a2bb00084d09d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a8c64814a2bb00084d09d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! A casa dei Loud",
         "logo": "https://images.pluto.tv/channels/62e8e4e19bc0ab00072e049f/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8e4e19bc0ab00072e049f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8e4e19bc0ab00072e049f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Rugrats",
         "logo": "https://images.pluto.tv/channels/62e8ddbbaed0390007b258a6/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Film",
         "logo": "https://images.pluto.tv/channels/626182c72e4c720007432786/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/626182c72e4c720007432786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/626182c72e4c720007432786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Brothers and Sisters",
         "logo": "https://images.pluto.tv/channels/61925ea79541940007d20881/colorLogoPNG.png",
         "group": "Animazione e Bambini",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61925ea79541940007d20881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61925ea79541940007d20881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Teen": [
@@ -5206,35 +5019,35 @@
         "logo": "https://images.pluto.tv/channels/609401db8cf51c00084b592e/colorLogoPNG_1749451591847.png",
         "group": "Teen",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Victorious",
         "logo": "https://images.pluto.tv/channels/63c012504faf1c0007abfa93/colorLogoPNG_1749480683796.png",
         "group": "Teen",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Zoey 101",
         "logo": "https://images.pluto.tv/channels/6304ed62410a4c00083c0291/colorLogoPNG_1749451764425.png",
         "group": "Teen",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Big Time Rush",
         "logo": "https://images.pluto.tv/channels/666174c9f999220008769012/colorLogoPNG_1749451832489.png",
         "group": "Teen",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/666174c9f999220008769012/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/666174c9f999220008769012/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Super! Pop",
         "logo": "https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/colorLogoPNG_1749451949815.png",
         "group": "Teen",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Documentari": [
@@ -5243,28 +5056,28 @@
         "logo": "https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png",
         "group": "Documentari",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Storia",
         "logo": "https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png",
         "group": "Documentari",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Naturescape",
         "logo": "https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png",
         "group": "Documentari",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Pluto TV Natura",
         "logo": "https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png",
         "group": "Documentari",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "News e mondo": [
@@ -5273,28 +5086,28 @@
         "logo": "https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png",
         "group": "News e mondo",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "CBS News 24/7",
         "logo": "https://images.pluto.tv/channels/6231ec4b62cd1f0007093c7b/colorLogoPNG.png",
         "group": "News e mondo",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "CNN Headlines",
         "logo": "https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1745489409673.png",
         "group": "News e mondo",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "Desi Play TV",
         "logo": "https://images.pluto.tv/channels/66c3139c21a4740008466116/colorLogoPNG.png",
         "group": "News e mondo",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c3139c21a4740008466116/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c3139c21a4740008466116/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Musica": [
@@ -5303,42 +5116,42 @@
         "logo": "https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "VH1+ Back to 90's",
         "logo": "https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "VH1+ Rock!",
         "logo": "https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "VH1+ Dance",
         "logo": "https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65e5d9d2ec9fda0008c35f91/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65e5d9d2ec9fda0008c35f91/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "VH1+ Classici",
         "logo": "https://images.pluto.tv/channels/6690f892d51259000880d1c4/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6690f892d51259000880d1c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6690f892d51259000880d1c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       },
       {
         "name": "VH1+ Canzoni Italiane",
         "logo": "https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png",
         "group": "Musica",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5af39aa0-9b39-11f0-b721-d239d12cf6d5"
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=74c8c2d1-9b7c-11f0-8c2f-96e2a427d3b3"
       }
     ],
     "Italy": [
