@@ -2906,7 +2906,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 803 Astro Arena Bola HD
-URL: https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41zeCPN5tsjmXgDffPUQw17SamlIPBLQzhtwyl55zLPKY=gfGs/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=0258e6ad-8db6-4cf8-a67d-5af2875bb165
+URL: https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41zeCPN5tsjmXgDffPUQw17WWfW-sPXaBvEjAXKtlmkjg=4JDn/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=f8a6747c-b202-424b-b034-4a033d3602dc
 Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -2952,22 +2952,22 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 
 Group: Sports
 Name: 804 Astro Arena Bola 2 HD
-URL: https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl6NLnC2qd0TbBpoiCmFHSAw=XPJ4/dash-wv/jitp-linearwm/5100/default_ott.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMlzF4Sp7HT8lDfAjYj7z8NHA=EBfr/dash-wv/jitp-linearwm/5100/default_ott.mpd
 Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 811 Astro Premier League HD
-URL: https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41RqspQBcK6kUSK4BJreyRFznD0trH8ibdCTHCr3h5r04=LhWI/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=57e50a41-c2dc-460d-8f4a-23ab4d9a23b1
+URL: https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41RqspQBcK6kUSK4BJreyRF1UJvpo5vEmQIASAd5-uT_o=YM8p/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=efa55d9f-6eb8-4433-b4f3-1c15b7055a21
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 812 Astro Premier League 2 HD
-URL: https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41sreUgXggkf7zmcUtNRWYoUiAvQyZsTb3Z2mb8sYqDVU=WCHe/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=a1fddf87-e649-40c2-8471-954fa0e6f2c4
+URL: https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41sreUgXggkf7zmcUtNRWYoZdgMPfocgYnSPqxh8527hs=kT7W/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=e9038595-4867-4904-9e76-151f1b59ae12
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 815 Astro Badminton HD
-URL: https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41M3Q4rxXywqH2By1wtH-rWPSAr1LgSxwWkqGlm1dZKw4=AzsZ/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=df60a036-f258-4e9b-980f-47884faf8f43
+URL: https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41M3Q4rxXywqH2By1wtH-rWPWzU17kmPwrvjLbAR6m2o0=iyyg/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=2f15535d-7c2e-4d34-b36a-bc4d42695519
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
