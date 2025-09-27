@@ -4486,6 +4486,11 @@ URL: https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 Logo: https://i.imgur.com/MYU7dsZ.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
+Name: Padang TV (720p) [Not 24/7]
+URL: http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+Logo: https://i.imgur.com/EL2BfxY.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 Name: Pal TV (720p) [Not 24/7]
 URL: https://v3.siar.us/paltv/live/playlist.m3u8
 Logo: https://i.imgur.com/e2F1zyU.png
@@ -14411,8 +14416,8 @@ URL: https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c96
 Logo: https://i.imgur.com/YC7JCHo.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
-Name: Fajar TV (240p) [Not 24/7]
-URL: http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+Name: Fajar TV (720p) [Not 24/7]
+URL: http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 Logo: https://i.imgur.com/mkuXxRK.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
@@ -19798,8 +19803,8 @@ URL: https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 Logo: https://i.imgur.com/dlsv1sl.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
-Name: Riau TV (576p) [Not 24/7]
-URL: http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+Name: Riau TV (1080p) [Not 24/7]
+URL: http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 Logo: https://i.imgur.com/1g8FtJi.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
@@ -19809,8 +19814,13 @@ Logo: https://i.imgur.com/4mWKUf4.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Simpang5 TV (360p) [Not 24/7]
-URL: http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+URL: http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
 Logo: https://i.imgur.com/jZowqIT.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: SMTV (720p) [Not 24/7]
+URL: http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+Logo: https://i.imgur.com/Jlz0Vhq.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Sriwijaya TV (576p) [Not 24/7]
