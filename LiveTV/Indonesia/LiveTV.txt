@@ -8784,26 +8784,6 @@ URL: http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: eTvBioskop1
-URL: https://WahyuIPTV.short.gy/ETVBioskop1.ts
-Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: eTvBioskop2
-URL: https://WahyuIPTV.short.gy/ETVBioskop2.ts
-Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: eTvBioskop3
-URL: https://WahyuIPTV.short.gy/ETVBioskop3.ts
-Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: eTvBioskop4
-URL: https://WahyuIPTV.short.gy/ETVBioskop4.ts
-Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: DuniaSinema
 URL: https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png

@@ -816,30 +816,6 @@
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png"
   },
   {
-    "name": "eTvBioskop1",
-    "type": "Movies",
-    "url": "https://WahyuIPTV.short.gy/ETVBioskop1.ts",
-    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png"
-  },
-  {
-    "name": "eTvBioskop2",
-    "type": "Movies",
-    "url": "https://WahyuIPTV.short.gy/ETVBioskop2.ts",
-    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png"
-  },
-  {
-    "name": "eTvBioskop3",
-    "type": "Movies",
-    "url": "https://WahyuIPTV.short.gy/ETVBioskop3.ts",
-    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png"
-  },
-  {
-    "name": "eTvBioskop4",
-    "type": "Movies",
-    "url": "https://WahyuIPTV.short.gy/ETVBioskop4.ts",
-    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png"
-  },
-  {
     "name": "DuniaSinema",
     "type": "Movies",
     "url": "https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8",

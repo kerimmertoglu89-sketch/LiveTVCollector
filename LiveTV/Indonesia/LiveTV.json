@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28 13:31:22",
+  "date": "2025-09-28 21:31:12",
   "channels": {
     "INDONESIA": [
       {
@@ -955,34 +955,6 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592"
-      },
-      {
-        "name": "eTvBioskop1",
-        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://WahyuIPTV.short.gy/ETVBioskop1.ts"
-      },
-      {
-        "name": "eTvBioskop2",
-        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://WahyuIPTV.short.gy/ETVBioskop2.ts"
-      },
-      {
-        "name": "eTvBioskop3",
-        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://WahyuIPTV.short.gy/ETVBioskop3.ts"
-      },
-      {
-        "name": "eTvBioskop4",
-        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://WahyuIPTV.short.gy/ETVBioskop4.ts"
       },
       {
         "name": "DuniaSinema",
