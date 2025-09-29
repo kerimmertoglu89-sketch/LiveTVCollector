@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28 21:56:58",
+  "date": "2025-09-29 07:26:58",
   "channels": {
     "Pluto TV House of Horror": [
       {
@@ -2727,14 +2727,14 @@
     "Outdoor": [
       {
         "name": "Love Nature (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Love Nature HD (1080i)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
         "group": "Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://78.130.250.2:8023/play/a02m/index.m3u8"

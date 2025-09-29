@@ -2277,13 +2277,13 @@
     "name": "Love Nature (720p) [Geo-blocked]",
     "type": "Outdoor",
     "url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"
+    "img": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
   },
   {
     "name": "Love Nature HD (1080i)",
     "type": "Outdoor",
     "url": "http://78.130.250.2:8023/play/a02m/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"
+    "img": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"
   },
   {
     "name": "Outdoor Channel",

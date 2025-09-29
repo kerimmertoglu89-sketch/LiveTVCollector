@@ -1427,12 +1427,12 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 Group: Outdoor
 Name: Love Nature (720p) [Geo-blocked]
 URL: https://bamus-klowdtv.amagi.tv/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png
+Logo: https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Love Nature HD (1080i)
 URL: http://78.130.250.2:8023/play/a02m/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png
+Logo: https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Outdoor Channel
