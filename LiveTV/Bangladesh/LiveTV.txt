@@ -1780,7 +1780,7 @@ Logo: http://dds.oncast.me/img/logo/sp2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-3 (Asia Cup)
-URL: https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+URL: http://195.181.169.162:80/TEN_1_HD/index.m3u8?token=test
 Logo: http://dds.oncast.me/img/logo/sp3.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------

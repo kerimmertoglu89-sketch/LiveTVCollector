@@ -818,7 +818,7 @@
   {
     "name": "Live Sports-3 (Asia Cup)",
     "type": "SPORTS",
-    "url": "https://live-en.aisports.cc/moviebox/device02/playlist.m3u8",
+    "url": "http://195.181.169.162:80/TEN_1_HD/index.m3u8?token=test",
     "img": "http://dds.oncast.me/img/logo/sp3.png"
   },
   {
