@@ -536,7 +536,7 @@ Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: SONY CHANNEL
-URL: http://190.238.172.153:8000/play/a0gx
+URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
