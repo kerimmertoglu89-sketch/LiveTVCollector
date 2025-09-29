@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28 13:49:09",
+  "date": "2025-09-29 06:46:17",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMCBBTSZoYXNoX3ZhbHVlPUx1OUZPYVgva0t3azUzeXJnOS9zTlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMzJiNWIyMS01OWFmLTQxMTMtYjBmOC02NDI5MTU0ZWFlNjc=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIwIEFNJmhhc2hfdmFsdWU9ZXZXTmFFUXVvcEt3TkIwVGs3ZXZaZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFlYWE2YjEwLTdmMmItNDViMC05MThiLTRhNmRmNmQxMjRiNw==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMSBBTSZoYXNoX3ZhbHVlPWpPbUtMamJkc0xRVWZjZm4vcWtwUFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjYzNGM0Zi1hMDM4LTQzYjMtYjg3Zi1iYjJlZWMyMDNhNjE=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIwIEFNJmhhc2hfdmFsdWU9VWJhM3ZRb2R6NkRycEtReXpmMlRndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmYTA0YjEwLTZjOTktNDc0YS04MjI3LTIzNTUwMDNmMGJjNA==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMSBBTSZoYXNoX3ZhbHVlPVVsOGxsL24ydFcwa3BlSGowbENScWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYjkyZDM5Yi02ODU5LTQ1YWItOWNiMy0zZDdmZWY4NTY3YjQ=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIxIEFNJmhhc2hfdmFsdWU9WVdXQ1VtcnpraHJ2ZEdNdVU0Zm1VQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWExYmEzZWIyLWE3NTItNDRmYi05Yjc0LTg3MTQzZWNhNzRjNQ==/"
       },
       {
         "name": "TVI África",
@@ -6928,14 +6928,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTggQU0maGFzaF92YWx1ZT1vTzFHTS8xdmgvTWNPanRzYW82d3d3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjFjNjdhYjUtZGQwMC00MGE5LTlmM2UtMjEzZGFiMzY1NjVm/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MiBQTSZoYXNoX3ZhbHVlPVNaL3BYRjVxYWU0WkdIdUh0TzdPSHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00N2NlNGRjZi05ZmExLTQ3OTYtOGM3YS01NDAxNmI3MjIwNzM=/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",
         "group": "Portugal",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTcgQU0maGFzaF92YWx1ZT1kODcvYjI0YUV5clpiMzgrZGpFSFFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWEyMzhhNzctNDZlMC00ZDY5LWI0ZGItODdhODJhZGM1OTBh/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MSBQTSZoYXNoX3ZhbHVlPUVBYmtqR3R6NTF4TTRVMGZTbDFQdXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZDNmMDc5Ny0xNDQyLTQ4MzItYTFjNi01MWNkZDdiZDZhZDQ=/"
       },
       {
         "name": "TVI Reality 🇵🇹",
@@ -6989,7 +6989,7 @@
         "url": "http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd"
       },
       {
-        "name": "like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"News 🇵🇹🇧🇷\",SIC Noticias 🇵🇹",
+        "name": "like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"News 🇵🇹🇧🇷\",SIC Noticias 🇵🇹",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7007,7 +7007,7 @@
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTcgQU0maGFzaF92YWx1ZT1scTJlYWhlT1BhbDlGOTVidUZibHFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmNlNzI1ODgtNjhlZS00ZjdlLTk4MTEtNzA3YjY3YjQ1Yjhi/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MiBQTSZoYXNoX3ZhbHVlPWg3STltcERtSU9WK1Bnck9RZVh1QkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kYzNhZDE1MS0zNWE1LTQ4MWEtOTAxZS1kMWVlYWFjMmI4NmI=/"
       },
       {
         "name": "Euronews 🇵🇹 (Pluto)",
@@ -7550,7 +7550,7 @@
         "url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8"
       },
       {
-        "name": ".Texas.us\" tvg-logo=\"https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",Telemundo 60 Texas 🇲🇽🇺🇸",
+        "name": ".Texas.us\" tvg-logo=\"https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",Telemundo 60 Texas 🇲🇽🇺🇸",
         "logo": "https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7767,14 +7767,14 @@
         "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTTG.m3u8"
       },
       {
-        "name": ".CA.us\" tvg-logo=\"https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",FOX 11 Los Angeles 🇺🇸",
+        "name": ".CA.us\" tvg-logo=\"https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",FOX 11 Los Angeles 🇺🇸",
         "logo": "https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8"
       },
       {
-        "name": ".TX.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",FOX 4 Dallas",
+        "name": ".TX.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",FOX 4 Dallas",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7795,28 +7795,28 @@
         "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
       },
       {
-        "name": ".CA.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",NBC San Francisco News 🇺🇸",
+        "name": ".CA.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",NBC San Francisco News 🇺🇸",
         "logo": "https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8"
       },
       {
-        "name": ".NY.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",NBC New York News 🇺🇸",
+        "name": ".NY.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",NBC New York News 🇺🇸",
         "logo": "https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8"
       },
       {
-        "name": ".NY.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",NBC Washington News 🇺🇸",
+        "name": ".NY.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",NBC Washington News 🇺🇸",
         "logo": "https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8"
       },
       {
-        "name": ".CA.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",NBC Los Angeles News 🇺🇸",
+        "name": ".CA.us\" tvg-logo=\"https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",NBC Los Angeles News 🇺🇸",
         "logo": "https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7830,7 +7830,7 @@
         "url": "https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8"
       },
       {
-        "name": ".TX.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\"NBC 6 🇺🇸",
+        "name": ".TX.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\"NBC 6 🇺🇸",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7865,7 +7865,7 @@
         "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8"
       },
       {
-        "name": ".CA.us\" tvg-logo=\"https://i.imgur.com/klULxMV.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",CBS News Los Angeles 🇺🇸",
+        "name": ".CA.us\" tvg-logo=\"https://i.imgur.com/klULxMV.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",CBS News Los Angeles 🇺🇸",
         "logo": "https://i.imgur.com/klULxMV.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -7886,7 +7886,7 @@
         "url": "https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8"
       },
       {
-        "name": ".NY.us\" tvg-logo=\"https://i.imgur.com/bpc4v0u.png\" group-logo=\"https://cdn-icons-png.freepik.com/512/2837/2837605.png\" group-title=\"World News 🌍\",CBS News New York 🇺🇸",
+        "name": ".NY.us\" tvg-logo=\"https://i.imgur.com/bpc4v0u.png\" group-logo=\"https://cdn-icons-png.freepik.com/256/5395/5395694.png\" group-title=\"World News 🌍\",CBS News New York 🇺🇸",
         "logo": "https://i.imgur.com/bpc4v0u.png",
         "group": "World News 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -8836,7 +8836,7 @@
         "url": "https://apollo.production-public.tubi.io/live/fanduel.m3u8"
       },
       {
-        "name": ".SC.us\" tvg-logo=\"https://i.imgur.com/OxbIla4.png\" group-title=\"𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍\",RightNow TV",
+        "name": ".SC.us\" tvg-logo=\"https://i.imgur.com/OxbIla4.png\" group-logo=\"https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png\" group-title=\"𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍\",RightNow TV",
         "logo": "https://i.imgur.com/OxbIla4.png",
         "group": "𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -8869,13 +8869,6 @@
         "group": "𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1"
-      },
-      {
-        "name": "CBS Golazo Network 🇺🇸",
-        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png",
-        "group": "𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96"
       },
       {
         "name": "DFB Play TV 🇬🇧🇪🇸",
@@ -12059,7 +12052,7 @@
     ],
     "𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️": [
       {
-        "name": "EN).no\" tvg-logo=\"https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp\" group-title=\"𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️\",Fuel tv 🇺🇸",
+        "name": "EN).no\" tvg-logo=\"https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp\" group-logo=\"https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png\" group-title=\"𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️\",Fuel tv 🇺🇸",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp",
         "group": "𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",

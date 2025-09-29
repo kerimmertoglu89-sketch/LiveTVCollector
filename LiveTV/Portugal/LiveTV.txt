@@ -1878,7 +1878,7 @@ URL: http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",SIC Noticias 🇵🇹
+Name: like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",SIC Noticias 🇵🇹
 URL: https://sicnot.live.impresa.pt/sicnot.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -1889,7 +1889,7 @@ Logo: https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/cnnpt.
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTcgQU0maGFzaF92YWx1ZT1scTJlYWhlT1BhbDlGOTVidUZibHFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmNlNzI1ODgtNjhlZS00ZjdlLTk4MTEtNzA3YjY3YjQ1Yjhi/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MiBQTSZoYXNoX3ZhbHVlPWg3STltcERtSU9WK1Bnck9RZVh1QkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kYzNhZDE1MS0zNWE1LTQ4MWEtOTAxZS1kMWVlYWFjMmI4NmI=/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -3769,12 +3769,12 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTggQU0maGFzaF92YWx1ZT1vTzFHTS8xdmgvTWNPanRzYW82d3d3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjFjNjdhYjUtZGQwMC00MGE5LTlmM2UtMjEzZGFiMzY1NjVm/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MiBQTSZoYXNoX3ZhbHVlPVNaL3BYRjVxYWU0WkdIdUh0TzdPSHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00N2NlNGRjZi05ZmExLTQ3OTYtOGM3YS01NDAxNmI3MjIwNzM=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDQ6Mzk6MTcgQU0maGFzaF92YWx1ZT1kODcvYjI0YUV5clpiMzgrZGpFSFFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWEyMzhhNzctNDZlMC00ZDY5LWI0ZGItODdhODJhZGM1OTBh/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6MzU6MSBQTSZoYXNoX3ZhbHVlPUVBYmtqR3R6NTF4TTRVMGZTbDFQdXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZDNmMDc5Ny0xNDQyLTQ4MzItYTFjNi01MWNkZDdiZDZhZDQ=/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -4818,7 +4818,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMCBBTSZoYXNoX3ZhbHVlPUx1OUZPYVgva0t3azUzeXJnOS9zTlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMzJiNWIyMS01OWFmLTQxMTMtYjBmOC02NDI5MTU0ZWFlNjc=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIwIEFNJmhhc2hfdmFsdWU9ZXZXTmFFUXVvcEt3TkIwVGs3ZXZaZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFlYWE2YjEwLTdmMmItNDViMC05MThiLTRhNmRmNmQxMjRiNw==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4833,7 +4833,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMSBBTSZoYXNoX3ZhbHVlPWpPbUtMamJkc0xRVWZjZm4vcWtwUFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjYzNGM0Zi1hMDM4LTQzYjMtYjg3Zi1iYjJlZWMyMDNhNjE=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIwIEFNJmhhc2hfdmFsdWU9VWJhM3ZRb2R6NkRycEtReXpmMlRndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmYTA0YjEwLTZjOTktNDc0YS04MjI3LTIzNTUwMDNmMGJjNA==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4878,7 +4878,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI1IDg6NzozMSBBTSZoYXNoX3ZhbHVlPVVsOGxsL24ydFcwa3BlSGowbENScWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYjkyZDM5Yi02ODU5LTQ1YWItOWNiMy0zZDdmZWY4NTY3YjQ=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjMwOjIxIEFNJmhhc2hfdmFsdWU9WVdXQ1VtcnpraHJ2ZEdNdVU0Zm1VQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWExYmEzZWIyLWE3NTItNDRmYi05Yjc0LTg3MTQzZWNhNzRjNQ==/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -5571,7 +5571,7 @@ URL: https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.telemundo52.com/2019/09/cropped-TLMD_52_LA.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .Texas.us" tvg-logo="https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",Telemundo 60 Texas 🇲🇽🇺🇸
+Name: .Texas.us" tvg-logo="https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Telemundo 60 Texas 🇲🇽🇺🇸
 URL: https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.telemundosanantonio.com/2019/09/cropped-TLMD_60_San-Antonio.png?fit=192%2C192&quality=85&strip=all
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -5726,12 +5726,12 @@ URL: https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubipr
 Logo: https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ==
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .CA.us" tvg-logo="https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",FOX 11 Los Angeles 🇺🇸
+Name: .CA.us" tvg-logo="https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",FOX 11 Los Angeles 🇺🇸
 URL: https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 Logo: https://canvas-lb.tubitv.com/opts/j3hLujT-3xnc-g==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjJAAQ==
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",FOX 4 Dallas
+Name: .TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",FOX 4 Dallas
 URL: https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -5746,22 +5746,22 @@ URL: https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",NBC San Francisco News 🇺🇸
+Name: .CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NBC San Francisco News 🇺🇸
 URL: https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",NBC New York News 🇺🇸
+Name: .NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NBC New York News 🇺🇸
 URL: https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",NBC Washington News 🇺🇸
+Name: .NY.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NBC Washington News 🇺🇸
 URL: https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",NBC Los Angeles News 🇺🇸
+Name: .CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NBC Los Angeles News 🇺🇸
 URL: https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 Logo: https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -5771,7 +5771,7 @@ URL: https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍"NBC 6 🇺🇸
+Name: .TX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍"NBC 6 🇺🇸
 URL: https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -5796,7 +5796,7 @@ URL: https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fe
 Logo: https://i.imgur.com/cMels2Y.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .CA.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",CBS News Los Angeles 🇺🇸
+Name: .CA.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Los Angeles 🇺🇸
 URL: https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 Logo: https://i.imgur.com/klULxMV.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -5811,7 +5811,7 @@ URL: https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600
 Logo: https://i.imgur.com/ubxwfMY.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .NY.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="World News 🌍",CBS News New York 🇺🇸
+Name: .NY.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News New York 🇺🇸
 URL: https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 Logo: https://i.imgur.com/bpc4v0u.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -7693,7 +7693,7 @@ URL: https://apollo.production-public.tubi.io/live/fanduel.m3u8
 Logo: https://canvas-lb.tubitv.com/opts/OHSQUeln9PTvbg==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjJAAQ==
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: .SC.us" tvg-logo="https://i.imgur.com/OxbIla4.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍",RightNow TV
+Name: .SC.us" tvg-logo="https://i.imgur.com/OxbIla4.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports FreeStreaming 🌍",RightNow TV
 URL: https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 Logo: https://i.imgur.com/OxbIla4.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -7716,11 +7716,6 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: CBS Sports HQ 🇺🇸
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 Logo: https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: CBS Golazo Network 🇺🇸
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-Logo: https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: DFB Play TV 🇬🇧🇪🇸
@@ -8187,7 +8182,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: 𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️
-Name: EN).no" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️",Fuel tv 🇺🇸
+Name: EN).no" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️",Fuel tv 🇺🇸
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
