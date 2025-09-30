@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 13:54:39",
+  "date": "2025-09-30 21:51:34",
   "channels": {
     "siaranMy": [
       {
@@ -1705,6 +1705,41 @@
         "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd"
       },
       {
+        "name": "Champions TV 1",
+        "logo": "https://iili.io/2lP4Kq7.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash"
+      },
+      {
+        "name": "Champions TV 2",
+        "logo": "https://iili.io/2lP43sS.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash"
+      },
+      {
+        "name": "Champions TV 3",
+        "logo": "https://iili.io/2lP42X2.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash"
+      },
+      {
+        "name": "Champions TV 5",
+        "logo": "https://iili.io/2lP4dzl.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash"
+      },
+      {
+        "name": "Champions TV 6",
+        "logo": "https://iili.io/2lP4f19.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash"
+      },
+      {
         "name": "804 Astro Arena Bola 2 HD",
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
@@ -1983,6 +2018,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8"
+      },
+      {
+        "name": "Arena bola 1",
+        "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=cf2d1f2468b31067eb34fc1a6d32726421df83676e0de86c7ee4967ae7a73cf8%3A1759219197%3AMTgwLjc1LjIzNC4xODE%3D"
       },
       {
         "name": "Egg Network (720p)",

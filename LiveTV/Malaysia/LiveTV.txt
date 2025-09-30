@@ -2961,6 +2961,31 @@ URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n0
 Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: Champions TV 1
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+Logo: https://iili.io/2lP4Kq7.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Champions TV 2
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+Logo: https://iili.io/2lP43sS.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Champions TV 3
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+Logo: https://iili.io/2lP42X2.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Champions TV 5
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+Logo: https://iili.io/2lP4dzl.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Champions TV 6
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+Logo: https://iili.io/2lP4f19.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 804 Astro Arena Bola 2 HD
 URL: https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMlzF4Sp7HT8lDfAjYj7z8NHA=EBfr/dash-wv/jitp-linearwm/5100/default_ott.mpd
 Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
@@ -3159,6 +3184,11 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: EPL 1 BACKUP
 URL: https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Arena bola 1
+URL: https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=cf2d1f2468b31067eb34fc1a6d32726421df83676e0de86c7ee4967ae7a73cf8%3A1759219197%3AMTgwLjc1LjIzNC4xODE%3D
+Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: Egg Network (720p)
