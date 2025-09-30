@@ -20528,7 +20528,7 @@
   {
     "name": "HITN",
     "type": "Latino (Spanish)",
-    "url": "http://vocotv.pro:80/live/gast/gast/636619.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/636619.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -20828,13 +20828,13 @@
   {
     "name": "Univision TL Novelas",
     "type": "Latino (Spanish)",
-    "url": "http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/707047.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "TL Novelas (México)",
     "type": "Latino (Spanish)",
-    "url": "http://hardcoremedia.xyz:80/NW3Vk7xXwW/live/8375773282/253250.ts",
+    "url": "http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253250.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -21590,7 +21590,7 @@
   {
     "name": "SUR Perú",
     "type": "Latino (Spanish)",
-    "url": "http://vocotv.pro:80/live/gast/gast/707056.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/707056.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -21608,7 +21608,7 @@
   {
     "name": "N+ FORO",
     "type": "Latino (Spanish)",
-    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/716865.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -29042,13 +29042,13 @@
   {
     "name": "Flix (West)",
     "type": "Premium Channels",
-    "url": "http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45181.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/295772.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Flix (East)",
     "type": "Premium Channels",
-    "url": "http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45180.ts",
+    "url": "http://vocotv.pro:80/live/10/12345/295792.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

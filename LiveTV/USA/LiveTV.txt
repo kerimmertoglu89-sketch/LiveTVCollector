@@ -11747,7 +11747,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HITN
-URL: http://vocotv.pro:80/live/gast/gast/636619.ts
+URL: http://vocotv.pro:80/live/10/12345/636619.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11997,12 +11997,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Univision TL Novelas
-URL: http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts
+URL: http://vocotv.pro:80/live/10/12345/707047.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TL Novelas (México)
-URL: http://hardcoremedia.xyz:80/NW3Vk7xXwW/live/8375773282/253250.ts
+URL: http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253250.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12632,7 +12632,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: SUR Perú
-URL: http://vocotv.pro:80/live/gast/gast/707056.ts
+URL: http://vocotv.pro:80/live/10/12345/707056.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12647,7 +12647,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: N+ FORO
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts
+URL: http://vocotv.pro:80/live/10/12345/716865.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24226,12 +24226,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Flix (West)
-URL: http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45181.ts
+URL: http://vocotv.pro:80/live/10/12345/295772.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Flix (East)
-URL: http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45180.ts
+URL: http://vocotv.pro:80/live/10/12345/295792.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------

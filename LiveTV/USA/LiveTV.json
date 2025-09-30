@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 07:05:19",
+  "date": "2025-09-30 13:59:01",
   "channels": {
     "Religious": [
       {
@@ -24122,7 +24122,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://vocotv.pro:80/live/gast/gast/636619.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/636619.ts"
       },
       {
         "name": "Taste Made en Español",
@@ -24472,14 +24472,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/707047.ts"
       },
       {
         "name": "TL Novelas (México)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/NW3Vk7xXwW/live/8375773282/253250.ts"
+        "url": "http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253250.ts"
       },
       {
         "name": "Telemundo telenovelas clásicas (Pluto TV)",
@@ -25361,7 +25361,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://vocotv.pro:80/live/gast/gast/707056.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/707056.ts"
       },
       {
         "name": "RT Noticias",
@@ -25382,7 +25382,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/716865.ts"
       },
       {
         "name": "N+",
@@ -34089,14 +34089,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45181.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/295772.ts"
       },
       {
         "name": "Flix (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45180.ts"
+        "url": "http://vocotv.pro:80/live/10/12345/295792.ts"
       },
       {
         "name": "Sony Movie Channel",
