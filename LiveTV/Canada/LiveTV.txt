@@ -1086,22 +1086,22 @@ Logo: https://i.ibb.co/zfdbVSm/logo-1.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Crave 1
-URL: https://fl7.moveonjoy.com/CRAVE_1/index.m3u8
+URL: https://fl25.moveonjoy.com/CRAVE_1/index.m3u8
 Logo: https://i.imgur.com/ZkRQ0r1.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Crave 2
-URL: https://fl7.moveonjoy.com/CRAVE_2/index.m3u8
+URL: https://fl25.moveonjoy.com/CRAVE_2/index.m3u8
 Logo: https://i.imgur.com/e1qJ5Bp.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Crave 3
-URL: https://fl7.moveonjoy.com/CRAVE_3/index.m3u8
+URL: https://fl25.moveonjoy.com/CRAVE_3/index.m3u8
 Logo: https://i.imgur.com/kOi0Adn.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Crave 4
-URL: https://fl7.moveonjoy.com/CRAVE_4/index.m3u8
+URL: https://fl25.moveonjoy.com/CRAVE_4/index.m3u8
 Logo: https://i.imgur.com/MyH3Q2p.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1113,7 +1113,7 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 
 Group: Movies;Series
 Name: Paramount Network East
-URL: https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+URL: https://fl25.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1200,7 +1200,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Much (720p)
-URL: https://fl7.moveonjoy.com/MUCH/index.m3u8
+URL: https://fl25.moveonjoy.com/MUCH/index.m3u8
 Logo: https://i.imgur.com/JjYki5V.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1777,7 +1777,7 @@ Logo: https://i.imgur.com/Lj69WbR.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Golf Channel
-URL: https://fl7.moveonjoy.com/GOLF/index.m3u8
+URL: https://fl25.moveonjoy.com/GOLF/index.m3u8
 Logo: https://i.imgur.com/Lgux6Ik.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1792,27 +1792,27 @@ Logo: https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN1 (1080p)
-URL: https://fl7.moveonjoy.com/TSN_1/index.m3u8
+URL: https://fl25.moveonjoy.com/TSN_1/index.m3u8
 Logo: https://i.imgur.com/eRFE0jZ.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN2
-URL: https://fl7.moveonjoy.com/TSN_2/index.m3u8
+URL: https://fl25.moveonjoy.com/TSN_2/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN3
-URL: https://fl7.moveonjoy.com/TSN_3/index.m3u8
+URL: https://fl25.moveonjoy.com/TSN_3/index.m3u8
 Logo: https://i.imgur.com/AYza8KO.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN4
-URL: https://fl7.moveonjoy.com/TSN_4/index.m3u8
+URL: https://fl25.moveonjoy.com/TSN_4/index.m3u8
 Logo: https://i.imgur.com/qJyAWU8.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN5
-URL: https://fl7.moveonjoy.com/TSN_5/index.m3u8
+URL: https://fl25.moveonjoy.com/TSN_5/index.m3u8
 Logo: https://i.imgur.com/HEzHpzz.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1901,7 +1901,7 @@ Logo: https://i.imgur.com/57iXCDh.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: CHBL-TV
-URL: https://fl7.moveonjoy.com/CA_GLOBAL/index.m3u8
+URL: https://fl25.moveonjoy.com/CA_GLOBAL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
@@ -1961,7 +1961,7 @@ Logo: https://i.imgur.com/RR7ATr2.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: W Network (720p)
-URL: https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
+URL: https://fl25.moveonjoy.com/W_NETWORK/index.m3u8
 Logo: https://i.imgur.com/t7XdBh8.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
