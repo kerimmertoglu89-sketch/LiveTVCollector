@@ -183,7 +183,7 @@ Logo: https://aqfadtv.xyz/logos/HITSNow.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 8TV
-URL: https://cdn6.163189.xyz/live/8tv/stream.m3u8
+URL: http://cdn6.163189.xyz/163189/8tv
 Logo: https://i.imgur.com/Jkx9W88.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
@@ -2946,6 +2946,21 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 
 Group: Sports
+Name: Bola backup
+URL: https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: Bola backup +
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 804 Astro Arena Bola 2
+URL: https://b2le.short.gy/bolabola2
+Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 812 EPL 2 backup
 URL: http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd123660.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
@@ -2984,11 +2999,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: Champions TV 6
 URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 Logo: https://iili.io/2lP4f19.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 804 Astro Arena Bola 2 HD
-URL: https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMlzF4Sp7HT8lDfAjYj7z8NHA=EBfr/dash-wv/jitp-linearwm/5100/default_ott.mpd
-Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 815 Astro Badminton HD
@@ -3184,11 +3194,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: EPL 1 BACKUP
 URL: https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: Arena bola 1
-URL: https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=cf2d1f2468b31067eb34fc1a6d32726421df83676e0de86c7ee4967ae7a73cf8%3A1759219197%3AMTgwLjc1LjIzNC4xODE%3D
-Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: Egg Network (720p)
