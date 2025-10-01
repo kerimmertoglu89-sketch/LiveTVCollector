@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 21:52:26",
+  "date": "2025-10-01 06:57:16",
   "channels": {
     "Uncategorized": [
       {
@@ -1232,13 +1232,6 @@
         "url": "http://thtg.vn:8001/thtg.m3u8"
       },
       {
-        "name": "Tra Vinh TV (720p)",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8"
-      },
-      {
         "name": "Vietnam Today (1080p)",
         "logo": "https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg",
         "group": "Undefined",
@@ -1524,6 +1517,15 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+      }
+    ],
+    "Culture;Entertainment;Music;News": [
+      {
+        "name": "Tra Vinh TV (720p)",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "group": "Culture;Entertainment;Music;News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8"
       }
     ],
     "Education;Science": [

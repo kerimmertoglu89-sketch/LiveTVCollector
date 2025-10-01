@@ -12,6 +12,13 @@ Logo: https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWl
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 
+Group: Culture;Entertainment;Music;News
+Name: Tra Vinh TV (720p)
+URL: https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+Logo: https://i.imgur.com/F12VdKO.png
+Source: https://iptv-org.github.io/iptv/countries/vn.m3u
+--------------------------------------------------
+
 Group: Documentary
 Name: BBC Earth Vietnam (1080p)
 URL: https://tv.ddns.vn/tv/bbcearth/index.m3u8
@@ -1021,11 +1028,6 @@ Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 Name: Tien Giang (720p)
 URL: http://thtg.vn:8001/thtg.m3u8
 Logo: https://i.imgur.com/yonKxgZ.png
-Source: https://iptv-org.github.io/iptv/countries/vn.m3u
---------------------------------------------------
-Name: Tra Vinh TV (720p)
-URL: https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-Logo: https://i.imgur.com/F12VdKO.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 Name: Vietnam Today (1080p)

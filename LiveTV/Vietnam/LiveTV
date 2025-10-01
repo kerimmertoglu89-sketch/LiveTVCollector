@@ -1050,12 +1050,6 @@
     "img": "https://i.imgur.com/yonKxgZ.png"
   },
   {
-    "name": "Tra Vinh TV (720p)",
-    "type": "Undefined",
-    "url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
-    "img": "https://i.imgur.com/F12VdKO.png"
-  },
-  {
     "name": "Vietnam Today (1080p)",
     "type": "Undefined",
     "url": "https://hls.mskycdn.online/tv/vntoday/index.m3u8",
@@ -1276,6 +1270,12 @@
     "type": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
     "img": "https://i.imgur.com/skAiUxg.png"
+  },
+  {
+    "name": "Tra Vinh TV (720p)",
+    "type": "Culture;Entertainment;Music;News",
+    "url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
+    "img": "https://i.imgur.com/F12VdKO.png"
   },
   {
     "name": "Tra Vinh TV 2 (720p)",
