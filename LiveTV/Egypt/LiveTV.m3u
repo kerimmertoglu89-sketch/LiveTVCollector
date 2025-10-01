@@ -352,7 +352,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title="General",Al Masriyah
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="General",Alhayat TV
-https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alshoub.tv/wp-content/uploads/2023/09/logo@2x-1-1.png" group-title="General",AlShoub (720p)
 https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="General",CBC (1080p)
