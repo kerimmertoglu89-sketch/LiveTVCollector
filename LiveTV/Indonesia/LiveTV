@@ -24888,9 +24888,9 @@
     "img": "https://i.imgur.com/wh75d1f.png"
   },
   {
-    "name": "Kawanua TV",
+    "name": "Kawanua TV (720p)",
     "type": "General",
-    "url": "https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8",
+    "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
     "img": "https://i.postimg.cc/xjx4F9Q2/kawanuatv.png"
   },
   {
