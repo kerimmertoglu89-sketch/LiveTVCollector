@@ -1082,7 +1082,7 @@
   {
     "name": "El Mehwar Channel",
     "type": "General",
-    "url": "https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8",
     "img": "https://i.ibb.co/84t3yXTV/mehwar.png"
   },
   {
@@ -1100,7 +1100,7 @@
   {
     "name": "DMC Drama (720p)",
     "type": "Series",
-    "url": "https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8",
     "img": "https://i.imgur.com/OOXylJI.png"
   },
   {
@@ -1132,5 +1132,11 @@
     "type": "Movies",
     "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.imgur.com/dGlKoLW.png"
+  },
+  {
+    "name": "Sada Elbalad",
+    "type": "Undefined",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8",
+    "img": "https://i.imgur.com/vOKvPeK.png"
   }
 ]

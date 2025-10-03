@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-02 21:41:13",
+  "date": "2025-10-03 06:12:53",
   "channels": {
     "Uncategorized": [
       {
@@ -1269,7 +1269,7 @@
         "logo": "https://i.ibb.co/84t3yXTV/mehwar.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8"
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8"
       },
       {
         "name": "MBC Masr 2 (1080p)",
@@ -1292,7 +1292,7 @@
         "logo": "https://i.imgur.com/OOXylJI.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8"
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8"
       },
       {
         "name": "PNC Drama (1080p)",
@@ -1336,6 +1336,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+      }
+    ],
+    "Undefined": [
+      {
+        "name": "Sada Elbalad",
+        "logo": "https://i.imgur.com/vOKvPeK.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8"
       }
     ]
   }
