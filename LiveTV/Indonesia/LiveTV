@@ -6674,6 +6674,12 @@
   {
     "name": "Nick Jr",
     "type": "Kids",
+    "url": "http://bestp55.xyz:80/A7FC77529786/519C32219872/1052566|Host=m.zoom.us",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png"
+  },
+  {
+    "name": "Nick Jr",
+    "type": "Kids",
     "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png"
   },
@@ -7192,6 +7198,12 @@
     "type": "Kids",
     "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true",
     "img": "https://dl.dropbox.com/scl/fi/b31xn6rtjpmembkxdu23i/babyfirst.png?rlkey=bdqssd1njuat3a8densuutddc&dl=0"
+  },
+  {
+    "name": "Hip Hip Horeeeee!",
+    "type": "Kids",
+    "url": "https://seprai.jasoncreak8.workers.dev/play.mpd?id=7052&type=dash",
+    "img": "https://i.imgur.com/RZLBGAg.jpg"
   },
   {
     "name": "Hip Hip Horee !",
@@ -17106,6 +17118,18 @@
     "img": "https://iili.io/JMp3wV1.png"
   },
   {
+    "name": "Indosiar",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "http://mpwtv.github.io/indosiar.m3u8",
+    "img": "https://i.imgur.com/CJajHRL.png"
+  },
+  {
+    "name": "Indosiar",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass",
+    "img": "https://i.imgur.com/CJajHRL.png"
+  },
+  {
     "name": "Antv ⁱ",
     "type": "Nasional 🇮🇩",
     "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
@@ -23020,6 +23044,468 @@
     "type": "CCTV inDo",
     "url": "http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8",
     "img": "https://www.starjogja.com/assets/2017/02/cctv-icon.png"
+  },
+  {
+    "name": "LAPANG GASIBU 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8",
+    "img": "https://i.imgur.com/vdO7eGs.jpg"
+  },
+  {
+    "name": "LAPANG GASIBU 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8",
+    "img": "https://i.imgur.com/qXY0yCL.jpg"
+  },
+  {
+    "name": "LAPANG GASIBU 3",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8",
+    "img": "https://i.imgur.com/JxX6nus.jpg"
+  },
+  {
+    "name": "LAPANG GASIBU 4",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sura.m3u8",
+    "img": "https://i.imgur.com/U6UJvm3.jpg"
+  },
+  {
+    "name": "JL.BRAGA 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8",
+    "img": "https://i.imgur.com/xD5G6HK.jpg"
+  },
+  {
+    "name": "JL.BRAGA 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8",
+    "img": "https://i.imgur.com/wRi8nN3.jpg"
+  },
+  {
+    "name": "JL.BRAGA 3",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8",
+    "img": "https://i.imgur.com/2mCeiBh.jpg"
+  },
+  {
+    "name": "JL.BRAGA 4",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8",
+    "img": "https://i.imgur.com/m2Zkzvp.jpg"
+  },
+  {
+    "name": "JL.BRAGA 5",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8",
+    "img": "https://i.imgur.com/B5PT5Kv.jpg"
+  },
+  {
+    "name": "JL.ASIA AFRIKA 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8",
+    "img": "https://i.imgur.com/Wkj0L6q.jpg"
+  },
+  {
+    "name": "JL.ASIA AFRIKA 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8",
+    "img": "https://i.imgur.com/R7DqW7k.jpg"
+  },
+  {
+    "name": "JL.ASIA AFRIKA 3",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8",
+    "img": "https://i.imgur.com/FjvAMDm.jpg"
+  },
+  {
+    "name": "ALUN-ALUN BANDUNG 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8",
+    "img": "https://i.imgur.com/TjJMhCS.jpg"
+  },
+  {
+    "name": "ALUN-ALUN BANDUNG 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8",
+    "img": "https://i.imgur.com/fQwVETT.jpg"
+  },
+  {
+    "name": "Jl.DIPATIUKUR",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8",
+    "img": "https://i.imgur.com/Mdd64aa.jpg"
+  },
+  {
+    "name": "SIMPANG DAGO",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAG.m3u8",
+    "img": "https://i.imgur.com/JnxSRE7.jpg"
+  },
+  {
+    "name": "DAGO BAWAH",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8",
+    "img": "https://i.imgur.com/RDFP7na.jpg"
+  },
+  {
+    "name": "CIHAMPELAS PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DISHUB/spcihampelas.m3u8",
+    "img": "https://i.imgur.com/G7A4wQj.jpg"
+  },
+  {
+    "name": "JL.CIHAMPELAS BAWAH",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8",
+    "img": "https://i.imgur.com/RgKgGe6.jpg"
+  },
+  {
+    "name": "TEGALEGA 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8",
+    "img": "https://i.imgur.com/Fd2zTaF.jpg"
+  },
+  {
+    "name": "TEGALEGA 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGA.m3u8",
+    "img": "https://i.imgur.com/9qUQFOK.jpg"
+  },
+  {
+    "name": "TEGALEGA 3 PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DISHUB/sptegalega.m3u8",
+    "img": "https://i.imgur.com/cYOJZum.jpg"
+  },
+  {
+    "name": "PASTEUR 1",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8",
+    "img": "https://i.imgur.com/BfGtPMQ.jpg"
+  },
+  {
+    "name": "PASTEUR 2",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8",
+    "img": "https://i.imgur.com/Ih2fNUc.jpg"
+  },
+  {
+    "name": "TOL PASTEUR (EXIT)",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DISHUB/sppasteur.m3u8",
+    "img": "https://i.imgur.com/NhbjQmM.jpg"
+  },
+  {
+    "name": "Jl.PASOEPATI",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8",
+    "img": "https://i.imgur.com/h8an32V.jpg"
+  },
+  {
+    "name": "Jl.SUKAJADI",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8",
+    "img": "https://i.imgur.com/3rwOtXn.jpg"
+  },
+  {
+    "name": "Jl.SUKAGALIH",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8",
+    "img": "https://i.imgur.com/MA5HoA2.jpg"
+  },
+  {
+    "name": "DEPAN PVJ SUKAJADI",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8",
+    "img": "https://i.imgur.com/qx9wCsX.jpg"
+  },
+  {
+    "name": "CEMARA PERTIGAAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8",
+    "img": "https://i.imgur.com/nWBOkAg.jpg"
+  },
+  {
+    "name": "JL.RIAU PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8",
+    "img": "https://i.imgur.com/bukTbqY.jpg"
+  },
+  {
+    "name": "JL.BANDA PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/banda.m3u8",
+    "img": "https://i.imgur.com/f6XUO4J.jpg"
+  },
+  {
+    "name": "CIBADUYUT PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DISHUB/spcibaduyut.m3u8",
+    "img": "https://i.imgur.com/hrFXSfx.jpg"
+  },
+  {
+    "name": "BUAH BATU PEREMPATAN",
+    "type": "CCTV inDo",
+    "url": "https://pelindung.bandung.go.id:3443/video/DISHUB/spbuahbatu.m3u8",
+    "img": "https://i.imgur.com/KRIweVI.jpg"
+  },
+  {
+    "name": "UPT MALIOBORO UTARA",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w1496438194.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "UPT MALIOBORO (MUTIARA BARU)",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio9_MutiaraBaru.stream/chunklist_w826364159.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "UPT MALIOBORO (DEPAN DPRD)",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/chunklist_w1665951647.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "UPT MALIOBORO (PERWAKILAN)",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio5_Perwakilan.stream/chunklist_w316341164.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "UPT MALIOBORO (NOL KILO)",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio_NolKm_Timur.stream/chunklist_w577971871.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG TUGU",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTugu.stream/chunklist_w1601651204.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG BOROBUDUR (PLAZA)",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/chunklist_w1307752247.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG GAMBIRAN BARAT",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGambiranBarat.stream/chunklist_w613251528.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG BALAIKOTA BARAT",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaBarat.stream/chunklist_w785881701.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG BALAIKOTA TIMUR",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaTimur.stream/chunklist_w1676017467.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SIMPANG MENTRI SUPENO 2",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/chunklist_w25524573.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "PKU MUH",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/chunklist_w1686840761.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "UST",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/chunklist_w410694445.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "MARGO UTOMO",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_WismaRatih.stream/chunklist_w46626178.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "WIROBRAJAN",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w591354128.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "NOL KILO",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w455291914.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "STASIUN TUGU",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w527719843.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "EMBUNG NGLANGGERAN",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w1066506807.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "BREKSI",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w859888197.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "GUNUNG MERAPI",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1624423348.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "BUKIT KLANGON",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w2005762266.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "CANDI PRAMBANAN",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1786680172.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "CANDI RATU BOKO",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w865240081.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "CANDI IJO",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiIjo.stream/chunklist_w1101595119.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "CANDI SAMBISARI",
+    "type": "CCTV inDo",
+    "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w142613174.m3u8",
+    "img": "https://i.imgur.com/BsSnHK8.jpg"
+  },
+  {
+    "name": "SP.GRAND CITY",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_GRANDCITY_PTZ.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.PASAR BUTON",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_BATU_AMPAR.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.PATIMURA",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_PATIMURA_1.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.PERUMNAS",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_PERUMNAS.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.BELLER",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_BELLER_PTZ.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.WIKA",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_WIKA.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.DAMAI",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/damai.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.LE GRANDEUR",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/le_grandeur.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SP.KEBUN SAYUR",
+    "type": "CCTV inDo",
+    "url": "http://103.144.82.251/camera/SP_KEBUN_SAYUR.m3u8",
+    "img": "https://i.imgur.com/4nNv98I.jpg"
+  },
+  {
+    "name": "SIMPANG PASAR LAMA",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/fXK2sJj4U1/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG BELITUNG",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/PNojYeBKDv/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG SULTAN ADAM",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/dUASq5ZjHs/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG MERDEKA",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/xPULo6ZIMd/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG KOLONEL SUGIONO",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/xKRCOz839a/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG KURIPAN",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/Ep6CgYqoCN/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "SIMPANG VETERAN",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/iyYLs1kYnR/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "DEPAN TVRI",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/dUi1Zgl86v/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
+  },
+  {
+    "name": "DEPAN RSUD ULIN",
+    "type": "CCTV inDo",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/FNZ59BM5VH/s.m3u8",
+    "img": "https://i.imgur.com/PiGl8wJ.jpg"
   },
   {
     "name": "Kab. KamPar",
