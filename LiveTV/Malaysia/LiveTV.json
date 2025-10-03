@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-02 21:50:59",
+  "date": "2025-10-03 06:45:30",
   "channels": {
     "siaranMy": [
       {
@@ -1672,7 +1672,7 @@
         "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV0iZbePex3Tbanc-vC8vHJo=Mled/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV7cu1gpdjmu7Ncm3P5tDfrU=D-ND/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
       },
       {
         "name": "832 Astro Cricket HD",
@@ -1748,10 +1748,10 @@
       },
       {
         "name": "804 Astro Arena Bola 2 HD",
-        "logo": "https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",
+        "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMlyVgcl7yWWLCvAwEBGizALA=jKK_/dash-wv/jitp-linearwm/5100/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mQpQZDYIJVaUJA9nRZcMfJw=t8cb/dash-wv/jitp-linearwm/5100/default_primary.mpd"
       },
       {
         "name": "815 Astro Badminton",
