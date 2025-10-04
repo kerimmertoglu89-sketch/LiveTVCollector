@@ -2906,7 +2906,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 803 Astro Arena Bola HD
-URL: https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV623YPdpFKWaT30jvWTSyew=f2eY/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41zeCPN5tsjmXgDffPUQw17fhbHJ2N5flu_9OW_P9ykYM=d3eT/dash-wv/jitp-linearwm/5099/default_ott.mpd
 Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -2951,13 +2951,18 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 
 Group: Sports
-Name: 812 EPL 2 backup
-URL: http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd123660.ts
+Name: EPL 2 backup
+URL: http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 811 EPL 1 backup
-URL: http://mains.services/live/pmf0423/1aku0jt%40/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
+Name: EPL 1 backup
+URL: http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: EPL 1 BACKUP
+URL: https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -2992,12 +2997,27 @@ Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 804 Astro Arena Bola 2 HD
-URL: https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mZ_PWWpNHx5JC7HPspn21jc=SZE8/dash-wv/jitp-linearwm/5100/default_primary.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl6qEvEeVpL5xPvYQmqH9eSI=h0QK/dash-wv/jitp-linearwm/5100/default_primary.mpd
 Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 815 Astro Badminton
-URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk0NDc0NjIsImlzcyI6IlZSIiwiZXhwIjoxNzU5NTMwNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.7WBUIDqYYeV-qWGbmhs3lBN3s8c1q87WvYzeQ_6klWk
+Name: 811 Astro Premier League HD
+URL: https://linears2-playback.astro.com.my/vsg/41RqspQBcK6kUSK4BJreyRF0GR6MQUBgNtCRgRfLVBqrk=kBYa/dash-wv/jitp-dashisowm/601/default_primary.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 812 Astro Premier League 2 HD
+URL: https://linears2-playback.astro.com.my/vsg/41sreUgXggkf7zmcUtNRWYoZliDOQQuP23h4UkKwDPpSU=ycB2/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Astro Badminton HD
+URL: https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1UxODOT9XC-ykikqYAkeJRs=w2xF/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Astro Badminton HD
+URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk1NTc0MjYsImlzcyI6IlZSIiwiZXhwIjoxNzU5NjE3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.Nrmz48WpXKn1-9Dkmf0yH3qocuLkuiTrpqGPqZ1xalM
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3194,11 +3214,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: Bola backup +
 URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 Logo: https://www.visionplus.id/images/repository/655/655-LOGO-m.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: EPL 1 BACKUP
-URL: https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: Egg Network (720p)
