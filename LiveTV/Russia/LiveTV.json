@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-03 21:41:49",
+  "date": "2025-10-04 06:13:25",
   "channels": {
     "Кино": [
       {
@@ -56,7 +56,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Viju TV1000",
@@ -357,7 +357,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": ".sci-fi",
@@ -821,7 +821,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Мужской",
@@ -842,7 +842,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Драйв",
@@ -4669,63 +4669,63 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Exxxotica HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Blue Hustler",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Erox",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Brazzers TV Europe",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Red Lips HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Playboy TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Babes TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Русская ночь",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk1NjA4ODAsImlhdCI6MTc1OTQ3NDQ4MCwiY2lkIjo2LCJ1aWQiOjk1MDA1NTA2MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.RuRTYK68Jeu_ddPgHL4jW_xvXlqvJjYP5CFOjxWfQCE&offset=10"
+        "url": "http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTk2MDM5MzUsImlhdCI6MTc1OTUxNzUzNSwiY2lkIjo2LCJ1aWQiOjk1MDI3NDU5NywicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.kt010hjCEfU0--sQ569CGvyslQA7LujpgaFSW5ZPWWc&offset=10"
       },
       {
         "name": "Playboy HD",
@@ -7079,11 +7079,11 @@
     ],
     "General": [
       {
-        "name": "5 канал",
+        "name": "5 Канал",
         "logo": "https://i.imgur.com/KPXMa3U.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/5_Kanal/index.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8"
       },
       {
         "name": "12 канал (1080p)",
@@ -7275,13 +7275,6 @@
         "url": "https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe"
       },
       {
-        "name": "Москва. Доверие",
-        "logo": "https://i.imgur.com/QDqDQzt.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Moskva_Doverie/index.m3u8"
-      },
-      {
         "name": "НВК Саха (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/LwXNUhf.png",
         "group": "General",
@@ -7363,7 +7356,7 @@
         "logo": "https://i.imgur.com/VaWlnjZ.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/OTR/index.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8"
       },
       {
         "name": "Первый канал",
@@ -7380,11 +7373,11 @@
         "url": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
       },
       {
-        "name": "РЕН ТВ",
+        "name": "Рен ТВ",
         "logo": "https://i.imgur.com/0Tu5lte.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/REN_TV/index.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8"
       },
       {
         "name": "Россия 1",
@@ -7975,13 +7968,6 @@
         "url": "https://v2.catcast.tv/content/47689/index.m3u8"
       },
       {
-        "name": "Мосфильм Золотая Коллекция",
-        "logo": "https://i.imgur.com/95Y8jb6.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/mosfilm/index.m3u8"
-      },
-      {
         "name": "Патриот (576i)",
         "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
         "group": "Movies",
@@ -7994,13 +7980,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
-      },
-      {
-        "name": "Русский Иллюзион",
-        "logo": "https://i.imgur.com/RlsqFN8.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
       },
       {
         "name": "Русский роман",
@@ -8085,29 +8064,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
-      }
-    ],
-    "Education": [
-      {
-        "name": "Da Vinci",
-        "logo": "https://i.imgur.com/iBx7K1M.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Da_Vinchi/index.m3u8"
-      },
-      {
-        "name": "ЕГЭ ТВ",
-        "logo": "https://i.imgur.com/XxJBLt4.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/RT_DOC/index.m3u8"
-      },
-      {
-        "name": "МосОбрТВ (720p)",
-        "logo": "https://i.imgur.com/t6PmOD5.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8"
       }
     ],
     "Sports": [
@@ -8263,13 +8219,6 @@
         "url": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       },
       {
-        "name": "Арсенал",
-        "logo": "https://i.imgur.com/DBpVeb0.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/arsenalhd/index.m3u8"
-      },
-      {
         "name": "История",
         "logo": "https://i.imgur.com/eEjPail.png",
         "group": "Documentary",
@@ -8289,15 +8238,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://vod.tuva.ru/nauka2/index.m3u8"
-      }
-    ],
-    "Relax": [
-      {
-        "name": "Home 4K (2160p)",
-        "logo": "https://i.imgur.com/3UXk7JR.png",
-        "group": "Relax",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/HOME_4K/index.m3u8"
       }
     ],
     "Shop": [
@@ -8392,25 +8332,11 @@
         "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
       },
       {
-        "name": "Бобер",
-        "logo": "https://i.imgur.com/clWWhB8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Bober/index.m3u8"
-      },
-      {
         "name": "Большая Азия",
         "logo": "https://i.imgur.com/vruuPKF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
-      },
-      {
-        "name": "Большая Планета",
-        "logo": "https://i.imgur.com/wyuqWTR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/big_planet/index.m3u8"
       },
       {
         "name": "БСТ 24 (Братск)",
@@ -8504,13 +8430,6 @@
         "url": "https://cdn.ntv.ru/unknown_russia/playlist.m3u8"
       },
       {
-        "name": "НСТ",
-        "logo": "https://i.imgur.com/uv2yxa5.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/NSTV/index.m3u8"
-      },
-      {
         "name": "НТВ Право",
         "logo": "https://i.imgur.com/3ChnWGg.png",
         "group": "Undefined",
@@ -8522,7 +8441,7 @@
         "logo": "https://i.imgur.com/4KiYSln.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/pobeda/index.m3u8"
+        "url": "https://streaming.thestream.cyou/live/43.m3u8"
       },
       {
         "name": "Прима (1080p)",
@@ -8757,18 +8676,11 @@
     ],
     "Lifestyle": [
       {
-        "name": "Домашние животные",
-        "logo": "https://i.imgur.com/ISJzQGP.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8"
-      },
-      {
         "name": "Домашний",
         "logo": "https://i.imgur.com/XVRwgom.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Domashniy/index.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8"
       },
       {
         "name": "Домашний International",
@@ -8813,6 +8725,22 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://dumatv.iptv2022.com/index.m3u8"
+      }
+    ],
+    "Education": [
+      {
+        "name": "ЕГЭ ТВ",
+        "logo": "https://i.imgur.com/XxJBLt4.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/RT_DOC/index.m3u8"
+      },
+      {
+        "name": "МосОбрТВ (720p)",
+        "logo": "https://i.imgur.com/t6PmOD5.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8"
       }
     ],
     "Comedy": [
