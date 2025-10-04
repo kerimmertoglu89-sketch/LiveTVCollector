@@ -1092,6 +1092,18 @@
     "img": "https://i.imgur.com/KHo7Gtn.png"
   },
   {
+    "name": "TeN",
+    "type": "General",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8",
+    "img": "https://i.ibb.co/zWQjVq6s/ten-tv.png"
+  },
+  {
+    "name": "Al-Nahar Drama",
+    "type": "Series",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8",
+    "img": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png"
+  },
+  {
     "name": "CBC Drama",
     "type": "Series",
     "url": "https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8",
@@ -1116,6 +1128,18 @@
     "img": "https://i.imgur.com/YAdk2WR.png"
   },
   {
+    "name": "Cima",
+    "type": "Movies",
+    "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8",
+    "img": "https://i.ibb.co/p6SPr0Ym/Cima.png"
+  },
+  {
+    "name": "Rotana Cinema Egypt (1080p)",
+    "type": "Movies",
+    "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "img": "https://i.imgur.com/dGlKoLW.png"
+  },
+  {
     "name": "Elbeshara GTV (1080p) [Not 24/7]",
     "type": "Religious",
     "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
@@ -1126,12 +1150,6 @@
     "type": "News",
     "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
     "img": "https://i.postimg.cc/85dghYss/mekameleentv.png"
-  },
-  {
-    "name": "Rotana Cinema Egypt (1080p)",
-    "type": "Movies",
-    "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
-    "img": "https://i.imgur.com/dGlKoLW.png"
   },
   {
     "name": "Sada Elbalad",

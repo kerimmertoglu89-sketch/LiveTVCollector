@@ -34,6 +34,11 @@ URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7549318565150
 Logo: https://i.imgur.com/KHo7Gtn.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: TeN
+URL: https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8
+Logo: https://i.ibb.co/zWQjVq6s/ten-tv.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 
 Group: Lifestyle
 Name: CBC Sofra (1080p)
@@ -43,6 +48,11 @@ Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: Cima
+URL: https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8
+Logo: https://i.ibb.co/p6SPr0Ym/Cima.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: Rotana Cinema Egypt (1080p)
 URL: https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.imgur.com/dGlKoLW.png
@@ -64,6 +74,11 @@ Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
 Group: Series
+Name: Al-Nahar Drama
+URL: https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8
+Logo: https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: CBC Drama
 URL: https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 Logo: https://i.imgur.com/I8YdakH.png

@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-03 21:40:48",
+  "date": "2025-10-04 06:10:47",
   "channels": {
     "Uncategorized": [
       {
@@ -1277,9 +1277,23 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+      },
+      {
+        "name": "TeN",
+        "logo": "https://i.ibb.co/zWQjVq6s/ten-tv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8"
       }
     ],
     "Series": [
+      {
+        "name": "Al-Nahar Drama",
+        "logo": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8"
+      },
       {
         "name": "CBC Drama",
         "logo": "https://i.imgur.com/I8YdakH.png",
@@ -1311,6 +1325,22 @@
         "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
       }
     ],
+    "Movies": [
+      {
+        "name": "Cima",
+        "logo": "https://i.ibb.co/p6SPr0Ym/Cima.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8"
+      },
+      {
+        "name": "Rotana Cinema Egypt (1080p)",
+        "logo": "https://i.imgur.com/dGlKoLW.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+      }
+    ],
     "Religious": [
       {
         "name": "Elbeshara GTV (1080p) [Not 24/7]",
@@ -1327,15 +1357,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
-      }
-    ],
-    "Movies": [
-      {
-        "name": "Rotana Cinema Egypt (1080p)",
-        "logo": "https://i.imgur.com/dGlKoLW.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
       }
     ],
     "Undefined": [
