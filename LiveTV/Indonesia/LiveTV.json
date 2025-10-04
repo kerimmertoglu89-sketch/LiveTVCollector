@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-03 21:31:07",
+  "date": "2025-10-04 06:05:42",
   "channels": {
     "INDONESIA": [
       {
@@ -29669,6 +29669,13 @@
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8"
       },
       {
+        "name": "Batam TV (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/lo7YXnW.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8"
+      },
+      {
         "name": "Celebes TV [Not 24/7]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png",
         "group": "General",
@@ -29818,6 +29825,13 @@
     ],
     "Undefined": [
       {
+        "name": "Astha TV (1080p) [Not 24/7]",
+        "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
+      },
+      {
         "name": "Banjar TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/TA76a10.png",
         "group": "Undefined",
@@ -29939,11 +29953,11 @@
     ],
     "Religious": [
       {
-        "name": "DAAI TV (720p)",
+        "name": "DAAI TV",
         "logo": "https://i.imgur.com/YC7JCHo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
-        "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8"
+        "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
       },
       {
         "name": "Fajar TV (720p) [Not 24/7]",
