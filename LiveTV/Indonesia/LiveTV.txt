@@ -4967,6 +4967,33 @@ Logo: https://i.imgur.com/s9u5yfA.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 
+Group: HBO-FMX
+Name: HBO
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+Logo: https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Hits
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+Logo: https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Family
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+Logo: https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: HBO Signature
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Cinemax
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+
 Group: Hiburan & Gaya Hidup
 Name: History HD
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
@@ -9212,11 +9239,6 @@ URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a781
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_9.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: FLIK
-URL: http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: DuniaSinema
 URL: https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png
@@ -9226,51 +9248,6 @@ Name: HBO +
 URL: https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 Logo: https://i.imgur.com/8osIZLM.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO 2
-URL: https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
-Logo: https://i.imgur.com/ww8jPKB.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO POP
-URL: https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
-Logo: https://i.imgur.com/Y6164V7.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO Family
-URL: https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd
-Logo: https://logo.m3uassets.com/hbofamilylatinamerica.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO XTREME
-URL: https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
-Logo: https://img.hotice.site/icones_channels/HBO_XTREME_HD.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: HBO Hits 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-Logo: https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: HBO Family 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: HBO Signature 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Cinemax 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-Logo: https://i.imgur.com/uB76Ft0.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Warner TV 🇮🇩
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
@@ -13433,6 +13410,16 @@ URL: https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 Logo: https://i.imgur.com/mbW2EWt.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
+Name: SPOTV (I)
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+Logo: https://i.imgur.com/cot18OJ.jpeg
+Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
+--------------------------------------------------
+Name: SPOTV 2 (I)
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+Logo: https://i.imgur.com/C2mSfor.jpegg
+Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
+--------------------------------------------------
 
 Group: OLAHRAGA LUAR
 Name: Prima Sport 1
@@ -15156,12 +15143,12 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_101.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SPOTV
-URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 Logo: https://i.imgur.com/p1q77RO.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SPOTV 2
-URL: https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 Logo: https://i.imgur.com/5D0YW20.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -15310,11 +15297,6 @@ URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff23
 Logo: https://mncvision.id/userfiles/image/channel/channel_101.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: SPOTV 🔵
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-Logo: https://mncvision.id/userfiles/image/channel/channel_307.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: SPOTV ᴸᴼᵂ
 URL: http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 Logo: https://mncvision.id/userfiles/image/channel/channel_307.png
@@ -15323,11 +15305,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: SPOTV 🇵🇭
 URL: https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 Logo: https://mncvision.id/userfiles/image/channel/channel_307.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: SPOTV2 🔵
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-Logo: https://mncvision.id/userfiles/image/channel/channel_308.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: SPOTV2 ᴸᴼᵂ

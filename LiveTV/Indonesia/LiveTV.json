@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-04 06:05:42",
+  "date": "2025-10-04 13:31:22",
   "channels": {
     "INDONESIA": [
       {
@@ -957,13 +957,6 @@
         "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd"
       },
       {
-        "name": "FLIK",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592"
-      },
-      {
         "name": "DuniaSinema",
         "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png",
         "group": "Movies",
@@ -976,69 +969,6 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
         "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd"
-      },
-      {
-        "name": "HBO 2",
-        "logo": "https://i.imgur.com/ww8jPKB.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd"
-      },
-      {
-        "name": "HBO POP",
-        "logo": "https://i.imgur.com/Y6164V7.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd"
-      },
-      {
-        "name": "HBO Family",
-        "logo": "https://logo.m3uassets.com/hbofamilylatinamerica.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd"
-      },
-      {
-        "name": "HBO XTREME",
-        "logo": "https://img.hotice.site/icones_channels/HBO_XTREME_HD.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd"
-      },
-      {
-        "name": "HBO 🇮🇩",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
-      },
-      {
-        "name": "HBO Hits 🇮🇩",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
-      },
-      {
-        "name": "HBO Family 🇮🇩",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
-      },
-      {
-        "name": "HBO Signature 🇮🇩",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
-      },
-      {
-        "name": "Cinemax 🇮🇩",
-        "logo": "https://i.imgur.com/uB76Ft0.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
       },
       {
         "name": "Warner TV 🇮🇩",
@@ -2570,14 +2500,14 @@
         "logo": "https://i.imgur.com/p1q77RO.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd"
+        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd"
       },
       {
         "name": "SPOTV 2",
         "logo": "https://i.imgur.com/5D0YW20.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd"
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
       },
       {
         "name": "WWE",
@@ -2783,13 +2713,6 @@
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
       },
       {
-        "name": "SPOTV 🔵",
-        "logo": "https://mncvision.id/userfiles/image/channel/channel_307.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd"
-      },
-      {
         "name": "SPOTV ᴸᴼᵂ",
         "logo": "https://mncvision.id/userfiles/image/channel/channel_307.png",
         "group": "Sports",
@@ -2802,13 +2725,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd"
-      },
-      {
-        "name": "SPOTV2 🔵",
-        "logo": "https://mncvision.id/userfiles/image/channel/channel_308.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
       },
       {
         "name": "SPOTV2 ᴸᴼᵂ",
@@ -12792,6 +12708,43 @@
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd"
       }
     ],
+    "HBO-FMX": [
+      {
+        "name": "HBO",
+        "logo": "https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png",
+        "group": "HBO-FMX",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
+      },
+      {
+        "name": "HBO Hits",
+        "logo": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png",
+        "group": "HBO-FMX",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
+      },
+      {
+        "name": "HBO Family",
+        "logo": "https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",
+        "group": "HBO-FMX",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
+      },
+      {
+        "name": "HBO Signature",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
+        "group": "HBO-FMX",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
+      },
+      {
+        "name": "Cinemax",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+        "group": "HBO-FMX",
+        "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
+        "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
+      }
+    ],
     "TV Berita Indonesia": [
       {
         "name": "Berita Satu News",
@@ -14014,6 +13967,20 @@
         "group": "OLAHRAGA LOKAL",
         "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd"
+      },
+      {
+        "name": "SPOTV (I)",
+        "logo": "https://i.imgur.com/cot18OJ.jpeg",
+        "group": "OLAHRAGA LOKAL",
+        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd"
+      },
+      {
+        "name": "SPOTV 2 (I)",
+        "logo": "https://i.imgur.com/C2mSfor.jpegg",
+        "group": "OLAHRAGA LOKAL",
+        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd"
       }
     ],
     "FILM": [

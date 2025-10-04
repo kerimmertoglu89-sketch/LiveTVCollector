@@ -816,12 +816,6 @@
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_9.png"
   },
   {
-    "name": "FLIK",
-    "type": "Movies",
-    "url": "http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592",
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png"
-  },
-  {
     "name": "DuniaSinema",
     "type": "Movies",
     "url": "https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8",
@@ -832,60 +826,6 @@
     "type": "Movies",
     "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd",
     "img": "https://i.imgur.com/8osIZLM.png"
-  },
-  {
-    "name": "HBO 2",
-    "type": "Movies",
-    "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd",
-    "img": "https://i.imgur.com/ww8jPKB.png"
-  },
-  {
-    "name": "HBO POP",
-    "type": "Movies",
-    "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd",
-    "img": "https://i.imgur.com/Y6164V7.png"
-  },
-  {
-    "name": "HBO Family",
-    "type": "Movies",
-    "url": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd",
-    "img": "https://logo.m3uassets.com/hbofamilylatinamerica.png"
-  },
-  {
-    "name": "HBO XTREME",
-    "type": "Movies",
-    "url": "https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd",
-    "img": "https://img.hotice.site/icones_channels/HBO_XTREME_HD.png"
-  },
-  {
-    "name": "HBO 🇮🇩",
-    "type": "Movies",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
-    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115"
-  },
-  {
-    "name": "HBO Hits 🇮🇩",
-    "type": "Movies",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"
-  },
-  {
-    "name": "HBO Family 🇮🇩",
-    "type": "Movies",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
-    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115"
-  },
-  {
-    "name": "HBO Signature 🇮🇩",
-    "type": "Movies",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
-    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115"
-  },
-  {
-    "name": "Cinemax 🇮🇩",
-    "type": "Movies",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
-    "img": "https://i.imgur.com/uB76Ft0.png"
   },
   {
     "name": "Warner TV 🇮🇩",
@@ -2192,13 +2132,13 @@
   {
     "name": "SPOTV",
     "type": "Sports",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
     "img": "https://i.imgur.com/p1q77RO.png"
   },
   {
     "name": "SPOTV 2",
     "type": "Sports",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd",
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
     "img": "https://i.imgur.com/5D0YW20.png"
   },
   {
@@ -2376,12 +2316,6 @@
     "img": "https://mncvision.id/userfiles/image/channel/channel_101.png"
   },
   {
-    "name": "SPOTV 🔵",
-    "type": "Sports",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
-    "img": "https://mncvision.id/userfiles/image/channel/channel_307.png"
-  },
-  {
     "name": "SPOTV ᴸᴼᵂ",
     "type": "Sports",
     "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8",
@@ -2392,12 +2326,6 @@
     "type": "Sports",
     "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
     "img": "https://mncvision.id/userfiles/image/channel/channel_307.png"
-  },
-  {
-    "name": "SPOTV2 🔵",
-    "type": "Sports",
-    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
-    "img": "https://mncvision.id/userfiles/image/channel/channel_308.png"
   },
   {
     "name": "SPOTV2 ᴸᴼᵂ",
@@ -10926,6 +10854,36 @@
     "img": "https://i.imgur.com/S4aoHg8.png"
   },
   {
+    "name": "HBO",
+    "type": "HBO-FMX",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
+    "img": "https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png"
+  },
+  {
+    "name": "HBO Hits",
+    "type": "HBO-FMX",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
+    "img": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png"
+  },
+  {
+    "name": "HBO Family",
+    "type": "HBO-FMX",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
+    "img": "https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png"
+  },
+  {
+    "name": "HBO Signature",
+    "type": "HBO-FMX",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
+  },
+  {
+    "name": "Cinemax",
+    "type": "HBO-FMX",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+  },
+  {
     "name": "Berita Satu News",
     "type": "TV Berita Indonesia",
     "url": "http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8",
@@ -11956,6 +11914,18 @@
     "type": "OLAHRAGA LOKAL",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd",
     "img": "https://i.imgur.com/mbW2EWt.jpeg"
+  },
+  {
+    "name": "SPOTV (I)",
+    "type": "OLAHRAGA LOKAL",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd",
+    "img": "https://i.imgur.com/cot18OJ.jpeg"
+  },
+  {
+    "name": "SPOTV 2 (I)",
+    "type": "OLAHRAGA LOKAL",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd",
+    "img": "https://i.imgur.com/C2mSfor.jpegg"
   },
   {
     "name": "HBO (LCR)",
