@@ -174,12 +174,6 @@
     "img": "https://i.imgur.com/nr4ctt4.png"
   },
   {
-    "name": "TV Perú",
-    "type": "General",
-    "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
-    "img": "https://i.imgur.com/6io0IrX.png"
-  },
-  {
     "name": "TV Perú Internacional (1080p)",
     "type": "General",
     "url": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8",
@@ -1486,6 +1480,12 @@
     "type": "TV PERU",
     "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg"
+  },
+  {
+    "name": "07 | TV PERU |",
+    "type": "TV PERU",
+    "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg"
   },
   {
     "name": "7.3 | JNE TV |",

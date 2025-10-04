@@ -331,11 +331,6 @@ URL: https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 Logo: https://i.imgur.com/nr4ctt4.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: TV Perú
-URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-Logo: https://i.imgur.com/6io0IrX.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: TV Perú Internacional (1080p)
 URL: https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png
@@ -1126,6 +1121,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 06 | EXITOSA TV |
 URL: https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 07 | TV PERU |
+URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 7.3 | JNE TV |
