@@ -2156,502 +2156,502 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: BTN+
 Name: BTN+ 01
-URL: http://vocotv.pro:80/live/gast/gast/644223.ts
+URL: http://vocotv.pro:80/live/10/12345/644223.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 02
-URL: http://vocotv.pro:80/live/gast/gast/644222.ts
+URL: http://vocotv.pro:80/live/10/12345/644222.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 03
-URL: http://vocotv.pro:80/live/gast/gast/644221.ts
+URL: http://vocotv.pro:80/live/10/12345/644221.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 04
-URL: http://vocotv.pro:80/live/gast/gast/644220.ts
+URL: http://vocotv.pro:80/live/10/12345/644220.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 05
-URL: http://vocotv.pro:80/live/gast/gast/644219.ts
+URL: http://vocotv.pro:80/live/10/12345/644219.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 06
-URL: http://vocotv.pro:80/live/gast/gast/644218.ts
+URL: http://vocotv.pro:80/live/10/12345/644218.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 07
-URL: http://vocotv.pro:80/live/gast/gast/644217.ts
+URL: http://vocotv.pro:80/live/10/12345/644217.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 08
-URL: http://vocotv.pro:80/live/gast/gast/644216.ts
+URL: http://vocotv.pro:80/live/10/12345/644216.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 09
-URL: http://vocotv.pro:80/live/gast/gast/644215.ts
+URL: http://vocotv.pro:80/live/10/12345/644215.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 10
-URL: http://vocotv.pro:80/live/gast/gast/644214.ts
+URL: http://vocotv.pro:80/live/10/12345/644214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 11
-URL: http://vocotv.pro:80/live/gast/gast/644213.ts
+URL: http://vocotv.pro:80/live/10/12345/644213.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 12
-URL: http://vocotv.pro:80/live/gast/gast/644212.ts
+URL: http://vocotv.pro:80/live/10/12345/644212.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 13
-URL: http://vocotv.pro:80/live/gast/gast/644211.ts
+URL: http://vocotv.pro:80/live/10/12345/644211.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 14
-URL: http://vocotv.pro:80/live/gast/gast/644210.ts
+URL: http://vocotv.pro:80/live/10/12345/644210.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 15
-URL: http://vocotv.pro:80/live/gast/gast/644209.ts
+URL: http://vocotv.pro:80/live/10/12345/644209.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 16
-URL: http://vocotv.pro:80/live/gast/gast/644208.ts
+URL: http://vocotv.pro:80/live/10/12345/644208.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 17
-URL: http://vocotv.pro:80/live/gast/gast/644207.ts
+URL: http://vocotv.pro:80/live/10/12345/644207.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 18
-URL: http://vocotv.pro:80/live/gast/gast/644206.ts
+URL: http://vocotv.pro:80/live/10/12345/644206.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 19
-URL: http://vocotv.pro:80/live/gast/gast/644205.ts
+URL: http://vocotv.pro:80/live/10/12345/644205.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 20
-URL: http://vocotv.pro:80/live/gast/gast/644204.ts
+URL: http://vocotv.pro:80/live/10/12345/644204.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 21
-URL: http://vocotv.pro:80/live/gast/gast/644203.ts
+URL: http://vocotv.pro:80/live/10/12345/644203.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 22
-URL: http://vocotv.pro:80/live/gast/gast/644202.ts
+URL: http://vocotv.pro:80/live/10/12345/644202.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 23
-URL: http://vocotv.pro:80/live/gast/gast/644201.ts
+URL: http://vocotv.pro:80/live/10/12345/644201.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 24
-URL: http://vocotv.pro:80/live/gast/gast/644200.ts
+URL: http://vocotv.pro:80/live/10/12345/644200.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 25
-URL: http://vocotv.pro:80/live/gast/gast/644199.ts
+URL: http://vocotv.pro:80/live/10/12345/644199.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 26
-URL: http://vocotv.pro:80/live/gast/gast/644198.ts
+URL: http://vocotv.pro:80/live/10/12345/644198.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 27
-URL: http://vocotv.pro:80/live/gast/gast/644197.ts
+URL: http://vocotv.pro:80/live/10/12345/644197.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 28
-URL: http://vocotv.pro:80/live/gast/gast/644196.ts
+URL: http://vocotv.pro:80/live/10/12345/644196.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 29
-URL: http://vocotv.pro:80/live/gast/gast/644195.ts
+URL: http://vocotv.pro:80/live/10/12345/644195.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 30
-URL: http://vocotv.pro:80/live/gast/gast/644194.ts
+URL: http://vocotv.pro:80/live/10/12345/644194.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 31
-URL: http://vocotv.pro:80/live/gast/gast/644193.ts
+URL: http://vocotv.pro:80/live/10/12345/644193.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 32
-URL: http://vocotv.pro:80/live/gast/gast/644192.ts
+URL: http://vocotv.pro:80/live/10/12345/644192.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 33
-URL: http://vocotv.pro:80/live/gast/gast/644191.ts
+URL: http://vocotv.pro:80/live/10/12345/644191.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 34
-URL: http://vocotv.pro:80/live/gast/gast/644190.ts
+URL: http://vocotv.pro:80/live/10/12345/644190.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 35
-URL: http://vocotv.pro:80/live/gast/gast/644189.ts
+URL: http://vocotv.pro:80/live/10/12345/644189.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 36
-URL: http://vocotv.pro:80/live/gast/gast/644188.ts
+URL: http://vocotv.pro:80/live/10/12345/644188.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 37
-URL: http://vocotv.pro:80/live/gast/gast/644187.ts
+URL: http://vocotv.pro:80/live/10/12345/644187.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 38
-URL: http://vocotv.pro:80/live/gast/gast/644186.ts
+URL: http://vocotv.pro:80/live/10/12345/644186.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 39
-URL: http://vocotv.pro:80/live/gast/gast/644185.ts
+URL: http://vocotv.pro:80/live/10/12345/644185.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 40
-URL: http://vocotv.pro:80/live/gast/gast/644184.ts
+URL: http://vocotv.pro:80/live/10/12345/644184.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 41
-URL: http://vocotv.pro:80/live/gast/gast/644183.ts
+URL: http://vocotv.pro:80/live/10/12345/644183.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 42
-URL: http://vocotv.pro:80/live/gast/gast/644182.ts
+URL: http://vocotv.pro:80/live/10/12345/644182.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 43
-URL: http://vocotv.pro:80/live/gast/gast/644181.ts
+URL: http://vocotv.pro:80/live/10/12345/644181.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 44
-URL: http://vocotv.pro:80/live/gast/gast/644180.ts
+URL: http://vocotv.pro:80/live/10/12345/644180.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 45
-URL: http://vocotv.pro:80/live/gast/gast/644179.ts
+URL: http://vocotv.pro:80/live/10/12345/644179.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 46
-URL: http://vocotv.pro:80/live/gast/gast/644178.ts
+URL: http://vocotv.pro:80/live/10/12345/644178.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 47
-URL: http://vocotv.pro:80/live/gast/gast/644177.ts
+URL: http://vocotv.pro:80/live/10/12345/644177.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 48
-URL: http://vocotv.pro:80/live/gast/gast/644176.ts
+URL: http://vocotv.pro:80/live/10/12345/644176.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 49
-URL: http://vocotv.pro:80/live/gast/gast/644175.ts
+URL: http://vocotv.pro:80/live/10/12345/644175.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 50
-URL: http://vocotv.pro:80/live/gast/gast/644174.ts
+URL: http://vocotv.pro:80/live/10/12345/644174.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 51
-URL: http://vocotv.pro:80/live/gast/gast/644173.ts
+URL: http://vocotv.pro:80/live/10/12345/644173.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 52
-URL: http://vocotv.pro:80/live/gast/gast/644172.ts
+URL: http://vocotv.pro:80/live/10/12345/644172.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 53
-URL: http://vocotv.pro:80/live/gast/gast/644171.ts
+URL: http://vocotv.pro:80/live/10/12345/644171.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 54
-URL: http://vocotv.pro:80/live/gast/gast/644170.ts
+URL: http://vocotv.pro:80/live/10/12345/644170.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 55
-URL: http://vocotv.pro:80/live/gast/gast/644169.ts
+URL: http://vocotv.pro:80/live/10/12345/644169.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 56
-URL: http://vocotv.pro:80/live/gast/gast/644168.ts
+URL: http://vocotv.pro:80/live/10/12345/644168.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 57
-URL: http://vocotv.pro:80/live/gast/gast/644167.ts
+URL: http://vocotv.pro:80/live/10/12345/644167.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 58
-URL: http://vocotv.pro:80/live/gast/gast/644166.ts
+URL: http://vocotv.pro:80/live/10/12345/644166.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 59
-URL: http://vocotv.pro:80/live/gast/gast/644165.ts
+URL: http://vocotv.pro:80/live/10/12345/644165.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 60
-URL: http://vocotv.pro:80/live/gast/gast/644164.ts
+URL: http://vocotv.pro:80/live/10/12345/644164.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 61
-URL: http://vocotv.pro:80/live/gast/gast/644163.ts
+URL: http://vocotv.pro:80/live/10/12345/644163.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 62
-URL: http://vocotv.pro:80/live/gast/gast/644162.ts
+URL: http://vocotv.pro:80/live/10/12345/644162.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 63
-URL: http://vocotv.pro:80/live/gast/gast/644161.ts
+URL: http://vocotv.pro:80/live/10/12345/644161.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 64
-URL: http://vocotv.pro:80/live/gast/gast/644160.ts
+URL: http://vocotv.pro:80/live/10/12345/644160.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 65
-URL: http://vocotv.pro:80/live/gast/gast/644159.ts
+URL: http://vocotv.pro:80/live/10/12345/644159.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 66
-URL: http://vocotv.pro:80/live/gast/gast/644158.ts
+URL: http://vocotv.pro:80/live/10/12345/644158.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 67
-URL: http://vocotv.pro:80/live/gast/gast/644157.ts
+URL: http://vocotv.pro:80/live/10/12345/644157.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 68
-URL: http://vocotv.pro:80/live/gast/gast/644156.ts
+URL: http://vocotv.pro:80/live/10/12345/644156.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 69
-URL: http://vocotv.pro:80/live/gast/gast/644155.ts
+URL: http://vocotv.pro:80/live/10/12345/644155.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 70
-URL: http://vocotv.pro:80/live/gast/gast/644154.ts
+URL: http://vocotv.pro:80/live/10/12345/644154.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 71
-URL: http://vocotv.pro:80/live/gast/gast/644153.ts
+URL: http://vocotv.pro:80/live/10/12345/644153.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 72
-URL: http://vocotv.pro:80/live/gast/gast/644152.ts
+URL: http://vocotv.pro:80/live/10/12345/644152.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 73
-URL: http://vocotv.pro:80/live/gast/gast/644151.ts
+URL: http://vocotv.pro:80/live/10/12345/644151.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 74
-URL: http://vocotv.pro:80/live/gast/gast/644150.ts
+URL: http://vocotv.pro:80/live/10/12345/644150.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 75
-URL: http://vocotv.pro:80/live/gast/gast/644149.ts
+URL: http://vocotv.pro:80/live/10/12345/644149.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 76
-URL: http://vocotv.pro:80/live/gast/gast/644148.ts
+URL: http://vocotv.pro:80/live/10/12345/644148.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 77
-URL: http://vocotv.pro:80/live/gast/gast/644147.ts
+URL: http://vocotv.pro:80/live/10/12345/644147.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 78
-URL: http://vocotv.pro:80/live/gast/gast/644146.ts
+URL: http://vocotv.pro:80/live/10/12345/644146.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 79
-URL: http://vocotv.pro:80/live/gast/gast/644145.ts
+URL: http://vocotv.pro:80/live/10/12345/644145.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 80
-URL: http://vocotv.pro:80/live/gast/gast/644144.ts
+URL: http://vocotv.pro:80/live/10/12345/644144.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 81
-URL: http://vocotv.pro:80/live/gast/gast/644143.ts
+URL: http://vocotv.pro:80/live/10/12345/644143.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 82
-URL: http://vocotv.pro:80/live/gast/gast/644142.ts
+URL: http://vocotv.pro:80/live/10/12345/644142.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 83
-URL: http://vocotv.pro:80/live/gast/gast/644141.ts
+URL: http://vocotv.pro:80/live/10/12345/644141.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 84
-URL: http://vocotv.pro:80/live/gast/gast/644140.ts
+URL: http://vocotv.pro:80/live/10/12345/644140.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 85
-URL: http://vocotv.pro:80/live/gast/gast/644139.ts
+URL: http://vocotv.pro:80/live/10/12345/644139.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 86
-URL: http://vocotv.pro:80/live/gast/gast/644138.ts
+URL: http://vocotv.pro:80/live/10/12345/644138.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 87
-URL: http://vocotv.pro:80/live/gast/gast/644137.ts
+URL: http://vocotv.pro:80/live/10/12345/644137.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 88
-URL: http://vocotv.pro:80/live/gast/gast/644136.ts
+URL: http://vocotv.pro:80/live/10/12345/644136.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 89
-URL: http://vocotv.pro:80/live/gast/gast/644135.ts
+URL: http://vocotv.pro:80/live/10/12345/644135.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 90
-URL: http://vocotv.pro:80/live/gast/gast/644134.ts
+URL: http://vocotv.pro:80/live/10/12345/644134.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 91
-URL: http://vocotv.pro:80/live/gast/gast/644133.ts
+URL: http://vocotv.pro:80/live/10/12345/644133.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 92
-URL: http://vocotv.pro:80/live/gast/gast/644132.ts
+URL: http://vocotv.pro:80/live/10/12345/644132.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 93
-URL: http://vocotv.pro:80/live/gast/gast/644131.ts
+URL: http://vocotv.pro:80/live/10/12345/644131.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 94
-URL: http://vocotv.pro:80/live/gast/gast/644130.ts
+URL: http://vocotv.pro:80/live/10/12345/644130.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 95
-URL: http://vocotv.pro:80/live/gast/gast/644129.ts
+URL: http://vocotv.pro:80/live/10/12345/644129.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 96
-URL: http://vocotv.pro:80/live/gast/gast/644128.ts
+URL: http://vocotv.pro:80/live/10/12345/644128.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 97
-URL: http://vocotv.pro:80/live/gast/gast/644127.ts
+URL: http://vocotv.pro:80/live/10/12345/644127.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 98
-URL: http://vocotv.pro:80/live/gast/gast/644126.ts
+URL: http://vocotv.pro:80/live/10/12345/644126.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 99
-URL: http://vocotv.pro:80/live/gast/gast/644125.ts
+URL: http://vocotv.pro:80/live/10/12345/644125.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BTN+ 100
-URL: http://vocotv.pro:80/live/gast/gast/644124.ts
+URL: http://vocotv.pro:80/live/10/12345/644124.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -5827,1997 +5827,1997 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 
 Group: ESPN+
 Name: ESPN+ 1
-URL: http://vocotv.pro:80/gast/gast/635536
+URL: http://vocotv.pro:80/live/10/12345/635536.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 2
-URL: http://vocotv.pro:80/gast/gast/635535
+URL: http://vocotv.pro:80/live/10/12345/635535.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 3
-URL: http://vocotv.pro:80/gast/gast/635534
+URL: http://vocotv.pro:80/10/12345/635534
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 4
-URL: http://vocotv.pro:80/gast/gast/635533
+URL: http://vocotv.pro:80/10/12345/635533
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 5
-URL: http://vocotv.pro:80/gast/gast/635532
+URL: http://vocotv.pro:80/10/12345/635532
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 6
-URL: http://vocotv.pro:80/gast/gast/635531
+URL: http://vocotv.pro:80/10/12345/635531
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 7
-URL: http://vocotv.pro:80/gast/gast/635530
+URL: http://vocotv.pro:80/10/12345/635530
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 8
-URL: http://vocotv.pro:80/gast/gast/635529
+URL: http://vocotv.pro:80/10/12345/635529
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 9
-URL: http://vocotv.pro:80/gast/gast/635528
+URL: http://vocotv.pro:80/10/12345/635528
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 10
-URL: http://vocotv.pro:80/gast/gast/635527
+URL: http://vocotv.pro:80/10/12345/635527
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 11
-URL: http://vocotv.pro:80/gast/gast/635526
+URL: http://vocotv.pro:80/10/12345/635526
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 12
-URL: http://vocotv.pro:80/gast/gast/635525
+URL: http://vocotv.pro:80/10/12345/635525
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 13
-URL: http://vocotv.pro:80/gast/gast/635524
+URL: http://vocotv.pro:80/10/12345/635524
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 14
-URL: http://vocotv.pro:80/gast/gast/635523
+URL: http://vocotv.pro:80/10/12345/635523
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 15
-URL: http://vocotv.pro:80/gast/gast/635522
+URL: http://vocotv.pro:80/10/12345/635522
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 16
-URL: http://vocotv.pro:80/gast/gast/635521
+URL: http://vocotv.pro:80/10/12345/635521
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 17
-URL: http://vocotv.pro:80/gast/gast/635520
+URL: http://vocotv.pro:80/10/12345/635520
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 18
-URL: http://vocotv.pro:80/gast/gast/635519
+URL: http://vocotv.pro:80/10/12345/635519
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 19
-URL: http://vocotv.pro:80/gast/gast/635518
+URL: http://vocotv.pro:80/10/12345/635518
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 20
-URL: http://vocotv.pro:80/gast/gast/635517
+URL: http://vocotv.pro:80/10/12345/635517
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 21
-URL: http://vocotv.pro:80/gast/gast/635516
+URL: http://vocotv.pro:80/10/12345/635516
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 22
-URL: http://vocotv.pro:80/gast/gast/635515
+URL: http://vocotv.pro:80/10/12345/635515
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 23
-URL: http://vocotv.pro:80/gast/gast/635514
+URL: http://vocotv.pro:80/10/12345/635514
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 24
-URL: http://vocotv.pro:80/gast/gast/635513
+URL: http://vocotv.pro:80/10/12345/635513
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 25
-URL: http://vocotv.pro:80/gast/gast/635512
+URL: http://vocotv.pro:80/10/12345/635512
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 26
-URL: http://vocotv.pro:80/gast/gast/635510
+URL: http://vocotv.pro:80/10/12345/635510
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 27
-URL: http://vocotv.pro:80/gast/gast/635509
+URL: http://vocotv.pro:80/10/12345/635509
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 28
-URL: http://vocotv.pro:80/gast/gast/635508
+URL: http://vocotv.pro:80/10/12345/635508
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 29
-URL: http://vocotv.pro:80/gast/gast/635507
+URL: http://vocotv.pro:80/10/12345/635507
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 30
-URL: http://vocotv.pro:80/gast/gast/635506
+URL: http://vocotv.pro:80/10/12345/635506
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 31
-URL: http://vocotv.pro:80/gast/gast/635505
+URL: http://vocotv.pro:80/10/12345/635505
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 32
-URL: http://vocotv.pro:80/gast/gast/635504
+URL: http://vocotv.pro:80/10/12345/635504
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 33
-URL: http://vocotv.pro:80/gast/gast/635503
+URL: http://vocotv.pro:80/10/12345/635503
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 34
-URL: http://vocotv.pro:80/gast/gast/635502
+URL: http://vocotv.pro:80/10/12345/635502
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 35
-URL: http://vocotv.pro:80/gast/gast/635501
+URL: http://vocotv.pro:80/10/12345/635501
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 36
-URL: http://vocotv.pro:80/gast/gast/635500
+URL: http://vocotv.pro:80/10/12345/635500
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 37
-URL: http://vocotv.pro:80/gast/gast/635499
+URL: http://vocotv.pro:80/10/12345/635499
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 38
-URL: http://vocotv.pro:80/gast/gast/635498
+URL: http://vocotv.pro:80/10/12345/635498
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 39
-URL: http://vocotv.pro:80/gast/gast/635497
+URL: http://vocotv.pro:80/10/12345/635497
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 40
-URL: http://vocotv.pro:80/gast/gast/635496
+URL: http://vocotv.pro:80/10/12345/635496
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 41
-URL: http://vocotv.pro:80/gast/gast/635495
+URL: http://vocotv.pro:80/10/12345/635495
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 42
-URL: http://vocotv.pro:80/gast/gast/635494
+URL: http://vocotv.pro:80/10/12345/635494
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 43
-URL: http://vocotv.pro:80/gast/gast/635493
+URL: http://vocotv.pro:80/10/12345/635493
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 44
-URL: http://vocotv.pro:80/gast/gast/635492
+URL: http://vocotv.pro:80/10/12345/635492
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 45
-URL: http://vocotv.pro:80/gast/gast/635491
+URL: http://vocotv.pro:80/10/12345/635491
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 46
-URL: http://vocotv.pro:80/gast/gast/635490
+URL: http://vocotv.pro:80/10/12345/635490
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 47
-URL: http://vocotv.pro:80/gast/gast/635489
+URL: http://vocotv.pro:80/10/12345/635489
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 48
-URL: http://vocotv.pro:80/gast/gast/635488
+URL: http://vocotv.pro:80/10/12345/635488
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 49
-URL: http://vocotv.pro:80/gast/gast/635487
+URL: http://vocotv.pro:80/10/12345/635487
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 50
-URL: http://vocotv.pro:80/gast/gast/635486
+URL: http://vocotv.pro:80/10/12345/635486
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 51
-URL: http://vocotv.pro:80/gast/gast/635485
+URL: http://vocotv.pro:80/10/12345/635485
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 52
-URL: http://vocotv.pro:80/gast/gast/635484
+URL: http://vocotv.pro:80/10/12345/635484
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 53
-URL: http://vocotv.pro:80/gast/gast/635483
+URL: http://vocotv.pro:80/10/12345/635483
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 54
-URL: http://vocotv.pro:80/gast/gast/635482
+URL: http://vocotv.pro:80/10/12345/635482
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 55
-URL: http://vocotv.pro:80/gast/gast/635481
+URL: http://vocotv.pro:80/10/12345/635481
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 56
-URL: http://vocotv.pro:80/gast/gast/635480
+URL: http://vocotv.pro:80/10/12345/635480
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 57
-URL: http://vocotv.pro:80/gast/gast/635479
+URL: http://vocotv.pro:80/10/12345/635479
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 58
-URL: http://vocotv.pro:80/gast/gast/635478
+URL: http://vocotv.pro:80/10/12345/635478
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 59
-URL: http://vocotv.pro:80/gast/gast/635477
+URL: http://vocotv.pro:80/10/12345/635477
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 60
-URL: http://vocotv.pro:80/gast/gast/635476
+URL: http://vocotv.pro:80/10/12345/635476
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 61
-URL: http://vocotv.pro:80/gast/gast/635475
+URL: http://vocotv.pro:80/10/12345/635475
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 62
-URL: http://vocotv.pro:80/gast/gast/635474
+URL: http://vocotv.pro:80/10/12345/635474
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 63
-URL: http://vocotv.pro:80/gast/gast/635473
+URL: http://vocotv.pro:80/10/12345/635473
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 64
-URL: http://vocotv.pro:80/gast/gast/635472
+URL: http://vocotv.pro:80/10/12345/635472
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 65
-URL: http://vocotv.pro:80/gast/gast/635471
+URL: http://vocotv.pro:80/10/12345/635471
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 66
-URL: http://vocotv.pro:80/gast/gast/635470
+URL: http://vocotv.pro:80/10/12345/635470
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 67
-URL: http://vocotv.pro:80/gast/gast/635469
+URL: http://vocotv.pro:80/10/12345/635469
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 68
-URL: http://vocotv.pro:80/gast/gast/635468
+URL: http://vocotv.pro:80/10/12345/635468
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 69
-URL: http://vocotv.pro:80/gast/gast/635467
+URL: http://vocotv.pro:80/10/12345/635467
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 70
-URL: http://vocotv.pro:80/gast/gast/635466
+URL: http://vocotv.pro:80/10/12345/635466
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 71
-URL: http://vocotv.pro:80/gast/gast/635465
+URL: http://vocotv.pro:80/10/12345/635465
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 72
-URL: http://vocotv.pro:80/gast/gast/635464
+URL: http://vocotv.pro:80/10/12345/635464
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 73
-URL: http://vocotv.pro:80/gast/gast/635463
+URL: http://vocotv.pro:80/10/12345/635463
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 74
-URL: http://vocotv.pro:80/gast/gast/635462
+URL: http://vocotv.pro:80/10/12345/635462
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 75
-URL: http://vocotv.pro:80/gast/gast/635461
+URL: http://vocotv.pro:80/10/12345/635461
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 76
-URL: http://vocotv.pro:80/gast/gast/635460
+URL: http://vocotv.pro:80/10/12345/635460
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 77
-URL: http://vocotv.pro:80/gast/gast/635459
+URL: http://vocotv.pro:80/10/12345/635459
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 78
-URL: http://vocotv.pro:80/gast/gast/635458
+URL: http://vocotv.pro:80/10/12345/635458
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 79
-URL: http://vocotv.pro:80/gast/gast/635457
+URL: http://vocotv.pro:80/10/12345/635457
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 80
-URL: http://vocotv.pro:80/gast/gast/635456
+URL: http://vocotv.pro:80/10/12345/635456
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 81
-URL: http://vocotv.pro:80/gast/gast/635455
+URL: http://vocotv.pro:80/10/12345/635455
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 82
-URL: http://vocotv.pro:80/gast/gast/635454
+URL: http://vocotv.pro:80/10/12345/635454
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 83
-URL: http://vocotv.pro:80/gast/gast/635453
+URL: http://vocotv.pro:80/10/12345/635453
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 84
-URL: http://vocotv.pro:80/gast/gast/635452
+URL: http://vocotv.pro:80/10/12345/635452
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 85
-URL: http://vocotv.pro:80/gast/gast/635451
+URL: http://vocotv.pro:80/10/12345/635451
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 86
-URL: http://vocotv.pro:80/gast/gast/635450
+URL: http://vocotv.pro:80/10/12345/635450
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 87
-URL: http://vocotv.pro:80/gast/gast/635449
+URL: http://vocotv.pro:80/10/12345/635449
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 88
-URL: http://vocotv.pro:80/gast/gast/635448
+URL: http://vocotv.pro:80/10/12345/635448
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 89
-URL: http://vocotv.pro:80/gast/gast/635447
+URL: http://vocotv.pro:80/10/12345/635447
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 90
-URL: http://vocotv.pro:80/gast/gast/635446
+URL: http://vocotv.pro:80/10/12345/635446
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 91
-URL: http://vocotv.pro:80/gast/gast/635445
+URL: http://vocotv.pro:80/10/12345/635445
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 92
-URL: http://vocotv.pro:80/gast/gast/635444
+URL: http://vocotv.pro:80/10/12345/635444
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 93
-URL: http://vocotv.pro:80/gast/gast/635443
+URL: http://vocotv.pro:80/10/12345/635443
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 94
-URL: http://vocotv.pro:80/gast/gast/635442
+URL: http://vocotv.pro:80/10/12345/635442
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 95
-URL: http://vocotv.pro:80/gast/gast/635441
+URL: http://vocotv.pro:80/10/12345/635441
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 96
-URL: http://vocotv.pro:80/gast/gast/635440
+URL: http://vocotv.pro:80/10/12345/635440
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 97
-URL: http://vocotv.pro:80/gast/gast/635439
+URL: http://vocotv.pro:80/10/12345/635439
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 98
-URL: http://vocotv.pro:80/gast/gast/635438
+URL: http://vocotv.pro:80/10/12345/635438
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 99
-URL: http://vocotv.pro:80/gast/gast/635437
+URL: http://vocotv.pro:80/10/12345/635437
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 100
-URL: http://vocotv.pro:80/gast/gast/635436
+URL: http://vocotv.pro:80/10/12345/635436
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 101
-URL: http://vocotv.pro:80/gast/gast/635435
+URL: http://vocotv.pro:80/10/12345/635435
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 102
-URL: http://vocotv.pro:80/gast/gast/635434
+URL: http://vocotv.pro:80/10/12345/635434
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 103
-URL: http://vocotv.pro:80/gast/gast/635433
+URL: http://vocotv.pro:80/10/12345/635433
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 104
-URL: http://vocotv.pro:80/gast/gast/635432
+URL: http://vocotv.pro:80/10/12345/635432
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 105
-URL: http://vocotv.pro:80/gast/gast/635431
+URL: http://vocotv.pro:80/10/12345/635431
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 106
-URL: http://vocotv.pro:80/gast/gast/635430
+URL: http://vocotv.pro:80/10/12345/635430
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 107
-URL: http://vocotv.pro:80/gast/gast/635429
+URL: http://vocotv.pro:80/10/12345/635429
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 108
-URL: http://vocotv.pro:80/gast/gast/635428
+URL: http://vocotv.pro:80/10/12345/635428
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 109
-URL: http://vocotv.pro:80/gast/gast/635427
+URL: http://vocotv.pro:80/10/12345/635427
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 110
-URL: http://vocotv.pro:80/gast/gast/635426
+URL: http://vocotv.pro:80/10/12345/635426
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 111
-URL: http://vocotv.pro:80/gast/gast/635425
+URL: http://vocotv.pro:80/10/12345/635425
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 112
-URL: http://vocotv.pro:80/gast/gast/635424
+URL: http://vocotv.pro:80/10/12345/635424
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 113
-URL: http://vocotv.pro:80/gast/gast/635423
+URL: http://vocotv.pro:80/10/12345/635423
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 114
-URL: http://vocotv.pro:80/gast/gast/635422
+URL: http://vocotv.pro:80/10/12345/635422
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 115
-URL: http://vocotv.pro:80/gast/gast/635421
+URL: http://vocotv.pro:80/10/12345/635421
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 116
-URL: http://vocotv.pro:80/gast/gast/635420
+URL: http://vocotv.pro:80/10/12345/635420
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 117
-URL: http://vocotv.pro:80/gast/gast/635419
+URL: http://vocotv.pro:80/10/12345/635419
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 118
-URL: http://vocotv.pro:80/gast/gast/635418
+URL: http://vocotv.pro:80/10/12345/635418
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 119
-URL: http://vocotv.pro:80/gast/gast/635417
+URL: http://vocotv.pro:80/10/12345/635417
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 120
-URL: http://vocotv.pro:80/gast/gast/635416
+URL: http://vocotv.pro:80/10/12345/635416
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 121
-URL: http://vocotv.pro:80/gast/gast/635415
+URL: http://vocotv.pro:80/10/12345/635415
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 122
-URL: http://vocotv.pro:80/gast/gast/635414
+URL: http://vocotv.pro:80/10/12345/635414
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 123
-URL: http://vocotv.pro:80/gast/gast/635413
+URL: http://vocotv.pro:80/10/12345/635413
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 124
-URL: http://vocotv.pro:80/gast/gast/635412
+URL: http://vocotv.pro:80/10/12345/635412
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 125
-URL: http://vocotv.pro:80/gast/gast/635411
+URL: http://vocotv.pro:80/10/12345/635411
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 126
-URL: http://vocotv.pro:80/gast/gast/635410
+URL: http://vocotv.pro:80/10/12345/635410
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 127
-URL: http://vocotv.pro:80/gast/gast/635409
+URL: http://vocotv.pro:80/10/12345/635409
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 128
-URL: http://vocotv.pro:80/gast/gast/635408
+URL: http://vocotv.pro:80/10/12345/635408
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 129
-URL: http://vocotv.pro:80/gast/gast/635407
+URL: http://vocotv.pro:80/10/12345/635407
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 130
-URL: http://vocotv.pro:80/gast/gast/635406
+URL: http://vocotv.pro:80/10/12345/635406
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 131
-URL: http://vocotv.pro:80/gast/gast/635405
+URL: http://vocotv.pro:80/10/12345/635405
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 132
-URL: http://vocotv.pro:80/gast/gast/635404
+URL: http://vocotv.pro:80/10/12345/635404
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 133
-URL: http://vocotv.pro:80/gast/gast/635403
+URL: http://vocotv.pro:80/10/12345/635403
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 134
-URL: http://vocotv.pro:80/gast/gast/635402
+URL: http://vocotv.pro:80/10/12345/635402
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 135
-URL: http://vocotv.pro:80/gast/gast/635401
+URL: http://vocotv.pro:80/10/12345/635401
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 136
-URL: http://vocotv.pro:80/gast/gast/635400
+URL: http://vocotv.pro:80/10/12345/635400
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 137
-URL: http://vocotv.pro:80/gast/gast/635399
+URL: http://vocotv.pro:80/10/12345/635399
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 138
-URL: http://vocotv.pro:80/gast/gast/635398
+URL: http://vocotv.pro:80/10/12345/635398
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 139
-URL: http://vocotv.pro:80/gast/gast/635397
+URL: http://vocotv.pro:80/10/12345/635397
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 140
-URL: http://vocotv.pro:80/gast/gast/635396
+URL: http://vocotv.pro:80/10/12345/635396
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 141
-URL: http://vocotv.pro:80/gast/gast/635395
+URL: http://vocotv.pro:80/10/12345/635395
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 142
-URL: http://vocotv.pro:80/gast/gast/635394
+URL: http://vocotv.pro:80/10/12345/635394
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 143
-URL: http://vocotv.pro:80/gast/gast/635393
+URL: http://vocotv.pro:80/10/12345/635393
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 144
-URL: http://vocotv.pro:80/gast/gast/635392
+URL: http://vocotv.pro:80/10/12345/635392
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 145
-URL: http://vocotv.pro:80/gast/gast/635391
+URL: http://vocotv.pro:80/10/12345/635391
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 146
-URL: http://vocotv.pro:80/gast/gast/635390
+URL: http://vocotv.pro:80/10/12345/635390
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 147
-URL: http://vocotv.pro:80/gast/gast/635389
+URL: http://vocotv.pro:80/10/12345/635389
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 148
-URL: http://vocotv.pro:80/gast/gast/635388
+URL: http://vocotv.pro:80/10/12345/635388
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 149
-URL: http://vocotv.pro:80/gast/gast/635387
+URL: http://vocotv.pro:80/10/12345/635387
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 150
-URL: http://vocotv.pro:80/gast/gast/635386
+URL: http://vocotv.pro:80/10/12345/635386
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 151
-URL: http://vocotv.pro:80/gast/gast/635385
+URL: http://vocotv.pro:80/10/12345/635385
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 152
-URL: http://vocotv.pro:80/gast/gast/635384
+URL: http://vocotv.pro:80/10/12345/635384
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 153
-URL: http://vocotv.pro:80/gast/gast/635383
+URL: http://vocotv.pro:80/10/12345/635383
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 154
-URL: http://vocotv.pro:80/gast/gast/635382
+URL: http://vocotv.pro:80/10/12345/635382
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 155
-URL: http://vocotv.pro:80/gast/gast/635381
+URL: http://vocotv.pro:80/10/12345/635381
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 156
-URL: http://vocotv.pro:80/gast/gast/635380
+URL: http://vocotv.pro:80/10/12345/635380
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 157
-URL: http://vocotv.pro:80/gast/gast/635379
+URL: http://vocotv.pro:80/10/12345/635379
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 158
-URL: http://vocotv.pro:80/gast/gast/635378
+URL: http://vocotv.pro:80/10/12345/635378
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 159
-URL: http://vocotv.pro:80/gast/gast/635377
+URL: http://vocotv.pro:80/10/12345/635377
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 160
-URL: http://vocotv.pro:80/gast/gast/635376
+URL: http://vocotv.pro:80/10/12345/635376
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 161
-URL: http://vocotv.pro:80/gast/gast/635375
+URL: http://vocotv.pro:80/10/12345/635375
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 162
-URL: http://vocotv.pro:80/gast/gast/635374
+URL: http://vocotv.pro:80/10/12345/635374
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 163
-URL: http://vocotv.pro:80/gast/gast/635373
+URL: http://vocotv.pro:80/10/12345/635373
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 164
-URL: http://vocotv.pro:80/gast/gast/635372
+URL: http://vocotv.pro:80/10/12345/635372
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 165
-URL: http://vocotv.pro:80/gast/gast/635371
+URL: http://vocotv.pro:80/10/12345/635371
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 166
-URL: http://vocotv.pro:80/gast/gast/635370
+URL: http://vocotv.pro:80/10/12345/635370
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 167
-URL: http://vocotv.pro:80/gast/gast/635369
+URL: http://vocotv.pro:80/10/12345/635369
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 168
-URL: http://vocotv.pro:80/gast/gast/635368
+URL: http://vocotv.pro:80/10/12345/635368
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 169
-URL: http://vocotv.pro:80/gast/gast/635367
+URL: http://vocotv.pro:80/10/12345/635367
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 170
-URL: http://vocotv.pro:80/gast/gast/635366
+URL: http://vocotv.pro:80/10/12345/635366
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 171
-URL: http://vocotv.pro:80/gast/gast/635365
+URL: http://vocotv.pro:80/10/12345/635365
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 172
-URL: http://vocotv.pro:80/gast/gast/635364
+URL: http://vocotv.pro:80/10/12345/635364
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 173
-URL: http://vocotv.pro:80/gast/gast/635363
+URL: http://vocotv.pro:80/10/12345/635363
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 174
-URL: http://vocotv.pro:80/gast/gast/635362
+URL: http://vocotv.pro:80/10/12345/635362
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 175
-URL: http://vocotv.pro:80/gast/gast/635361
+URL: http://vocotv.pro:80/10/12345/635361
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 176
-URL: http://vocotv.pro:80/gast/gast/635360
+URL: http://vocotv.pro:80/10/12345/635360
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 177
-URL: http://vocotv.pro:80/gast/gast/635359
+URL: http://vocotv.pro:80/10/12345/635359
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 178
-URL: http://vocotv.pro:80/gast/gast/635358
+URL: http://vocotv.pro:80/10/12345/635358
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 179
-URL: http://vocotv.pro:80/gast/gast/635357
+URL: http://vocotv.pro:80/10/12345/635357
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 180
-URL: http://vocotv.pro:80/gast/gast/635356
+URL: http://vocotv.pro:80/10/12345/635356
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 181
-URL: http://vocotv.pro:80/gast/gast/635355
+URL: http://vocotv.pro:80/10/12345/635355
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 182
-URL: http://vocotv.pro:80/gast/gast/635354
+URL: http://vocotv.pro:80/10/12345/635354
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 183
-URL: http://vocotv.pro:80/gast/gast/635353
+URL: http://vocotv.pro:80/10/12345/635353
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 184
-URL: http://vocotv.pro:80/gast/gast/635352
+URL: http://vocotv.pro:80/10/12345/635352
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 185
-URL: http://vocotv.pro:80/gast/gast/635351
+URL: http://vocotv.pro:80/10/12345/635351
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 186
-URL: http://vocotv.pro:80/gast/gast/635350
+URL: http://vocotv.pro:80/10/12345/635350
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 187
-URL: http://vocotv.pro:80/gast/gast/635349
+URL: http://vocotv.pro:80/10/12345/635349
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 188
-URL: http://vocotv.pro:80/gast/gast/635348
+URL: http://vocotv.pro:80/10/12345/635348
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 189
-URL: http://vocotv.pro:80/gast/gast/635347
+URL: http://vocotv.pro:80/10/12345/635347
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 190
-URL: http://vocotv.pro:80/gast/gast/635346
+URL: http://vocotv.pro:80/10/12345/635346
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 191
-URL: http://vocotv.pro:80/gast/gast/635345
+URL: http://vocotv.pro:80/10/12345/635345
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 192
-URL: http://vocotv.pro:80/gast/gast/635344
+URL: http://vocotv.pro:80/10/12345/635344
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 193
-URL: http://vocotv.pro:80/gast/gast/635343
+URL: http://vocotv.pro:80/10/12345/635343
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 194
-URL: http://vocotv.pro:80/gast/gast/635342
+URL: http://vocotv.pro:80/10/12345/635342
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 195
-URL: http://vocotv.pro:80/gast/gast/635341
+URL: http://vocotv.pro:80/10/12345/635341
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 196
-URL: http://vocotv.pro:80/gast/gast/635340
+URL: http://vocotv.pro:80/10/12345/635340
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 197
-URL: http://vocotv.pro:80/gast/gast/635339
+URL: http://vocotv.pro:80/10/12345/635339
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 198
-URL: http://vocotv.pro:80/gast/gast/635338
+URL: http://vocotv.pro:80/10/12345/635338
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 199
-URL: http://vocotv.pro:80/gast/gast/635337
+URL: http://vocotv.pro:80/10/12345/635337
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 200
-URL: http://vocotv.pro:80/gast/gast/635336
+URL: http://vocotv.pro:80/10/12345/635336
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 201
-URL: http://vocotv.pro:80/gast/gast/635335
+URL: http://vocotv.pro:80/10/12345/635335
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 202
-URL: http://vocotv.pro:80/gast/gast/635334
+URL: http://vocotv.pro:80/10/12345/635334
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 203
-URL: http://vocotv.pro:80/gast/gast/635333
+URL: http://vocotv.pro:80/10/12345/635333
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 204
-URL: http://vocotv.pro:80/gast/gast/635332
+URL: http://vocotv.pro:80/10/12345/635332
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 205
-URL: http://vocotv.pro:80/gast/gast/635331
+URL: http://vocotv.pro:80/10/12345/635331
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 206
-URL: http://vocotv.pro:80/gast/gast/635330
+URL: http://vocotv.pro:80/10/12345/635330
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 207
-URL: http://vocotv.pro:80/gast/gast/635329
+URL: http://vocotv.pro:80/10/12345/635329
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 208
-URL: http://vocotv.pro:80/gast/gast/635328
+URL: http://vocotv.pro:80/10/12345/635328
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 209
-URL: http://vocotv.pro:80/gast/gast/635327
+URL: http://vocotv.pro:80/10/12345/635327
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 210
-URL: http://vocotv.pro:80/gast/gast/635326
+URL: http://vocotv.pro:80/10/12345/635326
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 211
-URL: http://vocotv.pro:80/gast/gast/635325
+URL: http://vocotv.pro:80/10/12345/635325
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 212
-URL: http://vocotv.pro:80/gast/gast/635324
+URL: http://vocotv.pro:80/10/12345/635324
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 213
-URL: http://vocotv.pro:80/gast/gast/635323
+URL: http://vocotv.pro:80/10/12345/635323
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 214
-URL: http://vocotv.pro:80/gast/gast/635322
+URL: http://vocotv.pro:80/10/12345/635322
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 215
-URL: http://vocotv.pro:80/gast/gast/635321
+URL: http://vocotv.pro:80/10/12345/635321
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 216
-URL: http://vocotv.pro:80/gast/gast/635320
+URL: http://vocotv.pro:80/10/12345/635320
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 217
-URL: http://vocotv.pro:80/gast/gast/635319
+URL: http://vocotv.pro:80/10/12345/635319
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 218
-URL: http://vocotv.pro:80/gast/gast/635318
+URL: http://vocotv.pro:80/10/12345/635318
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 219
-URL: http://vocotv.pro:80/gast/gast/635317
+URL: http://vocotv.pro:80/10/12345/635317
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 220
-URL: http://vocotv.pro:80/gast/gast/635316
+URL: http://vocotv.pro:80/10/12345/635316
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 221
-URL: http://vocotv.pro:80/gast/gast/635315
+URL: http://vocotv.pro:80/10/12345/635315
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 222
-URL: http://vocotv.pro:80/gast/gast/635314
+URL: http://vocotv.pro:80/10/12345/635314
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 223
-URL: http://vocotv.pro:80/gast/gast/635313
+URL: http://vocotv.pro:80/10/12345/635313
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 224
-URL: http://vocotv.pro:80/gast/gast/635312
+URL: http://vocotv.pro:80/10/12345/635312
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 225
-URL: http://vocotv.pro:80/gast/gast/635311
+URL: http://vocotv.pro:80/10/12345/635311
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 226
-URL: http://vocotv.pro:80/gast/gast/635310
+URL: http://vocotv.pro:80/10/12345/635310
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 227
-URL: http://vocotv.pro:80/gast/gast/635309
+URL: http://vocotv.pro:80/10/12345/635309
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 228
-URL: http://vocotv.pro:80/gast/gast/635308
+URL: http://vocotv.pro:80/10/12345/635308
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 229
-URL: http://vocotv.pro:80/gast/gast/635307
+URL: http://vocotv.pro:80/10/12345/635307
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 230
-URL: http://vocotv.pro:80/gast/gast/635306
+URL: http://vocotv.pro:80/10/12345/635306
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 231
-URL: http://vocotv.pro:80/gast/gast/635305
+URL: http://vocotv.pro:80/10/12345/635305
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 232
-URL: http://vocotv.pro:80/gast/gast/635304
+URL: http://vocotv.pro:80/10/12345/635304
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 233
-URL: http://vocotv.pro:80/gast/gast/635303
+URL: http://vocotv.pro:80/10/12345/635303
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 234
-URL: http://vocotv.pro:80/gast/gast/635302
+URL: http://vocotv.pro:80/10/12345/635302
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 235
-URL: http://vocotv.pro:80/gast/gast/635301
+URL: http://vocotv.pro:80/10/12345/635301
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 236
-URL: http://vocotv.pro:80/gast/gast/635300
+URL: http://vocotv.pro:80/10/12345/635300
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 237
-URL: http://vocotv.pro:80/gast/gast/635299
+URL: http://vocotv.pro:80/10/12345/635299
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 238
-URL: http://vocotv.pro:80/gast/gast/635298
+URL: http://vocotv.pro:80/10/12345/635298
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 239
-URL: http://vocotv.pro:80/gast/gast/635297
+URL: http://vocotv.pro:80/10/12345/635297
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 240
-URL: http://vocotv.pro:80/gast/gast/635296
+URL: http://vocotv.pro:80/10/12345/635296
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 241
-URL: http://vocotv.pro:80/gast/gast/635295
+URL: http://vocotv.pro:80/10/12345/635295
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 242
-URL: http://vocotv.pro:80/gast/gast/635294
+URL: http://vocotv.pro:80/10/12345/635294
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 243
-URL: http://vocotv.pro:80/gast/gast/635293
+URL: http://vocotv.pro:80/10/12345/635293
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 244
-URL: http://vocotv.pro:80/gast/gast/635292
+URL: http://vocotv.pro:80/10/12345/635292
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 245
-URL: http://vocotv.pro:80/gast/gast/635291
+URL: http://vocotv.pro:80/10/12345/635291
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 246
-URL: http://vocotv.pro:80/gast/gast/635290
+URL: http://vocotv.pro:80/10/12345/635290
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 247
-URL: http://vocotv.pro:80/gast/gast/635289
+URL: http://vocotv.pro:80/10/12345/635289
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 248
-URL: http://vocotv.pro:80/gast/gast/635288
+URL: http://vocotv.pro:80/10/12345/635288
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 249
-URL: http://vocotv.pro:80/gast/gast/635287
+URL: http://vocotv.pro:80/10/12345/635287
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 250
-URL: http://vocotv.pro:80/gast/gast/635286
+URL: http://vocotv.pro:80/10/12345/635286
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 251
-URL: http://vocotv.pro:80/gast/gast/635285
+URL: http://vocotv.pro:80/10/12345/635285
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 252
-URL: http://vocotv.pro:80/gast/gast/635284
+URL: http://vocotv.pro:80/10/12345/635284
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 253
-URL: http://vocotv.pro:80/gast/gast/635283
+URL: http://vocotv.pro:80/10/12345/635283
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 254
-URL: http://vocotv.pro:80/gast/gast/635282
+URL: http://vocotv.pro:80/10/12345/635282
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 255
-URL: http://vocotv.pro:80/gast/gast/635281
+URL: http://vocotv.pro:80/10/12345/635281
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 256
-URL: http://vocotv.pro:80/gast/gast/635280
+URL: http://vocotv.pro:80/10/12345/635280
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 257
-URL: http://vocotv.pro:80/gast/gast/635279
+URL: http://vocotv.pro:80/10/12345/635279
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 258
-URL: http://vocotv.pro:80/gast/gast/635278
+URL: http://vocotv.pro:80/10/12345/635278
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 259
-URL: http://vocotv.pro:80/gast/gast/635277
+URL: http://vocotv.pro:80/10/12345/635277
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 260
-URL: http://vocotv.pro:80/gast/gast/635276
+URL: http://vocotv.pro:80/10/12345/635276
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 261
-URL: http://vocotv.pro:80/gast/gast/635275
+URL: http://vocotv.pro:80/10/12345/635275
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 262
-URL: http://vocotv.pro:80/gast/gast/635274
+URL: http://vocotv.pro:80/10/12345/635274
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 263
-URL: http://vocotv.pro:80/gast/gast/635273
+URL: http://vocotv.pro:80/10/12345/635273
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 264
-URL: http://vocotv.pro:80/gast/gast/635272
+URL: http://vocotv.pro:80/10/12345/635272
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 265
-URL: http://vocotv.pro:80/gast/gast/635271
+URL: http://vocotv.pro:80/10/12345/635271
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 266
-URL: http://vocotv.pro:80/gast/gast/635270
+URL: http://vocotv.pro:80/10/12345/635270
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 267
-URL: http://vocotv.pro:80/gast/gast/635269
+URL: http://vocotv.pro:80/10/12345/635269
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 268
-URL: http://vocotv.pro:80/gast/gast/635268
+URL: http://vocotv.pro:80/10/12345/635268
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 269
-URL: http://vocotv.pro:80/gast/gast/635267
+URL: http://vocotv.pro:80/10/12345/635267
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 270
-URL: http://vocotv.pro:80/gast/gast/635266
+URL: http://vocotv.pro:80/10/12345/635266
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 271
-URL: http://vocotv.pro:80/gast/gast/635265
+URL: http://vocotv.pro:80/10/12345/635265
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 272
-URL: http://vocotv.pro:80/gast/gast/635264
+URL: http://vocotv.pro:80/10/12345/635264
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 273
-URL: http://vocotv.pro:80/gast/gast/635263
+URL: http://vocotv.pro:80/10/12345/635263
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 274
-URL: http://vocotv.pro:80/gast/gast/635262
+URL: http://vocotv.pro:80/10/12345/635262
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 275
-URL: http://vocotv.pro:80/gast/gast/635261
+URL: http://vocotv.pro:80/10/12345/635261
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 276
-URL: http://vocotv.pro:80/gast/gast/635260
+URL: http://vocotv.pro:80/10/12345/635260
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 277
-URL: http://vocotv.pro:80/gast/gast/635259
+URL: http://vocotv.pro:80/10/12345/635259
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 278
-URL: http://vocotv.pro:80/gast/gast/635258
+URL: http://vocotv.pro:80/10/12345/635258
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 279
-URL: http://vocotv.pro:80/gast/gast/635257
+URL: http://vocotv.pro:80/10/12345/635257
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 280
-URL: http://vocotv.pro:80/gast/gast/635256
+URL: http://vocotv.pro:80/10/12345/635256
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 281
-URL: http://vocotv.pro:80/gast/gast/635255
+URL: http://vocotv.pro:80/10/12345/635255
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 282
-URL: http://vocotv.pro:80/gast/gast/635254
+URL: http://vocotv.pro:80/10/12345/635254
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 283
-URL: http://vocotv.pro:80/gast/gast/635253
+URL: http://vocotv.pro:80/10/12345/635253
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 284
-URL: http://vocotv.pro:80/gast/gast/635252
+URL: http://vocotv.pro:80/10/12345/635252
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 285
-URL: http://vocotv.pro:80/gast/gast/635251
+URL: http://vocotv.pro:80/10/12345/635251
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 286
-URL: http://vocotv.pro:80/gast/gast/635250
+URL: http://vocotv.pro:80/10/12345/635250
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 287
-URL: http://vocotv.pro:80/gast/gast/635249
+URL: http://vocotv.pro:80/10/12345/635249
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 288
-URL: http://vocotv.pro:80/gast/gast/635248
+URL: http://vocotv.pro:80/10/12345/635248
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 289
-URL: http://vocotv.pro:80/gast/gast/635247
+URL: http://vocotv.pro:80/10/12345/635247
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 290
-URL: http://vocotv.pro:80/gast/gast/635246
+URL: http://vocotv.pro:80/10/12345/635246
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 291
-URL: http://vocotv.pro:80/gast/gast/635245
+URL: http://vocotv.pro:80/10/12345/635245
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 292
-URL: http://vocotv.pro:80/gast/gast/635244
+URL: http://vocotv.pro:80/10/12345/635244
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 293
-URL: http://vocotv.pro:80/gast/gast/635243
+URL: http://vocotv.pro:80/10/12345/635243
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 294
-URL: http://vocotv.pro:80/gast/gast/635242
+URL: http://vocotv.pro:80/10/12345/635242
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 295
-URL: http://vocotv.pro:80/gast/gast/635241
+URL: http://vocotv.pro:80/10/12345/635241
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 296
-URL: http://vocotv.pro:80/gast/gast/635240
+URL: http://vocotv.pro:80/10/12345/635240
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 297
-URL: http://vocotv.pro:80/gast/gast/635239
+URL: http://vocotv.pro:80/10/12345/635239
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 298
-URL: http://vocotv.pro:80/gast/gast/635238
+URL: http://vocotv.pro:80/10/12345/635238
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 299
-URL: http://vocotv.pro:80/gast/gast/635237
+URL: http://vocotv.pro:80/10/12345/635237
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 300
-URL: http://vocotv.pro:80/gast/gast/635236
+URL: http://vocotv.pro:80/10/12345/635236
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 301
-URL: http://vocotv.pro:80/gast/gast/635235
+URL: http://vocotv.pro:80/10/12345/635235
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 302
-URL: http://vocotv.pro:80/gast/gast/635234
+URL: http://vocotv.pro:80/10/12345/635234
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 303
-URL: http://vocotv.pro:80/gast/gast/635233
+URL: http://vocotv.pro:80/10/12345/635233
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 304
-URL: http://vocotv.pro:80/gast/gast/635232
+URL: http://vocotv.pro:80/10/12345/635232
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 305
-URL: http://vocotv.pro:80/gast/gast/635231
+URL: http://vocotv.pro:80/10/12345/635231
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 306
-URL: http://vocotv.pro:80/gast/gast/635230
+URL: http://vocotv.pro:80/10/12345/635230
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 307
-URL: http://vocotv.pro:80/gast/gast/635229
+URL: http://vocotv.pro:80/10/12345/635229
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 308
-URL: http://vocotv.pro:80/gast/gast/635228
+URL: http://vocotv.pro:80/10/12345/635228
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 309
-URL: http://vocotv.pro:80/gast/gast/635227
+URL: http://vocotv.pro:80/10/12345/635227
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 310
-URL: http://vocotv.pro:80/gast/gast/635226
+URL: http://vocotv.pro:80/10/12345/635226
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 311
-URL: http://vocotv.pro:80/gast/gast/635225
+URL: http://vocotv.pro:80/10/12345/635225
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 312
-URL: http://vocotv.pro:80/gast/gast/635224
+URL: http://vocotv.pro:80/10/12345/635224
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 313
-URL: http://vocotv.pro:80/gast/gast/635223
+URL: http://vocotv.pro:80/10/12345/635223
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 314
-URL: http://vocotv.pro:80/gast/gast/635222
+URL: http://vocotv.pro:80/10/12345/635222
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 315
-URL: http://vocotv.pro:80/gast/gast/635221
+URL: http://vocotv.pro:80/10/12345/635221
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 316
-URL: http://vocotv.pro:80/gast/gast/635220
+URL: http://vocotv.pro:80/10/12345/635220
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 317
-URL: http://vocotv.pro:80/gast/gast/635219
+URL: http://vocotv.pro:80/10/12345/635219
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 318
-URL: http://vocotv.pro:80/gast/gast/635218
+URL: http://vocotv.pro:80/10/12345/635218
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 319
-URL: http://vocotv.pro:80/gast/gast/635217
+URL: http://vocotv.pro:80/10/12345/635217
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 320
-URL: http://vocotv.pro:80/gast/gast/635216
+URL: http://vocotv.pro:80/10/12345/635216
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 321
-URL: http://vocotv.pro:80/gast/gast/635215
+URL: http://vocotv.pro:80/10/12345/635215
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 322
-URL: http://vocotv.pro:80/gast/gast/635214
+URL: http://vocotv.pro:80/10/12345/635214
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 323
-URL: http://vocotv.pro:80/gast/gast/635213
+URL: http://vocotv.pro:80/10/12345/635213
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 324
-URL: http://vocotv.pro:80/gast/gast/635212
+URL: http://vocotv.pro:80/10/12345/635212
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 325
-URL: http://vocotv.pro:80/gast/gast/635211
+URL: http://vocotv.pro:80/10/12345/635211
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 326
-URL: http://vocotv.pro:80/gast/gast/635210
+URL: http://vocotv.pro:80/10/12345/635210
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 327
-URL: http://vocotv.pro:80/gast/gast/635209
+URL: http://vocotv.pro:80/10/12345/635209
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 328
-URL: http://vocotv.pro:80/gast/gast/635208
+URL: http://vocotv.pro:80/10/12345/635208
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 329
-URL: http://vocotv.pro:80/gast/gast/635207
+URL: http://vocotv.pro:80/10/12345/635207
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 330
-URL: http://vocotv.pro:80/gast/gast/635206
+URL: http://vocotv.pro:80/10/12345/635206
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 331
-URL: http://vocotv.pro:80/gast/gast/635205
+URL: http://vocotv.pro:80/10/12345/635205
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 332
-URL: http://vocotv.pro:80/gast/gast/635204
+URL: http://vocotv.pro:80/10/12345/635204
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 333
-URL: http://vocotv.pro:80/gast/gast/635203
+URL: http://vocotv.pro:80/10/12345/635203
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 334
-URL: http://vocotv.pro:80/gast/gast/635202
+URL: http://vocotv.pro:80/10/12345/635202
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 335
-URL: http://vocotv.pro:80/gast/gast/635201
+URL: http://vocotv.pro:80/10/12345/635201
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 336
-URL: http://vocotv.pro:80/gast/gast/635200
+URL: http://vocotv.pro:80/10/12345/635200
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 337
-URL: http://vocotv.pro:80/gast/gast/635199
+URL: http://vocotv.pro:80/10/12345/635199
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 338
-URL: http://vocotv.pro:80/gast/gast/635198
+URL: http://vocotv.pro:80/10/12345/635198
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 339
-URL: http://vocotv.pro:80/gast/gast/635197
+URL: http://vocotv.pro:80/10/12345/635197
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 340
-URL: http://vocotv.pro:80/gast/gast/635196
+URL: http://vocotv.pro:80/10/12345/635196
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 341
-URL: http://vocotv.pro:80/gast/gast/635195
+URL: http://vocotv.pro:80/10/12345/635195
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 342
-URL: http://vocotv.pro:80/gast/gast/635194
+URL: http://vocotv.pro:80/10/12345/635194
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 343
-URL: http://vocotv.pro:80/gast/gast/635193
+URL: http://vocotv.pro:80/10/12345/635193
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 344
-URL: http://vocotv.pro:80/gast/gast/635192
+URL: http://vocotv.pro:80/10/12345/635192
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 345
-URL: http://vocotv.pro:80/gast/gast/635191
+URL: http://vocotv.pro:80/10/12345/635191
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 346
-URL: http://vocotv.pro:80/gast/gast/635190
+URL: http://vocotv.pro:80/10/12345/635190
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 347
-URL: http://vocotv.pro:80/gast/gast/635189
+URL: http://vocotv.pro:80/10/12345/635189
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 348
-URL: http://vocotv.pro:80/gast/gast/635188
+URL: http://vocotv.pro:80/10/12345/635188
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 349
-URL: http://vocotv.pro:80/gast/gast/635187
+URL: http://vocotv.pro:80/10/12345/635187
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 350
-URL: http://vocotv.pro:80/gast/gast/635186
+URL: http://vocotv.pro:80/10/12345/635186
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 351
-URL: http://vocotv.pro:80/gast/gast/635185
+URL: http://vocotv.pro:80/10/12345/635185
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 352
-URL: http://vocotv.pro:80/gast/gast/635184
+URL: http://vocotv.pro:80/10/12345/635184
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 353
-URL: http://vocotv.pro:80/gast/gast/635183
+URL: http://vocotv.pro:80/10/12345/635183
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 354
-URL: http://vocotv.pro:80/gast/gast/635182
+URL: http://vocotv.pro:80/10/12345/635182
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 355
-URL: http://vocotv.pro:80/gast/gast/635181
+URL: http://vocotv.pro:80/10/12345/635181
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 356
-URL: http://vocotv.pro:80/gast/gast/635180
+URL: http://vocotv.pro:80/10/12345/635180
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 357
-URL: http://vocotv.pro:80/gast/gast/635179
+URL: http://vocotv.pro:80/10/12345/635179
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 358
-URL: http://vocotv.pro:80/gast/gast/635178
+URL: http://vocotv.pro:80/10/12345/635178
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 359
-URL: http://vocotv.pro:80/gast/gast/635177
+URL: http://vocotv.pro:80/10/12345/635177
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 360
-URL: http://vocotv.pro:80/gast/gast/635176
+URL: http://vocotv.pro:80/10/12345/635176
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 361
-URL: http://vocotv.pro:80/gast/gast/635175
+URL: http://vocotv.pro:80/10/12345/635175
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 362
-URL: http://vocotv.pro:80/gast/gast/635174
+URL: http://vocotv.pro:80/10/12345/635174
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 363
-URL: http://vocotv.pro:80/gast/gast/635173
+URL: http://vocotv.pro:80/10/12345/635173
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 364
-URL: http://vocotv.pro:80/gast/gast/635172
+URL: http://vocotv.pro:80/10/12345/635172
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 365
-URL: http://vocotv.pro:80/gast/gast/635171
+URL: http://vocotv.pro:80/10/12345/635171
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 366
-URL: http://vocotv.pro:80/gast/gast/635170
+URL: http://vocotv.pro:80/10/12345/635170
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 367
-URL: http://vocotv.pro:80/gast/gast/635169
+URL: http://vocotv.pro:80/10/12345/635169
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 368
-URL: http://vocotv.pro:80/gast/gast/635168
+URL: http://vocotv.pro:80/10/12345/635168
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 369
-URL: http://vocotv.pro:80/gast/gast/635167
+URL: http://vocotv.pro:80/10/12345/635167
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 370
-URL: http://vocotv.pro:80/gast/gast/635166
+URL: http://vocotv.pro:80/10/12345/635166
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 371
-URL: http://vocotv.pro:80/gast/gast/635165
+URL: http://vocotv.pro:80/10/12345/635165
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 372
-URL: http://vocotv.pro:80/gast/gast/635164
+URL: http://vocotv.pro:80/10/12345/635164
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 373
-URL: http://vocotv.pro:80/gast/gast/635163
+URL: http://vocotv.pro:80/10/12345/635163
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 374
-URL: http://vocotv.pro:80/gast/gast/635162
+URL: http://vocotv.pro:80/10/12345/635162
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 375
-URL: http://vocotv.pro:80/gast/gast/635161
+URL: http://vocotv.pro:80/10/12345/635161
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 376
-URL: http://vocotv.pro:80/gast/gast/635160
+URL: http://vocotv.pro:80/10/12345/635160
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 377
-URL: http://vocotv.pro:80/gast/gast/635159
+URL: http://vocotv.pro:80/10/12345/635159
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 378
-URL: http://vocotv.pro:80/gast/gast/635158
+URL: http://vocotv.pro:80/10/12345/635158
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 379
-URL: http://vocotv.pro:80/gast/gast/635157
+URL: http://vocotv.pro:80/10/12345/635157
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 380
-URL: http://vocotv.pro:80/gast/gast/635156
+URL: http://vocotv.pro:80/10/12345/635156
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 381
-URL: http://vocotv.pro:80/gast/gast/635155
+URL: http://vocotv.pro:80/10/12345/635155
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 382
-URL: http://vocotv.pro:80/gast/gast/635154
+URL: http://vocotv.pro:80/10/12345/635154
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 383
-URL: http://vocotv.pro:80/gast/gast/635153
+URL: http://vocotv.pro:80/10/12345/635153
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 384
-URL: http://vocotv.pro:80/gast/gast/635152
+URL: http://vocotv.pro:80/10/12345/635152
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 385
-URL: http://vocotv.pro:80/gast/gast/635151
+URL: http://vocotv.pro:80/10/12345/635151
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 386
-URL: http://vocotv.pro:80/gast/gast/635150
+URL: http://vocotv.pro:80/10/12345/635150
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 387
-URL: http://vocotv.pro:80/gast/gast/635149
+URL: http://vocotv.pro:80/10/12345/635149
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 388
-URL: http://vocotv.pro:80/gast/gast/635148
+URL: http://vocotv.pro:80/10/12345/635148
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 389
-URL: http://vocotv.pro:80/gast/gast/635147
+URL: http://vocotv.pro:80/10/12345/635147
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 390
-URL: http://vocotv.pro:80/gast/gast/635146
+URL: http://vocotv.pro:80/10/12345/635146
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 391
-URL: http://vocotv.pro:80/gast/gast/635145
+URL: http://vocotv.pro:80/10/12345/635145
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 392
-URL: http://vocotv.pro:80/gast/gast/635144
+URL: http://vocotv.pro:80/10/12345/635144
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 393
-URL: http://vocotv.pro:80/gast/gast/635143
+URL: http://vocotv.pro:80/10/12345/635143
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 394
-URL: http://vocotv.pro:80/gast/gast/635142
+URL: http://vocotv.pro:80/10/12345/635142
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 395
-URL: http://vocotv.pro:80/gast/gast/635141
+URL: http://vocotv.pro:80/10/12345/635141
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 396
-URL: http://vocotv.pro:80/gast/gast/635140
+URL: http://vocotv.pro:80/10/12345/635140
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 397
-URL: http://vocotv.pro:80/gast/gast/635139
+URL: http://vocotv.pro:80/10/12345/635139
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 398
-URL: http://vocotv.pro:80/gast/gast/635138
+URL: http://vocotv.pro:80/10/12345/635138
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ESPN+ 399
-URL: http://vocotv.pro:80/gast/gast/635137
+URL: http://vocotv.pro:80/10/12345/635137
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10145,7 +10145,7 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 
 Group: HBOMax+ (Live)
 Name: HBOMax Original info
-URL: http://vocotv.pro:80/live/gast/gast/271096.ts
+URL: http://vocotv.pro:80/live/10/12345/271096.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10852,7 +10852,7 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 
 Group: Latino (Spanish)
 Name: Spectrum Noticias NY1
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/649407.ts
+URL: http://vocotv.pro:80/live/10/12345/632317.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10887,12 +10887,12 @@ Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/2394.ts
+URL: http://vocotv.pro:80/live/10/12345/3295.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WNJU-TV Telemundo 47 (New York NY)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/3875.ts
+URL: http://vocotv.pro:80/live/10/12345/3328.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10902,27 +10902,27 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WSCV-TV Telemundo 51 (Miami FL)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89485.ts
+URL: http://vocotv.pro:80/live/10/12345/3346.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WSNS-TV Telemundo 44 (Chicago IL)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/2400.ts
+URL: http://vocotv.pro:80/live/10/12345/3303.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WBGO-TV Univision 66 (Chicago IL)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/4472.ts
+URL: http://vocotv.pro:80/live/10/12345/3410.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KCEC-TV Univision 14 (Denver CO)
-URL: http://vocotv.pro:80/live/gast/gast/3375.ts
+URL: http://vocotv.pro:80/live/10/12345/3375.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KDEN-TV Telemundo 25 (Denver CO)
-URL: http://vocotv.pro:80/live/gast/gast/3301.ts
+URL: http://vocotv.pro:80/live/10/12345/3301.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10937,27 +10937,27 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KSTS-TV Telemundo 48 (San Francisco CA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/2388.ts
+URL: http://vocotv.pro:80/live/10/12345/3304.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KFTV-TV Univision 41 (Hanford/Fresno CA)
-URL: http://vocotv.pro:80/live/gast/gast/3404.ts
+URL: http://vocotv.pro:80/live/10/12345/3404.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KNSO-TV Telemundo 51 (Clovis/Fresno CA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89439.ts
+URL: http://vocotv.pro:80/live/10/12345/3284.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KUVS-TV Univision 19 (Modesto/Sacramento CA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/50949.ts
+URL: http://vocotv.pro:80/live/10/12345/3398.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA)
-URL: http://vocotv.pro:80/live/gast/gast/3357.ts
+URL: http://vocotv.pro:80/live/10/12345/3357.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10967,7 +10967,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WQHS-TV Univision 61.1 (Cleveland OH)
-URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10597
+URL: http://vocotv.pro:80/live/10/12345/3409.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10977,7 +10977,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WNEU-TV Telemundo 60 (Boston MA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/629801.ts
+URL: http://vocotv.pro:80/live/10/12345/3279.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10987,17 +10987,17 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WUVP-TV Univision 65 (Philadelphia PA)
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/135435.ts
+URL: http://vocotv.pro:80/live/10/12345/3384.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WWSI-TV Telemundo 62 (Philadelphia PA)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/3878.ts
+URL: http://vocotv.pro:80/live/10/12345/3319.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WZDC-CD Telemundo 44 (Washington DC)
-URL: http://vocotv.pro:80/live/gast/gast/3288.ts
+URL: http://vocotv.pro:80/live/10/12345/3288.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11007,7 +11007,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KBLR-TV Telemundo 39 (Las Vegas NV)
-URL: http://vocotv.pro:80/live/gast/gast/3296.ts
+URL: http://vocotv.pro:80/live/10/12345/3296.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11017,12 +11017,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KWEX-TV Univision 41 (San Antonio TX)
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/135440.ts
+URL: http://vocotv.pro:80/live/10/12345/3397.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KDVA-TV Telemundo 60 (San Antonio TX)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/2390.ts
+URL: http://vocotv.pro:80/live/10/12345/3292.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11032,7 +11032,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/3880.ts
+URL: http://vocotv.pro:80/live/10/12345/3313.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11047,7 +11047,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTMD-TV Telemundo 47 (Houston TX)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/2396.ts
+URL: http://vocotv.pro:80/live/10/12345/3299.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11062,27 +11062,27 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KAKW-TV Univision 62 (Austin TX)
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/135423.ts
+URL: http://vocotv.pro:80/live/10/12345/3411.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KXTQ-TV Telemundo 46 (Lubbock TX)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/50926.ts
+URL: http://vocotv.pro:80/live/10/12345/3337.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTVW-TV Univision 33 (Phoenix AZ)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/50951.ts
+URL: http://vocotv.pro:80/live/10/12345/3399.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTAZ-TV Telemundo 39 (Phoenix AZ)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89419.ts
+URL: http://vocotv.pro:80/live/10/12345/3318.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTMW-TV Telemundo 20 (Salt Lake City UT)
-URL: http://vocotv.pro:80/live/gast/gast/3315.ts
+URL: http://vocotv.pro:80/live/10/12345/3315.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11092,22 +11092,22 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KUAN-TV Telemundo 20 (San Diego CA)
-URL: http://vocotv.pro:80/live/gast/gast/3291.ts
+URL: http://vocotv.pro:80/live/10/12345/3291.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KUNA-CD Telemundo 15 (Palm Springs CA)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121236
+URL: http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/121236.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WTMO-TV Telemundo 31 (Orlando FL)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89502.ts
+URL: http://vocotv.pro:80/live/10/12345/3344.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WRMD-CD Telemundo 49 (Tampa FL)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89509.ts
+URL: http://vocotv.pro:80/live/10/12345/3343.ts
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11182,7 +11182,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Univision (Canada)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/647750.ts
+URL: http://vocotv.pro:80/live/10/12345/3898.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12712,7 +12712,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cubavisión
-URL: http://vocotv.pro:80/live/gast/gast/280200.ts
+URL: http://vocotv.pro:80/live/10/12345/280200.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -12732,7 +12732,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: N+ FORO
-URL: http://vocotv.pro:80/live/10/12345/716865.ts
+URL: http://kstv.us:8080/live/Babeboi11/9785992589/46949.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13885,7 +13885,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_L
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WKBD-TV CW 50 (Detroit MI)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89623.ts
+URL: http://kstv.us:8080/live/Babeboi11/9785992589/48928.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13920,7 +13920,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/597166.ts
+URL: http://kstv.us:8080/live/Babeboi11/9785992589/48941.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14149,11 +14149,6 @@ URL: http://kstv.us:8080/live/Babeboi11/9785992589/48980.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KRQE-TV FOX 13.2 (Albuquerque NM)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/89695.ts
-Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: KDBC-TV CBS 4 (El Paso TX)
 URL: http://kstv.us:8080/live/Babeboi11/9785992589/49108.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
@@ -14232,11 +14227,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: KABB-TV FOX 29 (San Antonio TX)
 URL: http://kstv.us:8080/live/Babeboi11/9785992589/49123.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/34439.ts
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
@@ -14387,11 +14377,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: KSAZ-TV FOX 10.1 (Phoenix AZ)
 URL: http://kstv.us:8080/live/Babeboi11/9785992589/48776.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/600290.ts
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KPNX-TV NBC 12 (Phoenix AZ)
@@ -16915,7 +16900,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.sv
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
-URL: http://vocotv.pro:80/live/gast/gast/2128.ts
+URL: http://vocotv.pro:80/live/10/12345/2128.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -22867,13 +22852,8 @@ URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xum
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Spectrum News 1 (New York)
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/649404.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Spectrum News NY1
-URL: http://user.scalecdn.co:8080/live/26725074/92867131/597114.ts
+Name: Spectrum News NY1 (New York NY)
+URL: http://vocotv.pro:80/live/10/12345/634238.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -23580,309 +23560,309 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 
 Group: Paramount+ (Live)
 Name: Paramount+ Original info
-URL: http://vocotv.pro:80/live/gast/gast/324407.ts
+URL: http://vocotv.pro:80/live/10/12345/324407.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 1
-URL: http://vocotv.pro:80/live/gast/gast/324406.ts
+URL: http://vocotv.pro:80/live/10/12345/324406.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 2
-URL: http://vocotv.pro:80/live/gast/gast/324405.ts
+URL: http://vocotv.pro:80/live/10/12345/324405.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 3
-URL: http://vocotv.pro:80/live/gast/gast/324404.ts
+URL: http://vocotv.pro:80/live/10/12345/324404.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 4
-URL: http://vocotv.pro:80/live/gast/gast/324403.ts
+URL: http://vocotv.pro:80/live/10/12345/324403.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 5
-URL: http://vocotv.pro:80/live/gast/gast/324402.ts
+URL: http://vocotv.pro:80/live/10/12345/324402.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 6
-URL: http://vocotv.pro:80/live/gast/gast/324401.ts
+URL: http://vocotv.pro:80/live/10/12345/324401.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 7
-URL: http://vocotv.pro:80/live/gast/gast/324400.ts
+URL: http://vocotv.pro:80/live/10/12345/324400.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 8
-URL: http://vocotv.pro:80/live/gast/gast/324399.ts
+URL: http://vocotv.pro:80/live/10/12345/324399.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 9
-URL: http://vocotv.pro:80/live/gast/gast/324398.ts
+URL: http://vocotv.pro:80/live/10/12345/324398.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ Original 10
-URL: http://vocotv.pro:80/live/gast/gast/324397.ts
+URL: http://vocotv.pro:80/live/10/12345/324397.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 
 Group: Peacock Events
 Name: Peacock Event 1
-URL: http://vocotv.pro:80/live/gast/gast/698670.ts
+URL: http://vocotv.pro:80/live/10/12345/698670.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 2
-URL: http://vocotv.pro:80/live/gast/gast/698669.ts
+URL: http://vocotv.pro:80/live/10/12345/698669.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 3
-URL: http://vocotv.pro:80/live/gast/gast/698668.ts
+URL: http://vocotv.pro:80/live/10/12345/698668.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 4
-URL: http://vocotv.pro:80/live/gast/gast/698667.ts
+URL: http://vocotv.pro:80/live/10/12345/698667.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 5
-URL: http://vocotv.pro:80/live/gast/gast/698666.ts
+URL: http://vocotv.pro:80/live/10/12345/698666.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 6
-URL: http://vocotv.pro:80/live/gast/gast/698665.ts
+URL: http://vocotv.pro:80/live/10/12345/698665.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 7
-URL: http://vocotv.pro:80/live/gast/gast/698664.ts
+URL: http://vocotv.pro:80/live/10/12345/698664.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 8
-URL: http://vocotv.pro:80/live/gast/gast/698663.ts
+URL: http://vocotv.pro:80/live/10/12345/698663.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 9
-URL: http://vocotv.pro:80/live/gast/gast/698662.ts
+URL: http://vocotv.pro:80/live/10/12345/698662.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 10
-URL: http://vocotv.pro:80/live/gast/gast/698661.ts
+URL: http://vocotv.pro:80/live/10/12345/698661.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 11
-URL: http://vocotv.pro:80/live/gast/gast/698660.ts
+URL: http://vocotv.pro:80/live/10/12345/698660.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 12
-URL: http://vocotv.pro:80/live/gast/gast/698659.ts
+URL: http://vocotv.pro:80/live/10/12345/698659.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 13
-URL: http://vocotv.pro:80/live/gast/gast/698658.ts
+URL: http://vocotv.pro:80/live/10/12345/698658.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 14
-URL: http://vocotv.pro:80/live/gast/gast/698657.ts
+URL: http://vocotv.pro:80/live/10/12345/698657.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 15
-URL: http://vocotv.pro:80/live/gast/gast/698656.ts
+URL: http://vocotv.pro:80/live/10/12345/698656.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 16
-URL: http://vocotv.pro:80/live/gast/gast/698655.ts
+URL: http://vocotv.pro:80/live/10/12345/698655.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 17
-URL: http://vocotv.pro:80/live/gast/gast/698654.ts
+URL: http://vocotv.pro:80/live/10/12345/698654.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 18
-URL: http://vocotv.pro:80/live/gast/gast/698653.ts
+URL: http://vocotv.pro:80/live/10/12345/698653.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 19
-URL: http://vocotv.pro:80/live/gast/gast/698652.ts
+URL: http://vocotv.pro:80/live/10/12345/698652.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 20
-URL: http://vocotv.pro:80/live/gast/gast/698651.ts
+URL: http://vocotv.pro:80/live/10/12345/698651.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 21
-URL: http://vocotv.pro:80/live/gast/gast/698650.ts
+URL: http://vocotv.pro:80/live/10/12345/698650.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 22
-URL: http://vocotv.pro:80/live/gast/gast/698649.ts
+URL: http://vocotv.pro:80/live/10/12345/698649.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 23
-URL: http://vocotv.pro:80/live/gast/gast/698648.ts
+URL: http://vocotv.pro:80/live/10/12345/698648.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 24
-URL: http://vocotv.pro:80/live/gast/gast/698647.ts
+URL: http://vocotv.pro:80/live/10/12345/698647.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 25
-URL: http://vocotv.pro:80/live/gast/gast/698646.ts
+URL: http://vocotv.pro:80/live/10/12345/698646.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 26
-URL: http://vocotv.pro:80/live/gast/gast/698645.ts
+URL: http://vocotv.pro:80/live/10/12345/698645.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 27
-URL: http://vocotv.pro:80/live/gast/gast/698644.ts
+URL: http://vocotv.pro:80/live/10/12345/698644.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 28
-URL: http://vocotv.pro:80/live/gast/gast/698643.ts
+URL: http://vocotv.pro:80/live/10/12345/698643.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 29
-URL: http://vocotv.pro:80/live/gast/gast/698642.ts
+URL: http://vocotv.pro:80/live/10/12345/698642.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 30
-URL: http://vocotv.pro:80/live/gast/gast/698641.ts
+URL: http://vocotv.pro:80/live/10/12345/698641.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 31
-URL: http://vocotv.pro:80/live/gast/gast/698640.ts
+URL: http://vocotv.pro:80/live/10/12345/698640.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 32
-URL: http://vocotv.pro:80/live/gast/gast/698639.ts
+URL: http://vocotv.pro:80/live/10/12345/698639.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 33
-URL: http://vocotv.pro:80/live/gast/gast/698638.ts
+URL: http://vocotv.pro:80/live/10/12345/698638.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 34
-URL: http://vocotv.pro:80/live/gast/gast/698637.ts
+URL: http://vocotv.pro:80/live/10/12345/698637.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 35
-URL: http://vocotv.pro:80/live/gast/gast/698636.ts
+URL: http://vocotv.pro:80/live/10/12345/698636.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 36
-URL: http://vocotv.pro:80/live/gast/gast/698635.ts
+URL: http://vocotv.pro:80/live/10/12345/698635.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 37
-URL: http://vocotv.pro:80/live/gast/gast/698634.ts
+URL: http://vocotv.pro:80/live/10/12345/698634.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 38
-URL: http://vocotv.pro:80/live/gast/gast/698633.ts
+URL: http://vocotv.pro:80/live/10/12345/698633.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 39
-URL: http://vocotv.pro:80/live/gast/gast/698632.ts
+URL: http://vocotv.pro:80/live/10/12345/698632.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 40
-URL: http://vocotv.pro:80/live/gast/gast/698631.ts
+URL: http://vocotv.pro:80/live/10/12345/698631.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 41
-URL: http://vocotv.pro:80/live/gast/gast/698630.ts
+URL: http://vocotv.pro:80/live/10/12345/698630.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 42
-URL: http://vocotv.pro:80/live/gast/gast/698629.ts
+URL: http://vocotv.pro:80/live/10/12345/698629.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 43
-URL: http://vocotv.pro:80/live/gast/gast/698628.ts
+URL: http://vocotv.pro:80/live/10/12345/698628.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 44
-URL: http://vocotv.pro:80/live/gast/gast/698626.ts
+URL: http://vocotv.pro:80/live/10/12345/698626.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 45
-URL: http://vocotv.pro:80/live/gast/gast/698625.ts
+URL: http://vocotv.pro:80/live/10/12345/698625.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 46
-URL: http://vocotv.pro:80/live/gast/gast/698624.ts
+URL: http://vocotv.pro:80/live/10/12345/698624.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 47
-URL: http://vocotv.pro:80/live/gast/gast/698623.ts
+URL: http://vocotv.pro:80/live/10/12345/698623.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 48
-URL: http://vocotv.pro:80/live/gast/gast/698622.ts
+URL: http://vocotv.pro:80/live/10/12345/698622.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 49
-URL: http://vocotv.pro:80/live/gast/gast/698621.ts
+URL: http://vocotv.pro:80/live/10/12345/698621.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peacock Event 50
-URL: http://vocotv.pro:80/live/gast/gast/698620.ts
+URL: http://vocotv.pro:80/live/10/12345/698620.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -27317,7 +27297,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MLB Big Inning
-URL: http://vocotv.pro:80/live/gast/gast/715294.ts
+URL: http://vocotv.pro:80/live/10/12345/715294.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
