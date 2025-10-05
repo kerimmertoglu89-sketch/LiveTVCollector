@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-04 21:48:39",
+  "date": "2025-10-05 06:53:55",
   "channels": {
     "siaranMy": [
       {
@@ -1672,7 +1672,7 @@
         "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41zeCPN5tsjmXgDffPUQw17fhbHJ2N5flu_9OW_P9ykYM=d3eT/dash-wv/jitp-linearwm/5099/default_ott.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV6GsLUnqmE-Z2y6gL_DUHQ0=RUOH/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
       },
       {
         "name": "832 Astro Cricket HD",
@@ -1690,27 +1690,6 @@
       }
     ],
     "Sports": [
-      {
-        "name": "EPL 2 backup",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8"
-      },
-      {
-        "name": "EPL 1 backup",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8"
-      },
-      {
-        "name": "EPL 1 BACKUP",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8"
-      },
       {
         "name": "Premier league UHD",
         "logo": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",
@@ -1758,28 +1737,28 @@
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl6qEvEeVpL5xPvYQmqH9eSI=h0QK/dash-wv/jitp-linearwm/5100/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mbUl0Fr6rXwIeVhOKcPEVAc=L00d/dash-wv/jitp-linearwm/5100/default_primary.mpd"
       },
       {
         "name": "811 Astro Premier League HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41RqspQBcK6kUSK4BJreyRF0GR6MQUBgNtCRgRfLVBqrk=kBYa/dash-wv/jitp-dashisowm/601/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX7wT8YicAbOdXpw59jK513Nk=oG1x/dash-wv/jitp-dashisowm/601/default_primary.mpd"
       },
       {
         "name": "812 Astro Premier League 2 HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41sreUgXggkf7zmcUtNRWYoZliDOQQuP23h4UkKwDPpSU=ycB2/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/418hE2VhV_z-rNa0gf3lfkQ94WCXT6nR9Xtbh1HKF_Y-Q=K1_l/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
       },
       {
         "name": "815 Astro Badminton HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1UxODOT9XC-ykikqYAkeJRs=w2xF/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1Wuksi30grJ4lwMh5bcfXfQ=TFz1/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
       },
       {
         "name": "815 Astro Badminton HD",

@@ -1400,7 +1400,7 @@
   {
     "name": "803 Astro Arena Bola HD",
     "type": "SPORTS",
-    "url": "https://linears2-playback.astro.com.my/vsg/41zeCPN5tsjmXgDffPUQw17fhbHJ2N5flu_9OW_P9ykYM=d3eT/dash-wv/jitp-linearwm/5099/default_ott.mpd",
+    "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV6GsLUnqmE-Z2y6gL_DUHQ0=RUOH/dash-wv/jitp-dashisowm/5099/default_primary.mpd",
     "img": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png"
   },
   {
@@ -1414,24 +1414,6 @@
     "type": "SPORTS",
     "url": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
     "img": "https://iili.io/JhkQEp1.png"
-  },
-  {
-    "name": "EPL 2 backup",
-    "type": "Sports",
-    "url": "http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png"
-  },
-  {
-    "name": "EPL 1 backup",
-    "type": "Sports",
-    "url": "http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
-  },
-  {
-    "name": "EPL 1 BACKUP",
-    "type": "Sports",
-    "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
   },
   {
     "name": "Premier league UHD",
@@ -1472,25 +1454,25 @@
   {
     "name": "804 Astro Arena Bola 2 HD",
     "type": "Sports",
-    "url": "https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMl6qEvEeVpL5xPvYQmqH9eSI=h0QK/dash-wv/jitp-linearwm/5100/default_primary.mpd",
+    "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mbUl0Fr6rXwIeVhOKcPEVAc=L00d/dash-wv/jitp-linearwm/5100/default_primary.mpd",
     "img": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png"
   },
   {
     "name": "811 Astro Premier League HD",
     "type": "Sports",
-    "url": "https://linears2-playback.astro.com.my/vsg/41RqspQBcK6kUSK4BJreyRF0GR6MQUBgNtCRgRfLVBqrk=kBYa/dash-wv/jitp-dashisowm/601/default_primary.mpd",
+    "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX7wT8YicAbOdXpw59jK513Nk=oG1x/dash-wv/jitp-dashisowm/601/default_primary.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
   },
   {
     "name": "812 Astro Premier League 2 HD",
     "type": "Sports",
-    "url": "https://linears2-playback.astro.com.my/vsg/41sreUgXggkf7zmcUtNRWYoZliDOQQuP23h4UkKwDPpSU=ycB2/dash-wv/jitp-dashisowm/2104/default_primary.mpd",
+    "url": "https://linears2-playback.astro.com.my/vsg/418hE2VhV_z-rNa0gf3lfkQ94WCXT6nR9Xtbh1HKF_Y-Q=K1_l/dash-wv/jitp-dashisowm/2104/default_primary.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png"
   },
   {
     "name": "815 Astro Badminton HD",
     "type": "Sports",
-    "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1UxODOT9XC-ykikqYAkeJRs=w2xF/dash-wv/jitp-dashisowm/5170/default_primary.mpd",
+    "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1Wuksi30grJ4lwMh5bcfXfQ=TFz1/dash-wv/jitp-dashisowm/5170/default_primary.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
   },
   {
