@@ -828,6 +828,66 @@
     "img": "https://i.imgur.com/8osIZLM.png"
   },
   {
+    "name": "HBO",
+    "type": "Movies",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd",
+    "img": "https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png"
+  },
+  {
+    "name": "HBO Hits",
+    "type": "Movies",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd",
+    "img": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png"
+  },
+  {
+    "name": "HBO Family",
+    "type": "Movies",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd",
+    "img": "https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png"
+  },
+  {
+    "name": "HBO Signature",
+    "type": "Movies",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
+  },
+  {
+    "name": "Cinemax",
+    "type": "Movies",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+  },
+  {
+    "name": "HBO 🇮🇩",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
+    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115"
+  },
+  {
+    "name": "HBO Hits 🇮🇩",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"
+  },
+  {
+    "name": "HBO Family 🇮🇩",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
+    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115"
+  },
+  {
+    "name": "HBO Signature 🇮🇩",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
+    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115"
+  },
+  {
+    "name": "Cinemax 🇮🇩",
+    "type": "Movies",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
+    "img": "https://i.imgur.com/uB76Ft0.png"
+  },
+  {
     "name": "Warner TV 🇮🇩",
     "type": "Movies",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd",
@@ -838,24 +898,6 @@
     "type": "Movies",
     "url": "https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd",
     "img": "https://linear-poster.astro.com.my/prod/logo/HBO_v1.png"
-  },
-  {
-    "name": "HBO Hits",
-    "type": "Movies",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s"
-  },
-  {
-    "name": "HBO Family",
-    "type": "Movies",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd",
-    "img": "https://linear-poster.astro.com.my/prod/logo/HBO_Family.png"
-  },
-  {
-    "name": "HBO Signature",
-    "type": "Movies",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd",
-    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115"
   },
   {
     "name": "HBO ᴴᴰ",
@@ -10194,16 +10236,16 @@
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_115.png"
   },
   {
-    "name": "Indosiar",
-    "type": "TV Nasional Indonesia",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"
-  },
-  {
     "name": "TRANS TV",
     "type": "TV Nasional Indonesia",
     "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
     "img": "https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg"
+  },
+  {
+    "name": "TRANS 7",
+    "type": "TV Nasional Indonesia",
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
+    "img": "https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg"
   },
   {
     "name": "TV ONE HD",
@@ -10852,36 +10894,6 @@
     "type": "Uncategorized",
     "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd",
     "img": "https://i.imgur.com/S4aoHg8.png"
-  },
-  {
-    "name": "HBO",
-    "type": "HBO-FMX",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
-    "img": "https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png"
-  },
-  {
-    "name": "HBO Hits",
-    "type": "HBO-FMX",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
-    "img": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png"
-  },
-  {
-    "name": "HBO Family",
-    "type": "HBO-FMX",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
-    "img": "https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png"
-  },
-  {
-    "name": "HBO Signature",
-    "type": "HBO-FMX",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
-  },
-  {
-    "name": "Cinemax",
-    "type": "HBO-FMX",
-    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
   },
   {
     "name": "Berita Satu News",
@@ -15111,6 +15123,12 @@
     "name": "_inDoSiar_ 7",
     "type": "No SignaL 📺",
     "url": "https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar",
+    "img": "https://i.ibb.co.com/H7fzV5K/indosiar.png"
+  },
+  {
+    "name": "Indosiar",
+    "type": "No SignaL 📺",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
     "img": "https://i.ibb.co.com/H7fzV5K/indosiar.png"
   },
   {
