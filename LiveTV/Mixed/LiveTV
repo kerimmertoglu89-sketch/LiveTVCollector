@@ -530,7 +530,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2NhYjdjNzMtMDgwZi00MGY1LTg1MDktMTI5MzhlZGU2MTkzIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDQ2NDY4YjItYTNlZi00NDM5LWEzZWEtZjA5YWM1MWIwYTNmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -566,7 +566,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMjk0NzNjYjEtOTc0ZS00ZGNhLTg1NzEtYzJlOTYyMjdhMjU5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNjU5ZjI2MDYtZDM0Mi00NjhlLTg2MzctY2VkOWNmYzM5MDljIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1071,6 +1071,12 @@
     "name": "N1 HR",
     "type": "News",
     "url": "https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8",
+    "img": "https://i.imgur.com/P8DmZ11.png"
+  },
+  {
+    "name": "N1 SLO",
+    "type": "News",
+    "url": "https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream?i=NSKLtZXTzL2_sSsxrE6H0Q&a=pWgWfvqQjQC8uX8Gxgd_w0ilCIjF-oJr6W8ltXACBCAOee5BguFK5_Gv1eRw3NoMfemownNvJqTEFzrR9tJH6B1xlJdJQDOWcjuf6fr8aef0QQ9E93QVzcpcRK_ApqoHeETubkOAKkzTA7sTk0g_NKKkvdckoitDrCsZTu-ga_zOv14RElOEBtEbauKx0D0V8nCs_GsP3aI--s78Q2QuR6o-F1YQCv5BSTgnik385Azx33bIbQHEF5OAqu4m3zGN&sp=n1info&u=n1info&session=ca0f28bd-55fb-3489-12ce-3c50e40d146a&player=m3u8",
     "img": "https://i.imgur.com/P8DmZ11.png"
   },
   {
