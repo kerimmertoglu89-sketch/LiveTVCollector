@@ -974,7 +974,7 @@
   {
     "name": "TVCG MNE",
     "type": "General",
-    "url": "https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8",
+    "url": "https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/rtcg.m3u8",
     "img": "https://i.imgur.com/8pTSXvZ.png"
   },
   {
@@ -2342,13 +2342,13 @@
   {
     "name": "LA LIGA",
     "type": "DEPORTES",
-    "url": "http://tvpromas.com:2082/stkramip/8430/81869",
+    "url": "http://vipbftn.xyz:8080/live/jorge/jorge/254.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png"
   },
   {
     "name": "LA LIGA",
     "type": "DEPORTES",
-    "url": "http://tvpromas.com:2082/stkramip/8430/81870",
+    "url": "http://vipbftn.xyz:8080/live/jorge/jorge/246.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png"
   },
   {
@@ -3066,10 +3066,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
   },
   {
-    "name": "SCI MIAMI",
+    "name": "CSI MIAMI",
     "type": "24/7",
-    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9255c111bc0008fe6ec4/3321280/playlist.m3u8?terminate=false&sid=96ad68f9-9af7-11f0-b776-1a4476aa2a16&deviceDNT=0&deviceLat=-34.2599983215332&deviceLon=-71.37999725341797&deviceModel=web&deviceVersion=140.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=3d208bf6-ca0b-482b-902d-b17bb325a06a&appVersion=9.16.0-1c8668875bc70dd1978c9232cfb832b3eaed04c6&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjM0M2MyNTliLTBlMTktNGYxMC1hNzY1LWQ1ZTgxYzM5OTNiNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5NmFkNjhmOS05YWY3LTExZjAtYjc3Ni0xYTQ0NzZhYTJhMTYiLCJjbGllbnRJUCI6IjE3OS42MC42OC4xMTMiLCJjaXR5IjoiRWwgQ2FybWVuIiwicG9zdGFsQ29kZSI6IjMwMzAwMDAiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuMjU5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotNzEuMzc5OTk3MjUzNDE3OTcsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0MC4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTYuMC0xYzg2Njg4NzViYzcwZGQxOTc4YzkyMzJjZmI4MzJiM2VhZWQwNGM2IiwiY2xpZW50SUQiOiIzZDIwOGJmNi1jYTBiLTQ4MmItOTAyZC1iMTdiYjMyNWEwNmEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW50aWFnbyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjNkMjA4YmY2LWNhMGItNDgyYi05MDJkLWIxN2JiMzI1YTA2YSIsImZ3VmNJRDJDb3BwYSI6IjNkMjA4YmY2LWNhMGItNDgyYi05MDJkLWIxN2JiMzI1YTA2YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiM2QyMDhiZjYtY2EwYi00ODJiLTkwMmQtYjE3YmIzMjVhMDZhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAyMSwxMDAyMiwxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk0yUXlNRGhpWmpZdFkyRXdZaTAwT0RKaUxUa3dNbVF0WWpFM1ltSXpNalZoTURaaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NTg5OTEyNjIsImlhdCI6MTc1ODkwNDg2MiwianRpIjoiNmM2MTc5MTYtODE4Yy00Mjc1LTkxZjYtYmYwMzcxYWZkZjU2In0.XcBk3CW2TRl5nLxLZkf8mWqaks9pzo9XcW-m_LBpaw0&paln=AQzzBGQEl1so2I41pV9hTvoMW71YVCDyJ5-kvfCmvSLvkb3hJeMXS8tLcKgAWJkwDqA-vn_0IESdPRm7vwCsIBUv0HmDNsfb0Dds4uKXb46VWj9ua_2tL1w2QSw2aqGIYP9xrKoNbGr8AT-K3MDuRNqAZ80K1kJIa745j83SfOT7EE-Ol_MYz8eAjoqzaHofYFNDFNhLtBg6aNyfIQQqEM4n7YmLtvgJfN-6PSusUvnCbf9zPFOViQY0aYPaDU_u7X6Vrx8PjjdqYG_Qqscx6fpZWUGJQLBDnQCNOFGRON5AydaKwhXhXQ0QNOxbYAIAvJXhDn2-DI9IbJh4kn2EcstA2vK74EOl2_Q36yFV7lMvRDMbSYbW3xldofFlZXrG0z97HlCshGBTTPEQPneIg62CWX4BbqIEmbfP9OaH2OJwCtSOqT2loW_DK24XArp-LnWjIkO-jnxAN06BSeRYQdpeMFRaxj3f1em6N8S0C4V4yD8v3uW5JBnIirxVpBxgPRPn7NuCoDdEg1rO-gMcbosG6xcTrf3vTomGFrS3bZ_uoq7UxB8rb-ztdE1ptw5VQmyYEALAnwd-UJglTwqVke6LiHKPBCO8ySk34pes1G0XX_GG0HiaiyRm8SC7oDH70d9hS8TRglTeH8mdfQEu97FBJ-GSSQl2b9fbjtWLoCLDS8PBPtQ6w7U0FzGy-_dfPOyXVIVF1on4_JiJV9QV5_8Fx3W5C1ecYzlBcMzhYVf3Fuo8vQ_7Q3vZqTJM1Q2FoJoH3DO36ezWNJkj1au_4_dbv5Pzym21o7CGcqGK64c2wwqgQZlOyNfwciBFgtw7KiALc7qhqWVLbKCAf73aARizIP5bxhV4mgSL9k89meplSEtFTpxM3LtkhAIGGhlxVbLqT08OK4mbyw5QMq32naQoaXb059e72VSaftHZ2F0RRIyu1OJBJ9LveKKn0xjrrRUGE9ryPTAR2J1oBl_lY_KqTDGojg52jCtGSRddRXFSwFZBAxi8206bK1pN-Tz1CEZvJK28cqOw-LEfxWK1D2iCYFAoMMFjy3XfoyU0w5_PfmbW_swyUrnLZQJaQ_LJaJvAJRP0jThmBAoFvdWnb0QOEe_Ha5mpK6rfGvIEW0c-nqL62cUsDxGFnuJDpRpb_m8XmVzw9vnNXOWqEwh4HlecBqBgNR9C9XlXzK8aTZsSCcAJIfxjSBRmnScymqnt6gmAZrI7yGrZ9DP6sVu4jEZmfb3M4A..&CMCD=mtp%3D200800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a2e57bb1-7610-4e3f-8748-971d18288eac%22",
-    "img": "https://i.ebayimg.com/images/g/0OcAAeSwe5Zoyu5B/s-l1200.jpg"
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94924",
+    "img": "https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png"
   },
   {
     "name": "Los Picapiedra",
@@ -3082,6 +3082,12 @@
     "type": "24/7",
     "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u",
     "img": "https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png"
+  },
+  {
+    "name": "Cantinflas",
+    "type": "24/7",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/95617",
+    "img": "https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png"
   },
   {
     "name": "FUTURAMA",
@@ -3098,7 +3104,13 @@
   {
     "name": "Super Campeones",
     "type": "24/7",
-    "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5648.m3u",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94888",
+    "img": "http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg"
+  },
+  {
+    "name": "Super Campeones 2",
+    "type": "24/7",
+    "url": "http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/250532",
     "img": "http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg"
   },
   {
@@ -3112,6 +3124,18 @@
     "type": "24/7",
     "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5484.m3u",
     "img": "http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png"
+  },
+  {
+    "name": "The Big Bang Theory 2",
+    "type": "24/7",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94867",
+    "img": "https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png"
+  },
+  {
+    "name": "EL MENTALISTA 2",
+    "type": "24/7",
+    "url": "http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/250545",
+    "img": "https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png"
   },
   {
     "name": "HUNTER x HUNTER",
@@ -3138,58 +3162,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png"
   },
   {
-    "name": "Bones",
+    "name": "Cinema 4K",
     "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919",
-    "img": "https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png"
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/95608",
+    "img": "https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png"
   },
   {
     "name": "Cinema - Parodias",
     "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94978",
     "img": "https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png"
-  },
-  {
-    "name": "Cinema 4K",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608",
-    "img": "https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png"
-  },
-  {
-    "name": "CSI Miami",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924",
-    "img": "https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png"
-  },
-  {
-    "name": "Detective Conan",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892",
-    "img": "https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png"
-  },
-  {
-    "name": "Hawaii 5.0",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929",
-    "img": "https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png"
-  },
-  {
-    "name": "Shameless",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865",
-    "img": "https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png"
-  },
-  {
-    "name": "The Big Bang Theory",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867",
-    "img": "https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png"
-  },
-  {
-    "name": "The Fresh Prince of Bel Air",
-    "type": "24/7",
-    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868",
-    "img": "https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png"
   },
   {
     "name": "DRAGON BALL",
@@ -3198,10 +3180,28 @@
     "img": "https://imgs.search.brave.com/fDsZ4jRets0bQnsgu_dCVTaa9wUKjUJkWQ-Rm0_HP58/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg4L2Rl/L2MwLzg4ZGVjMGUy/YzZmM2YzMGJhNDE1/N2U5M2M3NWRmNzAx/LmpwZw"
   },
   {
+    "name": "Two and a Half Men",
+    "type": "24/7",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94870",
+    "img": "https://i.postimg.cc/yNgWGRDT/Proyectox-24-7-series-Animacion3-31.png"
+  },
+  {
+    "name": "HAWAI 5-0",
+    "type": "24/7",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94929",
+    "img": "https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png"
+  },
+  {
     "name": "El Chapulín Colorado",
     "type": " 24/7",
     "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5564.m3u",
     "img": "http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg"
+  },
+  {
+    "name": "EL MENTALISTA",
+    "type": "24/7 SERIES",
+    "url": "http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94937",
+    "img": "https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png"
   },
   {
     "name": "group-title=\"ADULTOS\", PORNSTARLOVEGIRLS",
