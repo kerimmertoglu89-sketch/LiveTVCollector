@@ -1,22 +1,6 @@
 {
-  "date": "2025-10-05 21:55:46",
+  "date": "2025-10-06 07:21:19",
   "channels": {
-    "Outdoor": [
-      {
-        "name": "Agro TV (Apurimac) (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/1uLGa3w.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
-      },
-      {
-        "name": "Agrotendencia TV (1080p)",
-        "logo": "https://i.imgur.com/frd60hR.png",
-        "group": "Outdoor",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
-      }
-    ],
     "General": [
       {
         "name": "America Television",
@@ -45,6 +29,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+      },
+      {
+        "name": "BHTV (1080p)",
+        "logo": "https://i.imgur.com/oNFOKFI.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
       },
       {
         "name": "Cajamarca TV",
@@ -150,6 +141,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+      },
+      {
+        "name": "Panamericana TV (1080p)",
+        "logo": "https://i.imgur.com/uQhEDES.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8"
       },
       {
         "name": "Primavera 15",
@@ -262,6 +260,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
+      },
+      {
+        "name": "Willax TV (720p)",
+        "logo": "https://i.imgur.com/bZnDDPH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://38.183.182.166:8000/play/a0zn/index.m3u8"
       },
       {
         "name": "WOW TV (576p) [Not 24/7]",
@@ -839,6 +844,13 @@
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
       },
       {
+        "name": "RPP TV (480p)",
+        "logo": "https://i.imgur.com/oBz3CgE.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://38.183.182.166:8000/play/a13g/index.m3u8"
+      },
+      {
         "name": "RSelvaTV",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
         "group": "News",
@@ -1318,23 +1330,21 @@
         "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8"
       }
     ],
-    "Series": [
+    "Sports": [
       {
-        "name": "Latina Clasicos",
-        "logo": "https://i.imgur.com/q0dAWyj.png",
-        "group": "Series",
+        "name": "Gol Peru (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png",
+        "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+        "url": "http://38.183.182.166:8000/play/a120/index.m3u8"
       },
       {
-        "name": "Kanal D Drama (1080p)",
-        "logo": "https://i.imgur.com/WIeZMKT.png",
-        "group": "Series",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
-      }
-    ],
-    "Sports": [
+        "name": "L1 Max (1080p)",
+        "logo": "https://i.imgur.com/2fziU2B.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://38.183.182.166:8000/play/a12t/index.m3u8"
+      },
       {
         "name": "Monterrico TV (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/SuVO9T7.png",
@@ -1355,6 +1365,22 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
+      }
+    ],
+    "Series": [
+      {
+        "name": "Latina Clasicos",
+        "logo": "https://i.imgur.com/q0dAWyj.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+      },
+      {
+        "name": "Kanal D Drama (1080p)",
+        "logo": "https://i.imgur.com/WIeZMKT.png",
+        "group": "Series",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
       }
     ],
     "Musica": [
@@ -1612,6 +1638,15 @@
         "group": "RELIGIOSO",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8"
+      }
+    ],
+    "Outdoor": [
+      {
+        "name": "Agrotendencia TV (1080p)",
+        "logo": "https://i.imgur.com/frd60hR.png",
+        "group": "Outdoor",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -2240,6 +2275,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8"
+      },
+      {
+        "name": "90 | AGRO HORIZONTE TV |",
+        "logo": "http://imgfz.com/i/rQPHG2b.jpeg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
       },
       {
         "name": "90.1 | AGRO TV |",

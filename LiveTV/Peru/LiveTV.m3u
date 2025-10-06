@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Outdoor",Agro TV (Apurimac) (720p) [Not 24/7]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
@@ -11,6 +7,8 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (1080p)
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV
 https://live-evg1.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 Catacaos (720p) [Not 24/7]
@@ -41,6 +39,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (1080p)
+http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="General",RadioTV Oriente
@@ -73,6 +73,8 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="General",Visión Sur TV (1080p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="General",Willax TV (720p)
+http://38.183.182.166:8000/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png" group-title="General",Latina
@@ -235,6 +237,8 @@ https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV (480p)
+http://38.183.182.166:8000/play/a13g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="News",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Perú Noticias
@@ -369,16 +373,20 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Sports",Gol Peru (1080p)
+http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max (1080p)
+http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Sports",Esports Max (720p)
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/03/1738096310625/1853316008ae_480_270.png" group-title="Musica",N CANAL HD
@@ -445,6 +453,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Series Koreanas",CGTN Español (576p)
@@ -617,6 +627,8 @@ https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4LRIVX.jpeg" group-title="TV PERU",89.1 | NUEVO TIEMPO |
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rQPHG2b.jpeg" group-title="TV PERU",90 | AGRO HORIZONTE TV |
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg" group-title="TV PERU",90.1 | AGRO TV |
 https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jesaro15/iptv/main/images/RCR.jpg" group-title="TV PERU",91 | RCR |

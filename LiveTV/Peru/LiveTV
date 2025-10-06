@@ -1,17 +1,5 @@
 [
   {
-    "name": "Agro TV (Apurimac) (720p) [Not 24/7]",
-    "type": "Outdoor",
-    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
-    "img": "https://i.imgur.com/1uLGa3w.png"
-  },
-  {
-    "name": "Agrotendencia TV (1080p)",
-    "type": "Outdoor",
-    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
-    "img": "https://i.imgur.com/frd60hR.png"
-  },
-  {
     "name": "America Television",
     "type": "General",
     "url": "http://181.188.216.5:18000/play/a014/index.m3u8",
@@ -34,6 +22,12 @@
     "type": "General",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
     "img": "https://i.imgur.com/bEJK3RN.png"
+  },
+  {
+    "name": "BHTV (1080p)",
+    "type": "General",
+    "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
+    "img": "https://i.imgur.com/oNFOKFI.png"
   },
   {
     "name": "Cajamarca TV",
@@ -124,6 +118,12 @@
     "type": "General",
     "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
     "img": "https://i.imgur.com/3R2emx7.jpg"
+  },
+  {
+    "name": "Panamericana TV (1080p)",
+    "type": "General",
+    "url": "http://38.183.182.166:8000/play/a0ii/index.m3u8",
+    "img": "https://i.imgur.com/uQhEDES.png"
   },
   {
     "name": "Primavera 15",
@@ -220,6 +220,12 @@
     "type": "General",
     "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
     "img": "https://i.imgur.com/AbZYWEQ.png"
+  },
+  {
+    "name": "Willax TV (720p)",
+    "type": "General",
+    "url": "http://38.183.182.166:8000/play/a0zn/index.m3u8",
+    "img": "https://i.imgur.com/bZnDDPH.png"
   },
   {
     "name": "WOW TV (576p) [Not 24/7]",
@@ -708,6 +714,12 @@
     "img": "https://i.imgur.com/A8TRPrF.png"
   },
   {
+    "name": "RPP TV (480p)",
+    "type": "News",
+    "url": "http://38.183.182.166:8000/play/a13g/index.m3u8",
+    "img": "https://i.imgur.com/oBz3CgE.png"
+  },
+  {
     "name": "RSelvaTV",
     "type": "News",
     "url": "https://live.obslivestream.com/selvatv/index.m3u8",
@@ -1110,16 +1122,16 @@
     "img": "https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg"
   },
   {
-    "name": "Latina Clasicos",
-    "type": "Series",
-    "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/q0dAWyj.png"
+    "name": "Gol Peru (1080p)",
+    "type": "Sports",
+    "url": "http://38.183.182.166:8000/play/a120/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png"
   },
   {
-    "name": "Kanal D Drama (1080p)",
-    "type": "Series",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
-    "img": "https://i.imgur.com/WIeZMKT.png"
+    "name": "L1 Max (1080p)",
+    "type": "Sports",
+    "url": "http://38.183.182.166:8000/play/a12t/index.m3u8",
+    "img": "https://i.imgur.com/2fziU2B.png"
   },
   {
     "name": "Monterrico TV (1080p) [Not 24/7]",
@@ -1138,6 +1150,18 @@
     "type": "Sports",
     "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8",
     "img": "https://i.imgur.com/OprRgQN.png"
+  },
+  {
+    "name": "Latina Clasicos",
+    "type": "Series",
+    "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/q0dAWyj.png"
+  },
+  {
+    "name": "Kanal D Drama (1080p)",
+    "type": "Series",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+    "img": "https://i.imgur.com/WIeZMKT.png"
   },
   {
     "name": "Karibeña HD",
@@ -1336,6 +1360,12 @@
     "type": "RELIGIOSO",
     "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8",
     "img": "https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg"
+  },
+  {
+    "name": "Agrotendencia TV (1080p)",
+    "type": "Outdoor",
+    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+    "img": "https://i.imgur.com/frd60hR.png"
   },
   {
     "name": "El Histonauta TV (360p)",
@@ -1852,6 +1882,12 @@
     "type": "TV PERU",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8",
     "img": "https://i.imgur.com/X4LRIVX.jpeg"
+  },
+  {
+    "name": "90 | AGRO HORIZONTE TV |",
+    "type": "TV PERU",
+    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
+    "img": "http://imgfz.com/i/rQPHG2b.jpeg"
   },
   {
     "name": "90.1 | AGRO TV |",
