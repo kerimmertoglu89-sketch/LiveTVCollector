@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-06 21:31:08",
+  "date": "2025-10-07 06:07:25",
   "channels": {
     "STREAMING": [
       {
@@ -1002,6 +1002,13 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Jefimija TV Krusevac",
+        "logo": "https://i.imgur.com/zwBnYut.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://live.jefimija.eu/hls/stream_low/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",KTV Zrenjanin",
