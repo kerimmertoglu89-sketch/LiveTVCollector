@@ -1051,6 +1051,11 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Sports
+Name: DirecTV Sports (1080p)
+URL: http://38.183.182.166:8000/play/a125/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Gol Peru (1080p)
 URL: http://38.183.182.166:8000/play/a120/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png
