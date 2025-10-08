@@ -3155,7 +3155,7 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Group: Culture;Lifestyle
 Name: Salira TV (720p)
 URL: https://live.salira.tv/p/3870/hybrid/play.m3u8
-Logo: https://www.lyngsat.com/logo/tv/ss/salira-tv-id.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
