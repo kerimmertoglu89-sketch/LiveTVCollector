@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMiBBTSZoYXNoX3ZhbHVlPXdMNmZwZVdNb3VMWXhYSHhabVhhNnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00YzIzMDMwMy05Mjg3LTRhN2ItYjRiMS04NTFkMzZiODNhNmQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjUyIEFNJmhhc2hfdmFsdWU9ZWZzaU5EdTFwY0NaWUYvNUpaOUYzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBmMjJiOThjLWRjMDItNGFhZS1iMjI5LWE4MTg4OTg4OWU2ZA==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMiBBTSZoYXNoX3ZhbHVlPWlsM0xhQVc5MmkvOU4zSWZVbHlSQmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yYzAxMzMwZC1lOTIzLTQ5MDItYmZiYi05NDkxYThmY2ZhMzc=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjUzIEFNJmhhc2hfdmFsdWU9WUJzQ045N1NUU0hET2hjcnhCN3hqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2NDAyY2I2LTllZmYtNGNjNC04M2Y0LTJjYThlNTNmOTI3MQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMyBBTSZoYXNoX3ZhbHVlPVN1bGhOS2xrOTV0b1FzeUJ0dFZ4U0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNWI4YjU3OS1lYTU0LTQ1ZGYtYTIxZi1hYjliOWIxYjY1NjY=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjU0IEFNJmhhc2hfdmFsdWU9b1dnbzQ1RzFYZUpwM0ovZVN1WEZkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE3ZWRjNTEwLWRkZWQtNDM5Zi04YjBjLTRkMmJmNzY4YjUyOQ==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -4624,6 +4624,12 @@
     "type": "PCNELID",
     "url": "https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg"
+  },
+  {
+    "name": "IEGCQT S12E04 05-10-2025",
+    "type": "IEGCQT",
+    "url": "https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xp0a1vmx/v/1/ev/7/flavorId/1_,d7ixkg9q,hk32xyb4,kcttso1r,y2kjbefi,s7xnqwup,3x8ii3ir,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png"
   },
   {
     "name": "IEGCQT S12E03 21-09-2025",

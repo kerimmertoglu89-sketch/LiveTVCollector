@@ -1629,6 +1629,11 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
 Group: IEGCQT
+Name: IEGCQT S12E04 05-10-2025
+URL: https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_xp0a1vmx/v/1/ev/7/flavorId/1_,d7ixkg9q,hk32xyb4,kcttso1r,y2kjbefi,s7xnqwup,3x8ii3ir,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+Logo: https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
 Name: IEGCQT S12E03 21-09-2025
 URL: https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_n8v68pj6/v/1/ev/7/flavorId/1_,2cu4er5i,wqiw9q06,8tkpvb4o,elevxzfz,i9zpqi8z,9465pv16,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 Logo: https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png
@@ -4181,7 +4186,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMiBBTSZoYXNoX3ZhbHVlPXdMNmZwZVdNb3VMWXhYSHhabVhhNnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00YzIzMDMwMy05Mjg3LTRhN2ItYjRiMS04NTFkMzZiODNhNmQ=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjUyIEFNJmhhc2hfdmFsdWU9ZWZzaU5EdTFwY0NaWUYvNUpaOUYzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBmMjJiOThjLWRjMDItNGFhZS1iMjI5LWE4MTg4OTg4OWU2ZA==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4196,7 +4201,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMiBBTSZoYXNoX3ZhbHVlPWlsM0xhQVc5MmkvOU4zSWZVbHlSQmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yYzAxMzMwZC1lOTIzLTQ5MDItYmZiYi05NDkxYThmY2ZhMzc=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjUzIEFNJmhhc2hfdmFsdWU9WUJzQ045N1NUU0hET2hjcnhCN3hqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2NDAyY2I2LTllZmYtNGNjNC04M2Y0LTJjYThlNTNmOTI3MQ==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4241,7 +4246,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDI1IDg6OToyMyBBTSZoYXNoX3ZhbHVlPVN1bGhOS2xrOTV0b1FzeUJ0dFZ4U0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNWI4YjU3OS1lYTU0LTQ1ZGYtYTIxZi1hYjliOWIxYjY1NjY=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDEyOjI4OjU0IEFNJmhhc2hfdmFsdWU9b1dnbzQ1RzFYZUpwM0ovZVN1WEZkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE3ZWRjNTEwLWRkZWQtNDM5Zi04YjBjLTRkMmJmNzY4YjUyOQ==/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
