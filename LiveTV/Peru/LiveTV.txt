@@ -130,6 +130,11 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Documentary
+Name: History Latin America (480p)
+URL: http://181.188.216.5:18000/play/a0cf/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: El Histonauta TV (360p)
 URL: https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8
 Logo: https://i.imgur.com/H4SFkx6.png
