@@ -10206,6 +10206,12 @@
     "img": "https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13"
   },
   {
+    "name": "RCTI LIVE SPORTS",
+    "type": "TV Nasional Indonesia",
+    "url": "https://liveplus.rctiplus.id/RTMP-IN.m3u8",
+    "img": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true"
+  },
+  {
     "name": "INDOSIAR Liga 1",
     "type": "TV Nasional Indonesia",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
@@ -16672,12 +16678,6 @@
     "type": "No SignaL 📺",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd",
     "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg"
-  },
-  {
-    "name": "RCTI Live Sports 🔵",
-    "type": "NasioNaL DiGitaL 📡",
-    "url": "https://liveplus.rctiplus.id/RTMP-IN.m3u8",
-    "img": "https://www.visionplus.id/images/repository/426/173426-LOGO-m.png"
   },
   {
     "name": "RcTi",

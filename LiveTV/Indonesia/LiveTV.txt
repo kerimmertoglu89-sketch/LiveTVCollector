@@ -10445,11 +10445,6 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: NasioNaL DiGitaL 📡
-Name: RCTI Live Sports 🔵
-URL: https://liveplus.rctiplus.id/RTMP-IN.m3u8
-Logo: https://www.visionplus.id/images/repository/426/173426-LOGO-m.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: RcTi
 URL: https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png
@@ -18815,6 +18810,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 --------------------------------------------------
 
 Group: TV Nasional Indonesia
+Name: RCTI LIVE SPORTS
+URL: https://liveplus.rctiplus.id/RTMP-IN.m3u8
+Logo: https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: INDOSIAR Liga 1
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 Logo: https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png
