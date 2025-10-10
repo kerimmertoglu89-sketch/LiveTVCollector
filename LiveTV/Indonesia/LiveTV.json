@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-09 21:41:26",
+  "date": "2025-10-10 06:08:11",
   "channels": {
     "INDONESIA": [
       {
@@ -29795,6 +29795,20 @@
         "url": "http://61.8.64.138:1935/jektv/myStream/playlist.m3u8"
       },
       {
+        "name": "JTV (480p)",
+        "logo": "https://i.imgur.com/mIDWIQk.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+      },
+      {
+        "name": "JTV Kediri",
+        "logo": "https://i.imgur.com/mIDWIQk.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+      },
+      {
         "name": "Kawanua TV (720p)",
         "logo": "https://i.postimg.cc/xjx4F9Q2/kawanuatv.png",
         "group": "General",
@@ -29881,11 +29895,11 @@
         "url": "https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8"
       },
       {
-        "name": "PONTV",
+        "name": "PONTV (720p)",
         "logo": "https://i.imgur.com/P5erWzm.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
-        "url": "https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8"
+        "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8"
       },
       {
         "name": "Radar Tasikmalaya TV (720p) [Not 24/7]",

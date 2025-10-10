@@ -25404,6 +25404,18 @@
     "img": "https://i.imgur.com/wh75d1f.png"
   },
   {
+    "name": "JTV (480p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/mIDWIQk.png"
+  },
+  {
+    "name": "JTV Kediri",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/mIDWIQk.png"
+  },
+  {
     "name": "Kawanua TV (720p)",
     "type": "General",
     "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
@@ -25476,9 +25488,9 @@
     "img": "https://i.imgur.com/pRyaqIi.png"
   },
   {
-    "name": "PONTV",
+    "name": "PONTV (720p)",
     "type": "Undefined",
-    "url": "https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8",
+    "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/P5erWzm.png"
   },
   {
