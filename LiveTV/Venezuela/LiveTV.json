@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10 22:00:41",
+  "date": "2025-10-11 07:19:36",
   "channels": {
     "News": [
       {
@@ -38,18 +38,32 @@
         "url": "https://vcp10.myplaytv.com/canali/canali/playlist.m3u8"
       },
       {
-        "name": "TeleSUR (1080p)",
+        "name": "Telesur (480p)",
+        "logo": "https://i.imgur.com/P50VjRX.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+      },
+      {
+        "name": "Telesur English (480p)",
+        "logo": "https://i.imgur.com/P50VjRX.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+      },
+      {
+        "name": "Telesur English HD (1080p)",
+        "logo": "https://i.imgur.com/P50VjRX.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8"
+      },
+      {
+        "name": "Telesur HD (1080p)",
         "logo": "https://i.imgur.com/P50VjRX.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
-      },
-      {
-        "name": "Telesur English (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/P50VjRX.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8"
       }
     ],
     "General": [
@@ -785,7 +799,7 @@
     "Movies": [
       {
         "name": "Cinecanal",
-        "logo": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"

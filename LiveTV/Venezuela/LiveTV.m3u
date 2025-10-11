@@ -9,10 +9,14 @@ https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 https://1a-1791.com/live/r31jzt5k/slot-32/qyp9-ih3g_360p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="News",Canal I (720p)
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur HD (1080p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur English (1080p) [Not 24/7]
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="General",Venezolana de Televisión (480p)
 https://live-c.cf.dmcdn.net/sec2(bDR0xuHPNJCfLs_4ZRVb4CVYQSdixvkRzOsLu7dNy1d_VCdBgenCW9BzrmCFg4DpZdoPVo9_2AWfsR-xgfpl7xkAchS82CsvCXTUIu6d4zIFiYeq8v409k3_Gg2ut9Ir)/dm/3/x930kre/d/live-380.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="General",TV FANB (480p)
@@ -213,7 +217,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
 https://streamtv.intervenhosting.net:3029/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Undefined",Studio Universal Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/qvJQXi.png" group-title="Movies",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8

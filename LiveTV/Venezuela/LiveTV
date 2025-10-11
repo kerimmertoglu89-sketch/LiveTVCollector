@@ -30,15 +30,27 @@
     "img": "https://i.imgur.com/vKfOavW.png"
   },
   {
-    "name": "TeleSUR (1080p)",
+    "name": "Telesur (480p)",
     "type": "News",
-    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
     "img": "https://i.imgur.com/P50VjRX.png"
   },
   {
-    "name": "Telesur English (1080p) [Not 24/7]",
+    "name": "Telesur English (480p)",
     "type": "News",
-    "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+    "img": "https://i.imgur.com/P50VjRX.png"
+  },
+  {
+    "name": "Telesur English HD (1080p)",
+    "type": "News",
+    "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "img": "https://i.imgur.com/P50VjRX.png"
+  },
+  {
+    "name": "Telesur HD (1080p)",
+    "type": "News",
+    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
     "img": "https://i.imgur.com/P50VjRX.png"
   },
   {
@@ -645,7 +657,7 @@
     "name": "Cinecanal",
     "type": "Movies",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8",
-    "img": "https://comteco.com.bo/img/upload/canales/qvJQXi.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png"
   },
   {
     "name": "Disney Channel Latin America (1080p)",
