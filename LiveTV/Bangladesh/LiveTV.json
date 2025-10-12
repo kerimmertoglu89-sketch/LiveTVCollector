@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 13:46:59",
+  "date": "2025-10-12 21:45:30",
   "channels": {
     "BANGLA": [
       {
@@ -98,7 +98,7 @@
         "logo": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://103.175.242.10:8080/banglavision/index.m3u8"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
       },
       {
         "name": "BOISHAKHI TV",
@@ -275,7 +275,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",
         "group": "English News",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
       },
       {
         "name": "BBC News",
@@ -345,41 +345,6 @@
         "url": "http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8"
       },
       {
-        "name": "Nick",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8"
-      },
-      {
-        "name": "Nick Jr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8"
-      },
-      {
-        "name": "Sony YAY",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://live.dinesh29.com.np/stream/jiotv/sonicbangla/stream_0.m3u8?uid=1629808248"
-      },
-      {
-        "name": "Pogo",
-        "logo": "https://i.imgur.com/chT8xP5.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://89.187.189.98/SONIC/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network English",
-        "logo": "https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://89.187.189.98/CARTOONNETWORK/index.m3u8"
-      },
-      {
         "name": "Hungama Kids",
         "logo": "https://i.imgur.com/swM1L4e.png",
         "group": "Kids",
@@ -415,14 +380,625 @@
         "url": "https://playyonogames.in/jio/app/ts_live_815.m3u8"
       }
     ],
-    "Documentary": [
+    "Uncategorized": [
       {
-        "name": "Discovery Bangla",
-        "logo": "https://bdiptv.stream/uploads/tv_image/discovery.png",
-        "group": "Documentary",
+        "name": "Unnamed Channel",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016",
+        "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8"
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8"
       },
+      {
+        "name": "9XM",
+        "logo": "http://103.175.242.10/assets/images/9XM1732894296.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/9xm/index.m3u8"
+      },
+      {
+        "name": "And Picture",
+        "logo": "http://103.175.242.10/assets/images/And%20Picture%201731407396.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/andpicture/index.m3u8"
+      },
+      {
+        "name": "Atn Bangla",
+        "logo": "http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/atnbangla/index.m3u8"
+      },
+      {
+        "name": "ATN News",
+        "logo": "http://103.175.242.10/assets/images/ATN%20News1731520019.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/atnnews/index.m3u8"
+      },
+      {
+        "name": "Banglavision",
+        "logo": "http://103.175.242.10/assets/images/Banglavision1731407320.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/banglavision/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 1",
+        "logo": "http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/bein1/index.m3u8"
+      },
+      {
+        "name": "Bijoy TV",
+        "logo": "http://103.175.242.10/assets/images/Bijoy%20TV1731306488.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/bijoy/index.m3u8"
+      },
+      {
+        "name": "Boishakhi",
+        "logo": "http://103.175.242.10/assets/images/Boishakhi1731389791.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/boishakhi/index.m3u8"
+      },
+      {
+        "name": "BTV",
+        "logo": "http://103.175.242.10/assets/images/BTV1731308323.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/btv/index.m3u8"
+      },
+      {
+        "name": "Cartoon Network HD",
+        "logo": "http://103.175.242.10/assets/images/Cartoon%20Network%20HD1732880800.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/cartoonnetwork/index.m3u8"
+      },
+      {
+        "name": "Channel 24",
+        "logo": "http://103.175.242.10/assets/images/Channel%20241731584609.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/channel24/index.m3u8"
+      },
+      {
+        "name": "Channel i",
+        "logo": "http://103.175.242.10/assets/images/Channel%20i1731407855.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/channeli/index.m3u8"
+      },
+      {
+        "name": "Colors Bangla",
+        "logo": "http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/colorsbangla/index.m3u8"
+      },
+      {
+        "name": "Colors HD",
+        "logo": "http://103.175.242.10/assets/images/Colors%20HD1731406975.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/colorshd/index.m3u8"
+      },
+      {
+        "name": "DBC News",
+        "logo": "http://103.175.242.10/assets/images/DBC%20News1731406699.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/dbc/index.m3u8"
+      },
+      {
+        "name": "Desh TV",
+        "logo": "http://103.175.242.10/assets/images/Desh%20TV1731466400.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/deshtv/index.m3u8"
+      },
+      {
+        "name": "Discovery",
+        "logo": "http://103.175.242.10/assets/images/Discovery1731407135.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/discovery/index.m3u8"
+      },
+      {
+        "name": "Dubai Sports2",
+        "logo": "http://103.175.242.10/assets/images/Dubai%20Sports21735647766.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/dubaisports2/index.m3u8"
+      },
+      {
+        "name": "DW News",
+        "logo": "http://103.175.242.10/assets/images/DW%20News1731466569.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/dwnews/index.m3u8"
+      },
+      {
+        "name": "Ekattor TV",
+        "logo": "http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/ekattor/index.m3u8"
+      },
+      {
+        "name": "Enter Ten Bangla",
+        "logo": "http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/entertenbn/index.m3u8"
+      },
+      {
+        "name": "Euro Sports",
+        "logo": "http://103.175.242.10/assets/images/Euro%20Sports1730729350.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/eurosports/index.m3u8"
+      },
+      {
+        "name": "Gaan Bangla",
+        "logo": "http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/gaanbangla/index.m3u8"
+      },
+      {
+        "name": "GTV 1",
+        "logo": "http://103.175.242.10/assets/images/GTV%2011731039246.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/gtv/index.m3u8"
+      },
+      {
+        "name": "GTV 2",
+        "logo": "http://103.175.242.10/assets/images/GTV%2021735646978.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/gtv2/index.m3u8"
+      },
+      {
+        "name": "Independent TV",
+        "logo": "http://103.175.242.10/assets/images/Independent%20TV1731406270.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/independent/index.m3u8"
+      },
+      {
+        "name": "Jalsha Movies",
+        "logo": "http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/jalshamovies/index.m3u8"
+      },
+      {
+        "name": "Jamuna TV",
+        "logo": "http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/jamuna/index.m3u8"
+      },
+      {
+        "name": "Maasranga",
+        "logo": "http://103.175.242.10/assets/images/Maasranga1731406467.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/maasranga/index.m3u8"
+      },
+      {
+        "name": "Masti",
+        "logo": "http://103.175.242.10/assets/images/Masti1732894277.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/abmasti/index.m3u8"
+      },
+      {
+        "name": "Me TV",
+        "logo": "http://103.175.242.10/assets/images/Me%20TV1731468257.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/metv/index.m3u8"
+      },
+      {
+        "name": "Movie Bangla",
+        "logo": "http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/moviebangla/index.m3u8"
+      },
+      {
+        "name": "Movies Now",
+        "logo": "http://103.175.242.10/assets/images/Movies%20Now1730729140.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/moviesnow/index.m3u8"
+      },
+      {
+        "name": "My Tv",
+        "logo": "http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/mytv/index.m3u8"
+      },
+      {
+        "name": "Nagorik TV",
+        "logo": "http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/nagorik/index.m3u8"
+      },
+      {
+        "name": "National Geographic",
+        "logo": "http://103.175.242.10/assets/images/National%20Geographic1731468376.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/natgeo/index.m3u8"
+      },
+      {
+        "name": "Nick",
+        "logo": "http://103.175.242.10/assets/images/Nick1731468472.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/nick/index.m3u8"
+      },
+      {
+        "name": "NTV",
+        "logo": "http://103.175.242.10/assets/images/NTV1731389953.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/ntv/index.m3u8"
+      },
+      {
+        "name": "Red Bull",
+        "logo": "http://103.175.242.10/assets/images/Red%20Bull1731468749.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/redbull/index.m3u8"
+      },
+      {
+        "name": "Rtv",
+        "logo": "http://103.175.242.10/assets/images/Rtv1731406387.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/rtv/index.m3u8"
+      },
+      {
+        "name": "S Premier League",
+        "logo": "http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/spremier/index.m3u8"
+      },
+      {
+        "name": "Sa tv",
+        "logo": "http://103.175.242.10/assets/images/Sa%20tv1731307468.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/satv/index.m3u8"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "logo": "http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sbangla/index.m3u8"
+      },
+      {
+        "name": "Somoy",
+        "logo": "http://103.175.242.10/assets/images/Somoy1731406328.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/somoy/index.m3u8"
+      },
+      {
+        "name": "Sony Aath",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonyaath/index.m3u8"
+      },
+      {
+        "name": "Sony Enter Ten",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonyentten/index.m3u8"
+      },
+      {
+        "name": "Sony Max",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Max1731407620.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonymax/index.m3u8"
+      },
+      {
+        "name": "Sony Max 2",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonymax2/index.m3u8"
+      },
+      {
+        "name": "Sony Ten 1",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://stvlive.net:8080/sonyten1/index.m3u8"
+      },
+      {
+        "name": "Sony Ten 2",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonyten2/index.m3u8"
+      },
+      {
+        "name": "Sony Ten 3",
+        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2031730721897.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sonyten3/index.m3u8"
+      },
+      {
+        "name": "Star Gold",
+        "logo": "http://103.175.242.10/assets/images/Star%20Gold1731407227.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/stargold/index.m3u8"
+      },
+      {
+        "name": "Star Gold2",
+        "logo": "http://103.175.242.10/assets/images/Star%20Gold21731407524.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/stargold2/index.m3u8"
+      },
+      {
+        "name": "Star Jalsha",
+        "logo": "http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starjalsha/index.m3u8"
+      },
+      {
+        "name": "Star Movies",
+        "logo": "http://103.175.242.10/assets/images/Star%20Movies1731469513.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starmovies/index.m3u8"
+      },
+      {
+        "name": "Star Plus",
+        "logo": "http://103.175.242.10/assets/images/Star%20Plus1731424615.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starplus/index.m3u8"
+      },
+      {
+        "name": "Star Select1",
+        "logo": "http://103.175.242.10/assets/images/Star%20Select11731408156.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starselect1/index.m3u8"
+      },
+      {
+        "name": "Star Select2",
+        "logo": "http://103.175.242.10/assets/images/Star%20Select21731408458.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starselect2/index.m3u8"
+      },
+      {
+        "name": "Star Sports 1",
+        "logo": "http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starsports1/index.m3u8"
+      },
+      {
+        "name": "Star Sports2",
+        "logo": "http://103.175.242.10/assets/images/Star%20Sports21731408535.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/starsports2/index.m3u8"
+      },
+      {
+        "name": "Sun Bangla",
+        "logo": "http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/sunbangla/index.m3u8"
+      },
+      {
+        "name": "Tsports",
+        "logo": "http://103.175.242.10/assets/images/Tsports1735735587.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/tsports1/index.m3u8"
+      },
+      {
+        "name": "Tsports",
+        "logo": "http://103.175.242.10/assets/images/Tsports1735735598.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/tsports2/index.m3u8"
+      },
+      {
+        "name": "Zee Bangla Cinema",
+        "logo": "http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/zeebncinema/index.m3u8"
+      },
+      {
+        "name": "Zee Bangla HD",
+        "logo": "http://103.175.242.10/assets/images/Zee%20Bangla%20HD1736674908.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/zeebnhd/index.m3u8"
+      },
+      {
+        "name": "Zee Cinema",
+        "logo": "http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
+        "url": "http://103.175.242.10:8080/zeecinema/index.m3u8"
+      },
+      {
+        "name": "SonyTen1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://ms.towkai.com/sony_ten1/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "TSPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=?"
+      },
+      {
+        "name": "TSPORTS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "GOLDMINES",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8"
+      },
+      {
+        "name": "colorsbanglahd",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8here"
+      },
+      {
+        "name": "Banglavision",
+        "logo": "http://103.175.242.10/assets/images/Banglavision1731407320.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://stvlive.net:8080/banglavision/index.m3u8"
+      },
+      {
+        "name": "Sony Entertainment HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/sethd/index.m3u8"
+      },
+      {
+        "name": "SONY max HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/max/index.m3u8"
+      },
+      {
+        "name": "SONY max2 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/max2/index.m3u8"
+      },
+      {
+        "name": "stargold HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/stargold/index.m3u8"
+      },
+      {
+        "name": "Zee Cafe",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/cafe/index.m3u8"
+      },
+      {
+        "name": "epic HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/epic/index.m3u8"
+      },
+      {
+        "name": "Zee Cinema HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://51.15.7.9:3141/zeecinema/index.m3u8"
+      },
+      {
+        "name": "National_Geo_HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
+      },
+      {
+        "name": "Histoire HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/Histoire/index.m3u8"
+      },
+      {
+        "name": "NRJ_12 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/NRJ_12/index.m3u8"
+      },
+      {
+        "name": "TF1_HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/TF1_HD/index.m3u8"
+      },
+      {
+        "name": "RTL9 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/RTL9/index.m3u8"
+      },
+      {
+        "name": "Discovery_HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/Discovery_HD/index.m3u8"
+      },
+      {
+        "name": "Eurosport_HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8"
+      },
+      {
+        "name": "Eurosport_2_HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8"
+      }
+    ],
+    "Documentary": [
       {
         "name": "Discovery Hindi",
         "logo": "https://bdiptv.stream/uploads/tv_image/discovery.png",
@@ -436,13 +1012,6 @@
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1533319"
-      },
-      {
-        "name": "Discovery Science SD",
-        "logo": "https://bdiptv.stream/uploads/tv_image/discovery.png",
-        "group": "Documentary",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://89.187.189.98/DISCOVERYJEETHD/index.m3u8"
       },
       {
         "name": "NAT GEO HD Bangla",
@@ -1050,6 +1619,13 @@
     ],
     "SPORTS": [
       {
+        "name": "Live Sports-1",
+        "logo": "http://dds.oncast.me/img/logo/sp1.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658"
+      },
+      {
         "name": "T-Sports [1]",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
         "group": "SPORTS",
@@ -1061,7 +1637,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1760013906&token=627234bc1e9bb47a68390c6757e62f2b&u=7a511720-17fc-44bc-a9a7-9222de71898c"
+        "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Star Sports 1",
@@ -1442,610 +2018,6 @@
         "group": "FM-Radio",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://18093.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8"
-      }
-    ],
-    "Uncategorized": [
-      {
-        "name": "9XM",
-        "logo": "http://103.175.242.10/assets/images/9XM1732894296.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/9xm/index.m3u8"
-      },
-      {
-        "name": "And Picture",
-        "logo": "http://103.175.242.10/assets/images/And%20Picture%201731407396.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/andpicture/index.m3u8"
-      },
-      {
-        "name": "Atn Bangla",
-        "logo": "http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/atnbangla/index.m3u8"
-      },
-      {
-        "name": "ATN News",
-        "logo": "http://103.175.242.10/assets/images/ATN%20News1731520019.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/atnnews/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 1",
-        "logo": "http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/bein1/index.m3u8"
-      },
-      {
-        "name": "Bijoy TV",
-        "logo": "http://103.175.242.10/assets/images/Bijoy%20TV1731306488.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/bijoy/index.m3u8"
-      },
-      {
-        "name": "Boishakhi",
-        "logo": "http://103.175.242.10/assets/images/Boishakhi1731389791.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/boishakhi/index.m3u8"
-      },
-      {
-        "name": "BTV",
-        "logo": "http://103.175.242.10/assets/images/BTV1731308323.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/btv/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network HD",
-        "logo": "http://103.175.242.10/assets/images/Cartoon%20Network%20HD1732880800.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/cartoonnetwork/index.m3u8"
-      },
-      {
-        "name": "Channel 24",
-        "logo": "http://103.175.242.10/assets/images/Channel%20241731584609.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/channel24/index.m3u8"
-      },
-      {
-        "name": "Channel i",
-        "logo": "http://103.175.242.10/assets/images/Channel%20i1731407855.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/channeli/index.m3u8"
-      },
-      {
-        "name": "Colors Bangla",
-        "logo": "http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/colorsbangla/index.m3u8"
-      },
-      {
-        "name": "Colors HD",
-        "logo": "http://103.175.242.10/assets/images/Colors%20HD1731406975.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/colorshd/index.m3u8"
-      },
-      {
-        "name": "DBC News",
-        "logo": "http://103.175.242.10/assets/images/DBC%20News1731406699.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/dbc/index.m3u8"
-      },
-      {
-        "name": "Desh TV",
-        "logo": "http://103.175.242.10/assets/images/Desh%20TV1731466400.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/deshtv/index.m3u8"
-      },
-      {
-        "name": "Discovery",
-        "logo": "http://103.175.242.10/assets/images/Discovery1731407135.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/discovery/index.m3u8"
-      },
-      {
-        "name": "Dubai Sports2",
-        "logo": "http://103.175.242.10/assets/images/Dubai%20Sports21735647766.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/dubaisports2/index.m3u8"
-      },
-      {
-        "name": "DW News",
-        "logo": "http://103.175.242.10/assets/images/DW%20News1731466569.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/dwnews/index.m3u8"
-      },
-      {
-        "name": "Ekattor TV",
-        "logo": "http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/ekattor/index.m3u8"
-      },
-      {
-        "name": "Enter Ten Bangla",
-        "logo": "http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/entertenbn/index.m3u8"
-      },
-      {
-        "name": "Euro Sports",
-        "logo": "http://103.175.242.10/assets/images/Euro%20Sports1730729350.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/eurosports/index.m3u8"
-      },
-      {
-        "name": "Gaan Bangla",
-        "logo": "http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/gaanbangla/index.m3u8"
-      },
-      {
-        "name": "GTV 1",
-        "logo": "http://103.175.242.10/assets/images/GTV%2011731039246.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/gtv/index.m3u8"
-      },
-      {
-        "name": "GTV 2",
-        "logo": "http://103.175.242.10/assets/images/GTV%2021735646978.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/gtv2/index.m3u8"
-      },
-      {
-        "name": "Independent TV",
-        "logo": "http://103.175.242.10/assets/images/Independent%20TV1731406270.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/independent/index.m3u8"
-      },
-      {
-        "name": "Jalsha Movies",
-        "logo": "http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/jalshamovies/index.m3u8"
-      },
-      {
-        "name": "Jamuna TV",
-        "logo": "http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/jamuna/index.m3u8"
-      },
-      {
-        "name": "Maasranga",
-        "logo": "http://103.175.242.10/assets/images/Maasranga1731406467.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/maasranga/index.m3u8"
-      },
-      {
-        "name": "Masti",
-        "logo": "http://103.175.242.10/assets/images/Masti1732894277.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/abmasti/index.m3u8"
-      },
-      {
-        "name": "Me TV",
-        "logo": "http://103.175.242.10/assets/images/Me%20TV1731468257.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/metv/index.m3u8"
-      },
-      {
-        "name": "Movie Bangla",
-        "logo": "http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/moviebangla/index.m3u8"
-      },
-      {
-        "name": "Movies Now",
-        "logo": "http://103.175.242.10/assets/images/Movies%20Now1730729140.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/moviesnow/index.m3u8"
-      },
-      {
-        "name": "My Tv",
-        "logo": "http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/mytv/index.m3u8"
-      },
-      {
-        "name": "Nagorik TV",
-        "logo": "http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/nagorik/index.m3u8"
-      },
-      {
-        "name": "National Geographic",
-        "logo": "http://103.175.242.10/assets/images/National%20Geographic1731468376.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/natgeo/index.m3u8"
-      },
-      {
-        "name": "Nick",
-        "logo": "http://103.175.242.10/assets/images/Nick1731468472.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/nick/index.m3u8"
-      },
-      {
-        "name": "NTV",
-        "logo": "http://103.175.242.10/assets/images/NTV1731389953.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/ntv/index.m3u8"
-      },
-      {
-        "name": "Red Bull",
-        "logo": "http://103.175.242.10/assets/images/Red%20Bull1731468749.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/redbull/index.m3u8"
-      },
-      {
-        "name": "Rtv",
-        "logo": "http://103.175.242.10/assets/images/Rtv1731406387.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/rtv/index.m3u8"
-      },
-      {
-        "name": "S Premier League",
-        "logo": "http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/spremier/index.m3u8"
-      },
-      {
-        "name": "Sa tv",
-        "logo": "http://103.175.242.10/assets/images/Sa%20tv1731307468.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/satv/index.m3u8"
-      },
-      {
-        "name": "Sangeet Bangla",
-        "logo": "http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sbangla/index.m3u8"
-      },
-      {
-        "name": "Somoy",
-        "logo": "http://103.175.242.10/assets/images/Somoy1731406328.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/somoy/index.m3u8"
-      },
-      {
-        "name": "Sony Aath",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonyaath/index.m3u8"
-      },
-      {
-        "name": "Sony Enter Ten",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonyentten/index.m3u8"
-      },
-      {
-        "name": "Sony Max",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Max1731407620.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonymax/index.m3u8"
-      },
-      {
-        "name": "Sony Max 2",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonymax2/index.m3u8"
-      },
-      {
-        "name": "Sony Ten 1",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://stvlive.net:8080/sonyten1/index.m3u8"
-      },
-      {
-        "name": "Sony Ten 2",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonyten2/index.m3u8"
-      },
-      {
-        "name": "Sony Ten 3",
-        "logo": "http://103.175.242.10/assets/images/Sony%20Ten%2031730721897.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sonyten3/index.m3u8"
-      },
-      {
-        "name": "Star Gold",
-        "logo": "http://103.175.242.10/assets/images/Star%20Gold1731407227.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/stargold/index.m3u8"
-      },
-      {
-        "name": "Star Gold2",
-        "logo": "http://103.175.242.10/assets/images/Star%20Gold21731407524.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/stargold2/index.m3u8"
-      },
-      {
-        "name": "Star Jalsha",
-        "logo": "http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starjalsha/index.m3u8"
-      },
-      {
-        "name": "Star Movies",
-        "logo": "http://103.175.242.10/assets/images/Star%20Movies1731469513.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starmovies/index.m3u8"
-      },
-      {
-        "name": "Star Plus",
-        "logo": "http://103.175.242.10/assets/images/Star%20Plus1731424615.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starplus/index.m3u8"
-      },
-      {
-        "name": "Star Select1",
-        "logo": "http://103.175.242.10/assets/images/Star%20Select11731408156.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starselect1/index.m3u8"
-      },
-      {
-        "name": "Star Select2",
-        "logo": "http://103.175.242.10/assets/images/Star%20Select21731408458.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starselect2/index.m3u8"
-      },
-      {
-        "name": "Star Sports 1",
-        "logo": "http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starsports1/index.m3u8"
-      },
-      {
-        "name": "Star Sports2",
-        "logo": "http://103.175.242.10/assets/images/Star%20Sports21731408535.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/starsports2/index.m3u8"
-      },
-      {
-        "name": "Sun Bangla",
-        "logo": "http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/sunbangla/index.m3u8"
-      },
-      {
-        "name": "Tsports",
-        "logo": "http://103.175.242.10/assets/images/Tsports1735735587.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/tsports1/index.m3u8"
-      },
-      {
-        "name": "Tsports",
-        "logo": "http://103.175.242.10/assets/images/Tsports1735735598.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/tsports2/index.m3u8"
-      },
-      {
-        "name": "Zee Bangla Cinema",
-        "logo": "http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/zeebncinema/index.m3u8"
-      },
-      {
-        "name": "Zee Bangla HD",
-        "logo": "http://103.175.242.10/assets/images/Zee%20Bangla%20HD1736674908.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/zeebnhd/index.m3u8"
-      },
-      {
-        "name": "Zee Cinema",
-        "logo": "http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8",
-        "url": "http://103.175.242.10:8080/zeecinema/index.m3u8"
-      },
-      {
-        "name": "SonyTen1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://ms.towkai.com/sony_ten1/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "TSPORTS",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=?"
-      },
-      {
-        "name": "TSPORTS",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "GOLDMINES",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8"
-      },
-      {
-        "name": "colorsbanglahd",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8here"
-      },
-      {
-        "name": "Banglavision",
-        "logo": "http://103.175.242.10/assets/images/Banglavision1731407320.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://stvlive.net:8080/banglavision/index.m3u8"
-      },
-      {
-        "name": "Sony Entertainment HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/sethd/index.m3u8"
-      },
-      {
-        "name": "SONY max HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/max/index.m3u8"
-      },
-      {
-        "name": "SONY max2 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/max2/index.m3u8"
-      },
-      {
-        "name": "stargold HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/stargold/index.m3u8"
-      },
-      {
-        "name": "Zee Cafe",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/cafe/index.m3u8"
-      },
-      {
-        "name": "epic HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/epic/index.m3u8"
-      },
-      {
-        "name": "Zee Cinema HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://51.15.7.9:3141/zeecinema/index.m3u8"
-      },
-      {
-        "name": "National_Geo_HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8"
-      },
-      {
-        "name": "Histoire HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/Histoire/index.m3u8"
-      },
-      {
-        "name": "NRJ_12 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/NRJ_12/index.m3u8"
-      },
-      {
-        "name": "TF1_HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/TF1_HD/index.m3u8"
-      },
-      {
-        "name": "RTL9 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/RTL9/index.m3u8"
-      },
-      {
-        "name": "Discovery_HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/Discovery_HD/index.m3u8"
-      },
-      {
-        "name": "Eurosport_HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8"
-      },
-      {
-        "name": "Eurosport_2_HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
-        "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8"
       }
     ],
     "Channels": [

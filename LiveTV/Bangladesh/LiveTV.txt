@@ -65,7 +65,7 @@ Logo: https://s4.gifyu.com/images/image29282f9d45a183d6.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Banglavision
-URL: http://103.175.242.10:8080/banglavision/index.m3u8
+URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 Logo: https://s4.gifyu.com/images/image5c0bfa6b281be803.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -571,11 +571,6 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 --------------------------------------------------
 
 Group: Documentary
-Name: Discovery Bangla
-URL: https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8
-Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Discovery Hindi
 URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
@@ -583,11 +578,6 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Discovery Engliah HD
 URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1533319
-Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Discovery Science SD
-URL: http://89.187.189.98/DISCOVERYJEETHD/index.m3u8
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -745,7 +735,7 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 
 Group: English News
 Name: Al Jazeera
-URL: https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1425,31 +1415,6 @@ URL: http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Nick
-URL: https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Nick Jr
-URL: http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sony YAY
-URL: https://live.dinesh29.com.np/stream/jiotv/sonicbangla/stream_0.m3u8?uid=1629808248
-Logo: https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Pogo
-URL: http://89.187.189.98/SONIC/index.m3u8
-Logo: https://i.imgur.com/chT8xP5.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Cartoon Network English
-URL: http://89.187.189.98/CARTOONNETWORK/index.m3u8
-Logo: https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Hungama Kids
 URL: https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 Logo: https://i.imgur.com/swM1L4e.png
@@ -1914,13 +1879,18 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 
 Group: SPORTS
+Name: Live Sports-1
+URL: http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+Logo: http://dds.oncast.me/img/logo/sp1.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: T-Sports [1]
 URL: http://116.204.149.16/t_sports/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: T-Sports [2]
-URL: https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1760013906&token=627234bc1e9bb47a68390c6757e62f2b&u=7a511720-17fc-44bc-a9a7-9222de71898c
+URL: http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2215,6 +2185,11 @@ Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/
 --------------------------------------------------
 
 Group: Uncategorized
+Name: Unnamed Channel
+URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: 9XM
 URL: http://103.175.242.10:8080/9xm/index.m3u8
 Logo: http://103.175.242.10/assets/images/9XM1732894296.png
@@ -2233,6 +2208,11 @@ Source: https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livet
 Name: ATN News
 URL: http://103.175.242.10:8080/atnnews/index.m3u8
 Logo: http://103.175.242.10/assets/images/ATN%20News1731520019.png
+Source: https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8
+--------------------------------------------------
+Name: Banglavision
+URL: http://103.175.242.10:8080/banglavision/index.m3u8
+Logo: http://103.175.242.10/assets/images/Banglavision1731407320.png
 Source: https://raw.githubusercontent.com/Miraz6755/Bdixtv/refs/heads/main/Livetv.m3u8
 --------------------------------------------------
 Name: Bein Sports 1
