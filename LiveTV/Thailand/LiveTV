@@ -74,13 +74,13 @@
   {
     "name": "ON Vie Giải Trí",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
     "img": "https://i.imgur.com/7GSKm46.png"
   },
   {
     "name": "ON Phim Việt",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=175",
     "img": "https://i.imgur.com/MPNlpzb.png"
   },
   {
@@ -92,13 +92,13 @@
   {
     "name": "ON Movies",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
     "img": "https://i.imgur.com/765Y3jw.png"
   },
   {
     "name": "ON E Channel",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182",
     "img": "https://i.imgur.com/87JEXEQ.png"
   },
   {
@@ -110,37 +110,37 @@
   {
     "name": "ON O2TV",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136",
     "img": "https://i.imgur.com/nqwVkmM.png"
   },
   {
     "name": "ON BiBi",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
     "img": "https://i.imgur.com/YFmPo7l.png"
   },
   {
     "name": "ON Info TV",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
     "img": "https://i.imgur.com/jp57P0v.png"
   },
   {
     "name": "ON Cine",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
     "img": "https://i.imgur.com/6f9ngwY.png"
   },
   {
     "name": "ON Style TV",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
     "img": "https://i.imgur.com/6LQ0Z1O.png"
   },
   {
     "name": "ON Music",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
     "img": "https://i.imgur.com/45BXPY3.png"
   },
   {
@@ -152,7 +152,7 @@
   {
     "name": "ON Trending TV",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
     "img": "https://i.imgur.com/hHYzxmS.png"
   },
   {
@@ -164,31 +164,31 @@
   {
     "name": "ON Vie DRAMAS",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
     "img": "https://i.imgur.com/n7QICK7.png"
   },
   {
     "name": "ON VFamily",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
     "img": "https://i.imgur.com/R82M53x.png"
   },
   {
     "name": "ON KIDS",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
     "img": "https://i.ibb.co/mq65M0Y/On-kids.jpg"
   },
   {
     "name": "On Life",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
     "img": "https://i.ibb.co/QXk7C6G/On-life.jpg"
   },
   {
     "name": "ON Golf",
     "type": "VTVcab HD",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=169",
     "img": "https://i.imgur.com/BGF2I58.png"
   },
   {
@@ -284,7 +284,7 @@
   {
     "name": "SCTV2",
     "type": "SCTV",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201",
     "img": "https://i.ibb.co/VqNpntW/sctv2-hd.png"
   },
   {
@@ -342,10 +342,28 @@
     "img": "https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png"
   },
   {
+    "name": "SCTV16",
+    "type": "SCTV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv16",
+    "img": "https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png"
+  },
+  {
     "name": "SCTV18",
     "type": "SCTV",
     "url": "https://liveh34.seenow.vn/hls/SCTV18/index.m3u8",
     "img": "https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png"
+  },
+  {
+    "name": "SCTV19",
+    "type": "SCTV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv19",
+    "img": "https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png"
+  },
+  {
+    "name": "SCTV21",
+    "type": "SCTV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv21",
+    "img": "https://i.ibb.co/nmxNkPG/s21-hd.jpg"
   },
   {
     "name": "SCTV Phim tổng hợp",
@@ -362,19 +380,19 @@
   {
     "name": "TV360+1",
     "type": "Livestream",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2554",
     "img": "https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png"
   },
   {
     "name": "TV360+2",
     "type": "Livestream",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=1",
     "img": "https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png"
   },
   {
     "name": "TV360+3",
     "type": "Livestream",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=148",
     "img": "https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png"
   },
   {
@@ -488,7 +506,7 @@
   {
     "name": "THĐT1 | TH Đồng Tháp",
     "type": "Địa phương",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/54/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=54/index.m3u8",
     "img": "https://i.imgur.com/TqAz7ET.png"
   },
   {
@@ -506,7 +524,7 @@
   {
     "name": "LTV2 | TH Lâm Đồng 2",
     "type": "Địa phương",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/45/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=45/index.m3u8",
     "img": "https://github.com/kupjta/vuminhthanh12/blob/main/LTV2HD.png?raw=true"
   },
   {
@@ -572,7 +590,7 @@
   {
     "name": "KTV | TH Khánh Hòa 1",
     "type": "Địa phương",
-    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/76/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=76/index.m3u8",
     "img": "https://i.imgur.com/N2gUYoh.png"
   },
   {
@@ -798,118 +816,16 @@
     "img": "https://i.ibb.co/wcT2VqP/man.png"
   },
   {
-    "name": "SPOTV1",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/spotv/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/spotv.png"
-  },
-  {
-    "name": "SPOTV2",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/spotv2/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/spotv2.png"
-  },
-  {
     "name": "Da Vinci",
     "type": "Quốc tế",
     "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/iBx7K1M.png"
   },
   {
-    "name": "Cartoon Network",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/cartoonhd/index.m3u8",
-    "img": "https://freem3u.xyz/static/images/global/cartoon-network.png"
-  },
-  {
-    "name": "Cartoonito",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/cartoonito/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/cartoonito.png"
-  },
-  {
-    "name": "Dreamworks",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/dreamworks/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/dreamworks.png"
-  },
-  {
-    "name": "BBC CbeeBies",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/bbccbb/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/bbccbb.png"
-  },
-  {
-    "name": "HBO",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/hbohd/index.m3u8",
-    "img": "https://i.imgur.com/7nIUtCU.png"
-  },
-  {
-    "name": "Cinemax",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8",
-    "img": "https://freem3u.xyz/static/images/global/cinemax.png"
-  },
-  {
-    "name": "WBTV",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/warnertvhd/index.m3u8",
-    "img": "https://i.imgur.com/B9AVT2i.png"
-  },
-  {
-    "name": "Cinema World",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/cinemaworldhd.png"
-  },
-  {
-    "name": "AXN HD",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/axnhd/index.m3u8",
-    "img": "https://i.imgur.com/5Gtp7WP.png"
-  },
-  {
     "name": "KIX",
     "type": "Quốc tế",
     "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8",
     "img": "https://vnepg.site/logos/167.png"
-  },
-  {
-    "name": "Discovery",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/discoveryhd/index.m3u8",
-    "img": "https://i.imgur.com/2JR5vSZ.png"
-  },
-  {
-    "name": "Discovery Asia",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/discoveryasiahd.png"
-  },
-  {
-    "name": "BBC Earth",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/bbcearth/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/bbcearth.png"
-  },
-  {
-    "name": "BBC Lifestyle",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/bbclifestyle.png"
-  },
-  {
-    "name": "Animal Planet",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/animalhd/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/animalhd.png"
-  },
-  {
-    "name": "DMAX",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/dmax/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/dmax.png"
   },
   {
     "name": "HGTV",
@@ -942,40 +858,16 @@
     "img": "https://i.imgur.com/ZStxdQI.png"
   },
   {
-    "name": "ABC Australia",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/abcaustralia/index.m3u8",
-    "img": "https://i.imgur.com/H2tGzri.png"
-  },
-  {
     "name": "ABC News",
     "type": "Quốc tế",
     "url": "https://c.mjh.nz/abc-nsw.m3u8",
     "img": "https://i.imgur.com/GpgrYCb.png"
   },
   {
-    "name": "BBC News",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8",
-    "img": "https://i.imgur.com/hsByQfe.png"
-  },
-  {
-    "name": "Bloomberg TV",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/bloomberg/index.m3u8",
-    "img": "https://i.imgur.com/OuogLHx.png"
-  },
-  {
     "name": "CNA",
     "type": "Quốc tế",
     "url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/awIDugE.png"
-  },
-  {
-    "name": "CNN",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/cnn/index.m3u8",
-    "img": "https://i.imgur.com/05S3yYZ.png"
   },
   {
     "name": "CNBC",
@@ -1014,21 +906,9 @@
     "img": "https://i.imgur.com/FRsRXRR.png"
   },
   {
-    "name": "RT News",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/rt/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/rt.png"
-  },
-  {
-    "name": "RT Documentary English",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/rtd/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/rtd.png"
-  },
-  {
     "name": "NHK WORLD JAPAN",
     "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/nhkworld/index.m3u8",
+    "url": "https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8",
     "img": "https://i.imgur.com/Et3vExm.png"
   },
   {
@@ -1042,12 +922,6 @@
     "type": "Quốc tế",
     "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/vylHBC8.png"
-  },
-  {
-    "name": "Fashion TV",
-    "type": "Quốc tế",
-    "url": "https://hls.mskycdn.online/tv/fashionhd/index.m3u8",
-    "img": "https://i.imgur.com/6u4tZn6.png"
   },
   {
     "name": "3HD",
