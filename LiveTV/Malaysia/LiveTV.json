@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-11 21:48:09",
+  "date": "2025-10-12 06:50:36",
   "channels": {
     "siaranMy": [
       {
@@ -1672,14 +1672,7 @@
         "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMVyH7VDlEFtFMrHDrAYQGk8M=pK-R/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
-      },
-      {
-        "name": "803 Astro Arena Bola HD B",
-        "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41zeCPN5tsjmXgDffPUQw17f33Py8bhHHxf_VCTkSuP7w=2K9W/dash-wv/jitp-linearwm/5099/default_ott.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMVxb83NikfjnJjNkzh0WyKKc=yuht/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
       },
       {
         "name": "832 Astro Cricket HD",
@@ -1740,53 +1733,53 @@
         "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash"
       },
       {
-        "name": "815 Astro Badminton",
+        "name": "815 Astro Badminton HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkyNzMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.oOZuuCJcZGYH4pHtyKRE-QJE6vja3QAfCH_ASp3MGWE"
+        "url": "https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWBgXaBe_L-e1IkHOazy4WOg=P-c-/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
       },
       {
         "name": "804 Astro Arena Bola 2 HD",
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_meOw_XAe20b85hnBxwaG-9c=-SSp/dash-wv/jitp-linearwm/5100/default_primary.mpd"
-      },
-      {
-        "name": "804 Astro Arena Bola 2 HD B",
-        "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk5NzU4MzQsImlzcyI6IlZSIiwiZXhwIjoxNzYwMDQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.NWLRofVJjdRx3SRepzNC8szR9TGjl0rTKjDSyaiJdL0"
+        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mW9jbUT28jV-sJi9ikZKzOQ=nVaV/dash-wv/jitp-linearwm/5100/default_primary.mpd"
       },
       {
         "name": "811 Astro Premier League HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX7_S2-QKD2kzJeVsiZH_77js=3N53/dash-wv/jitp-dashisowm/601/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX76HoFXTGASXyla-8etXT9Ik=U_sN/dash-wv/jitp-dashisowm/601/default_primary.mpd"
       },
       {
         "name": "811 Astro Premier League HD B",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk5NzU4NjIsImlzcyI6IlZSIiwiZXhwIjoxNzYwMDQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.LO2j1qPQfMXX04ZzAQj61TaY41HoN3ART07K6jlRzlM"
+        "url": "https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkyMjMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.I4ca_YG_YhEEJWih0DMnV8AoSeQ0zmU4h5ENSPCJ6xk"
       },
       {
         "name": "812 Astro Premier League 2 HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/418hE2VhV_z-rNa0gf3lfkQ6zJKULP0_WNhyzWEAdaXMI=ebwP/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX77KuYz62DPCjJIS78n4Xw3M=GzcK/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
       },
       {
         "name": "812 Astro Premier League 2 HD B",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk5NzU4OTEsImlzcyI6IlZSIiwiZXhwIjoxNzYwMDQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.Kx6FaNGKQXOAqh6suDPuFZt4v_l5ppU0gZIaOGGHznk"
+        "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxNjY4NDUsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.eTnknrROEIBJeT9oVMr-8DnLcMaKhAHUTtJORfTN2-M"
+      },
+      {
+        "name": "815 Astro Badminton HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1fpwyo9SZI4HrN6hczdLWME=RshY/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
       },
       {
         "name": "816 Astro Badminton 2 HD",
@@ -2062,7 +2055,35 @@
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
       },
       {
-        "name": "BADMINTON BACKUP1",
+        "name": "BADMINTON 1",
+        "logo": "https://static.vebotv.app/leagues/badminton.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://hotlivezz179026907.akainu.xyz/03lmmUexJHSVirqlZMdNYw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may24/chunklist.m3u8"
+      },
+      {
+        "name": "BADMINTON 2",
+        "logo": "https://static.vebotv.app/leagues/badminton.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://hotlivezz179026907.akainu.xyz/bD-QEQ5sRwzT3fAtTo4rhw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may26/chunklist.m3u8"
+      },
+      {
+        "name": "BADMINTON 3",
+        "logo": "https://static.vebotv.app/leagues/badminton.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://hotlivezz179026907.akainu.xyz/KOiwcyra56H3iVq_mlM-Dw/Fv2lucGIbhPi2caWYvF5Lg/1748426789328/live/may241/chunklist.m3u8"
+      },
+      {
+        "name": "BADMINTON 4",
+        "logo": "https://static.vebotv.app/leagues/badminton.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may25/chunklist.m3u8"
+      },
+      {
+        "name": "BADMINTON 5",
         "logo": "https://static.vebotv.app/leagues/badminton.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
@@ -4682,6 +4703,22 @@
         "group": "Pluto",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+      }
+    ],
+    "LIVE EVENT ONLY": [
+      {
+        "name": "Sooka prima 2",
+        "logo": "httphttps://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg",
+        "group": "LIVE EVENT ONLY",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+      },
+      {
+        "name": "Sooka prima 3",
+        "logo": "https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg",
+        "group": "LIVE EVENT ONLY",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkxMTMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.eiqGmr8qmyiVwp4xlbVNdJSM8bRYuMWyB0hGUM4IeyQ"
       }
     ],
     "General": [
