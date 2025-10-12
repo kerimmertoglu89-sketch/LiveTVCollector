@@ -375,7 +375,7 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/aloula/playlist.m3u
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWQjVq6s/ten-tv.png" group-title="General",TeN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwC7fz6.png" group-title="Documentary",Al Wathaeqya
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
@@ -387,10 +387,18 @@ http://213.57.91.138:8000/play/a06s
 http://213.57.91.138:8000/play/a06q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Series",DMC Drama (720p)
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Series",On Drama
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png" group-title="Series",PNC Drama (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VLjZKc.png" group-title="Series",Sada Elbalad Drama
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87bdieg.png" group-title="Religious",Alfath TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathal3amh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wq7HXtR.png" group-title="Religious",MESat
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd2k94pS/Final-Hadath.png" group-title="News",AlHadath Alyoum
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",Extra News
@@ -407,8 +415,10 @@ https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Movies",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hudbg2E.png" group-title="Education",Misr Al Zeraya
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcIuSiX.png" group-title="Culture",Nile Culture
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nileculture/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vOKvPeK.png" group-title="Undefined",Sada Elbalad
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="Entertainment;Series",Zee Alwan Egypt (576p)
