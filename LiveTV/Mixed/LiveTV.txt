@@ -1133,7 +1133,7 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Group: Entertainment
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN TV
 URL: https://rtvbn.tv:8080/live/index.m3u8
-Logo: https://i.imgur.com/BKBr8Mr.png
+Logo: https://i.imgur.com/pt9WFDK.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (HR)
@@ -1196,9 +1196,9 @@ URL: https://live.tv-m.net/hls/stream.m3u8
 Logo: https://i.imgur.com/DLYslWy.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: RTV City Ub
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV City Ub
 URL: http://109.72.57.12/hls/tvcityub.m3u8
-Logo: https://i.imgur.com/9KIQmOE.png
+Logo: https://i.imgur.com/ppHAGHy.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: STAR Channel
@@ -1355,6 +1355,11 @@ URL: https://live.jefimija.eu/hls/stream_low/index.m3u8
 Logo: https://i.imgur.com/zwBnYut.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV GM Plus
+URL: https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
+Logo: https://i.imgur.com/HF4Y55l.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",KTV Zrenjanin
 URL: https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 Logo: https://i.imgur.com/XqJ4OVr.png
@@ -1448,11 +1453,6 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Niksic
 URL: https://tv.rtv-niksic.me/hls/stream.m3u8
 Logo: https://i.imgur.com/8kTMTsS.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Herceg Novi
-URL: https://euw33.playlist.ttvnw.net/v1/playlist/CrAGsdILvy65bQWWQHTgsCNc0KS-9xTJJwh41BpP2tPP3Ej_EuLkGfWsctA0jxXvUAOsd6BrRXSogrWtO6lbaN0TypXcQOh-0-fjrmRchxmS4guP-xvK2an0LWXr4vkfoC0DLc_03QOlsCi9iM7owSH2eI5SWWJKqUoQhkdByxJK7b8JBVNIhIBepRx4CwyPle9ehOMYNfoNDl3hO0dCQb8fyC9lGOGPwIbdJPkfDHZhohS7NN71EdbDzqpoN_U3y_8UY8jKMWdjtfA3lMW0ThdvNT-7FFbm4AcRMXQk-aTcHiHPALMsmdn6STmk8xv3Q6jD_ohY3r4vV3tvqaeUM1twBexztREQS8tDWUdpayd7808yMsWDaA3cvL88o5DacuQNl8zlLIyKLKRbqwbDdPbx0AdE12dzPskOutjk6dh1a99s1o41rRN9WPxjLShDOaC47K9UtSliAX_x8xWVL29oE2pFxLPl1lOkaqGRB5eTuEpTlz3diVQ7GnaRmKRBhf26rBnuYIyDpXJGiKaNlD881fwQDiD6h9N0PvNTWTw3iydtNA_OqLP8EHPF3_SzEU9U2Jg6KJsVdjrCw2Qm1RV85OoCIkT9lNMcEnu10otzpsUVsePdSKtzxTVRiXa4j9r2oa2dMGFfjTdeewTcItlCZqH06fQmHZRJGf_U7varSec2n3W-sVHyf8wXLOkedAPBVcUGtqi3Jb05XPQwmmY_3VrqJQwowKhF2pBxWHjN9MLWQeZi52Vj5bYuF5xuHUCTLeAFLuLcWqSZIMOlbqZ-eAVdvJyJxfTm7qnsZCYKHJ1vDerB7WXfACD1lpejDSDOAFibc2ts5aDbykbWDyUU5Is0fwZv89qq_PCEqHlWEWSfAPCBnG9Oxc0vq_eFXVquofknlgnCpmrbd6psyoTRkiMk5474x-qSPLGK8DAdKzxhexZJi80GdeZS94N9w09JdlU_aVSLn--Yswwd7yCM-JsF904siQVqT0MmAPDgvwaYUu5gADgXYafcft7xs4JGmo6Bq9bMEfS7kq6pd-yIMhobNWqvxOjxjlKGw9WEp6OPRnpXrmDAOCnbg9IcteRiGgwOaegtTlqObWmqaowgASoJZXUtd2VzdC0yMLYN.m3u8
-Logo: https://i.imgur.com/sPjmAke.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
@@ -4520,22 +4520,17 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 --------------------------------------------------
 Name: N1 RS
 URL: https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=etf3tIZHnpxKX8txfJ25dw&a=JV6SCov1DaCoD4aUxQd25sD-hRlaUQyDY5g1YNV0qv713IrhtUZWpYWuIslxvaiib-HbxdeA1VjxfNt6sgb0Nw8uhpimKyEJdQEKj8uMuYjkfCa8XXIr5RR1iGYI24NjAYF9Tx2H1FIj8V-4UpJDFPJP3VAOTSGASesDue54PyrPwXJEY6bNRnOdH9D1mLkFa9hvKUt9KEXXPoY0SAGSGYnGGn5Yu9HVbCjbmhEjcavBcHKuLtPmLBy7owX4PtQm&sp=n1info&u=n1info&session=0f91bbb0-4462-06f1-b06d-55694accd408&player=m3u8
-Logo: https://i.imgur.com/P8DmZ11.png
+Logo: https://i.imgur.com/nJnPsae.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: N1 BiH
 URL: https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo--RdSNrDXdye641ofxX9aEbKFid5d23nXpC5_LHUWgxQ1Twupxc5uAtyeMMOyLS6L2dqTbdYBmEj-w3Ja_97A3Xr-xVR4Iv74nSxGwoBbRiA2BEyNjqLMHc9V6mKs_iBq6mkAjHWJiMX-EpB7bAvOfAnq4JOxUMcab_w70X6pFrcNpB8kLqmqQmT&sp=n1info&u=n1info&session=06c9009a-f539-2af4-4d02-a754b8b5221d&player=m3u8
-Logo: https://i.imgur.com/P8DmZ11.png
+Logo: https://i.imgur.com/nJnPsae.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: N1 HR
 URL: https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
-Logo: https://i.imgur.com/P8DmZ11.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: N1 SLO
-URL: https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream?i=NSKLtZXTzL2_sSsxrE6H0Q&a=pWgWfvqQjQC8uX8Gxgd_w0ilCIjF-oJr6W8ltXACBCAOee5BguFK5_Gv1eRw3NoMfemownNvJqTEFzrR9tJH6B1xlJdJQDOWcjuf6fr8aef0QQ9E93QVzcpcRK_ApqoHeETubkOAKkzTA7sTk0g_NKKkvdckoitDrCsZTu-ga_zOv14RElOEBtEbauKx0D0V8nCs_GsP3aI--s78Q2QuR6o-F1YQCv5BSTgnik385Azx33bIbQHEF5OAqu4m3zGN&sp=n1info&u=n1info&session=ca0f28bd-55fb-3489-12ce-3c50e40d146a&player=m3u8
-Logo: https://i.imgur.com/P8DmZ11.png
+Logo: https://i.imgur.com/nJnPsae.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: WELT
