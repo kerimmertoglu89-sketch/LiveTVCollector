@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 21:31:05",
+  "date": "2025-10-13 06:11:12",
   "channels": {
     "STREAMING": [
       {
@@ -974,6 +974,13 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Tok TV",
+        "logo": "https://i.imgur.com/n1xRTyu.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS",
@@ -2175,6 +2182,69 @@
         "group": "RS",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "http://uzivo.radiopingvin.com/domaci1"
+      },
+      {
+        "name": "Radio Kosava 1",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://main.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava 2",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://kosava2.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava Rock",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://rock.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava folk 1",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://folk1.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava folk 2",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://folk2.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava folk 3",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://folk3.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava clubbing",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://clubbing.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava city",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://city.radiokosava.rs/live"
+      },
+      {
+        "name": "Radio Kosava cafe",
+        "logo": "https://i.imgur.com/UVUjkte.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cafe.radiokosava.rs/live"
       }
     ],
     "BiH": [

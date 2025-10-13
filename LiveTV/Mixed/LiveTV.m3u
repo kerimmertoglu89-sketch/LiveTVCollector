@@ -269,6 +269,8 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8ahEwS.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Happy TV
 https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n1xRTyu.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
+https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PghajzH.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB2P0S3.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus
@@ -607,6 +609,24 @@ https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
 https://eu9.fastcast4u.com/proxy/svidakov2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18Rd9YL.png" group-title="RS",Radio Pingvin
 http://uzivo.radiopingvin.com/domaci1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava 1
+https://main.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava 2
+https://kosava2.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava Rock
+https://rock.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 1
+https://folk1.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 2
+https://folk2.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 3
+https://folk3.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava clubbing
+https://clubbing.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava city
+https://city.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava cafe
+https://cafe.radiokosava.rs/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjtHrvd.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J28rVvS.png" group-title="BiH",A Radio

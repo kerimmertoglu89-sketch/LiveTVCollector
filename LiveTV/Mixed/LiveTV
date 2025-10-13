@@ -810,6 +810,12 @@
     "img": "https://i.imgur.com/H8ahEwS.png"
   },
   {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Tok TV",
+    "type": "General",
+    "url": "https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv",
+    "img": "https://i.imgur.com/n1xRTyu.png"
+  },
+  {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS",
     "type": "General",
     "url": "http://parh.rtrs.tv:1935/tv/live/playlist.m3u8",
@@ -1822,6 +1828,60 @@
     "type": "RS",
     "url": "http://uzivo.radiopingvin.com/domaci1",
     "img": "https://i.imgur.com/18Rd9YL.png"
+  },
+  {
+    "name": "Radio Kosava 1",
+    "type": "RS",
+    "url": "https://main.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava 2",
+    "type": "RS",
+    "url": "https://kosava2.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava Rock",
+    "type": "RS",
+    "url": "https://rock.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava folk 1",
+    "type": "RS",
+    "url": "https://folk1.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava folk 2",
+    "type": "RS",
+    "url": "https://folk2.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava folk 3",
+    "type": "RS",
+    "url": "https://folk3.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava clubbing",
+    "type": "RS",
+    "url": "https://clubbing.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava city",
+    "type": "RS",
+    "url": "https://city.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
+  },
+  {
+    "name": "Radio Kosava cafe",
+    "type": "RS",
+    "url": "https://cafe.radiokosava.rs/live",
+    "img": "https://i.imgur.com/UVUjkte.png"
   },
   {
     "name": "Radio BN",

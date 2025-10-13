@@ -1320,6 +1320,11 @@ URL: https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
 Logo: https://i.imgur.com/H8ahEwS.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
+URL: https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
+Logo: https://i.imgur.com/n1xRTyu.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
 URL: http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 Logo: https://i.imgur.com/PghajzH.png
@@ -10524,6 +10529,51 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: Radio Pingvin
 URL: http://uzivo.radiopingvin.com/domaci1
 Logo: https://i.imgur.com/18Rd9YL.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava 1
+URL: https://main.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava 2
+URL: https://kosava2.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava Rock
+URL: https://rock.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava folk 1
+URL: https://folk1.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava folk 2
+URL: https://folk2.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava folk 3
+URL: https://folk3.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava clubbing
+URL: https://clubbing.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava city
+URL: https://city.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Radio Kosava cafe
+URL: https://cafe.radiokosava.rs/live
+Logo: https://i.imgur.com/UVUjkte.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 
