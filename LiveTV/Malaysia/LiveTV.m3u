@@ -484,7 +484,9 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #EXTINF:-1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="Sports",Premier league Indo 2
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="Sports",815 Astro Badminton HD
-https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWBgXaBe_L-e1IkHOazy4WOg=P-c-/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1QwRG9FJGiwqIqVGiW68urg=rRG-/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="Sports",815 Astro Badminton HD B
+https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAwNTA1NDIsImlzcyI6IlZSIiwiZXhwIjoxNzYwMTM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.iyMbXg_n7aOEMuyzQe2HiVsfCuozionZeb39p7IqQ88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 HD
 https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mW9jbUT28jV-sJi9ikZKzOQ=nVaV/dash-wv/jitp-linearwm/5100/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",811 Astro Premier League HD
@@ -495,8 +497,6 @@ https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUz
 https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX77KuYz62DPCjJIS78n4Xw3M=GzcK/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="Sports",812 Astro Premier League 2 HD B
 https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxNjY4NDUsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.eTnknrROEIBJeT9oVMr-8DnLcMaKhAHUTtJORfTN2-M
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="Sports",815 Astro Badminton HD
-https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1fpwyo9SZI4HrN6hczdLWME=RshY/dash-wv/jitp-dashisowm/5170/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png" group-title="Sports",816 Astro Badminton 2 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="Sports",810 Astro Grandstand HD
@@ -1331,10 +1331,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b30007
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Pluto",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="httphttps://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="LIVE EVENT ONLY",Sooka prima 2
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="LIVE EVENT ONLY",Sooka prima 3
-https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkxMTMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.eiqGmr8qmyiVwp4xlbVNdJSM8bRYuMWyB0hGUM4IeyQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x90U1Bf.png" group-title="General",Awesome TV [Geo-blocked]
 https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視) (720p) [Not 24/7]

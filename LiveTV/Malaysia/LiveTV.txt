@@ -760,18 +760,6 @@ Logo: http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 
-Group: LIVE EVENT ONLY
-Name: Sooka prima 2
-URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-Logo: httphttps://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: Sooka prima 3
-URL: https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkxMTMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.eiqGmr8qmyiVwp4xlbVNdJSM8bRYuMWyB0hGUM4IeyQ
-Logo: https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-
 Group: Legislative
 Name: RTM Parlimen (Dewan Negara) [Geo-blocked]
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
@@ -2994,7 +2982,12 @@ Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 815 Astro Badminton HD
-URL: https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWBgXaBe_L-e1IkHOazy4WOg=P-c-/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1QwRG9FJGiwqIqVGiW68urg=rRG-/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Astro Badminton HD B
+URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAwNTA1NDIsImlzcyI6IlZSIiwiZXhwIjoxNzYwMTM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.iyMbXg_n7aOEMuyzQe2HiVsfCuozionZeb39p7IqQ88
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3021,11 +3014,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: 812 Astro Premier League 2 HD B
 URL: https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxNjY4NDUsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.eTnknrROEIBJeT9oVMr-8DnLcMaKhAHUTtJORfTN2-M
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 815 Astro Badminton HD
-URL: https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1fpwyo9SZI4HrN6hczdLWME=RshY/dash-wv/jitp-dashisowm/5170/default_primary.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 816 Astro Badminton 2 HD

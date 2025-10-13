@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 13:49:57",
+  "date": "2025-10-13 06:52:20",
   "channels": {
     "siaranMy": [
       {
@@ -1737,7 +1737,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWBgXaBe_L-e1IkHOazy4WOg=P-c-/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1QwRG9FJGiwqIqVGiW68urg=rRG-/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
+      },
+      {
+        "name": "815 Astro Badminton HD B",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAwNTA1NDIsImlzcyI6IlZSIiwiZXhwIjoxNzYwMTM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.iyMbXg_n7aOEMuyzQe2HiVsfCuozionZeb39p7IqQ88"
       },
       {
         "name": "804 Astro Arena Bola 2 HD",
@@ -1773,13 +1780,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxNjY4NDUsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.eTnknrROEIBJeT9oVMr-8DnLcMaKhAHUTtJORfTN2-M"
-      },
-      {
-        "name": "815 Astro Badminton HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1fpwyo9SZI4HrN6hczdLWME=RshY/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
       },
       {
         "name": "816 Astro Badminton 2 HD",
@@ -4703,22 +4703,6 @@
         "group": "Pluto",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      }
-    ],
-    "LIVE EVENT ONLY": [
-      {
-        "name": "Sooka prima 2",
-        "logo": "httphttps://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg",
-        "group": "LIVE EVENT ONLY",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
-      },
-      {
-        "name": "Sooka prima 3",
-        "logo": "https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg",
-        "group": "LIVE EVENT ONLY",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkxMTMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.eiqGmr8qmyiVwp4xlbVNdJSM8bRYuMWyB0hGUM4IeyQ"
       }
     ],
     "General": [
