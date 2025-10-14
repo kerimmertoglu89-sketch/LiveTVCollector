@@ -1426,7 +1426,7 @@ Logo: https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 Name: Disney International HD (1080p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+URL: http://116.90.120.149:8000/play/a0e9/index.m3u8
 Logo: https://i.imgur.com/JkGvrc6.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------

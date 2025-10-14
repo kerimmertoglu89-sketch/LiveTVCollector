@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-13 21:47:59",
+  "date": "2025-10-14 06:36:53",
   "channels": {
     "BANGLA": [
       {
@@ -363,7 +363,7 @@
         "logo": "https://i.imgur.com/JkGvrc6.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0e9/index.m3u8"
       },
       {
         "name": "Nick Jr India (1080p)",
