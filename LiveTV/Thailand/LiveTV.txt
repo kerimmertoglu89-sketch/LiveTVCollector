@@ -295,6 +295,13 @@ Logo: https://i.ibb.co/wcT2VqP/man.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
+Group: K+
+Name: K+ CINE HD
+URL: http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6gx7gFPNU9ZfLtkACIxHuw/ts
+Logo: https://i.imgur.com/As4bwUs.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+
 Group: Legislative
 Name: Thai Parliament TV (1080p) [Not 24/7]
 URL: https://tv-live.tpchannel.org/live/tv.m3u8
@@ -510,6 +517,11 @@ URL: https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
 Logo: https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
+Name: SCTV9
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+Logo: https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
 Name: SCTV11
 URL: https://liveh34.seenow.vn/hls/SCTV11/index.m3u8
 Logo: https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png
@@ -543,6 +555,11 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: SCTV19
 URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 Logo: https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: SCTV20
+URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+Logo: https://i.ibb.co/5G0DjnW/logo26072108-sctv20-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV21
@@ -797,7 +814,7 @@ Logo: https://i.imgur.com/MPNlpzb.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports
-URL: https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsports
+URL: https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
 Logo: https://img.lichphatsong.xyz/logo/on-sports.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -812,7 +829,7 @@ Logo: https://i.imgur.com/87JEXEQ.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports+
-URL: https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus
+URL: https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts
 Logo: https://img.lichphatsong.xyz/logo/on-sportsplus.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -847,7 +864,7 @@ Logo: https://i.imgur.com/45BXPY3.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Football
-URL: https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball
+URL: https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts
 Logo: https://img.lichphatsong.xyz/logo/on-football.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -857,7 +874,7 @@ Logo: https://i.imgur.com/hHYzxmS.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports News
-URL: https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews
+URL: https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
 Logo: https://img.lichphatsong.xyz/logo/on-sportsnews.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------

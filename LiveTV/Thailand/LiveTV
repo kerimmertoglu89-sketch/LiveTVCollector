@@ -86,7 +86,7 @@
   {
     "name": "ON Sports",
     "type": "VTVcab HD",
-    "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsports",
+    "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts",
     "img": "https://img.lichphatsong.xyz/logo/on-sports.jpg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "ON Sports+",
     "type": "VTVcab HD",
-    "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus",
+    "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts",
     "img": "https://img.lichphatsong.xyz/logo/on-sportsplus.jpg"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "ON Football",
     "type": "VTVcab HD",
-    "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball",
+    "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts",
     "img": "https://img.lichphatsong.xyz/logo/on-football.jpg"
   },
   {
@@ -158,7 +158,7 @@
   {
     "name": "ON Sports News",
     "type": "VTVcab HD",
-    "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews",
+    "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts",
     "img": "https://img.lichphatsong.xyz/logo/on-sportsnews.jpg"
   },
   {
@@ -190,6 +190,12 @@
     "type": "VTVcab HD",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=169",
     "img": "https://i.imgur.com/BGF2I58.png"
+  },
+  {
+    "name": "K+ CINE HD",
+    "type": "K+",
+    "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6gx7gFPNU9ZfLtkACIxHuw/ts",
+    "img": "https://i.imgur.com/As4bwUs.png"
   },
   {
     "name": "HTV1",
@@ -318,6 +324,12 @@
     "img": "https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png"
   },
   {
+    "name": "SCTV9",
+    "type": "SCTV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9",
+    "img": "https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png"
+  },
+  {
     "name": "SCTV11",
     "type": "SCTV",
     "url": "https://liveh34.seenow.vn/hls/SCTV11/index.m3u8",
@@ -358,6 +370,12 @@
     "type": "SCTV",
     "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv19",
     "img": "https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png"
+  },
+  {
+    "name": "SCTV20",
+    "type": "SCTV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv20",
+    "img": "https://i.ibb.co/5G0DjnW/logo26072108-sctv20-hd.png"
   },
   {
     "name": "SCTV21",

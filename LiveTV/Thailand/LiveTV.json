@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-13 21:50:49",
+  "date": "2025-10-14 06:46:30",
   "channels": {
     "VTV": [
       {
@@ -107,7 +107,7 @@
         "logo": "https://img.lichphatsong.xyz/logo/on-sports.jpg",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsports"
+        "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts"
       },
       {
         "name": "ON Movies",
@@ -128,7 +128,7 @@
         "logo": "https://img.lichphatsong.xyz/logo/on-sportsplus.jpg",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsplus"
+        "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts"
       },
       {
         "name": "ON O2TV",
@@ -177,7 +177,7 @@
         "logo": "https://img.lichphatsong.xyz/logo/on-football.jpg",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onfootball"
+        "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts"
       },
       {
         "name": "ON Trending TV",
@@ -191,7 +191,7 @@
         "logo": "https://img.lichphatsong.xyz/logo/on-sportsnews.jpg",
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://xem.hoiquan.click/TichHop/OnLive/LIVE/?user=onsportsnews"
+        "url": "https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts"
       },
       {
         "name": "ON Vie DRAMAS",
@@ -227,6 +227,15 @@
         "group": "VTVcab HD",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=169"
+      }
+    ],
+    "K+": [
+      {
+        "name": "K+ CINE HD",
+        "logo": "https://i.imgur.com/As4bwUs.png",
+        "group": "K+",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6gx7gFPNU9ZfLtkACIxHuw/ts"
       }
     ],
     "HTV": [
@@ -382,6 +391,13 @@
         "url": "https://liveh34.seenow.vn/hls/SCTV8/index.m3u8"
       },
       {
+        "name": "SCTV9",
+        "logo": "https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",
+        "group": "SCTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9"
+      },
+      {
         "name": "SCTV11",
         "logo": "https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",
         "group": "SCTV",
@@ -429,6 +445,13 @@
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv19"
+      },
+      {
+        "name": "SCTV20",
+        "logo": "https://i.ibb.co/5G0DjnW/logo26072108-sctv20-hd.png",
+        "group": "SCTV",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv20"
       },
       {
         "name": "SCTV21",
