@@ -571,8 +571,13 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 --------------------------------------------------
 
 Group: Documentary
-Name: Discovery Hindi
+Name: Discovery Bangla
 URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
+Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Discovery Hindi
+URL: https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -727,6 +732,11 @@ URL: https://mytime-tcl.amagi.tv/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: MNX-HD
+URL: https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+Logo: https://s4.gifyu.com/images/image8c255c8f4e981429.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Netflix Movies
 URL: https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -843,9 +853,24 @@ URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://spicefmbd.com/logospice.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Radio Amar
+URL: https://amorfm_192.streampartner.nl/stream
+Logo: https://spicefmbd.com/logospice.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Big FM
+URL: https://stream-155.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ildyc0FrY1pjVG9TRWNtb0VWaVVSeVEiLCJpYXQiOjE3NjA1MzAxMDYsImV4cCI6MTc2MDUzMDE2Nn0.J8jfwwhlPxuUeiDtSglHlvNTltpWVhuNxK2cHPy_4to
+Logo: https://spicefmbd.com/logospice.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg",Radio Mirchi
-URL: https://18093.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8
+URL: https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
 Logo: https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Radio City
+URL: https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng
+Logo: https://spicefmbd.com/logospice.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 
@@ -1884,6 +1909,16 @@ URL: http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.
 Logo: http://dds.oncast.me/img/logo/sp1.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Live Sports-2
+URL: http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
+Logo: http://dds.oncast.me/img/logo/sp2.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Live Sports-3
+URL: http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139
+Logo: http://dds.oncast.me/img/logo/sp3.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: T-Sports [1]
 URL: http://116.204.149.16/t_sports/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
@@ -1891,6 +1926,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: T-Sports [2]
 URL: http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: T-Sports [3]
+URL: http://147.93.154.65/Bein3/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1970,7 +2010,7 @@ Logo: https://iconape.com/wp-content/files/da/323865/png/323865.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: A Sports
-URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488088
+URL: http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 Logo: https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1985,7 +2025,7 @@ Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: FOX Cricket 501
-URL: http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+URL: http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------

@@ -846,9 +846,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Discovery Hindi",
+    "name": "Discovery Bangla",
     "type": "Documentary",
     "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517",
+    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
+  },
+  {
+    "name": "Discovery Hindi",
+    "type": "Documentary",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd",
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
   },
   {
@@ -1362,6 +1368,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
   },
   {
+    "name": "MNX-HD",
+    "type": "English Movie",
+    "url": "https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+    "img": "https://s4.gifyu.com/images/image8c255c8f4e981429.png"
+  },
+  {
     "name": "Netflix Movies",
     "type": "English Movie",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8",
@@ -1374,6 +1386,18 @@
     "img": "http://dds.oncast.me/img/logo/sp1.png"
   },
   {
+    "name": "Live Sports-2",
+    "type": "SPORTS",
+    "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142",
+    "img": "http://dds.oncast.me/img/logo/sp2.png"
+  },
+  {
+    "name": "Live Sports-3",
+    "type": "SPORTS",
+    "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139",
+    "img": "http://dds.oncast.me/img/logo/sp3.png"
+  },
+  {
     "name": "T-Sports [1]",
     "type": "SPORTS",
     "url": "http://116.204.149.16/t_sports/index.m3u8",
@@ -1383,6 +1407,12 @@
     "name": "T-Sports [2]",
     "type": "SPORTS",
     "url": "http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
+  },
+  {
+    "name": "T-Sports [3]",
+    "type": "SPORTS",
+    "url": "http://147.93.154.65/Bein3/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
   },
   {
@@ -1478,7 +1508,7 @@
   {
     "name": "A Sports",
     "type": "SPORTS",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488088",
+    "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804",
     "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
   },
   {
@@ -1496,7 +1526,7 @@
   {
     "name": "FOX Cricket 501",
     "type": "SPORTS",
-    "url": "http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png"
   },
   {
@@ -1704,10 +1734,28 @@
     "img": "https://spicefmbd.com/logospice.png"
   },
   {
+    "name": "Radio Amar",
+    "type": "FM-Radio",
+    "url": "https://amorfm_192.streampartner.nl/stream",
+    "img": "https://spicefmbd.com/logospice.png"
+  },
+  {
+    "name": "Big FM",
+    "type": "FM-Radio",
+    "url": "https://stream-155.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ildyc0FrY1pjVG9TRWNtb0VWaVVSeVEiLCJpYXQiOjE3NjA1MzAxMDYsImV4cCI6MTc2MDUzMDE2Nn0.J8jfwwhlPxuUeiDtSglHlvNTltpWVhuNxK2cHPy_4to",
+    "img": "https://spicefmbd.com/logospice.png"
+  },
+  {
     "name": "width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg\",Radio Mirchi",
     "type": "FM-Radio",
-    "url": "https://18093.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
     "img": "https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg"
+  },
+  {
+    "name": "Radio City",
+    "type": "FM-Radio",
+    "url": "https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng",
+    "img": "https://spicefmbd.com/logospice.png"
   },
   {
     "name": "Channel I",
