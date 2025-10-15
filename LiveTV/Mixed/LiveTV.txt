@@ -1360,6 +1360,11 @@ URL: https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
 Logo: https://i.imgur.com/HF4Y55l.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Vrnjacka Banja
+URL: https://live.rtvvrnjackabanja.com/rvb/index.m3u8
+Logo: https://i.imgur.com/V7sYMMQ.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",KTV Zrenjanin
 URL: https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 Logo: https://i.imgur.com/XqJ4OVr.png
@@ -10526,6 +10531,11 @@ URL: http://uzivo.radiopingvin.com/domaci1
 Logo: https://i.imgur.com/18Rd9YL.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: Radio Vrnjacka Banja
+URL: https://live.rtvvrnjackabanja.com/rvb.mp3
+Logo: https://i.imgur.com/IBCVMnt.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: Radio Kosava 1
 URL: https://main.radiokosava.rs/live
 Logo: https://i.imgur.com/UVUjkte.png
@@ -12821,7 +12831,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMWU4ZWRkMzctYmFiNS00OWU5LTkzOTEtYzBlYWU0OGE4Yzg5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYmExNGFkN2EtMmVhMS00Y2JjLTk0NTEtZTFiYjg0NjcyOWJlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -12851,7 +12861,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZmExNTZmMzctY2U0Ny00ZTU5LThjOTktYWIwZTRjMTBjMGJhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzc4MzNmMzktZGY5NC00ODg4LTllOGMtZTM3YzMzMjBlOGRkIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -12917,7 +12927,7 @@ URL: https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.co
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
-Name: Bleach
+Name: Inuyasha
 URL: https://amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u

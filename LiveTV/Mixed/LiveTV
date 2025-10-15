@@ -258,7 +258,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Bleach",
+    "name": "Inuyasha",
     "type": "programmi_tv",
     "url": "https://amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -536,7 +536,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMWU4ZWRkMzctYmFiNS00OWU5LTkzOTEtYzBlYWU0OGE4Yzg5IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYmExNGFkN2EtMmVhMS00Y2JjLTk0NTEtZTFiYjg0NjcyOWJlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -572,7 +572,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZmExNTZmMzctY2U0Ny00ZTU5LThjOTktYWIwZTRjMTBjMGJhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzc4MzNmMzktZGY5NC00ODg4LTllOGMtZTM3YzMzMjBlOGRkIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -862,6 +862,12 @@
     "type": "General",
     "url": "https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8",
     "img": "https://i.imgur.com/HF4Y55l.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTV Vrnjacka Banja",
+    "type": "General",
+    "url": "https://live.rtvvrnjackabanja.com/rvb/index.m3u8",
+    "img": "https://i.imgur.com/V7sYMMQ.png"
   },
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",KTV Zrenjanin",
@@ -1828,6 +1834,12 @@
     "type": "RS",
     "url": "http://uzivo.radiopingvin.com/domaci1",
     "img": "https://i.imgur.com/18Rd9YL.png"
+  },
+  {
+    "name": "Radio Vrnjacka Banja",
+    "type": "RS",
+    "url": "https://live.rtvvrnjackabanja.com/rvb.mp3",
+    "img": "https://i.imgur.com/IBCVMnt.png"
   },
   {
     "name": "Radio Kosava 1",
