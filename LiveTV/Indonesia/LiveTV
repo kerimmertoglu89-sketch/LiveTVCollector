@@ -16680,10 +16680,40 @@
     "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg"
   },
   {
+    "name": "RcTi DiGiTaL",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8",
+    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png"
+  },
+  {
     "name": "RcTi",
     "type": "NasioNaL DiGitaL 📡",
     "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd",
     "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png"
+  },
+  {
+    "name": "Moji Live Sport",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://spacetv.my.id/index.mpd?id=19488&type=dash",
+    "img": "https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true"
+  },
+  {
+    "name": "TRANS TV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://spacetv.my.id/index.mpd?id=733&type=dash",
+    "img": "https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true"
+  },
+  {
+    "name": "TRANS TV FMX",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd",
+    "img": "https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true"
+  },
+  {
+    "name": "Trans7",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://spacetv.my.id/index.mpd?id=734&type=dash",
+    "img": "https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true"
   },
   {
     "name": "GtV",

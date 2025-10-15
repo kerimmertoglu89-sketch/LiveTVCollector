@@ -10455,9 +10455,34 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: NasioNaL DiGitaL 📡
+Name: RcTi DiGiTaL
+URL: https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: RcTi
 URL: https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: Moji Live Sport
+URL: https://spacetv.my.id/index.mpd?id=19488&type=dash
+Logo: https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: TRANS TV
+URL: https://spacetv.my.id/index.mpd?id=733&type=dash
+Logo: https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: TRANS TV FMX
+URL: https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
+Logo: https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: Trans7
+URL: https://spacetv.my.id/index.mpd?id=734&type=dash
+Logo: https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: GtV
