@@ -303,8 +303,8 @@ URL: https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99b
 Logo: https://i.imgur.com/MtQWAHv.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Santa Cecilia TV (1080p)
-URL: https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+Name: Santa Cecilia TV (1080p) [Not 24/7]
+URL: http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 Logo: https://i.imgur.com/KxYsq1d.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
@@ -1260,8 +1260,8 @@ URL: https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 Logo: https://i.imgur.com/lH4RT7b.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Record News (720p)
-URL: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+Name: Record News (720p) [Geo-blocked]
+URL: https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 Logo: https://i.imgur.com/HZDRG0K.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
@@ -4905,6 +4905,11 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: TV Vila Real (720p)
 URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 Logo: https://i.imgur.com/Z1uWe7g.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TVE RS (1080p) [Not 24/7]
+URL: http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TVMatic Crafts (720p)

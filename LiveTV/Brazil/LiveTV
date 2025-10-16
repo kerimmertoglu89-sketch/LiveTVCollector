@@ -6090,6 +6090,12 @@
     "img": "https://i.imgur.com/Z1uWe7g.png"
   },
   {
+    "name": "TVE RS (1080p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png"
+  },
+  {
     "name": "TVMatic Crafts (720p)",
     "type": "Undefined",
     "url": "http://cdn.tvmatic.net/crafts.m3u8",
@@ -6300,9 +6306,9 @@
     "img": "https://i.imgur.com/lH4RT7b.png"
   },
   {
-    "name": "Record News (720p)",
+    "name": "Record News (720p) [Geo-blocked]",
     "type": "News",
-    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+    "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
@@ -6414,9 +6420,9 @@
     "img": "https://i.imgur.com/MtQWAHv.png"
   },
   {
-    "name": "Santa Cecilia TV (1080p)",
+    "name": "Santa Cecilia TV (1080p) [Not 24/7]",
     "type": "Education",
-    "url": "https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8",
+    "url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
     "img": "https://i.imgur.com/KxYsq1d.png"
   },
   {
