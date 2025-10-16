@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-15 21:40:14",
+  "date": "2025-10-16 06:14:42",
   "channels": {
     "Uncategorized": [
       {
@@ -1241,7 +1241,7 @@
         "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8"
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almasriya/playlist.m3u8"
       },
       {
         "name": "Al Shams TV",
@@ -1272,11 +1272,11 @@
         "url": "https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8"
       },
       {
-        "name": "CBC (576p)",
+        "name": "CBC (1080p)",
         "logo": "https://i.imgur.com/8apNaLP.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06o"
+        "url": "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8"
       },
       {
         "name": "DMC (1080p)",
@@ -1339,11 +1339,11 @@
     ],
     "Series": [
       {
-        "name": "Al-Nahar Drama (576)",
+        "name": "Al-Nahar Drama",
         "logo": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06n"
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8"
       },
       {
         "name": "Alhayat Drama (576)",
@@ -1443,11 +1443,11 @@
     ],
     "Lifestyle": [
       {
-        "name": "CBC Sofra (576p)",
+        "name": "CBC Sofra (1080p)",
         "logo": "https://i.imgur.com/YAdk2WR.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a06p"
+        "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
       }
     ],
     "Movies": [
