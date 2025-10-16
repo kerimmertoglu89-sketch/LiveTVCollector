@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzQgUE0maGFzaF92YWx1ZT1GajNkZUx2VmNHUTM0SDZpK0RCZVpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjgzNzYwNjUtODU0Ni00ZWQ1LWEzMWUtMGIyMTMzZDBlNjU4/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMSBBTSZoYXNoX3ZhbHVlPUZaT2t4cEpDRWk1UEdQa3UxQWdNN3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mZjc3NGIwOC04ZWE0LTQ5YmUtYmEzOS1kNjQ4MTIyZDdiNzU=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzUgUE0maGFzaF92YWx1ZT1WbHJ0REcxSGpqSFV0eUlnUmRkYU93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGU3MmExZGMtMGY0ZS00ZTIwLWEwOTAtNmNiNzQ0ZTBlZjQw/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMSBBTSZoYXNoX3ZhbHVlPTFsaTUvaCtKS05ZS2xRYkxWYTZCc3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZjE2YjE5ZS1jYjIyLTQ0NjctOWUwMC0zYzcyZDRjMjE2ZWU=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzYgUE0maGFzaF92YWx1ZT04cWNiWndkb3VhSHJJdzJHbGdZNHVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODFkY2NmMTYtNTc4MS00NTcxLWJlZTAtZjJhYjE4MTAyZTE2/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMiBBTSZoYXNoX3ZhbHVlPTlZeStzMnk4cVVNY2d2Qmh0aDd1enc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lODRlYTdjMy05YzhlLTRiZjktOGVjNC0xNmJmZjI3OTNiM2Q=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5814,16 +5814,22 @@
     "img": "https://i.imgur.com/jCpfdiJ.png"
   },
   {
+    "name": "SIC (1080p) [Geo-blocked]",
+    "type": "General",
+    "url": "https://sic.live.impresa.pt/sic.m3u8",
+    "img": "https://i.imgur.com/SPMqiDG.png"
+  },
+  {
     "name": "TVI (720p)",
     "type": "General",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
     "img": "https://i.postimg.cc/x1K0D69n/tvi.png"
   },
   {
-    "name": "RTP 3 (720p) [Not 24/7]",
+    "name": "SIC Notícias (1080p) [Geo-blocked]",
     "type": "News",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/ohXJmiR.png"
+    "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
+    "img": "https://i.imgur.com/Gi6Q26M.png"
   },
   {
     "name": "TVI Ficção (720p)",

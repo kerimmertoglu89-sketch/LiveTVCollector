@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-15 21:48:31",
+  "date": "2025-10-16 06:45:57",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzQgUE0maGFzaF92YWx1ZT1GajNkZUx2VmNHUTM0SDZpK0RCZVpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjgzNzYwNjUtODU0Ni00ZWQ1LWEzMWUtMGIyMTMzZDBlNjU4/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMSBBTSZoYXNoX3ZhbHVlPUZaT2t4cEpDRWk1UEdQa3UxQWdNN3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mZjc3NGIwOC04ZWE0LTQ5YmUtYmEzOS1kNjQ4MTIyZDdiNzU=/"
       },
       {
         "name": "RTP Notícias",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzUgUE0maGFzaF92YWx1ZT1WbHJ0REcxSGpqSFV0eUlnUmRkYU93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGU3MmExZGMtMGY0ZS00ZTIwLWEwOTAtNmNiNzQ0ZTBlZjQw/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMSBBTSZoYXNoX3ZhbHVlPTFsaTUvaCtKS05ZS2xRYkxWYTZCc3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZjE2YjE5ZS1jYjIyLTQ0NjctOWUwMC0zYzcyZDRjMjE2ZWU=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNSA0Ojc6MzYgUE0maGFzaF92YWx1ZT04cWNiWndkb3VhSHJJdzJHbGdZNHVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODFkY2NmMTYtNTc4MS00NTcxLWJlZTAtZjJhYjE4MTAyZTE2/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxMjozMDoxMiBBTSZoYXNoX3ZhbHVlPTlZeStzMnk4cVVNY2d2Qmh0aDd1enc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lODRlYTdjMy05YzhlLTRiZjktOGVjNC0xNmJmZjI3OTNiM2Q=/"
       },
       {
         "name": "TVI África",
@@ -6818,6 +6818,13 @@
         "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
       },
       {
+        "name": "SIC (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/SPMqiDG.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://sic.live.impresa.pt/sic.m3u8"
+      },
+      {
         "name": "TVI (720p)",
         "logo": "https://i.postimg.cc/x1K0D69n/tvi.png",
         "group": "General",
@@ -6827,11 +6834,11 @@
     ],
     "News": [
       {
-        "name": "RTP 3 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ohXJmiR.png",
+        "name": "SIC Notícias (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/Gi6Q26M.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
+        "url": "https://sicnot.live.impresa.pt/sicnot.m3u8"
       }
     ],
     "Series": [
