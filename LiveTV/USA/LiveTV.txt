@@ -3116,7 +3116,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MSNBC (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47332
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47332.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3135,23 +3135,18 @@ URL: http://kstv.us:8080/live/Babeboi11/9785992589/40658.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Family (Canada) (West)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127999.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Family (Canada) (East)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128049.ts
+Name: Family (Canada)
+URL: http://vocotv.pro:80/live/10/12345/3759.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Family Jr. (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128050.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57346.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Treehouse (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128096.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57371.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3171,12 +3166,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Disney Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127888.ts
+URL: http://vocotv.pro:80/10/live/12345/3767.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cartoon Network (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128033.ts
+URL: http://vocotv.pro:80/live/10/12345/3859.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3196,12 +3191,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Adult Swim (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128029.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/11644.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Much (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127924.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/215268.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3216,22 +3211,22 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: A&E (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127854.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57476.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Dejaview (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127883.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/122001.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: AMC (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127857.ts
+URL: http://xxip25.top:8080/char@dot.com/live/char@14223/57376.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Vision (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127971.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57468.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3246,27 +3241,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Wild (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127861.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57377.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Speed (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127886.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/46212.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: National Geographic (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128077.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47338.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: National Geographic Wild (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127926.ts
+URL: http://xxip25.top:8080/char@dot.com/live/char@14223/57450.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: History Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127912.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57272.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3286,17 +3281,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: BBC Earth (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128032.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/99621.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WILD TV (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127975.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/100456.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Love Nature (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127920.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47324.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3316,22 +3311,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Crime & Investigation (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127867.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57256.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TV Ontario (Canada)
-URL: http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3152.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57369.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: W Network (Canada) (West)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127992.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: W Network (Canada) (East)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127972.ts
+Name: W Network (Canada)
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57284.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3351,12 +3341,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Super Channel Heart & Home (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128092.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/100460.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Silver Screen (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128013.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/107190.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3366,57 +3356,57 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HPItv East (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/173131.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Drama Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127866.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57254.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Life Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127906.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/116506.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Sci-Fi Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127945.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57253.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Makeful (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128009.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57270.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: (ZH) NTD (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
+URL: http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/58023.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NTV St. John`s (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57478
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57478.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Bravo (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128031.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57379.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Lifetime (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128073.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57271.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Lifetime Movie Network (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57444.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: OMNI (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40641.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57365.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3431,57 +3421,52 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peachtree TV (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127989.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47362.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showcase (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128082.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47366.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Slice TV (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127934.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57274.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TLC (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127952.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57290.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Smithsonian Channel (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127935.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47369.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CHCH (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40754.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57393.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CMT (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40750.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57258.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cottage Life (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127877.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47217.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: CPAC English (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127878.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: CPAC French (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127879.ts
+Name: CPAC (Canada)
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57402.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ZESTE French (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40660.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57502.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3501,17 +3486,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: DTOUR (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127892.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57250.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: E! (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127893.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57249.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Comedy (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127876.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57408.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3526,22 +3511,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: FX (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127979.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57268.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: FXX (West) (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127980.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: FXX (East) (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127902.ts
+Name: FXX (Canada)
+URL: http://xxip25.top:8080/livechar@dot.com/char@14223/57429.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TCM (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127950.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/66242.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3566,32 +3546,32 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSC (The Shopping Channel) (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127959.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57370.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSN 1 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127960.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47440.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSN 2 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127961.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47442.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSN 3 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127962.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47444.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSN 4 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127963.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/66783.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TSN 5 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127964.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/16131.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3701,12 +3681,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128072.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57437.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO 2 (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/128071.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57438.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3721,27 +3701,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Movietime (Canada)
-URL: http://thevdm.xyz:25461/live/timmadden/timmad4765/127921.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/47331.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Crave 1 (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40656.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57309.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Crave 2 (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40655.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57310.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Crave 3 (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40654.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57322.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Crave 4 (Canada)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/40653.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57311.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14534,7 +14514,7 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KESQ-TV ABC 3 (Palm Springs CA)
-URL: http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182997.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/121235.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14549,7 +14529,7 @@ Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/0818
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KMIR-TV NBC 36 (Palm Springs CA)
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/10122.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/121237.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
