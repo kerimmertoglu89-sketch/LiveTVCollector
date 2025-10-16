@@ -12231,8 +12231,8 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
 Group: Business
-Name: Bloomberg HT (720p)
-URL: https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+Name: Bloomberg HT (720p) [Not 24/7]
+URL: https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 Logo: https://i.imgur.com/bmkXfIE.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12437,8 +12437,8 @@ URL: https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 Logo: https://i.imgur.com/NrxHGnb.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: IBB TV (1080p)
-URL: http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+Name: IBB TV (1080p) [Not 24/7]
+URL: https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
 Logo: https://i.imgur.com/aXxAz84.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12470,11 +12470,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Kanal 33 (720p) [Not 24/7]
 URL: http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
 Logo: https://i.imgur.com/5WYaoFZ.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: Kanal 34 (720p)
-URL: https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
-Logo: https://i.imgur.com/SIaI6Sj.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Kanal 38 (540p) [Not 24/7]
@@ -12562,8 +12557,8 @@ URL: http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
 Logo: https://i.imgur.com/8fHgTIr.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TGRT Belgesel TV (576p)
-URL: https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+Name: TGRT Belgesel TV (576p) [Not 24/7]
+URL: https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 Logo: https://i.imgur.com/VwWTnf0.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -13222,11 +13217,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: TV 1 (720p)
 URL: https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 Logo: https://i.imgur.com/8CtrYVb.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TV 8 (1080p)
-URL: https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-Logo: https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TV 8.5 (720p)

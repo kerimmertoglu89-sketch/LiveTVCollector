@@ -30516,9 +30516,9 @@
     "img": "https://i.imgur.com/NrxHGnb.png"
   },
   {
-    "name": "IBB TV (1080p)",
+    "name": "IBB TV (1080p) [Not 24/7]",
     "type": "General",
-    "url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8",
+    "url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8",
     "img": "https://i.imgur.com/aXxAz84.png"
   },
   {
@@ -30556,12 +30556,6 @@
     "type": "General",
     "url": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8",
     "img": "https://i.imgur.com/5WYaoFZ.png"
-  },
-  {
-    "name": "Kanal 34 (720p)",
-    "type": "General",
-    "url": "https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8",
-    "img": "https://i.imgur.com/SIaI6Sj.png"
   },
   {
     "name": "Kanal 38 (540p) [Not 24/7]",
@@ -30666,9 +30660,9 @@
     "img": "https://i.imgur.com/8fHgTIr.png"
   },
   {
-    "name": "TGRT Belgesel TV (576p)",
+    "name": "TGRT Belgesel TV (576p) [Not 24/7]",
     "type": "General",
-    "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
     "img": "https://i.imgur.com/VwWTnf0.png"
   },
   {
@@ -30912,12 +30906,6 @@
     "img": "https://i.imgur.com/8CtrYVb.png"
   },
   {
-    "name": "TV 8 (1080p)",
-    "type": "Undefined",
-    "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
-    "img": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"
-  },
-  {
     "name": "TV 8.5 (720p)",
     "type": "Undefined",
     "url": "http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8",
@@ -31050,9 +31038,9 @@
     "img": "https://i.imgur.com/8PmXz9t.png"
   },
   {
-    "name": "Bloomberg HT (720p)",
+    "name": "Bloomberg HT (720p) [Not 24/7]",
     "type": "Business",
-    "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+    "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
     "img": "https://i.imgur.com/bmkXfIE.png"
   },
   {

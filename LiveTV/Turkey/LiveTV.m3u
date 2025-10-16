@@ -10171,8 +10171,8 @@ https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="General",Hunat TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="General",IBB TV (1080p)
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="General",IBB TV (1080p) [Not 24/7]
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="General",Kanal 3 (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="General",Kanal 12 (720p)
@@ -10185,8 +10185,6 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WYaoFZ.png" group-title="General",Kanal 33 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SIaI6Sj.png" group-title="General",Kanal 34 (720p)
-https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvtZ7Xd.png" group-title="General",Kanal 38 (540p) [Not 24/7]
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5y7K9SS.png" group-title="General",Kanal 68 (720p) [Not 24/7]
@@ -10221,8 +10219,8 @@ https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fHgTIr.png" group-title="General",Pamukkale TV (614p)
 http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="General",TGRT Belgesel TV (576p)
-https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="General",TGRT Belgesel TV (576p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqskSYD9/trakyaturk.png" group-title="General",Trakya Türk TV (720p)
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-tr.png" group-title="General",TV A (720p)
@@ -10303,8 +10301,6 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Undefined",TV 1 (720p)
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="Undefined",TV 8 (1080p)
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTmRt7yw/tv85.png" group-title="Undefined",TV 8.5 (720p)
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KDBXLqn.png" group-title="Undefined",TV 38 (360p) [Not 24/7]
@@ -10349,8 +10345,8 @@ https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business",Bloomberg HT (720p)
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p) [Geo-blocked]
