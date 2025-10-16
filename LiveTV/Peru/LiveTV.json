@@ -1,13 +1,13 @@
 {
-  "date": "2025-10-15 21:57:16",
+  "date": "2025-10-16 07:22:26",
   "channels": {
     "General": [
       {
-        "name": "America Television",
+        "name": "America Television (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://181.188.216.5:18000/play/a014/index.m3u8"
+        "url": "http://38.183.182.166:8000/play/a0rb/index.m3u8"
       },
       {
         "name": "ATV (720p) [Not 24/7]",
@@ -206,11 +206,11 @@
         "url": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
       },
       {
-        "name": "TV Peru (720p)",
+        "name": "TV Peru (1080p)",
         "logo": "https://i.imgur.com/6io0IrX.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://181.188.216.5:18000/play/a0qn/index.m3u8"
+        "url": "http://38.183.182.166:8000/play/a12u/index.m3u8"
       },
       {
         "name": "TV Perú Internacional (1080p)",
@@ -830,11 +830,11 @@
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8"
       },
       {
-        "name": "PBO",
+        "name": "PBO (1080p)",
         "logo": "https://i.imgur.com/vBpxX4S.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8"
+        "url": "http://38.183.182.166:8000/play/a13k/index.m3u8"
       },
       {
         "name": "Red de Comunicación Regional (RCR) (720p) [Not 24/7]",
@@ -858,11 +858,11 @@
         "url": "https://live.obslivestream.com/selvatv/index.m3u8"
       },
       {
-        "name": "TV Perú Noticias",
+        "name": "TV Peru Noticias (360p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
       },
       {
         "name": "VNP",
@@ -1897,6 +1897,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
+      },
+      {
+        "name": "7.1 | TV PERU NOTICIAS |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
       },
       {
         "name": "7.3 | JNE TV |",

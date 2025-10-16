@@ -213,8 +213,8 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: General
-Name: America Television
-URL: http://181.188.216.5:18000/play/a014/index.m3u8
+Name: America Television (1080p)
+URL: http://38.183.182.166:8000/play/a0rb/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -358,8 +358,8 @@ URL: https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 Logo: https://i.imgur.com/nr4ctt4.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: TV Peru (720p)
-URL: http://181.188.216.5:18000/play/a0qn/index.m3u8
+Name: TV Peru (1080p)
+URL: http://38.183.182.166:8000/play/a12u/index.m3u8
 Logo: https://i.imgur.com/6io0IrX.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -847,8 +847,8 @@ URL: https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
 Logo: https://i.imgur.com/5IwS0sJ.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: PBO
-URL: https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
+Name: PBO (1080p)
+URL: http://38.183.182.166:8000/play/a13k/index.m3u8
 Logo: https://i.imgur.com/vBpxX4S.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -867,8 +867,8 @@ URL: https://live.obslivestream.com/selvatv/index.m3u8
 Logo: https://i.imgur.com/DAK5ZnD.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: TV Perú Noticias
-URL: https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+Name: TV Peru Noticias (360p)
+URL: https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -1183,6 +1183,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 07 | TV PERU |
 URL: https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPERU.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 7.1 | TV PERU NOTICIAS |
+URL: https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TVPerúNoticias.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 7.3 | JNE TV |
