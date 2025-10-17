@@ -1458,9 +1458,15 @@
     "img": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"
   },
   {
-    "name": "815 Astro Badminton 1",
+    "name": "815 Astro Badminton",
     "type": "Sports",
-    "url": "https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWMoxyCIULzvVhIF32LRURDQ=qqMv/dash-wv/jitp-dashisowm/5170/default_primary.mpd",
+    "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjA2NTgzMTEsImlzcyI6IlZSIiwiZXhwIjoxNzYwNzQwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.dvKesUFm1XdaFygJzMZJuy_F-nuXnFHyrhlouvYaa1g",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
+  },
+  {
+    "name": "815 Astro Badminton HD",
+    "type": "Sports",
+    "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1bYqopuMC5lIYiuwez1o5VA=tuOr/dash-wv/jitp-dashisowm/5170/default_primary.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
   },
   {
@@ -1756,6 +1762,12 @@
     "type": "Sports",
     "url": "https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8",
     "img": "https://static.vebotv.app/leagues/badminton.png"
+  },
+  {
+    "name": "817 Astro Sports Plus",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png"
   },
   {
     "name": "Egg Network (720p)",
