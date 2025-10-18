@@ -957,6 +957,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Religious
+Name: Angel TV Russian (720p)
+URL: https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+Logo: https://i.imgur.com/qKLEGU7.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Вера 24
 URL: https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 Logo: https://i.imgur.com/Qer5Lnh.png

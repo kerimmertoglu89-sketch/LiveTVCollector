@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-17 21:42:24",
+  "date": "2025-10-18 06:14:28",
   "channels": {
     "Кино": [
       {
@@ -7766,6 +7766,57 @@
         "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
       }
     ],
+    "Religious": [
+      {
+        "name": "Angel TV Russian (720p)",
+        "logo": "https://i.imgur.com/qKLEGU7.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+      },
+      {
+        "name": "Вера 24",
+        "logo": "https://i.imgur.com/Qer5Lnh.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+      },
+      {
+        "name": "Каббала ТВ (360p) [Not 24/7]",
+        "logo": "https://i.imgur.com/uaffIpV.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
+      },
+      {
+        "name": "Надежда (720p)",
+        "logo": "https://i.imgur.com/ah6VnFJ.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      },
+      {
+        "name": "Союз (576p)",
+        "logo": "https://i.imgur.com/w3OewHc.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+      },
+      {
+        "name": "Спас",
+        "logo": "https://i.imgur.com/yY39nMg.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8"
+      },
+      {
+        "name": "Три Ангела (720p)",
+        "logo": "https://i.imgur.com/4fhBbam.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://hls.tv.3angels.ru/stream.m3u8"
+      }
+    ],
     "Kids": [
       {
         "name": "Ani",
@@ -8635,50 +8686,6 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://cityeden.catcast.tv/content/47515/index.m3u8"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "Вера 24",
-        "logo": "https://i.imgur.com/Qer5Lnh.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
-      },
-      {
-        "name": "Каббала ТВ (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/uaffIpV.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
-      },
-      {
-        "name": "Надежда (720p)",
-        "logo": "https://i.imgur.com/ah6VnFJ.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-      },
-      {
-        "name": "Союз (576p)",
-        "logo": "https://i.imgur.com/w3OewHc.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-      },
-      {
-        "name": "Спас",
-        "logo": "https://i.imgur.com/yY39nMg.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8"
-      },
-      {
-        "name": "Три Ангела (720p)",
-        "logo": "https://i.imgur.com/4fhBbam.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls.tv.3angels.ru/stream.m3u8"
       }
     ],
     "Lifestyle": [

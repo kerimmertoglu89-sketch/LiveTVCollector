@@ -6618,6 +6618,48 @@
     "img": "https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg"
   },
   {
+    "name": "Angel TV Russian (720p)",
+    "type": "Religious",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "img": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "name": "Вера 24",
+    "type": "Religious",
+    "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
+    "img": "https://i.imgur.com/Qer5Lnh.png"
+  },
+  {
+    "name": "Каббала ТВ (360p) [Not 24/7]",
+    "type": "Religious",
+    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
+    "img": "https://i.imgur.com/uaffIpV.png"
+  },
+  {
+    "name": "Надежда (720p)",
+    "type": "Religious",
+    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+    "img": "https://i.imgur.com/ah6VnFJ.png"
+  },
+  {
+    "name": "Союз (576p)",
+    "type": "Religious",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "img": "https://i.imgur.com/w3OewHc.png"
+  },
+  {
+    "name": "Спас",
+    "type": "Religious",
+    "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+    "img": "https://i.imgur.com/yY39nMg.png"
+  },
+  {
+    "name": "Три Ангела (720p)",
+    "type": "Religious",
+    "url": "https://hls.tv.3angels.ru/stream.m3u8",
+    "img": "https://i.imgur.com/4fhBbam.png"
+  },
+  {
     "name": "Ani",
     "type": "Kids",
     "url": "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8",
@@ -7342,42 +7384,6 @@
     "type": "Auto",
     "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
     "img": "https://i.imgur.com/qpe8L27.png"
-  },
-  {
-    "name": "Вера 24",
-    "type": "Religious",
-    "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
-    "img": "https://i.imgur.com/Qer5Lnh.png"
-  },
-  {
-    "name": "Каббала ТВ (360p) [Not 24/7]",
-    "type": "Religious",
-    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
-    "img": "https://i.imgur.com/uaffIpV.png"
-  },
-  {
-    "name": "Надежда (720p)",
-    "type": "Religious",
-    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-    "img": "https://i.imgur.com/ah6VnFJ.png"
-  },
-  {
-    "name": "Союз (576p)",
-    "type": "Religious",
-    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "img": "https://i.imgur.com/w3OewHc.png"
-  },
-  {
-    "name": "Спас",
-    "type": "Religious",
-    "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
-    "img": "https://i.imgur.com/yY39nMg.png"
-  },
-  {
-    "name": "Три Ангела (720p)",
-    "type": "Religious",
-    "url": "https://hls.tv.3angels.ru/stream.m3u8",
-    "img": "https://i.imgur.com/4fhBbam.png"
   },
   {
     "name": "Домашний",
