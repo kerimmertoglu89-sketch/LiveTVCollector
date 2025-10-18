@@ -10232,8 +10232,8 @@
   {
     "name": "MNC TV",
     "type": "TV Nasional Indonesia",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
-    "img": "https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg"
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
+    "img": "https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png"
   },
   {
     "name": "iNews",
@@ -11698,12 +11698,6 @@
     "type": "NASIONAL",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
     "img": "https://iili.io/JmF1GdN.png"
-  },
-  {
-    "name": "h_240/mnctv_2010_logo_in_rcti_2000_style__by_ap41ii_dg1o1xt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwIiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kZzFvMXh0LWM2MTQ3NmM5LTJjYTUtNDBlZi04MTQ2LWJmZTRkMWVkZGI5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9Mic7RvAUWJVwYzRdg3vas-S3HYvgR5jwtAFaxjVcO0\" group-title=\"NASIONAL\", 15.MNCTV",
-    "type": "NASIONAL",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
-    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dg1o1xt-c61476c9-2ca5-40ef-8146-bfe4d1eddb94.png/v1/fill/w_1280,h_240/mnctv_2010_logo_in_rcti_2000_style__by_ap41ii_dg1o1xt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwIiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kZzFvMXh0LWM2MTQ3NmM5LTJjYTUtNDBlZi04MTQ2LWJmZTRkMWVkZGI5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9Mic7RvAUWJVwYzRdg3vas-S3HYvgR5jwtAFaxjVcO0"
   },
   {
     "name": "17.SCTV",
@@ -25404,9 +25398,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"
   },
   {
-    "name": "Jambi TV (576p) [Not 24/7]",
+    "name": "Jambi TV (480p) [Not 24/7]",
     "type": "General",
-    "url": "http://122.248.43.138:1935/ch23/myStream/playlist.m3u8",
+    "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
     "img": "https://i.imgur.com/BaNtB6K.png"
   },
   {
@@ -25442,7 +25436,7 @@
   {
     "name": "Jek TV (720p) [Not 24/7]",
     "type": "General",
-    "url": "http://61.8.64.138:1935/jektv/myStream/playlist.m3u8",
+    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/wh75d1f.png"
   },
   {
@@ -25582,6 +25576,18 @@
     "type": "Undefined",
     "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
     "img": "https://i.imgur.com/snMxng5.png"
+  },
+  {
+    "name": "Davika TV (480p)",
+    "type": "Undefined",
+    "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"
+  },
+  {
+    "name": "PKTV (480p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8",
+    "img": "https://i.imgur.com/mldv8Sf.png"
   },
   {
     "name": "PONTV (720p)",
