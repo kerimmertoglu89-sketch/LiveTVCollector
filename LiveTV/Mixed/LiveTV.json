@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-24 21:31:08",
+  "date": "2025-10-25 06:07:51",
   "channels": {
     "IPTV": [
       {
@@ -1461,7 +1461,7 @@
         "logo": "https://i.imgur.com/p02AEOF.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://tv.nknews.org/tvdash/stream.mpd"
+        "url": "https://tv.intchoson.com/kctv/main_stream.m3u8"
       }
     ],
     "Dokumentationen": [
@@ -16274,6 +16274,20 @@
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream"
+      },
+      {
+        "name": "Korean Central Broadcasting Station (KCBS) - Đài Phát Thanh TW Triều Tiên",
+        "logo": "https://i.imgur.com/vzWNcMR.png",
+        "group": "QUỐC TẾ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://radio.intchoson.com/kcbs/index.m3u8"
+      },
+      {
+        "name": "Voice of Korean Radio (VOK) - Đài Tiếng Nói Triều Tiên",
+        "logo": "https://i.imgur.com/vzWNcMR.png",
+        "group": "QUỐC TẾ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://radio.intchoson.com/vok/index.m3u8"
       },
       {
         "name": "Pyongyang FM",
