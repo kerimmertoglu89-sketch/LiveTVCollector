@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-25 21:48:20",
+  "date": "2025-10-26 06:32:09",
   "channels": {
     "Uncategorized": [
       {
@@ -84,11 +84,11 @@
         "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8"
       },
       {
-        "name": "Zee Bangla",
+        "name": "Colors Bangla",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54"
+        "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
       },
       {
         "name": "Colors Bangla Cinema",
@@ -96,13 +96,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Colors Bangla",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
       },
       {
         "name": "Colors",
@@ -117,6 +110,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Zee Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54"
       },
       {
         "name": "Zee Cinema hd",
