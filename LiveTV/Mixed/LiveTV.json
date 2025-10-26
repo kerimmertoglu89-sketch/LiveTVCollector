@@ -1,27 +1,13 @@
 {
-  "date": "2025-10-26 06:12:19",
+  "date": "2025-10-26 13:31:09",
   "channels": {
     "STREAMING MEDIA": [
-      {
-        "name": "FOOD FOOD (USA)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbC9kjz3Uqm1_ZVmkTTY7UXLXuhPSFYzJWOKe1_GGdjU-lkFII0GkA6UiBA4ZvjjKBRlRCbwpB4MtCwxmK4t2UMZhWVxxRi9iV0KbhGODUx2XOYxLHaZYUYYKj96tZOaZ-nTPAz_i946bIU0mZ6cm800_YzA7-lL2SA9ebNoEWnzczRPhhbb7PeH3jrM/s320/Picsart_24-10-13_11-31-47-687.jpg",
-        "group": "STREAMING MEDIA",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125807"
-      },
       {
         "name": "SONY SAB (USA)",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg",
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://1tv41.icu:8080/Alan/Alan1234/125809"
-      },
-      {
-        "name": "TV ASIA (USA)",
-        "logo": " ",
-        "group": "STREAMING MEDIA",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://xxip25.top:8080/glenman3@gmail.com/Jxf4EkyrYx/125819"
       },
       {
         "name": "SONY MAX (USA)",
@@ -31,6 +17,27 @@
         "url": "http://nocable.cc:8080/789588/114528/125814"
       },
       {
+        "name": "SONY MAX 2 (USA)",
+        "logo": " ",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795"
+      },
+      {
+        "name": "FOOD FOOD (USA)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbC9kjz3Uqm1_ZVmkTTY7UXLXuhPSFYzJWOKe1_GGdjU-lkFII0GkA6UiBA4ZvjjKBRlRCbwpB4MtCwxmK4t2UMZhWVxxRi9iV0KbhGODUx2XOYxLHaZYUYYKj96tZOaZ-nTPAz_i946bIU0mZ6cm800_YzA7-lL2SA9ebNoEWnzczRPhhbb7PeH3jrM/s320/Picsart_24-10-13_11-31-47-687.jpg",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125807"
+      },
+      {
+        "name": "TV ASIA (USA)",
+        "logo": " ",
+        "group": "STREAMING MEDIA",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://xxip25.top:8080/glenman3@gmail.com/Jxf4EkyrYx/125819"
+      },
+      {
         "name": "ZEE CINEMA (USA)",
         "logo": " ",
         "group": "STREAMING MEDIA",
@@ -38,27 +45,27 @@
         "url": "http://hdhd.tk:80/gina/gina/351113"
       },
       {
-        "name": "SONY MAX 2 (USA)",
+        "name": "STAR GOLD (ME)",
         "logo": " ",
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795"
+        "url": "http://defaultgen.com:5050/darrylrobinson1967@yahoo.com/jWagrjYOQx/698711"
       }
     ],
     "TERRESTRIAL TV": [
-      {
-        "name": "STAR BHARAT (IND)",
-        "logo": " ",
-        "group": "TERRESTRIAL TV",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://87.255.35.150:18853/"
-      },
       {
         "name": "STAR PLUS HD (IND)",
         "logo": " ",
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://87.255.35.150:18850/"
+      },
+      {
+        "name": "STAR BHARAT (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18853/"
       },
       {
         "name": "STAR GOLD HD (IND)",
@@ -73,6 +80,118 @@
         "group": "TERRESTRIAL TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://87.255.35.150:18923/"
+      },
+      {
+        "name": "HUNGAMA TV (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18811/"
+      },
+      {
+        "name": "SONY HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18809/"
+      },
+      {
+        "name": "SONY SAB HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18810/"
+      },
+      {
+        "name": "SONY MAX HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18851/"
+      },
+      {
+        "name": "SONY TEN 3 HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18848/"
+      },
+      {
+        "name": "ZOOM (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18842/"
+      },
+      {
+        "name": "ZEE TV HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18849/"
+      },
+      {
+        "name": "ZEE CINEMA HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18808/"
+      },
+      {
+        "name": "ZEE NEWS (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18854/"
+      },
+      {
+        "name": "&TV HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18843/"
+      },
+      {
+        "name": "CARTOON NETWORK (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18802/"
+      },
+      {
+        "name": "DD SPORTS (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18922/"
+      },
+      {
+        "name": "AAJ TAK (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18958/"
+      },
+      {
+        "name": "COLORS HD (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18890/"
+      },
+      {
+        "name": "MTV (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18901/"
+      },
+      {
+        "name": "NDTV (IND)",
+        "logo": " ",
+        "group": "TERRESTRIAL TV",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://87.255.35.150:18819/"
       }
     ],
     "ADULT LIVE": [
@@ -91,11 +210,39 @@
         "url": "http://a0bn5xro.rostelekom.xyz/iptv/5NR6V3CDUZNTZL/9346/index.m3u8"
       },
       {
+        "name": "PRONPROS (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483"
+      },
+      {
+        "name": "PRIVATE (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8"
+      },
+      {
+        "name": "PASSION XXX (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://78.108.251.7/PassionXXX/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "MEN X (USA)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "ADULT LIVE",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/682826"
+      },
+      {
+        "name": "PORN  HUB (USA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULT LIVE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://149.18.45.187:80/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8"
       },
       {
         "name": "PORN  HUB (USA)",
@@ -649,7 +796,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZGMxZGFkNmQtMGU2Ni00NmNlLTlhMTItNDA2ZTg4NTcyYWZkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiY2I0N2JlYTQtZWFhYS00Mjc0LTkyMmYtOGQ5NTBkNzM0OTI1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -691,7 +838,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzhiY2MxNTYtZmVhNC00NjBkLTk1NmMtYjM3YmM3MGI5NDA4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNDg3OTkyMDgtMjgzMy00Yjg5LWIxOTktNTQ2NTQxNzIxZjY3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
