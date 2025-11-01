@@ -524,13 +524,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjE5NjM0OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxOTQ5MDkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.nXZZCt1D1uuUh_SgCgRoJ6nPs4mMet7LzKaKjKZr1i8/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjE5OTIzNTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYxOTc3OTUzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.SlqQlRmy1KeKsO1dT_ndy0utzphowCZq2pYnbtEutNk/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjE5NjgzNjMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTk1Mzk2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.0wZSQ9Q6_Ug3SJWWMkDHywKfdfEY806jb6pYx5MeTf0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjE5OTcxNzcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTk4Mjc3NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.G037a_V3X9gbxdlHoG1N19bb9c1fUyVxkaFKjGc0ikU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -2696,7 +2696,7 @@
   {
     "name": "SÖZCÜ TV",
     "type": "Uncategorized",
-    "url": "https://helga.iptv2022.com/szc_tv/index.m3u8",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -2706,13 +2706,13 @@
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
-    "name": "like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\" referer=\"https://meltemtv.com.tr/\",MELTEM TV",
+    "name": "MELTEM TV",
     "type": "Uncategorized",
     "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
     "img": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
   },
   {
-    "name": "like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0\" referer=\"https://meltemtv.com.tr/\",MELTEM TV",
+    "name": "MELTEM TV",
     "type": "Uncategorized",
     "url": "http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8",
     "img": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
@@ -2769,12 +2769,6 @@
     "name": "TELE 1",
     "type": "Uncategorized",
     "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "img": "https://i.ibb.co/4Mhmggc/tele1.png"
-  },
-  {
-    "name": "TELE 1",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tele_1.m3u8",
     "img": "https://i.ibb.co/4Mhmggc/tele1.png"
   },
   {
@@ -2880,6 +2874,12 @@
     "img": "https://i.ibb.co/ZXts607/ulketv.png"
   },
   {
+    "name": "İLKE",
+    "type": "Uncategorized",
+    "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
+    "img": "https://i.ibb.co/gLhpBRK8/ilke.png"
+  },
+  {
     "name": "AKİT TV",
     "type": "Uncategorized",
     "url": "http://akittv-live.ercdn.net/akittv/akittv.m3u8",
@@ -2978,7 +2978,7 @@
   {
     "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/sozcu-tv.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -3404,13 +3404,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=hcugjgn6kmn8QnC4P9x63Q&e=1761959907",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=tMKYk2afMlW1U2bJvD_B2A&e=1761992987",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=hcugjgn6kmn8QnC4P9x63Q&e=1761959907",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=tMKYk2afMlW1U2bJvD_B2A&e=1761992987",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -7932,13 +7932,7 @@
     "img": "https://i.ibb.co/VxLFYSj/euronews.png"
   },
   {
-    "name": "EL PAIS",
-    "type": "Uncategorized",
-    "url": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8",
-    "img": "https://i.ibb.co/cQwqfFC/ees.jpg"
-  },
-  {
-    "name": "EL PAIS",
+    "name": "EL PAÍS",
     "type": "Uncategorized",
     "url": "https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8",
     "img": "https://i.ibb.co/cQwqfFC/ees.jpg"
@@ -7946,7 +7940,7 @@
   {
     "name": "EL CONFIDENCIAL TV",
     "type": "Uncategorized",
-    "url": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
+    "url": "https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
     "img": "https://i.ibb.co/tMVTj53/elconf.jpg"
   },
   {
@@ -15036,6 +15030,18 @@
     "img": "https://i.ibb.co/tqkV2sn/irflag.png"
   },
   {
+    "name": "IRAN TV INTL",
+    "type": "Uncategorized",
+    "url": "https://iranintl.icdndhcp.com/hls/stream.m3u8",
+    "img": "https://i.ibb.co/tqkV2sn/irflag.png"
+  },
+  {
+    "name": "BBC PERSIAN",
+    "type": "Uncategorized",
+    "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
     "name": "IRIB IRINN",
     "type": "Uncategorized",
     "url": "https://s1.ettehadlive.com/live/42/chunklist.m3u8",
@@ -15446,13 +15452,13 @@
   {
     "name": "CNN INT",
     "type": "Uncategorized",
-    "url": "https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8",
+    "url": "https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8",
     "img": "https://i.ibb.co/XbSHxd5/cnn.png"
   },
   {
     "name": "CNN INT",
     "type": "Uncategorized",
-    "url": "https://d1vnr7amzbx49s.cloudfront.net/index.m3u8",
+    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
     "img": "https://i.ibb.co/XbSHxd5/cnn.png"
   },
   {
@@ -15465,12 +15471,6 @@
     "name": "CNN INT",
     "type": "Uncategorized",
     "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
-    "img": "https://i.ibb.co/XbSHxd5/cnn.png"
-  },
-  {
-    "name": "CNN INT",
-    "type": "Uncategorized",
-    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
     "img": "https://i.ibb.co/XbSHxd5/cnn.png"
   },
   {
@@ -16598,18 +16598,6 @@
   {
     "name": "CNN INT (backup)",
     "type": "Uncategorized",
-    "url": "https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8",
-    "img": "https://i.ibb.co/XbSHxd5/cnn.png"
-  },
-  {
-    "name": "CNN INT (backup)",
-    "type": "Uncategorized",
-    "url": "https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8",
-    "img": "https://i.ibb.co/XbSHxd5/cnn.png"
-  },
-  {
-    "name": "CNN INT (backup)",
-    "type": "Uncategorized",
     "url": "https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8",
     "img": "https://i.ibb.co/XbSHxd5/cnn.png"
   },
@@ -17006,7 +16994,7 @@
   {
     "name": "CNN INT",
     "type": "30. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",
-    "url": "https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8",
+    "url": "https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8",
     "img": "https://i.ibb.co/XbSHxd5/cnn.png"
   },
   {
@@ -18896,7 +18884,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/2F1mf2emq3h8l1J.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/ivyIz50U5yPkPIjJ.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -18950,7 +18938,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/OPlkqYFmj64qqCv9.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/oxvT8hKHnCDE29.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -18968,13 +18956,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/wiN4dI1vuVOoG7gN.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/EZiZL8yvjk7JqEgq.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/I74NYmU0TdWMgnZ.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/Y1aG3OWDuSPsJZBn.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -18992,7 +18980,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/XMWCtSIIY80V6zfC.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/SH35ErWzTkQYSWg.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -19010,13 +18998,13 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/7mqyVSnR7SK350r8.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/n8jgDkEuU9gzF2sk.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/jDjZiAbHnNdf6B2R.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/k22vk9ukXGktPccD.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -19034,7 +19022,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zahrfjiJ7Zv/fr6uQ3UP3Dcsuww.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DKZTAxWcqO2E/szPX9IChrsWAXxsd.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -19052,19 +19040,19 @@
   {
     "name": "90. Journal du Golf TV [BACKUP][1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=43vtbhY6VKQ5s_yS9Ssqc131hp-A3CqPUaGC005_ShGc7X2ObBA00h99PSBq7xf1qZ6-T5Xc0d2wfP1Zcf-gW5pmH59ZJgt_PJZouNzGA0c",
+    "url": "https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=2oZWfSlYACXGveo6Qd0OceCJYJVTGNzUEI1ZXNxe7IadPCeUpVTfP1GdNwWTy-j4R-qH0S_0XdkcHzOcW973Ujyxwn1nygzcUUuLI3z_qDc",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100"
   },
   {
     "name": "89. LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=r_Gi35XzhGp9XpQRtefCZJwxnr8D17GAKna7D-OaX8k-vOtx5c-8HLynUBFZpHRJHVK1eoaNukmYGELyDhva0Ahh-1VrU6WoN0haNhL7uVc",
+    "url": "https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6rLhplTGaKjT_SDxwukDEi5CkpJ4-5z5MB5vQjshzvH2IdB8o8wA1I7UPFhcMRDGd8N34jg2F4nEdq7Yi1s0iaFtxEGJ3XiCff7QRAn4yHY",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
     "name": "91. L'Équipe live foot [BACKUP][1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=ipBmIcH3krXMeaH68TNAGzOyOS5NqSx8jYpDDLY1IRjEtPKilCZjeNt5Kwq_hCreBdO4i5ucOJF556_Y5ZdMgepyHlG_xI-OeMhDihZTyFs",
+    "url": "https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=m8sn2wrsSEBsEzaGHJewI6i9dPAfnDW1BHBW1-DLR9DVo9D7o10Qz60ge6A89XFRZM_wSgbQNJHXIZzw1pq__tgyXddyji1sk3rDd6NCHM4",
     "img": "https://i.imgur.com/p7UiaCG.png"
   },
   {
@@ -19076,7 +19064,7 @@
   {
     "name": "92. L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]",
     "type": "LEQUIPE.FR",
-    "url": "https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=GOF-BboR16-GWLEmNBQNEuzGD0TScAP2071kt2a0So5pGHugJOB5ihuSLgL2boPw3Y-DZZYdRZLtAST4_SDVpHR3Nnhk-yvrK0bOubltd4M",
+    "url": "https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=sbxO7VaS5eLQSNngsgoS4wCLAM4OcfRluIE2bUnssry-WAPO0mTNyD-bQgq25hJDwjE635yZ-JRjRyuAwOUY-juFCfmYrZBAUgwfa2QmHL0",
     "img": "https://i.imgur.com/3gfaW8a.png"
   },
   {
@@ -19088,7 +19076,7 @@
   {
     "name": "93. L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]",
     "type": "LEQUIPE.FR",
-    "url": "https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=lcNpqf8pDtA5nH_fQwZGUzI9xHoLMEITzh4kveBo8pSyfGueHlZvVYwbDu97q3nrQ994gnA-n_1Dkdm7Xr5SW8x2O-XjbYa7Calo0ybu5Q4",
+    "url": "https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=uguYolIDg267UFk48o08cOU6Vp0lAFuPvMEGN_1hpz7y43bGZALg27WlMOdEG2rVnmX528zzNZFdhLPZORvlC4lDRmGY1RPiQ5OpTA8fAiw",
     "img": "https://i.imgur.com/bmXOZME.png"
   },
   {
@@ -19332,13 +19320,7 @@
     "img": "https://i.imgur.com/PWbIICf.png"
   },
   {
-    "name": "149. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
-    "img": "https://i.imgur.com/8vBQ37F.png"
-  },
-  {
-    "name": "150. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "name": "149. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8",
     "img": "https://i.imgur.com/8vBQ37F.png"
