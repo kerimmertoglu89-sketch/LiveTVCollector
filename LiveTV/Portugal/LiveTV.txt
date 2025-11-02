@@ -785,6 +785,11 @@ Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 
 Group: Eixo do Mal
+Name: Eixo do Mal - 30/10/2025
+URL: https://videos.impresa.pt/videos/hls/sicnot/2025/10/30/42a3fd74-a36e-4b00-97db-d2de1925f928/video.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
 Name: Eixo do Mal - 23/10/2025
 URL: https://videos.impresa.pt/videos/hls/sicnot/2025/10/23/763e29b6-be78-4a8b-9803-13d85b8caafb/video.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
@@ -2558,6 +2563,11 @@ Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 
 Group: PCNELID
+Name: PCNELID - 31/10/2025
+URL: https://videos.impresa.pt/videos/hls/sicnot/2025/10/31/779a219d-a985-46e6-a361-dbdb1e334780/video.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
 Name: PCNELID - 24/10/2025
 URL: https://videos.impresa.pt/videos/hls/sicnot/2025/10/24/ca146d45-2182-4824-a39c-f4068a9c9225/video.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg
@@ -4231,7 +4241,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDEyOjMyOjQ5IEFNJmhhc2hfdmFsdWU9YUVyUEwydkI4TFdURkl6QWdiV3Y4UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA4ZDI0ZGUwLWU5YmEtNGExMy1iM2VlLWEwMGU1ZWY0MzUwMw==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEyOjMzOjEgQU0maGFzaF92YWx1ZT1jVGx4cDg2WVB6ZWpmeWc1dmVzYzJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTdhYzRhN2MtNmJlMy00MGI5LWE4OTEtZTg1OGM4ZjYzOTRi/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4246,7 +4256,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDEyOjMyOjUwIEFNJmhhc2hfdmFsdWU9bzR6WFJDSGRjR2NBZWJFZ2J6bXlPUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBmMTA4ZjU1LTEzZTgtNDQzYS05MGMwLWMwYmZlNzRiNzUzNQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEyOjMzOjIgQU0maGFzaF92YWx1ZT1jSXJYYWVjcjNicTRJbkUrNVpqSTl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODdiN2RmMzgtMjg5ZS00ZTQ0LWE5NzgtNzFmNzgwZDI4N2Nk/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4291,7 +4301,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI1IDEyOjMyOjUwIEFNJmhhc2hfdmFsdWU9TU5nbE1HejlobkRRNXB3K2JxWHVNQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI2OWE5ZTE2LTgyYmEtNDY3Ni04OTA1LTlkMzgzY2IzMGMwMQ==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI1IDEyOjMzOjMgQU0maGFzaF92YWx1ZT1ZYVJyWDl1ZTJMdk5XMXlNMnIxRnN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWUwOGY0YWYtZTk3OS00YTQwLWIwZDktOTVlMWQ4OTNiY2E2/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
