@@ -248,6 +248,11 @@ URL: https://live.obslivestream.com/canal8/index.m3u8
 Logo: https://i.imgur.com/O5MrFjY.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Canal 21 Huancayo (720p)
+URL: https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+Logo: https://i.imgur.com/Kfdkm06.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: CR Televisión Moyobamba (720p) [Not 24/7]
 URL: https://live.obslivestream.com/crtvmux/index.m3u8
 Logo: https://i.imgur.com/oxycMeA.png
@@ -414,7 +419,7 @@ Logo: https://i.imgur.com/yk46NxC.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Latina
-URL: https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
+URL: https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
@@ -434,12 +439,12 @@ Logo: https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: WILLAX HD
-URL: https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
+URL: https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: GLOBAL TV (SD)
-URL: https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
+URL: https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
@@ -893,17 +898,17 @@ Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829866944
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: TV Noticias 7.3 (480p)
-URL: https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
+URL: https://live-evg5.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
 Logo: https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: ATV+ Noticias HD
-URL: https://live-evg20.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
+URL: https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
 Logo: https://i.imgur.com/fY9256H.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: PBO
-URL: https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+URL: https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 Logo: https://pbo.pe/wp-content/uploads/2022/11/pbo.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
