@@ -6,16 +6,16 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "Baaghi 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
-    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
-  },
-  {
     "name": "Thama",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20262",
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg"
+  },
+  {
+    "name": "Baaghi 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
+    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
   },
   {
     "name": "ATN Bangla",
@@ -72,12 +72,6 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
   },
   {
-    "name": "Zee Bangla",
-    "type": "Live Tv",
-    "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Colors",
     "type": "Live Tv",
     "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts",
@@ -87,6 +81,12 @@
     "name": "Star Gold HD",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Zee Bangla",
+    "type": "Live Tv",
+    "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -114,9 +114,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
   },
   {
-    "name": "Tom & Jerry",
+    "name": "Motu Patlu",
     "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -126,9 +126,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Motu Patlu",
+    "name": "Tom & Jerry",
     "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
+    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
