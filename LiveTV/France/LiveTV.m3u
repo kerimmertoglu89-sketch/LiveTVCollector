@@ -200,9 +200,9 @@ https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="Uncategorized",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjgzMjEwOTcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4MzA2Njk3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.zJUnTNsYLeW3UZVqQUv0ivyb4RLqGsnKK_IJrbL6Mgs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjgzNTcwOTgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4MzQyNjk4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.JsCk2QvWNEdK1U_1C5phaajUqi3oFIUg3wu6PwQtsow/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjgzMzA0NjgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODMxNjA2OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.WWboKLFZ84lcjHI93v494gAVanyccW0AYlfGA2SHO1g/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjgzNjIyNDMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODM0Nzg0MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.6Q2bBF-irzU4NoaPwTuojT6Ji4asaPXO_c3bT5yOMuY/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="Uncategorized",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="Uncategorized",FRANCE 3
@@ -1250,9 +1250,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ylMbM2l8iWv0pJ_UZIbkaQ&e=1768332443
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RdZgg3ofTkTH7Q_hYcqD_g&e=1768353757
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ylMbM2l8iWv0pJ_UZIbkaQ&e=1768332443
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RdZgg3ofTkTH7Q_hYcqD_g&e=1768353757
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -5442,6 +5442,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="Uncategorized",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="Uncategorized",FOX NEWS
+https://aegis-cloudfront-1.tubi.video/d9791887-fac6-4930-83b3-c2e8196424ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="Uncategorized",FOX NEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="Uncategorized",FOX NEWS
 https://pb-k5p02dtnr2162.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-k5p02dtnr2162/LiveNOW_from_FOX.m3u8
@@ -6558,7 +6560,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JE5xcCV.png" group-title="Travel",Pluto TV Histoire
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" group-title="FRANCE",1. TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/3yZoyP4ySNPnxjU4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/iyO0ilH1CnrNakHp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",48. France 2 [SSAI][1080p-france.tv]
@@ -6576,29 +6578,29 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FRANCE",7. Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/DpMFqrPP17F3EGPv.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/3c6sMBWzvSDxIUX.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GqWBPJY.png" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK7fvqD.png" group-title="FRANCE",51. LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FRANCE",10. TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/bOcj7RHBndFwezy.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/g5mbNnSR2WK9PY.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FRANCE",11. TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/MAEYDnRIWHWb7sox.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/Ywz1iqWAYAebZSS.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",14. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" group-title="FRANCE",15. LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/PdPFmjrVaVXwqZwC.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/x3Dacs8fzeLaUD8R.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwaz7xG.png" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FRANCE",20. TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/q8ArwRklRHLedFf.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/J40VtcePN51KJ4cV.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FRANCE",44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/VNFwXtTZUIPZJ1FJ.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/6gE6bEC7c6GpPgI4.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" group-title="FRANCE",23. RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
@@ -6606,7 +6608,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/OP0x4mKRq9T/cb4uBiushc2265hT.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/sLSamxQajso/PcRIbz0KLh3nbKrl.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FRANCE",41. CANAL+ EN CLAIR [1080p-dailymotion.com]
@@ -6618,13 +6620,35 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60" group-title="CANALPLUS",67. Europe 1 [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Dyk9unbaGB7e3VYx5hxoNy9Y2UyJmVyxdO-N4eNl-CLaTRLrrdOCkSD39ai8fdCmGO5yhfMIgxL7J4vVcgwW3cCiUpiv2Q8YNqH1ekIm5r4
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=mvfP1JDm442Gb0sLR572AnYDKeGrBUOYFukb9tENK461dDRyMJhyPx6td5edrwEVxDIbV-azK4GA9dmHVfZ8JUW3eoNr6aZbEBvj8B8UUpM
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",79. Tennis Channel [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=WasL_l9CIu_fVzP1hunLDTpQd2XuIZvXNsUHDgu70yYPRj_tU_usDtmZ3I1GP6Lr5pt0OiK3nTS1ru9fW2I7U1WpaNVg7g42p6EV7Q6Y0cM
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",81. Eurosport 2 [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x9lx0e4.m3u8?sec=dDc695UUb8VXLU9wr8W4rnRsNtnGKyVtqK6YzkAB2_qngekMGK_YIqNF8ZbhjdJsjCKzzC-1xobi7h6Kp7Yy6v6TQieESJ249IXLb5guFFI
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=V8yoBTKKps_rWEjQGT5G6Y4HSq4FbdL49NuiAm74etbycV-ZALuHtJK_2HL9qzuivONvIZf-8yKABvO2EEKV2jYjSloApX5NR0CicSgCb9A
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",80. Eurosport 360 - 6 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4wsi.m3u8?sec=OoCNGnWVFkJLHT7bWrGyxjElN21TW0ejAwELFdqk0AOc4fHSIgXTpjJg1_cYLheFtYwfOn26lyLpaF5IgGSy0wtr-bwAjMYffUay7uWfHEg
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",81. Eurosport 360 - 7 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4ww0.m3u8?sec=5u50wruZCusbdsWPMkfmRoq55OasMI4V4WISpZXW7kZLPXoZ5QU6lGotIObGZyy3HwCXEOrmoTpC3F20rVtEcfdngxqk7DcS3_wjbNx6qoA
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",82. Eurosport 360 - 8 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4wzc.m3u8?sec=BmdhIWc7PGkIvd8k8fXHfjB44Ge7IfG-mVN6f1SD-UlFxcgS1Ke6fhuCZtrttYXmIatenqbU9wHiZ85iu9izCE0X9Fp7OLWzBVr4pf7qOUE
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",83. Eurosport 360 - 9 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4x8c.m3u8?sec=i69gDOaVnQW1VBfvOkQVUkX0oMi53lzWAwLlLevhxEox_Wi7kknkO3dR5U7tuDT7TG9HC8Mr07gGw4RXWAOaftY50KLCAoacgVaYbLIsrlA
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",84. Eurosport 360 - 10 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s4xfm.m3u8?sec=y-GC_QOH-z1YMutb_WkMLg4e2TnxHUDB91cbK_bARRhqmQrYcDuwToFCHVvlDXiQn-NkVLANybyCpcQWgK2aASz0GDPT-2kv9YQrSMzpQC8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" group-title="LEQUIPE.FR",85. Journal du Golf TV [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=cuwwGCjPFkuunbNktekD8QD1Z9fDkYqoh_jMMkenTQvWF0gGIsEAm1cUWhCtsEYkXQqbF-h1i4YAoqFel6XZuWWv9Fg3t-gOAkn_WV0QNlk
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=XjEauIz4OMuM_nr8H8kM4_CUT168DmKHSAlaMzJQKC9PGDE724X9F3Au24gkb1AM85oZMqNsMdZgvjr8L-nWMBQMp8y_L0hvYusvL5SU4xk
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",86. Eurosport 360 - 11 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5q6a.m3u8?sec=NjOnjLJTPLdUWixZHp4oJ-rhfTnLlYFm5psc7s04M2UDO1MaXFZxJaX2TgsGPdHFPgvN821BlAmmwucnCn4ZhR3xwVhN4bYC70rvA57rV7U
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",87. Eurosport 360 - 12 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5q7o.m3u8?sec=pjHG9XIkZ5dhtTWL5sWzVVMQVWUgb3AXhvAHb5jaU7AvTnYIcUFUH5ze4nDHa5haQCOd2sJu03SIgC8hjFdvNLuG2s-eNJh2Wk-qLmnAF7I
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",88. Eurosport 360 - 13 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qay.m3u8?sec=QUMM6xP-QvWHVv1NnvB9A-mtC8rGupHw4UDWJwXegiwkBt1ojDqT5YLwqY47EbaB6evAt-8hgU1RB5ga6SI4gzy-Gnp1riK0Ao2kziBfQZI
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",89. Eurosport 360 - 14 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qde.m3u8?sec=kYhYjCoI8ITOsy-ggj7Cp3U-BA5uPUGS-n3P2zMudnKRnsFnIx3LooJp7MyEE6WOJfJVtfc6BTShd_ZazC5aOSPZwWDajyODwmFgFg7zj7E
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",90. Eurosport 360 - 16 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qgy.m3u8?sec=kvYpe2xc-Jrdv69IkU3khAAev1wfL09nrkHAyf0GpYX84RnUnzYBQfCBxPnMrWFJsDjvuGL0OtvxQ7Sg9flmzo68_9Bv3ZDoMUtbrTbF6js
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",91. Eurosport 360 - 17 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qhu.m3u8?sec=zTotb15ckAV_4vm01XTYR45zY4h53PY3QeEYwp0czpQ253XZ1mFAGlOxaGrLqN1deHbOMks9_35wEOClNeuShRTcK7QH_vr0NUx1qf4KspE
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",92. Eurosport 360 - 18 [1080p-dailymotion.com]
+https://cdndirector.dailymotion.com/cdn/live/video/x9s5qim.m3u8?sec=V7NwVAzR7jzdjhhT3itphZcjl6oK-vMFUUKKa1Tlk_JIWEC8vZlWPvvNaVFTyen2pYTkQtFD0aqwixdlqlr2U2B1oxEgsGA841RFhxPUi-E
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NOG1vA.png" group-title="FRANCE.TV",116. FRANCE TV DOCS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqRKGQa.png" group-title="FRANCE.TV",118. FRANCE TV SÉRIES [1080p-france.tv]
@@ -6687,6 +6711,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",149. OUTRE-MER EN CONTINU
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",150. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",151. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZXeQKu.png" group-title="EQUIDIA",312. RACING 2 [1080p-equidia.fr][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8wlnCf.png" group-title="EQUIDIA",313. RACING 3 [1080p-equidia.fr][NOT 24/7]
