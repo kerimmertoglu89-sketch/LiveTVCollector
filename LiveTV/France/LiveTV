@@ -1,7 +1,7 @@
 [
   {
     "name": "BFM TV",
-    "type": "1. |FR|🇫🇷 INFORMATION",
+    "type": "1. |FR|🇫🇷 INFORMATION ℹ️📰",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END",
     "img": "https://i.ibb.co/kckRLh5/bfm.png"
   },
@@ -57,12 +57,6 @@
     "name": "LE MÉDIA TV",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
-    "img": "https://i.ibb.co/ZBqk6mK/lemedia.jpg"
-  },
-  {
-    "name": "LE MÉDIA TV -1H",
-    "type": "Uncategorized",
-    "url": "https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8",
     "img": "https://i.ibb.co/ZBqk6mK/lemedia.jpg"
   },
   {
@@ -602,13 +596,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg3MDI3NTEsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4Njg4MzUxLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.lzDkOjB5N9ldQnfBdrtPL7xc99YQwJTotrIu0zUs_Mw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg3MzE0OTUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4NzE3MDk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.OpiTzaGWM3IRRx51HV1mmkWdV6TMmDYpSR9t0Yzuqug/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg3MDc4MDAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODY5MzQwMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.k9FfYBmcZDYi15JC_W0ymuxlg01YbG01VWURyXXzWt0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg3MzY1NTMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODcyMjE1MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.-kSvsXIP7BL60CwuHLjHLEOTII_98zJZCkxBE7lmLKU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -636,7 +630,7 @@
     "img": "https://i.ibb.co/N9d4yXt/fr5bl.png"
   },
   {
-    "name": "FRANCE LA 1ÈRE (PLAYOUT)",
+    "name": "FRANCE LA 1ÈRE (PLAYOUT) 🌞",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8",
     "img": "https://i.ibb.co/GkjLyFv/la1ereom.png"
@@ -654,7 +648,7 @@
     "img": "https://i.ibb.co/kJjHW61/frdocs.png"
   },
   {
-    "name": "LA UNE",
+    "name": "LA UNE 😘",
     "type": "Uncategorized",
     "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8",
     "img": "https://i.ibb.co/CKmJVCGT/launebe.png"
@@ -666,7 +660,7 @@
     "img": "https://i.ibb.co/BPpZPBn/arte.png"
   },
   {
-    "name": "ARTE -0,5H",
+    "name": "ARTE ↺30MN",
     "type": "Uncategorized",
     "url": "https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8",
     "img": "https://i.ibb.co/BPpZPBn/arte.png"
@@ -1016,7 +1010,7 @@
   {
     "name": "FUN RADIO TV FR",
     "type": "Uncategorized",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=Sn2sSjWIi6oCxB2mxOCtwulmxMtMMXEbMChvHjWAFXqf_1pVwZ9d7x6f2iny1n8N_Lsqo9fONlIFxHH750ucoR8hzVHchkUw9HCxm9_TpJQ",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=5pr8KSbiLTMS9vxlyuNJTItwSUbIpwSWGz2JrzXmVrLcjJaIRuKABa9BD3mEeFtn7bUWF11JBH_q2fabpPJH43pXIlUaZDKa0XHs0Gux0Ig",
     "img": "https://i.ibb.co/ByN83p3/funradtv.png"
   },
   {
@@ -1682,7 +1676,7 @@
   {
     "name": "SPORT EN FRANCE",
     "type": "Uncategorized",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=ftOPCpTVQPyPn49lj11MFfH23ON8Dl2Yh1HlU-gjUDjqY1EnUwRSVcn3wc4zzWDfuAzzLJWQI8H_By6tPCau2QciVSPXoPeNEXFPACvhRXQ",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=4JU3p-VUubqF1NVSghUvPO5fUgt9Z3x-bFZciazRSEBbyUeAsUTxNYyyXYD478l0wUeHg2gV_UcuYrXttYuoxnkxwQ2KH89JWsFX_Op3r10",
     "img": "https://i.ibb.co/p1stMyz/sportenfr.webp"
   },
   {
@@ -3066,18 +3060,6 @@
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
-    "name": "SÖZCÜ CANLI",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ CANLI 2",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
     "name": "MELTEM",
     "type": "Uncategorized",
     "url": "http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8",
@@ -3138,22 +3120,16 @@
     "img": "https://i.ibb.co/6m9Pb3t/tv5tr1.png"
   },
   {
-    "name": "ULUSAL KANAL",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8",
-    "img": "https://i.ibb.co/tXdf2YF/ulusal22.png"
-  },
-  {
-    "name": "ULUSAL KANAL",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ulusal-kanal.m3u8",
-    "img": "https://i.ibb.co/tXdf2YF/ulusal22.png"
-  },
-  {
     "name": "BENGÜ TÜRK",
     "type": "Uncategorized",
     "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
     "img": "https://i.ibb.co/0MHPk8y/benguturk.png"
+  },
+  {
+    "name": "CNN TÜRK",
+    "type": "Uncategorized",
+    "url": "https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8",
+    "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
   },
   {
     "name": "BLOOMBERG HT",
@@ -3162,33 +3138,9 @@
     "img": "https://i.ibb.co/HXKrJRC/blght22.png"
   },
   {
-    "name": "CNN TÜRK",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnnturk.m3u8",
-    "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
-  },
-  {
-    "name": "CNN TÜRK",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8",
-    "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
-  },
-  {
     "name": "CNBC-E",
     "type": "Uncategorized",
     "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
-    "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
-  },
-  {
-    "name": "CNBC-E WEB",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8",
-    "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
-  },
-  {
-    "name": "CNBC-E WEB",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnbc-e.m3u8",
     "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
   },
   {
@@ -3219,12 +3171,6 @@
     "name": "KRT (eridi bitti gitti)",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8",
-    "img": "https://i.ibb.co/jZShqBM/Krt24v2.png"
-  },
-  {
-    "name": "KRT (eridi bitti gitti)",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/krttv.m3u8",
     "img": "https://i.ibb.co/jZShqBM/Krt24v2.png"
   },
   {
@@ -3276,16 +3222,16 @@
     "img": "https://i.ibb.co/1X8nWHc/ahaber.png"
   },
   {
-    "name": "A HABER",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8",
-    "img": "https://i.ibb.co/1X8nWHc/ahaber.png"
-  },
-  {
     "name": "EKO TÜRK",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8",
     "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
+  },
+  {
+    "name": "BUSINESS CHANNEL TÜRK",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/business-channel-turk.m3u8",
+    "img": "https://i.ibb.co/b2b6Zn0/businesschtr.jpg"
   },
   {
     "name": "TH TÜRK HABER",
@@ -3294,40 +3240,40 @@
     "img": "https://i.ibb.co/j9Pmc2qN/thhaber.jpg"
   },
   {
+    "name": "ULUSAL KANAL",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8",
+    "img": "https://i.ibb.co/tXdf2YF/ulusal22.png"
+  },
+  {
     "name": "YENİÇAĞ TV",
     "type": "Uncategorized",
     "url": "https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8",
     "img": "https://i.ibb.co/fGnRLnLM/yenicag.png"
   },
   {
-    "name": "TBMM TV",
-    "type": "Uncategorized",
-    "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-    "img": "https://i.ibb.co/BN9tk1q/tbmm22.png"
-  },
-  {
-    "name": "BUSINESS CHANNEL TÜRK (yt back)",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/business-channel-turk.m3u8",
-    "img": "https://i.ibb.co/b2b6Zn0/businesschtr.jpg"
-  },
-  {
-    "name": "NOKTA TV (yt back)",
+    "name": "NOKTA TV",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8",
     "img": "https://i.ibb.co/k2vyJRC5/noktatv.jpg"
   },
   {
-    "name": "TELE 2 HABER (yt promo)",
+    "name": "TELE 2 HABER",
     "type": "Uncategorized",
     "url": "https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14",
     "img": "https://i.ibb.co/CKSd9c5h/tele2.png"
   },
   {
-    "name": "A PARA (temp.)",
+    "name": "A PARA",
     "type": "Uncategorized",
     "url": "https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8",
     "img": "https://i.ibb.co/KwXzY6B/apara.png"
+  },
+  {
+    "name": "TBMM TV",
+    "type": "Uncategorized",
+    "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+    "img": "https://i.ibb.co/BN9tk1q/tbmm22.png"
   },
   {
     "name": "DHA (feed 1)",
@@ -3366,21 +3312,9 @@
     "img": "https://i.ibb.co/0j6pWsPt/Liderhaber.png"
   },
   {
-    "name": "SÖZCÜ SZC (backup)",
-    "type": "Uncategorized",
-    "url": "http://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8?start=LIVE&end=END",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
     "name": "SÖZCÜ TV (pc/mob init)",
     "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu-tv/tracks-v1a1/mono.m3u8",
+    "url": "https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -3390,9 +3324,15 @@
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
-    "name": "SÖZCÜ YT- (backup)",
+    "name": "SÖZCÜ (yt ko)",
     "type": "Uncategorized",
-    "url": "http://5.178.103.239:82/yt1/s/sozcutv.m3u8",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
+  },
+  {
+    "name": "SÖZCÜ (yt ko)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -3435,18 +3375,6 @@
     "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
     "url": "http://13.60.64.58/stream/yt/sozcu.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
-    "name": "SÖZCÜ TV (backup)",
-    "type": "Uncategorized",
-    "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -3534,9 +3462,27 @@
     "img": "https://i.ibb.co/bLpTdYZ/tv100.png"
   },
   {
-    "name": "CNN TÜRK (backup)",
+    "name": "CNBC-E WEB (yt ko)",
     "type": "Uncategorized",
-    "url": "https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8",
+    "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
+  },
+  {
+    "name": "CNBC-E WEB (yt ko)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnbc-e.m3u8",
+    "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
+  },
+  {
+    "name": "CNN TÜRK (yt ko)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnnturk.m3u8",
+    "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
+  },
+  {
+    "name": "CNN TÜRK (yt ko)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8",
     "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
   },
   {
@@ -3556,6 +3502,12 @@
     "type": "Uncategorized",
     "url": "https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8",
     "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
+  },
+  {
+    "name": "ULUSAL KANAL (yt ko)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ulusal-kanal.m3u8",
+    "img": "https://i.ibb.co/tXdf2YF/ulusal22.png"
   },
   {
     "name": "ULUSAL KANAL (backup)",
@@ -3660,9 +3612,9 @@
     "img": "https://i.ibb.co/ZXts607/ulketv.png"
   },
   {
-    "name": "A HABER (backup)",
+    "name": "A HABER (yt back)",
     "type": "Uncategorized",
-    "url": "https://anym3u8player.com/youtube.php/id/68f4c967d2678.m3u8",
+    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8",
     "img": "https://i.ibb.co/1X8nWHc/ahaber.png"
   },
   {
@@ -3806,13 +3758,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=HMLZrtV_2IOJDzUI-tMafA&e=1768699188",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=qZ6n-NebcNBR1R8z0G9DNg&e=1768732532",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=HMLZrtV_2IOJDzUI-tMafA&e=1768699188",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=qZ6n-NebcNBR1R8z0G9DNg&e=1768732532",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -17761,79 +17713,79 @@
   },
   {
     "name": "TV5MONDE FBSM",
-    "type": "2. |FR|🇫🇷 GÉNÉRALISTES",
+    "type": "2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",
     "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8",
     "img": "https://i.ibb.co/pQ7kLNY/tv5fbs.png"
   },
   {
     "name": "FUN RADIO TV BE",
-    "type": "3. |FR|🇫🇷 MUSIQUE - JEUNESSE",
+    "type": "3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",
     "url": "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8",
     "img": "https://i.ibb.co/ByN83p3/funradtv.png"
   },
   {
     "name": "INA 70s",
-    "type": "4. |FR|🇫🇷 CULTURE - DÉCOUVERTE",
+    "type": "4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/frina.m3u8",
     "img": "https://i.ibb.co/svWdczbW/ina.png"
   },
   {
     "name": "TRACE SPORTS",
-    "type": "5. |FR|🇫🇷 SPORT - SÉRIES / FILMS",
+    "type": "5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",
     "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://i.ibb.co/sWxH6cv/tracesports.png"
   },
   {
     "name": "--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---",
-    "type": "6. |FR|🇫🇷 LOCALES - RÉGIONALES",
+    "type": "6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",
     "url": "https://section",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "TRT HABER",
-    "type": "7. |TR|🇹🇷 HABER",
+    "type": "7. |TR|🇹🇷 HABER ℹ️📰",
     "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "img": "https://i.ibb.co/Bt6frts/trthaber.png"
   },
   {
     "name": "TRT 1",
-    "type": "8. |TR|🇹🇷 ULUSAL GENEL",
+    "type": "8. |TR|🇹🇷 ULUSAL GENEL 📺📀",
     "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
     "img": "https://i.ibb.co/d6c87Km/trt122.png"
   },
   {
     "name": "TRT BELGESEL",
-    "type": "9. |TR|🇹🇷 BELGESEL & YAŞAM",
+    "type": "9. |TR|🇹🇷 BELGESEL & YAŞAM 🗺️🎋",
     "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
     "img": "https://i.ibb.co/N1h8m96/trtbelgesel.png"
   },
   {
     "name": "TRT GENÇ",
-    "type": "10. |TR|🇹🇷 ÇOCUK - SPOR",
+    "type": "10. |TR|🇹🇷 ÇOCUK - SPOR 🤾‍♀️🧒",
     "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
     "img": "https://i.ibb.co/C33T9Vdk/trtgenc.png"
   },
   {
     "name": "SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯",
-    "type": "11. |TR|🇹🇷 MÜZİK",
+    "type": "11. |TR|🇹🇷 MÜZİK 🎵🎺",
     "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spftrcc.ts",
     "img": "https://i.ibb.co/gdbyhx2/spotify.png"
   },
   {
     "name": "TRT AVAZ",
-    "type": "12. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",
+    "type": "12. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER 🎡🎞️",
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
     "img": "https://i.ibb.co/xzZk0Yq/trtavaz.png"
   },
   {
     "name": "ANADOLU NET TV",
-    "type": "13. |TR|🇹🇷 YEREL - BÖLGESEL",
+    "type": "13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",
     "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8",
     "img": "https://i.ibb.co/mHt7rQf/Tryerel.png"
   },
   {
     "name": "--- |KKTC: KUZEY KIBRIS| ---",
-    "type": "13. |TR|🇹🇷 YEREL - BÖLGESEL",
+    "type": "13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",
     "url": "http://blank",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -19766,7 +19718,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/omDimcBijCUOeVR2.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/JGidcxysjY5KxxS.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -19820,7 +19772,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/vn1mOReOTi360E.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/RS3wg2h2r8TiW2h.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -19838,13 +19790,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/GZQAKpNbJWMSXsb.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/hX5n7uxPA6ghwy0i.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/hVJOjl4i30B0k9hb.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/BrkyiwW1zIxpMav.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -19862,7 +19814,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/6F95th0o3WQBGhSY.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/TKoOto15FAifF6G.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -19880,13 +19832,13 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/QsVW1iCV4mHM5Ny6.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/qrM7F51n3LAO5Bnx.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/Op2gqYaGIQuMjxi.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/cbJKuZEIFN2Uuh0T.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -19910,7 +19862,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yw5ILTkzYimy/bR2eMbwCbeRwtmR.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iOlKe1192hQL/tnNponwHGsP0NAz.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -19946,20 +19898,26 @@
   {
     "name": "78. la chaine L'Équipe en direct [1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=pf0ZMZ9mDh0xV7PQPz1x71sHTSp80VbzECyAjJPASaouMQnQ56bTZQ7iiAaoONWygxhDnbUZgwc4vN-abLppNcI0VNCq0qF_o0HBpMTseQg",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=Lt98QRbdn3ReC7lQxNJ4KqAiGaybv-BF2rrd83m0cbcx3I3et2Mu-zOqL0h2WeNyuYkGhHia0xsiUxlf7mE-2S8MbAQnXoRP_eviJLCM_rc",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
     "name": "79. Tennis Channel [1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=3nUDGzQyzZeeMsigqTEpghluoGEeQR6ejnvgzkx7kqHYMD3Ki4E8iCqVcGZj-2De72Oo6g2RcwRnPtlLhdnPbQ72uJq8cEBD_RjtLkn0xTo",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=tC7bSYKoyFTV_eYmm1lGxgY4k8M2vjnsoWI1XkeRiQBT9S5lBXttnALLb8EnPvfE4gcGfAcnjhEH7fV_5AtvHmE8tUlXKyLQIFlBCJ_AC3A",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "85. Journal du Golf TV [1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=bxiBcwnHSJ0ds0vDM0k0dN3GnFqaxAIL-xLXFW23kwrVygJsvsmtuxCQSn2P6gFNvwZ0VdebWogdT6NhEuKGQZJPBRKR1d7DlCFYvbunXCc",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=yZDqzB5p-n7LGStM6xWyQazHXp8BaSp5QUJiX-a0zdz0yNZg8j6FXpK3ld3Exj2AZ_z974EZb8MP5YmIcZqw1eTk0FMDidH4y24mHZb8eM8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100"
+  },
+  {
+    "name": "110. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "type": "FRANCE.TV",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8",
+    "img": "https://i.imgur.com/8vBQ37F.png"
   },
   {
     "name": "116. FRANCE TV DOCS [1080p-france.tv]",
@@ -20145,24 +20103,6 @@
     "name": "149. OUTRE-MER EN CONTINU",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8",
-    "img": "https://i.imgur.com/8vBQ37F.png"
-  },
-  {
-    "name": "150. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8",
-    "img": "https://i.imgur.com/8vBQ37F.png"
-  },
-  {
-    "name": "151. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8",
-    "img": "https://i.imgur.com/8vBQ37F.png"
-  },
-  {
-    "name": "152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
     "img": "https://i.imgur.com/8vBQ37F.png"
   },
   {
