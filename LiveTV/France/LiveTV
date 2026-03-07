@@ -902,7 +902,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/8ux6V2dgapTlRrk5.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/veIdGGk0O5kh8QK.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -956,7 +956,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/Muq60O8QCLaf5mys.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/okUSYiofAQg9nJ.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -986,13 +986,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/Ujhc37M7YWdAwzlA.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/Bc5t4o3DMzI6guz.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/PnxlHHXXUR4fnsA.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/TvGiwX5xTBrHbxgI.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/810MWYug4GAVsxU.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/r0GbcxReRLqkO0k4.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/VeHrV01b9dbxpbg.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/NGFpvVSrJll7dnM.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/rkxSN2jZS6lihC9j.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/dk1byWYaqoj8nFg3.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JXPIdHPlXQDp/kPGcsNmOpJnrxp.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/skrnMOgLgazy/yrqvGXRnpvaz7nz.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1106,25 +1106,19 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=3mXGsYIkSpZaAobmqt7BTy9EZLkwLcFAkERqLTIWFqAlkyCHN4vW0lOb3iErdZLuVl8RcmeZ9Sak6PuiZcqovbLFaEfDm10uVZS1Jd_AmOk",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=a779UNhgtEDJiPxaj0MmhA0jBYDp_A4ARrBwXptqho2D1SsaUntddMmeXuiclYkMwY1qKmUitwlLng5OwDbkGVBxv0kGRpb8yMzB0ZtSnl4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=I1EBTMmi20U6uN4m8dHAaNe1aRNtEbdvsL7EatnePFNS1QSIcADpAR-m0bnRyorvb1LwV7PrTJvIVYu9Wh0c4651KIuxQnnR-EIO12DW8YM",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "82. L'Équipe Live 6",
-    "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd0f7.m3u8?sec=UV9_z68AZ4cwbIEJUDh6Agc6EcnxqZlO7UgSRqWdvUQPzSAb9e2QTKzuKpp8QBmKPjY5SdsZeLurXUtIwsvgo4fyWt_bzUIPvMhIbFG2MEE",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=5R-a3vD_lAA2XNt102FQGTYCd69924iubsf-_66irWfn6dv6sEjav5uzbuA_4Z3mHVhKlFmdwAtY1QHdTMfoa5jDkezNDF_BwYlO4wJsZTU",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "85. My new video title [1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=eIoGI5_F4E2d5ZEbohhZUFArCmMY3wB-PuH8WcDDiGzQMf_Pdq2XsWyo300-rP1hwzwWaA8bp9nToZAh99SB7N2OmZvMPMniZwZ6kxtt2PA",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=4fwr7j5gbbKN5fsQPPmZYQ41iRrrzVkqOVW8BgaBWTUiprax52da3rBVBHTvPm3lAJtpFIG9Wu3oekx1wbThMtAsh-9ySgxqC-hSMSx8XoU",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100"
   },
   {
@@ -1332,21 +1326,9 @@
     "img": "https://i.imgur.com/M4mQ8iG.png"
   },
   {
-    "name": "151. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "name": "151. POLYNÉSIE 1ÈRE [NOT 24/7][1080p-france.tv]",
     "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8",
-    "img": "https://i.imgur.com/M4mQ8iG.png"
-  },
-  {
-    "name": "152. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8",
-    "img": "https://i.imgur.com/M4mQ8iG.png"
-  },
-  {
-    "name": "153. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8",
     "img": "https://i.imgur.com/M4mQ8iG.png"
   },
   {
