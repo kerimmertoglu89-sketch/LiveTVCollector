@@ -328,7 +328,7 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: FRANCE
 Name: 1. TF1 [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/AEWKEKrJI0dtIWN.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/NYB36CdIgrgkrbO.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -373,7 +373,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 46. ARTE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/8etVVvmGWdOmga8.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/22sVCjA4koSHifwE.m3u8
 Logo: https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -398,12 +398,12 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.p
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 10. TMC [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/8kj1JhzBVAV7Kcp.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/s7nXXtkIMa899Wk.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 11. TFX [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/ufCVUXNuJLpl0Mr.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/JgkZgH0hbLT4VQC.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -423,7 +423,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 15. LCI [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/hsW3kmcTcae1i5tv.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/2wpriDUcsQvP9YsO.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -438,7 +438,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 20. TF1 Séries Films [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/075fHym9VuZcQ0lN.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/lOrKrdaX6cScKQ.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -448,7 +448,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/Z2j35JHJDkB1oB9a.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/xCWy05t16I1SltH.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -468,7 +468,7 @@ Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100c
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 35. LE FIGARO TV [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0yQl1UWAv4K2/ms40tpOLVyRb11wJ.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tXCXqGTiYFa5/jO9PguS7zYTpeDtW.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -654,18 +654,13 @@ URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/
 Logo: https://i.imgur.com/M4mQ8iG.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 151. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
+Name: 151. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
 Logo: https://i.imgur.com/M4mQ8iG.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 152. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
-Logo: https://i.imgur.com/M4mQ8iG.png
-Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
---------------------------------------------------
-Name: 153. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+Name: 152. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 Logo: https://i.imgur.com/M4mQ8iG.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -851,17 +846,17 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: LEQUIPE.FR
 Name: 78. la chaine L'Équipe en direct
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=bFueR2PYXyBgSCTUd3E-awJ0iZfz3IQDaVdx8if90yh404QWKeMaoct-fYtwHZNLRpxARUt_8BmboWLQK8k3NLLiLvfGkDMqlEr6ZqxzuDk
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=z888Wsrkg8qLcvVqoo8XWmyMkiUe_8u_VfIGxSpQi-h5ZP9g-GVYU2VRD3DW34dsx1Eeacrl8BI_foc4h5YTMc44DnG8pjDbsATY0nV6rLw
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 80. Tennis Channel
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=3KSimaxpgzsQn07EO1-rebs_yVnAO0oBUBmRNxIfNXXcwBC86BJF6fxgYErX1HQ4-Hakyfd7GSs5YXjKueSjqe_L7xkbq0YnfOflS-JwvNY
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=MRhbdBCDkHUBp7ONqzOc8EQhGqsC5--IM29GAeh6-eZL5dmzmYERnvJtIeNYkpbIPDnIRkO3G7AEPiCsmaKoXurbdIjQw8Kds1J6smLstPQ
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 85. My new video title [1080p-dailymotion.com]
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=VbWgKjp7_pmcB66CSnFtXm9D4ZiUpa-Q55XcRD3ePozSx8BPl6ooWq4J0PBsLfYTppaJVtLaq1u1jpAtN51OMNllf0Cas03oLUWTePcMDAY
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=CNVQ6wCRp1QAamnxt7_EcaWDQk4zSt2EHaMjV6PBzBOxxaT-n4g4qpNUrSV9cIzQV1yxWTGhHGSsdsrq0Kumm4LTtVuQfcKpjmYXhY5tPOI
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
