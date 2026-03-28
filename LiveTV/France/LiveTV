@@ -6,7 +6,7 @@
     "img": "https://i.imgur.com/2nd5Cox.png"
   },
   {
-    "name": "AB1 [Geo-Blocked]",
+    "name": "AB1 (720p) [Geo-Blocked]",
     "type": "Entertainment",
     "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
     "img": "https://i.imgur.com/9C7UsOe.png"
@@ -32,7 +32,7 @@
   {
     "name": "C Star (720p) [Geo-Blocked]",
     "type": "Entertainment",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd",
     "img": "https://i.imgur.com/w4kAX1V.png"
   },
   {
@@ -48,7 +48,7 @@
     "img": "https://i.imgur.com/Pw1ifln.png"
   },
   {
-    "name": "M6 [Geo-blocked] [Geo-Blocked]",
+    "name": "M6 (720p) [Geo-blocked] [Geo-Blocked]",
     "type": "Entertainment",
     "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
     "img": "https://i.imgur.com/7GVp3fW.png"
@@ -60,7 +60,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
-    "name": "RTL9 [Geo-Blocked]",
+    "name": "RTL9 (720p) [Geo-Blocked]",
     "type": "Entertainment",
     "url": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd",
     "img": "https://i.imgur.com/nFqjVNW.png"
@@ -72,7 +72,7 @@
     "img": "https://i.imgur.com/QxHt9NC.png"
   },
   {
-    "name": "W9 [Geo-blocked] [Geo-Blocked]",
+    "name": "W9 (720p) [Geo-blocked] [Geo-Blocked]",
     "type": "Entertainment",
     "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
     "img": "https://i.imgur.com/reYeMuE.png"
@@ -162,7 +162,7 @@
     "img": "https://i.imgur.com/MgBeU52.png"
   },
   {
-    "name": "ici Elsass",
+    "name": "ici Elsass (180p)",
     "type": "General",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg"
@@ -222,7 +222,7 @@
     "img": "https://i.imgur.com/WmRbudc.png"
   },
   {
-    "name": "TV5Monde France Belgium Switzerland Monaco HD [Geo-Blocked]",
+    "name": "TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]",
     "type": "General",
     "url": "https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8",
     "img": "https://i.imgur.com/WmRbudc.png"
@@ -372,7 +372,7 @@
     "img": "https://i.imgur.com/8t9mdg9.png"
   },
   {
-    "name": "Euronews French HD [Geo-Blocked]",
+    "name": "Euronews French HD (720p) [Geo-Blocked]",
     "type": "News",
     "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
     "img": "https://i.imgur.com/8t9mdg9.png"
@@ -384,13 +384,13 @@
     "img": "https://i.imgur.com/u8N6uoj.png"
   },
   {
-    "name": "Franceinfo",
+    "name": "Franceinfo (720p) [Geo-Blocked]",
     "type": "News",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
     "img": "https://i.imgur.com/eITXz6A.png"
   },
   {
-    "name": "LCI HD [Geo-Blocked]",
+    "name": "LCI HD (720p) [Geo-Blocked]",
     "type": "News",
     "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd",
     "img": "https://i.imgur.com/DED8EXs.png"
@@ -426,7 +426,7 @@
     "img": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1"
   },
   {
-    "name": "Animaux [Geo-Blocked]",
+    "name": "Animaux (720p) [Geo-Blocked]",
     "type": "Education",
     "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
     "img": "https://i.imgur.com/FM9FVAG.png"
@@ -570,7 +570,7 @@
     "img": "https://i.imgur.com/FQ0FpXV.png"
   },
   {
-    "name": "Canal J HD [Geo-Blocked]",
+    "name": "Canal J HD (720p) [Geo-Blocked]",
     "type": "Kids",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png"
@@ -590,7 +590,7 @@
   {
     "name": "Gulli (720p) [Geo-Blocked]",
     "type": "Kids",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd",
     "img": "https://i.imgur.com/kqYssbW.png"
   },
   {
@@ -606,7 +606,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
   },
   {
-    "name": "Nickelodeon Teen",
+    "name": "Nickelodeon Teen (720p)",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
     "img": "https://i.imgur.com/OWRUPA4.png"
@@ -708,9 +708,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "KTO (404p) [Not 24/7]",
+    "name": "KTO (720p) [Geo-Blocked]",
     "type": "Religious",
-    "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd",
     "img": "https://i.imgur.com/EY6TsdV.png"
   },
   {
@@ -798,7 +798,7 @@
     "img": "https://i.imgur.com/43at4M2.png"
   },
   {
-    "name": "LCP [Geo-Blocked]",
+    "name": "LCP (720p) [Geo-Blocked]",
     "type": "Legislative",
     "url": "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8",
     "img": "https://i.imgur.com/k7UImOJ.png"
@@ -834,7 +834,7 @@
     "img": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png"
   },
   {
-    "name": "RMC Life [Geo-Blocked]",
+    "name": "RMC Life (720p) [Geo-Blocked]",
     "type": "Entertainment;Interactive",
     "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
     "img": "https://img1.dc2.oqee.net/channel_pictures/3606/w512"
@@ -926,7 +926,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/oaKDNKutKB1rjd5f.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/SdyzqhN8D9jlh5dt.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -980,7 +980,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/QcKERTeQAzT1MaR.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/VXcNsj68QDiyUf.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1010,13 +1010,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/4QFTpGnWn22D3CmQ.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/DxWBeXwsoJgtDHBx.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/XccZjfCxJDvUPhgu.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/u7rjUZY7K11PtJn9.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/8G8UsqgA8aE7RncJ.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/HyYldpWPrbjXPG6V.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/7BQ6km0ulWPFIJGF.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/dvfmYZL1HX5lrUPU.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/NZdA1EokaGOYYJK6.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/NV5qXLgD3CDi4yE5.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1100,7 +1100,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/GV89vXg4U8t/E8D4FQ5pnX0jMzeT.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t6tqoUWJOWRO/HQATRjPP6oPxer52.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1136,25 +1136,19 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=eSXyFSQ_H2s7Cqy5I9WctOvmtjn3U8Nent955clIoTPcuDcBR43UUPKQFu_I2bFacrnN2MwiywN0ujH5GV3FICMYJtjOo1E4g0Ous78e1Q0",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "79. L'Équipe live 2",
-    "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=ix0GviygKg321FuucTIMNcrEgMp4b1yOj7i3Url8zxn1g5JNa1adY0-7Y1y6blBcXTfBD-BGIg02WcyjKFt36pdvMOr7Hi5up_LRRdJHreg",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=awAIZgfN23HYKZlTbcTm3hidhELRL_sY4YvGWDLvPCXZWEDXJDbXOKkyPHSOb_59N4rbeoJAlGX0f6HDcyu17NyjnqGbnqAFBG6Mm6glfjI",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=yc9WWIijcMpZIVv9BimteWTlzKV46rSC3jU-oQXcBL_i6PllIOxMysD0dNwKMUU82FTsYWlTRIVqa3q1G8TkP3-9hV3znFnAhtl-laNKGaU",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=00IX6VGe7hdtH7AqaReUYRqQv1cw6Pb10vfGUmI_Qs3Up4c3eh6X8vX77-A9BetTrRqRRU2dtjU42xfTFiaw-2cRdgCwNDDCP-V8RBYBq5I",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "85. My new video title [1080p-dailymotion.com]",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=yWwMLkMTYDuoEbY767GYN4OSDhh91EG7y1nWNm-KQnR9nlO7x6YxuSPf7k2bzbpYHvLwTqNXVmI8thzLIcQZYUPbl2LcOujTfhA-1Iar9ho",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=v1vCSHdYJWnANOM-eXOB7oDVKxpZmTz8HcJie3AliqTUKIaXNIgYsO0hQlsKHc4QacWOOlzZvJT4y7bpb1R0yOCpcYGOe4JlXeFLFLZwE6o",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100"
   },
   {
@@ -1362,13 +1356,19 @@
     "img": "https://i.imgur.com/M4mQ8iG.png"
   },
   {
-    "name": "151. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "name": "151. GUADELOUPE 1ÈRE [NOT 24/7][1080p-france.tv]",
     "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8",
     "img": "https://i.imgur.com/M4mQ8iG.png"
   },
   {
-    "name": "152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "name": "152. MARTINIQUE 1ÈRE [NOT 24/7][1080p-france.tv]",
+    "type": "FRANCE.TV",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8",
+    "img": "https://i.imgur.com/M4mQ8iG.png"
+  },
+  {
+    "name": "153. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
     "img": "https://i.imgur.com/M4mQ8iG.png"
@@ -3054,6 +3054,12 @@
     "img": "https://picserve.netplus.ch/channels/teleswizz.png"
   },
   {
+    "name": "1669. CSTAR [FR]",
+    "type": "NETPLUS.TV",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "img": "https://picserve.netplus.ch/channels/d17.png"
+  },
+  {
     "name": "1671. FRANCE 24 [FR]",
     "type": "NETPLUS.TV",
     "url": "https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8",
@@ -3084,10 +3090,10 @@
     "img": "https://picserve.netplus.ch/channels/france5hd.png"
   },
   {
-    "name": "1676. FRANCE INFO [FR]",
+    "name": "1677. GULLI [FR]",
     "type": "NETPLUS.TV",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
-    "img": "https://picserve.netplus.ch/channels/franceinfo.png"
+    "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8",
+    "img": "https://picserve.netplus.ch/channels/gulli.png"
   },
   {
     "name": "1678. KTO [FR]",
