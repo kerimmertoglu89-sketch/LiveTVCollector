@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-13 22:25:53",
+  "date": "2026-04-14 07:21:26",
   "channels": {
     "Entertainment": [
       {
@@ -830,6 +830,13 @@
         "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "Trace Urban HD (1080p)",
+        "logo": "https://i.imgur.com/DLIbUMx.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8"
+      },
+      {
         "name": "TZiK [Not 24/7]",
         "logo": "https://i.imgur.com/TAagRkn.png",
         "group": "Music",
@@ -1160,7 +1167,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/xkFsIcSyQ9vLr6WH.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/dEwU3PtXbQtZpLZ2.m3u8"
       },
       {
         "name": "2. France 2 [1080p-france.tv]",
@@ -1223,7 +1230,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/HXGh1OhY80VU1Vd.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/cOLnxTydF7nyJ8du.m3u8"
       },
       {
         "name": "47. Arte [1080p-france.tv]",
@@ -1258,14 +1265,14 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/X4yJsErZVwEMFtg.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/tYFhRgi4lEmaVS6f.m3u8"
       },
       {
         "name": "11. TFX [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/Atpny46MghKKVJoy.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/SUo6gmp5Id0fBHqg.m3u8"
       },
       {
         "name": "13. BFM TV [1080p-rmcbfmplay.com]",
@@ -1293,7 +1300,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/FrGCx7KauKqG4r8s.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/T68duhQO3Qm83Fli.m3u8"
       },
       {
         "name": "16. France Info [1080p-france.tv]",
@@ -1314,7 +1321,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/NSiskfzTvvrk1Brt.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/FTZb8hfzECDquco.m3u8"
       },
       {
         "name": "21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]",
@@ -1328,7 +1335,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/gI2TofqCt9u6uFah.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/Wbj2gPcwLIhO7UX0.m3u8"
       },
       {
         "name": "23. RMC STORY [1080p-rmcbfmplay.com]",
@@ -1363,7 +1370,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pYM128tImbk2/HQ0z4InexKEglUw.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rW6HTzVFiXHE/0lNiN38B4zdGpSQl.m3u8"
       },
       {
         "name": "40. CANAL+ EN CLAIR [1080p-canalplus.com]",
@@ -1409,21 +1416,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=W0mDuHy8CQ3fSgjI6uJlE8jFfacCrPL3PiUXlYexZsSIhP5yxuWMfY5FwCUH1OW89Ey3pvcLxoXJvqJROr6TsUJGZji4j008QtD7hK_wZQo"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=0PEVXayPEkB8cpRZhjTM96WE9pWpv5lnqIvZD_FyHqAqOuprBKIP0cuZdP_roAaSQZenDrVtXQjoktnI9vqMIJ1a_C9yN-wdIfM-d1OF9Zk"
       },
       {
         "name": "80. Tennis Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=rCvSlOSKsq5tpe9EHCrje2PBxdNkRtqlPp1ID6Xm3RQUUMl7BWwD5hM0_SN5L5vDffx9Pz3BM0o6qLNrizaZcsu4fe7vsiDvMgiMtgg8Ywk"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=UVhp2muiGdxIgvU9Yc9jS2LgZi1QXY7ia6yaAoSO7qrKNAJDKxjGU-soLzJgeoGpjTeoYe0vRaLAh1YOKeQ7PRypfu8DEsdmhOV76cLAsbE"
       },
       {
         "name": "85. My new video title [1080p-dailymotion.com]",
         "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=71aAG3aRSEWNcjQDI98rigNoz3kjNAvLzQC-EUu7VMBq9aL28K56YnfMa3LWxuhF6nAQVU7vx5EQ7fXSCms3XccL8Z7binEKS4EfHlk53Hs"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=-YUXHxIXN5pmDhNV6njz6fRIL27HHaSJhTbk3itnXX0MwgXZCpetYJhTDpa4cwP0VaS_xhC18Gf1Zur1AA9cgwQkR6M-kRifxzDLPK-o4WY"
       }
     ],
     "FRANCE.TV": [
@@ -1666,18 +1673,11 @@
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8"
       },
       {
-        "name": "151. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]",
+        "name": "151. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]",
         "logo": "https://i.imgur.com/M4mQ8iG.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8"
-      },
-      {
-        "name": "152. NOUVELLE-CALÉDONIE 1ÈRE [NOT 24/7][1080p-france.tv]",
-        "logo": "https://i.imgur.com/M4mQ8iG.png",
-        "group": "FRANCE.TV",
-        "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8"
       }
     ],
     "EQUIDIA": [
@@ -3206,693 +3206,693 @@
     ],
     "NETPLUS.TV": [
       {
-        "name": "1600. 3SAT HD [DE]",
+        "name": "1600. 3SAT HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/3sathd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8"
       },
       {
-        "name": "1601. BLUE ZOOM DE [DE]",
+        "name": "1601. BLUE ZOOM DE [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bluezoomde.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8"
       },
       {
-        "name": "1602. BR ALPHA [DE]",
+        "name": "1602. BR ALPHA [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bralpha.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
       },
       {
-        "name": "1603. BR HD SUD [DE]",
+        "name": "1603. BR HD SUD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/brhdsud.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8"
       },
       {
-        "name": "1604. DAS ERSTE HD [DE]",
+        "name": "1604. DAS ERSTE HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/daserstehd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8"
       },
       {
-        "name": "1605. DISNEY CHANNEL DE [DE]",
+        "name": "1605. DISNEY CHANNEL DE [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/disneychannelde.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8"
       },
       {
-        "name": "1606. EUROSPORT DE [DE]",
+        "name": "1606. EUROSPORT DE [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/eurosportde.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8"
       },
       {
-        "name": "1607. HR [DE]",
+        "name": "1607. HR [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/hr.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8"
       },
       {
-        "name": "1608. KANAL 9 [DE]",
+        "name": "1608. KANAL 9 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/kanal9.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8"
       },
       {
-        "name": "1609. KIKA HD [DE]",
+        "name": "1609. KIKA HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/kikahd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8"
       },
       {
-        "name": "1610. MDR [DE]",
+        "name": "1610. MDR [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/mdr.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8"
       },
       {
-        "name": "1611. NDR [DE]",
+        "name": "1611. NDR [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/ndr.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8"
       },
       {
-        "name": "1612. NICK [DE]",
+        "name": "1612. NICK [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/comedycentralnick.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8"
       },
       {
-        "name": "1613. N TV [DE]",
+        "name": "1613. N TV [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/ntv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8"
       },
       {
-        "name": "1614. ORF 1 [DE]",
+        "name": "1614. ORF 1 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/orf1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8"
       },
       {
-        "name": "1615. ORF 2 [DE]",
+        "name": "1615. ORF 2 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/orf2.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8"
       },
       {
-        "name": "1616. PHOENIX HD [DE]",
+        "name": "1616. PHOENIX HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/phoenixhd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8"
       },
       {
-        "name": "1617. RTL [DE]",
+        "name": "1617. RTL [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rtl.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8"
       },
       {
-        "name": "1618. RTL 2 [DE]",
+        "name": "1618. RTL 2 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rtl2.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8"
       },
       {
-        "name": "1619. RTL NITRO [DE]",
+        "name": "1619. RTL NITRO [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rtlnitro.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8"
       },
       {
-        "name": "1620. SPORT 1 [DE]",
+        "name": "1620. SPORT 1 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/sport1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8"
       },
       {
-        "name": "1621. SRF 1 HD [DE]",
+        "name": "1621. SRF 1 HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/srf1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8"
       },
       {
-        "name": "1622. SRF 2 HD [DE]",
+        "name": "1622. SRF 2 HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/srf2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8"
       },
       {
-        "name": "1623. SRF INFO [DE]",
+        "name": "1623. SRF INFO [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/srfinfo.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8"
       },
       {
-        "name": "1624. SUPER RTL [DE]",
+        "name": "1624. SUPER RTL [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/superrtl.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8"
       },
       {
-        "name": "1625. SWR BW [DE]",
+        "name": "1625. SWR BW [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/swrbw.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8"
       },
       {
-        "name": "1626. TELE 5 [DE]",
+        "name": "1626. TELE 5 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tele5.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8"
       },
       {
-        "name": "1627. TELE BAERN [DE]",
+        "name": "1627. TELE BAERN [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/telebaern.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8"
       },
       {
-        "name": "1628. TELEBIELINGUE [DE]",
+        "name": "1628. TELEBIELINGUE [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/telebielingue.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8"
       },
       {
-        "name": "1629. TV24 [DE]",
+        "name": "1629. TV24 [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tv24.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8"
       },
       {
-        "name": "1630. VOX [DE]",
+        "name": "1630. VOX [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/vox.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8"
       },
       {
-        "name": "1631. WDR HD [DE]",
+        "name": "1631. WDR HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/wdrhd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8"
       },
       {
-        "name": "1632. WELT [DE]",
+        "name": "1632. WELT [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/n24.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8"
       },
       {
-        "name": "1633. ZDF HD [DE]",
+        "name": "1633. ZDF HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/zdfhd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8"
       },
       {
-        "name": "1634. ZDF INFO HD [DE]",
+        "name": "1634. ZDF INFO HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/zdfinfohd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8"
       },
       {
-        "name": "1635. ZDF NEO HD [DE]",
+        "name": "1635. ZDF NEO HD [DE][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/zdfneohd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8"
       },
       {
-        "name": "1636. BVN [DU]",
+        "name": "1636. BVN [DU][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bvn.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
       },
       {
-        "name": "1637. AL JAZEERA [EN]",
+        "name": "1637. AL JAZEERA [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/aljazeera.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8"
       },
       {
-        "name": "1638. BBC 2 [EN]",
+        "name": "1638. BBC 2 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bbc2.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8"
       },
       {
-        "name": "1639. BBC 3 CBBC [EN]",
+        "name": "1639. BBC 3 CBBC [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bbc3cbbc.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
       },
       {
-        "name": "1640. BBC 4 CBEEBIES [EN]",
+        "name": "1640. BBC 4 CBEEBIES [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bbc4cbeebies.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8"
       },
       {
-        "name": "1641. BBC WORLD [EN]",
+        "name": "1641. BBC WORLD [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bbcworld.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8"
       },
       {
-        "name": "1642. BLOOMBERG [EN]",
+        "name": "1642. BLOOMBERG [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bloomberg.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8"
       },
       {
-        "name": "1643. CHANNEL 4 [EN]",
+        "name": "1643. CHANNEL 4 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/channel4.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8"
       },
       {
-        "name": "1644. CHANNEL 5 [EN]",
+        "name": "1644. CHANNEL 5 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/channel5.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8"
       },
       {
-        "name": "1645. CNBC [EN]",
+        "name": "1645. CNBC [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/cnbc.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
       },
       {
-        "name": "1646. CNN [EN]",
+        "name": "1646. CNN [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/cnn.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8"
       },
       {
-        "name": "1647. FASHION TV [EN]",
+        "name": "1647. FASHION TV [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/fashiontv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8"
       },
       {
-        "name": "1648. FILM 4 [EN]",
+        "name": "1648. FILM 4 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/film4.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8"
       },
       {
-        "name": "1649. ITV 2 [EN]",
+        "name": "1649. ITV 2 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/itv2.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8"
       },
       {
-        "name": "1650. ITV 3 [EN]",
+        "name": "1650. ITV 3 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/itv3.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8"
       },
       {
-        "name": "1651. ITV 4 [EN]",
+        "name": "1651. ITV 4 [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/itv4.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8"
       },
       {
-        "name": "1652. SKY NEWS [EN]",
+        "name": "1652. SKY NEWS [EN][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/skynews.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8"
       },
       {
-        "name": "1653. TVE INTERNACIONAL [ES]",
+        "name": "1653. TVE INTERNACIONAL [ES][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tveinternacional.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
       },
       {
-        "name": "1656. BFM BUSINESS [FR]",
+        "name": "1656. BFM BUSINESS [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bfmbusiness.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8"
       },
       {
-        "name": "1657. BFM TV [FR]",
+        "name": "1657. BFM TV [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bfmtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8"
       },
       {
-        "name": "1658. BLUE ZOOM FR [FR]",
+        "name": "1658. BLUE ZOOM FR [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/bluezoomfr.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8"
       },
       {
-        "name": "1659. CANAL 9 [FR]",
+        "name": "1659. CANAL 9 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/canal9.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8"
       },
       {
-        "name": "1660. CANAL ALPHA JU [FR]",
+        "name": "1660. CANAL ALPHA JU [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/canalalphaju.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8"
       },
       {
-        "name": "1661. CANAL ALPHA NE [FR]",
+        "name": "1661. CANAL ALPHA NE [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/canalalphane.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8"
       },
       {
-        "name": "1663. CARAC 1 [FR]",
+        "name": "1663. CARAC 1 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rougetv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
       },
       {
-        "name": "1664. CARAC 2 [FR]",
+        "name": "1664. CARAC 2 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/onetv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8"
       },
       {
-        "name": "1665. CARAC 3 [FR]",
+        "name": "1665. CARAC 3 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/lfmtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8"
       },
       {
-        "name": "1666. CARAC 4 [FR]",
+        "name": "1666. CARAC 4 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tvsuisseplus.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8"
       },
       {
-        "name": "1667. CARAC 5 [FR]",
+        "name": "1667. CARAC 5 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/teleswizz.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
       },
       {
-        "name": "1669. CSTAR [FR]",
+        "name": "1669. CSTAR [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/d17.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8"
       },
       {
-        "name": "1671. FRANCE 24 [FR]",
+        "name": "1671. FRANCE 24 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/france24.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8"
       },
       {
-        "name": "1672. FRANCE 2 HD [FR]",
+        "name": "1672. FRANCE 2 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/france2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8"
       },
       {
-        "name": "1673. FRANCE 3 HD [FR]",
+        "name": "1673. FRANCE 3 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/france3hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8"
       },
       {
-        "name": "1674. FRANCE 4 HD [FR]",
+        "name": "1674. FRANCE 4 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/france4hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
       },
       {
-        "name": "1675. FRANCE 5 HD [FR]",
+        "name": "1675. FRANCE 5 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/france5hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8"
       },
       {
-        "name": "1677. GULLI [FR]",
+        "name": "1677. GULLI [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/gulli.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
       },
       {
-        "name": "1678. KTO [FR]",
+        "name": "1678. KTO [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/kto.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8"
       },
       {
-        "name": "1679. LA TELE [FR]",
+        "name": "1679. LA TELE [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/latele.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8"
       },
       {
-        "name": "1680. LCI [FR]",
+        "name": "1680. LCI [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/lci.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8"
       },
       {
-        "name": "1682. LEMAN BLEU [FR]",
+        "name": "1682. LEMAN BLEU [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/lemanbleu.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
       },
       {
-        "name": "1683. L EQUIPE [FR]",
+        "name": "1683. L EQUIPE [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/lequipe21.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
       },
       {
-        "name": "1685. MAX TV [FR]",
+        "name": "1685. MAX TV [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/maxtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8"
       },
       {
-        "name": "1687. NRTV [FR]",
+        "name": "1687. NRTV [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/nrtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
       },
       {
-        "name": "1690. RTS 1 HD [FR]",
+        "name": "1690. RTS 1 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rts1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8"
       },
       {
-        "name": "1691. RTS 2 HD [FR]",
+        "name": "1691. RTS 2 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rts2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8"
       },
       {
-        "name": "1692. T18 [FR]",
+        "name": "1692. T18 [FR][CH-ONLY]",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8"
       },
       {
-        "name": "1693. TF1 HD [FR]",
+        "name": "1693. TF1 HD [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8"
       },
       {
-        "name": "1698. TV8 MONT BLANC [FR]",
+        "name": "1698. TV8 MONT BLANC [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tv8montblanc.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8"
       },
       {
-        "name": "1699. TVM3 [FR]",
+        "name": "1699. TVM3 [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/tvm3.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8"
       },
       {
-        "name": "1700. VAL TV [FR]",
+        "name": "1700. VAL TV [FR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/valtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8"
       },
       {
-        "name": "1702. CANALE 5 [IT]",
+        "name": "1702. CANALE 5 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/canale5.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8"
       },
       {
-        "name": "1703. ITALIA 1 [IT]",
+        "name": "1703. ITALIA 1 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/italia1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8"
       },
       {
-        "name": "1704. LA 7 [IT]",
+        "name": "1704. LA 7 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/la7.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8"
       },
       {
-        "name": "1705. LA7D [IT]",
+        "name": "1705. LA7D [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/la7d.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
       },
       {
-        "name": "1706. RAI 1 [IT]",
+        "name": "1706. RAI 1 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rai1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8"
       },
       {
-        "name": "1707. RAI 2 [IT]",
+        "name": "1707. RAI 2 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rai2.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8"
       },
       {
-        "name": "1708. RAI 3 [IT]",
+        "name": "1708. RAI 3 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rai3.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8"
       },
       {
-        "name": "1709. RAI GULP [IT]",
+        "name": "1709. RAI GULP [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/raigulp.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8"
       },
       {
-        "name": "1710. RETE 4 [IT]",
+        "name": "1710. RETE 4 [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rete4.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8"
       },
       {
-        "name": "1711. RSI LA 1 HD [IT]",
+        "name": "1711. RSI LA 1 HD [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rsila1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8"
       },
       {
-        "name": "1712. RSI LA 2 HD [IT]",
+        "name": "1712. RSI LA 2 HD [IT][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rsila2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8"
       },
       {
-        "name": "1713. REDE RECORD INTERNACIONAL [POR]",
+        "name": "1713. REDE RECORD INTERNACIONAL [POR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rederecordinternacional.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8"
       },
       {
-        "name": "1714. RTPI [POR]",
+        "name": "1714. RTPI [POR][CH-ONLY]",
         "logo": "https://picserve.netplus.ch/channels/rtpi.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
