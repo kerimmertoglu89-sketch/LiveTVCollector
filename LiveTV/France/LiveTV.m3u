@@ -314,7 +314,7 @@ https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-logo="https://znth.tv/static/site_app/thy%20logo.svg" group-title="Culture;General",zenith (1080p)
 https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" group-title="FRANCE",1. TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/Iq8H0gizZ6swKNnw.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/E746vNgXgt670fZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",48. France 2 [SSAI][1080p-france.tv]
@@ -332,7 +332,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FRANCE",7. Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/vw0bCT90tMoATxT2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/t2kxd9ixoSJNQbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GqWBPJY.png" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" group-title="FRANCE",8. LCP [1080p-france.tv]
@@ -342,9 +342,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" group-title="FRANCE",43. Public Sénat [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FRANCE",10. TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/g15V9LpRNO18JiUH.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/PFnkAgcZ09myfXNA.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FRANCE",11. TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/vrUvkECciBFD5MWU.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/7Lz4c4aukDoC6Rw.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" group-title="FRANCE",13. BFM TV [1080p-rmcbfmplay.com]
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",14. C NEWS [1080p-canalplus.com]
@@ -352,17 +352,17 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" group-title="FRANCE",15. LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/BKdeT3ZJf87rxb.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/ZPKjC6LDeSGPoAAa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwaz7xG.png" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FRANCE",20. TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/tro3lIdfgPimTO2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/6817HaVzY7POpqba.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FRANCE",21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FRANCE",44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/CfHh7TFTNvS37h2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/kxR7QaeCVjI40A5.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" group-title="FRANCE",23. RMC STORY [1080p-rmcbfmplay.com]
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
@@ -372,7 +372,7 @@ https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rYyCex0UONm/DynD1EjpiQn5i.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zNZ36DrkXTDh/5i76hol9kQCSKr3f.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FRANCE",41. CANAL+ EN CLAIR [1080p-dailymotion.com]
@@ -384,11 +384,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60" group-title="CANALPLUS",67. Europe 1 [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=LIkTWAB23CgZAwpYvSPebLGOmct_PjBH_YDrvVbmwCV6dt6CwdNUmgHUpfooSueqkCZDGXMmHcMRvyCvh5rhR-wkow-e-9QQMckUdYJJ_gA
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=XIKf5YUbu-bVKqMG4L7XxdrnnGVouRAcsimz83bciSRb5pM2mcUjH8P4HwKOdoK0gTsPXQxDwfLjRElvai0a2qScavSdIjF5k8E8dMcTsy4
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",80. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=z4HEj0iVqAQeLZS_PsNVB0kTfGdLjJvZFGfy8dKmv9Cl15fbm2F_3muif_8mJAJ8fyXH21ZoY3VT6Jq0kD1rXRQI-xwBXaKtO6vtLWcUEXU
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=WypLc9AiwVNuwQJmwpjbsxpIq6bHoDcl2Nzk7JR5kqXAvKfnxHqvFl1aJbPOIoihcbcQNz1CXxuTj_uIfazCtGFx4vC3BK01n7DnIu4YTVc
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" group-title="LEQUIPE.FR",85. My new video title [1080p-dailymotion.com]
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=lpMXjA4k_ZPRowaZbgAayaTLzXcrYN-E4F4abEStjpcZRSdQ2s-GA_pHewBYz8jaLluE88bmnOPxXDui9C5YnZVeivIniYzG2JyrmUaI-90
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=XZEdP6BhCsZ-RZkbHQXPkSIem_BEv_7BbrQQz6rKT01kNp4R9hHsULVQeIhUqUwtckl1lfcjlFKaQ_f_h2VPOv2ybSSRtIDD_OUtzfGk9Kc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQmIjgs.png" group-title="FRANCE.TV",115. FRANCE TV DOCS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESz1gbr.png" group-title="FRANCE.TV",116. FRANCE TV SÉRIES [1080p-france.tv]
@@ -791,8 +791,6 @@ https://jmp2.uk/stvp-FRBD4100001DF
 https://jmp2.uk/stvp-FRBD3900005MB
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000050Z_20241015T042517SQUARE.png" group-title="SAMSUNGTVPLUSFR",1136. MTV Catfish [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FRAJ38000050Z
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20260421T125656SQUARE.png" group-title="SAMSUNGTVPLUSFR",1137. Chefclub TV [1080p-samsungtvplus]
-https://jmp2.uk/stvp-FRBB3900001PZ
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20260127T040246SQUARE.png" group-title="SAMSUNGTVPLUSFR",1139. Ça Chauffe en Cuisine [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR34000032F
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300044VR_20241015T042753SQUARE.png" group-title="SAMSUNGTVPLUSFR",1140. Pluto TV Cuisine [1080p-samsungtvplus]
@@ -887,6 +885,10 @@ https://jmp2.uk/stvp-FR3100003KZ
 https://jmp2.uk/stvp-FR3100002MQ
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20260407T040146SQUARE.png" group-title="SAMSUNGTVPLUSFR",1189. Skyrock [1080p-samsungtvplus]
 https://jmp2.uk/stvp-FR4000005KE
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000809_20260421T125710SQUARE.png" group-title="SAMSUNGTVPLUSFR",1190. House of Creators [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR70000809
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000695_20260421T125716SQUARE.png" group-title="SAMSUNGTVPLUSFR",1191. Space Live [1080p-samsungtvplus]
+https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/3sathd.png" group-title="NETPLUS.TV",1600. 3SAT HD [DE][CH-ONLY]
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" group-title="NETPLUS.TV",1601. BLUE ZOOM DE [DE][CH-ONLY]
@@ -1085,10 +1087,6 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rtpi.png" group-title="NETPLUS.TV",1714. RTPI [POR][CH-ONLY]
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000809_20260421T125710SQUARE.png" group-title="Divertissement",House of Creators
-https://jmp2.uk/stvp-FR70000809
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000695_20260421T125716SQUARE.png" group-title="Divertissement",Space Live
-https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20260421T123928SQUARE.png" group-title="Séries TV",Sony One Séries Thriller
 https://jmp2.uk/stvp-FR3000125U
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300010HD_20260421T123922SQUARE.png" group-title="Séries TV",Sony One Blacklist
