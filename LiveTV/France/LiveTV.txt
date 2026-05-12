@@ -355,7 +355,7 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: FRANCE
 Name: 1. TF1 [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/Dl1Bl1mKedLmO7LY.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/86THrR8cnwM02xB.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -400,7 +400,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 46. ARTE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/vSbt9x4fzfmR2Ujj.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/2zEGBwGHHA7KPkL.m3u8
 Logo: https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -425,12 +425,12 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.p
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 10. TMC [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/R6B0dKoqeft2oti1.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/Y5DWUux9ZtlTJz2z.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 11. TFX [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/SPr8UnEqutkybHW.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/RgTKO1Oo2p2LJxPW.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -450,7 +450,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 15. LCI [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/nVc77U7wamCj62oH.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/YAS3NIx0ihMDCq0i.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -465,7 +465,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 20. TF1 Séries Films [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/jLZTCKtJNY99AH9K.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/gxPmPjkzE843uSBf.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -475,7 +475,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/iEeDYDXlizMqPyO.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/MaGqohtTBtAZmEK.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -500,7 +500,7 @@ Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100c
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 35. LE FIGARO TV [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbPzDX5TriML/b7CoGLk06nSfVGF5.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/MFlPuXIjEv/x6AsQ6bYFjTsyYjv.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -556,132 +556,137 @@ URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/
 Logo: https://i.imgur.com/UpLgsLw.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 125. FRANCE 3 ALPES [1080p-france.tv]
+Name: 125. TV DU FESTIVAL [1080p-france.tv]
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv-du-festival.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
+--------------------------------------------------
+Name: 126. FRANCE 3 ALPES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 126. FRANCE 3 ALSACE [1080p-france.tv]
+Name: 127. FRANCE 3 ALSACE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 127. FRANCE 3 AQUITAINE [1080p-france.tv]
+Name: 128. FRANCE 3 AQUITAINE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 128. FRANCE 3 AUVERGNE [1080p-france.tv]
+Name: 129. FRANCE 3 AUVERGNE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 129. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
+Name: 130. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 130. FRANCE 3 BOURGOGNE [1080p-france.tv]
+Name: 131. FRANCE 3 BOURGOGNE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 131. FRANCE 3 BRETAGNE [1080p-france.tv]
+Name: 132. FRANCE 3 BRETAGNE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 132. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
+Name: 133. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 133. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
+Name: 134. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 134. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]
+Name: 135. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 135. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
+Name: 136. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 136. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
+Name: 137. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 137. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
+Name: 138. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 138. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
+Name: 139. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 139. FRANCE 3 LIMOUSIN [1080p-france.tv]
+Name: 140. FRANCE 3 LIMOUSIN [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 140. FRANCE 3 LORRAINE [1080p-france.tv]
+Name: 141. FRANCE 3 LORRAINE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 141. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]
+Name: 142. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 142. NOA [1080p-france.tv]
+Name: 143. NOA [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 143. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]
+Name: 144. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 144. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]
+Name: 145. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 145. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
+Name: 146. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 146. FRANCE 3 PICARDIE [1080p-france.tv]
+Name: 147. FRANCE 3 PICARDIE [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 147. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
+Name: 148. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 148. FRANCE 3 PROVENCE ALPES [1080p-france.tv]
+Name: 149. FRANCE 3 PROVENCE ALPES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 149. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
+Name: 150. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
 Logo: https://i.imgur.com/SdwDJct.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 150. OUTRE-MER EN CONTINU [1080p-france.tv]
+Name: 151. OUTRE-MER EN CONTINU [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 Logo: https://i.imgur.com/M4mQ8iG.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
@@ -868,17 +873,17 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: LEQUIPE.FR
 Name: 78. la chaine L'Équipe en direct
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=3bXhUO2zeuNYg4wrE0lnIyrCUgb3feqocJpXkV30C4vlEVHVJyp0XP5tKsTOxA-ArYcp9fbrP31JNcHYQSE_3AB8PXlSDquPgCGVHuaBBbM
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=jJ3J95_yZKyIyByOBS72n1EMzYbtQHj48I35QTfWxo2z77i6_xIdIU5PD-MWo0FMO4AGi1n5B7sqKG_xrtT6zkneY6YHpSlzQHZNpOGeokg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 79. Tennis Channel
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=jVtEG4Pcd-U8LWNUbf1flwZEaobJnqFeemSZAlrtAucFkHEVeeMVr55KKuoxVYMztZVg8yXweAGVikUcuzIzfsCpBxS1bII8UrA3_YU4NxM
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=w18BSR4x-tvVNUtZ15WXYXFiyvYY61xfx5Tjiz05PVQ-z1Qr1M0BdtILrwsEetlFU9QmQ8tj-YRgZUSq3SmjPQzVuab__gtWNnujzfK18_M
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 85. My new video title [1080p-dailymotion.com]
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=T35Qh7TDKnjUUGIVfiWOduPl0kUW7xChIGKmJO9bQrw6Zm9Tr5vc4QERWszVhJaacXErOpthVb8CY6zL8lacOzDhic_JMrcoPsuFhQa10P8
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=KEsxM8VPUccqUIVbyfKCZeAQsikVdb49iWogTtkpxwDDlJ1KtFuSbZX-4I72Zq8sI_yalNW69o8b6iv2B5gOTmYEYbdL6sn9Pp4UOe0d0wg
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1359,242 +1364,242 @@ Logo: https://picserve.netplus.ch/channels/tveinternacional.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1654. 6TER [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDEyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy82dGVyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg3ZmY5YmUyMmJiZDI5NjYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.VLTAPL8H7erJ8NgoeagMH1qmbrJ0Vi9J6mz33r703OnAY2n5XO7iLrOjz3rgW-AkJ_4gyUOnaTIQb5niZoa7UA==/live/eds/6ter/browser-HLS8/6ter.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjE1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzLzZ0ZXIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYmM3MzZlMGIxZmMwNTEzMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.N5cDuDQx5oxsd1XQKTRqPvORISu_XOjARxQZ52wJIIrGYl_nsR0UFwELDMFq-03LWoZxAwMETGv2q8OLTomvwg==/live/eds/6ter/browser-HLS8/6ter.m3u8
 Logo: https://picserve.netplus.ch/channels/6ter.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1655. ARTE HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTk0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9hcnRlaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNGZkZWY3ODM0MTVhMmQzYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.Hq6zMyJ9nXbUU_mglH4qyUVDf2XasIxdJUI-I2JPLGh_c32NbP3apwHzwvHno_wUzh-xWj5MiqjHRzXyEPKHnA==/live/eds/artehd/browser-HLS8/artehd.m3u8
+URL: https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MTkwIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2FydGVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlZGFlYWU4ZGYxMDEwMjRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbNDhdfQ==.F4E5ACpLAv1XcrQmK2NRIF_-1fmjN5Gxr6iU7Cr1NhCMGC48gClY4LYUjKtgaDrpfDwuopkbJaeCWQ6hxBqPzQ==/live/eds/artehd/browser-HLS8/artehd.m3u8
 Logo: https://picserve.netplus.ch/channels/artehd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1656. BFM BUSINESS [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDA4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9iZm1idXNpbmVzcy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjMjg0YmY2ODhkNmIxZTNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.7s5GZRPlYlnR7_wn_IlZAkNDBzNj9FsO1ARH0xnD_wlRSxvHqtJQWlPMiUwZUomzodJdL0JL2vM26aKJx49HMQ==/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+Name: 1656. BFM BUSINESS [FR][CH-ONLY]
+URL: https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 Logo: https://picserve.netplus.ch/channels/bfmbusiness.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1657. BFM TV [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTkyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9iZm10di9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIzMGU4NzY0OWY4MWFmNjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.RnqFqdFyYprDUX_qfFQDA4gqoKv1OmjU5LZ2V4oYP9JqwxNTkZYO7JBOWvtvvXhBOX-hjKJ0vOKYS_vBKtxP3w==/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjM1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2JmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIyNjM5OGZmNjZhMzIyNDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.fmnKIKxsdlf7V9ztwD9xo5KH-GYP67u5XzRrYlFqply0CbKivs6YBDy6W3QPN2ly-1TxFZKXWM_ImsPXjH9gHA==/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 Logo: https://picserve.netplus.ch/channels/bfmtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1658. BLUE ZOOM FR [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDI0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ibHVlem9vbWZyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFmZjhlYmYxOTI1NjQ2MWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==._Ee91O51V6nJsXlqIuvxcuVYBQs_wVTMKUDVYjrCT44X5SixLEtzI3f71F1UbPRbRf7BjUwc1mRGhLIY_-nUZw==/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjE5Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2JsdWV6b29tZnIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMDk0MmQ5MjI0N2Y4Y2FiMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.xpYDddh3E1XDBYpB4P_IjgXe8_kT-_geJ8CCPCnGnwM-kHXE_6VAHajyMFuVYN841NLVBR003tDxhBpNlZ2CYQ==/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 Logo: https://picserve.netplus.ch/channels/bluezoomfr.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1659. CANAL 9 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDk2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbDkvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZGJkNTI3ZDE2MDFkM2M0YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.NmKfdDDiRVUMZeSrJPUAegiYVy82Hx1RDCQ5X2FGDQtnrIeyeAPm8dr1hzFF_HNJQt6iZFArHEW88Qq9oTr0fA==/live/eds/canal9/browser-HLS8/canal9.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzA5Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxNzUxMzcwMjlmMTM3MTM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.-PWNImoac2VRUzqW2-R6G6bYgs_w_FBsBwrsZhgbmizB-6S8AXYOKcnbPLm6b48RmNZQ_TJE5Qqmlccxc8Nz1w==/live/eds/canal9/browser-HLS8/canal9.m3u8
 Logo: https://picserve.netplus.ch/channels/canal9.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1660. CANAL ALPHA JU [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDU5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbGFscGhhanUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZTFjMDlhM2M1NGJlMDYwYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.I5eq0neWuPnkagyjZaisMBq-fwHNE20q0och_TGQfbB-KgDC_4PLHaZ8gFFt4FP4t0xSV55M5xR3pid-NwuFnw==/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzI2Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFqdS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNzYxMWE1ZWE4YjQ2Y2ZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.ohFVPVjkifY4hE9-csazZexdtDrAx4DRydHQgvDSrmC_0emfzkgGBj7-WtdT_wEvIlNQv-M0xUA9KBoajAr6nA==/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
 Logo: https://picserve.netplus.ch/channels/canalalphaju.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1661. CANAL ALPHA NE [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTkwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbGFscGhhbmUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzlkNjRmMmI5MjIxNzljYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.36G43pGWxGHtJfjXodjSBVmzL-lYMA616g4KmPFnIUqL2LAT5kv7h8qXxfHU6tbEsPx3pMGEh5Z1izJGSRkEbw==/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1Mjk0Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFuZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDk1ZjliMzFhNDQwMTQ4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.ji99Hq4jwNfQONf7-hMsl6XwQYD-oh_kqTvG2yPPteysJ3vKqsrO0ORdAWuj3vG0W0kEhHwCgIfPgjTqNOnM0g==/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
 Logo: https://picserve.netplus.ch/channels/canalalphane.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1662. CANALNEWS [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDQ4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9pdGVsZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiYjViYWNmMzJlNWU4NWE3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.N6NVqG1U5ms_I5jrC4GDmNxKnmrIswAu27NLHSh4-Vk7TTxSjD0-cgzYlILosekJjYCyqS28pM_m9yeqrOv8cA==/live/eds/itele/browser-HLS8/itele.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjQyIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2l0ZWxlL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZmZDU0Yzk4ZTI3NmM4OTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.E5IADQSn-e6MU_85MdJNT6zFoYW_nadM0W6oT1WfXqCShojeMpD8wqXluHREs1bEWgNclTKkLHbS-n6z7WwrSA==/live/eds/itele/browser-HLS8/itele.m3u8
 Logo: https://picserve.netplus.ch/channels/itele.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1663. CARAC 1 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDIyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yb3VnZXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjUzMDE4YTA1ODBmOGZkYWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.xcrD2w-4eDJ6_-biqtR4Fdp69qIVfjhZ3SgaO9vZxvv5EdxIrAs1JnLOqIMLyo3nXKmS30HaKNjhkYTk7ujTjA==/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MTg1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3JvdWdldHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOTRmMzdhMWYwYjZlNzlmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.pmUVjG1Yz5zxLv1uOSd94XmsfaGjz51_UGgiopw2R59Hi860K6sJH0USTE7Stvmtf1K6KeR4LRWYS61eioq4rQ==/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 Logo: https://picserve.netplus.ch/channels/rougetv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1664. CARAC 2 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDQ2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9vbmV0di9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwYmE1YmRmNGYxNGVkNTA2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.aJnuyYjWEfD6D0NFKffiVzM47nh5aUTZ5cDHbY_dr5_qR4uh_gTRW6_D5NVD3a9eP2HIWLW4Qq89_3rotHgUCg==/live/eds/onetv/browser-HLS8/onetv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MTg3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL29uZXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVhNzc3MThhMjAwOTc5OTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.FhXP5Qi8-Qkx4m0_Lj7kcfsk-c9eDDaFHYgpuMjqkCFJvImjKzmhXjISybZEjc01iii-2PyKeFOYj6j32IpJ3A==/live/eds/onetv/browser-HLS8/onetv.m3u8
 Logo: https://picserve.netplus.ch/channels/onetv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1665. CARAC 3 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTA5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sZm10di9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMmUyY2MyN2IzNTY2NTkzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.5573OVzz9qKGu6_NkpxEtvS4ALueHXQeAl_rHxen8LCkMdYG2B1fSsX613JylvEsVVE51TKDtUCni_IpF2G5hA==/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzE3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY5NTJlYjZkODYzMmViNmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.7pxuf8jwkpMhA7ackSdzphX3gb1l8NFBBpsXm1plSk8CO5ds5LP_6S_Hpqat8fedkwpG6Ht6TI9MNLCtm_c-XA==/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
 Logo: https://picserve.netplus.ch/channels/lfmtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1666. CARAC 4 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDcxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dnN1aXNzZXBsdXMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNzllNTQwMmM2ZGM2NGY3ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.tOHpvZrV1Xpue99QZ1hNR_z-zSYE2Tgm4-9o4_5t85aljFtFkXo2xCgQD_Buj-mVx7eRx9253PdwjFapg4Lmqg==/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjAxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3R2c3Vpc3NlcGx1cy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIzNTJlMWY2MmViYmM0OTExIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.WjNxiHyXrCw53iGc46rAs5JPFwc1uQIltFNz6lC-Nd52HCPFrSAAJFfre8EOHfni0fRszSXgqVI6obe6HMTjrg==/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
 Logo: https://picserve.netplus.ch/channels/tvsuisseplus.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1667. CARAC 5 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDUxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZWxlc3dpenovYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGEzN2RkNzI2OGI2YzI3YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.5TxqJjP45RRzy7dMHejEMmiAcxA4TlLnI189dIy2OljgPDTT7hNOd_UlBu5VsGkN5P405QmXdjLyHhkmKStKAA==/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjUwIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3RlbGVzd2l6ei9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI5YTJkMTdiM2RjZDMwZjVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.oGlFxPTIOVSrZu8hUMXlV5iuWrKHGm31IIP-_1eNwCs_pwbB1uwSQiTiZYj4zcbQAK-84bC1fDDb_WO9KY2k8A==/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 Logo: https://picserve.netplus.ch/channels/teleswizz.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1668. CHERIE 25 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDkwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jaGVyaWUyNS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxOGJmYjNjZWRmYTAwODJjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.yfvz4THOBalGBfboKtgrZ5Lh55LFao-KYqw_BJ-KMJ-uRqYFGcv9j3GAfyDWpUTxKuIsiYfA8y6TupCPHzVFzQ==/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MTk3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2NoZXJpZTI1L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmYzg4YzY2MzM2ZWUzNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.EJLorgnMIY39lsHaT9z_bvnt9cjtxEJUpEZs4NRCmTLQQ8x8KaORphD3sXEU6gadrysWTHoacBtdvV47Z0OTIw==/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 Logo: https://picserve.netplus.ch/channels/cherie25.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1669. CSTAR [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9kMTcvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYjZhZDg2YjJhMzY5MjZiZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.Lz5Bnwl9LdYjB_05OpO4VQiXaO9Ikqkdg0SqprRDymXY-0U09qih13weWq4XMzS0b8SxptI1ud9zkYr7R7AvCA==/live/eds/d17/browser-HLS8/d17.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjIzIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2QxNy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlNDJjNmEyZWY1ZjQzMjlmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.uJgB7E5tZRwb1Vo9goeRetyTUpu8pTvVl-0FZBFVfTDhkwjEM9XaIyeXlRApgQPO1Y55Y7_aP_iH1ZRamxrZtQ==/live/eds/d17/browser-HLS8/d17.m3u8
 Logo: https://picserve.netplus.ch/channels/d17.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1670. EURONEWS [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDE4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ldXJvbmV3cy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZDFkYjZmNTJkNmMzMzM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.JnLYtxRyHka1R9pNPG8FUFzETNzWV01XRzE1hZ0LISrGm7Cy6v45o8KsAS2c4wJZxTMzmfoSTquxESZQk36EoA==/live/eds/euronews/browser-HLS8/euronews.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzEzIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2V1cm9uZXdzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkN2Q3MmE5Y2EzZGZjMDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.WNQTBhMFtnJabQlZ3sgO4K2lTxIAwvIIuInWens8_1JkfUfKgzxu6SHRwP5SB5FpX6TJQKGq8m4SL1HjOrkr0A==/live/eds/euronews/browser-HLS8/euronews.m3u8
 Logo: https://picserve.netplus.ch/channels/euronews.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1671. FRANCE 24 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDE2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwOWQ0OTg1OThkZjRkYmRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.RerULEZAZnVdoqoKRoV6qoMX6Kk0Nkx1qB6-0DDHmQy5Gx0b31jw3ydfLDkZN19MmlNbxQPJkyWGqtE4Ghxo8Q==/live/eds/france24/browser-HLS8/france24.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzIzIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTI0L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMwZmFhNDE5YjBlMmQ1NmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.5jKCv6gZDtrjENpY68ksRWpycuXRB5Y126UJapPLgRmZ4AIPgvhYCW5H4PijjAec5gW5IB1Az7RQIbTVj1KL-Q==/live/eds/france24/browser-HLS8/france24.m3u8
 Logo: https://picserve.netplus.ch/channels/france24.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1672. FRANCE 2 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDQzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGRlYjdjNTU4ZGJkMzg1MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.Su59D-ROmI_VGHfjQW1AjBCEUKNHvN3Ho2J-QDR8xU07tU1shp6BWNr62yVPYiY6NQWUyeb3JfCekKfcnTY97w==/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjI1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwMzVjY2U4MzRjMjRhMDhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.1Axzkjn5lzqbbk8vKYq2ELtkCdJD9eLZm-ammzHR2opZ5zjlTXR9PDVGQj5usz3OIPVdyDiklHd7ojNc5nEbqQ==/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france2hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1673. FRANCE 3 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTgwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UzaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMjdkMzI1NmExNTI0MTc2NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.9OGtSJE0s06229k05yTcKjG2mj4nnoOdlWkfNWll0Ca3WqOHGJYYsIO8pM7CpWRexTVUHQdEfNEX9BmnD5dE0A==/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjkyIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTNoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmYTE5OTAzYzQyZWE0NjhkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.WyTzOibbSKxA9oEV_BnUfJ-dr2vynVvPE2SG75UTe9-0_yl5Zqo9O0OYxyBE6GmZ5XiuJEADNipTLUSd64PoDw==/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france3hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1674. FRANCE 4 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDkzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2U0aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYTE3NzEzMTU2NGJkZWU4MCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.UkQZnsAM6iyy_UHjlVG7pT5CcdkVOqKXlt4ABZ_YJHgdVSCIzkQv46fqLsFexdQE-BPmS81V4YxoAdfMhUc7yA==/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1Mjk3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTRoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDE5MjdhNjEyMWE5ZDQ0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.CXyrDp6mvYoZ8nB_dnFw9tLjCxObHl9b97ZNHQhrjsV0XGTmrEjG09sfQpPsrgZfQ-249YCIg3B7JQTeU4dH0Q==/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france4hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1675. FRANCE 5 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDMxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2U1aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMmU5NjQ5NmZkMDgzNGE2NyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.Iopt-7z7oBByxcrPLM_DsiT9rW9hR3DBWWH6TKXtHVSfA02N9dfXz8OusL2Tzh30EEPmmxi-b_HGdCcGk1LPnw==/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjMxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkMDJkNzUzNzY3NGZiYThmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.xAWY6Niu7ScVvvk8P18CRUU4m_rtuyHvekFT0B6KGbVsYrmflTI0KbbsvDM-EYVQdXBFwKxlpjVD1DmcP0JW3Q==/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france5hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1676. FRANCE INFO [FR]
-URL: https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTEzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2VpbmZvL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImFkMWM5MTE4ZDJkYzNjYWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIzOCIsInNvdXJjZXMiOls0OF19.SEPbC_F5VaIJbhHubmg9i4SAyGmgWne4acXhEp7xWrbaMhU4O4Aj0QUz7t1wKPeasKnLffACpNfq6YC8dBiiNw==/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjgxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZWluZm8vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMjEwNWQ2MDY5NzBlMDgzMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.Dkp3jZhxXWXZBb-C1gRGYWST5P3kjby04Pwhmj0NaSegRyfV1EvTWsQizWeD51a0ahw6_DHr5s5YAgxX7EO7Kw==/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 Logo: https://picserve.netplus.ch/channels/franceinfo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1677. GULLI [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDQxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ndWxsaS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI3NzVjZjUxNzM1NDNkZDE2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.5RSEUIUOQvJb62OEJzhrQO-eBCYvEH73EY3QlPzO_yCIhChmL6Q5TvAy0SmUP3rZdVESNfm7J2MQkmD6WIDp_A==/live/eds/gulli/browser-HLS8/gulli.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzAyIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2d1bGxpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI0MTU1ODBlMGFjMGRiMjgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.tCElNJkKlYuhDEzzDkaCmy9VIpO_3r-Mny2mjAhvVebsvsOylJFpcBo2bNww3YuOnojS4_rurwXgUCwclBg1Eg==/live/eds/gulli/browser-HLS8/gulli.m3u8
 Logo: https://picserve.netplus.ch/channels/gulli.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1678. KTO [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDc3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9rdG8vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNGViOTE4MjY1OWVmZjc4MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.HQ_bJaJAbDbRcgGyB4jXrTV_3jqaGNgiqXO_wMC88ur_wUqfwKjgqJbSuvJ0t_kWvoQER6iL-6lxk6br1xP-Pg==/live/eds/kto/browser-HLS8/kto.m3u8
+URL: https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjY5Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2t0by9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwOTY2N2U0MTBmYzVmNTU0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbMTAwXX0=.borOanS8l05-Gp02VeLlIvBa-D6iQJUwYWKzspYi4S77s0WTr3aacR6eR-ZqHe7jMYfG4wsZjYk4T9dzwusicw==/live/eds/kto/browser-HLS8/kto.m3u8
 Logo: https://picserve.netplus.ch/channels/kto.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1679. LA TELE [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTk4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sYXRlbGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZjU0NDBhNTM4Zjg5NjRjMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.9qCA0uIjHd8eHozkcUOQRhrEKcv1LkLoXbOPduCPQ_XXJaA6b_v_fzrYIu5z2BWfj5JXjSYoQvwG6C1Tt85slw==/live/eds/latele/browser-HLS8/latele.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjU4Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xhdGVsZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZWM2NTY1MTc3NDAwMjNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.dPMCjdphfDPXXkv8mzRBvpAl4bf9mdApWXbLJRg5nkR4Zf90c2UAdQgcmPiVV-jJE2l2W4b0Zho1BpNGCPkZPA==/live/eds/latele/browser-HLS8/latele.m3u8
 Logo: https://picserve.netplus.ch/channels/latele.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1680. LCI [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTIxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sY2kvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNGE0MTFlY2FmZjcxZmRmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.Zrny6a8t5A4NWt9ZsynVgEgxdDBw-Q3UR0oPY0ekOEngKtdll6NTt06wqTh1auazgMKHvRYUyxZ44l9e9jpZvg==/live/eds/lci/browser-HLS8/lci.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1Mjc0Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xjaS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxZWM4ZTVjYzA2NjViMGQ4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.WlmpxfkLhpAR1R7btNUP90aTynXUgVgC028r2RHiZ574g-xyVgDqjhb77aXui-35KA0a7OYdQIUIfWgPDA7MfQ==/live/eds/lci/browser-HLS8/lci.m3u8
 Logo: https://picserve.netplus.ch/channels/lci.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1681. LCP [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sY3AvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOTExOWFhNzAwNDVkZjU1YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.dmnNDG8jIDPoAcWCLq1oES_HQq6h2BQomkFdCI7aWCvkh-4SPsvuQClX2wBBYKZJFajQ15VJ0LktNWaINyeZpQ==/live/eds/lcp/browser-HLS8/lcp.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjU0Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xjcC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkMTdiYzI0NDM1Yzc4MjNmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.W75oPNSqzV_T9POsAd5HLkMAPQvw4qs_FEVXsA3HAhMrS6Axlh84WEayzYUJVFvQh7zvqsxe-bmZwvqNE4C4kQ==/live/eds/lcp/browser-HLS8/lcp.m3u8
 Logo: https://picserve.netplus.ch/channels/lcp.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1682. LEMAN BLEU [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDU2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sZW1hbmJsZXUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNGVhZDIzZTRhMDY0YjM3YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.zTCeb5BV3bkjF9XrjiIcCVFykQhBj4EtdvjvGqTmI0pqS05rtxQxLEDMinMLKLRuBeTQVI4if5Y4j73yH_B1fw==/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MTkzIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xlbWFuYmxldS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0OWFmOGM2ZmI1MDgxNThjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.nRLqPE_ho47vxSDsqs-HZfOM3VOlHehs1scuU6hA9eZA8btexP2WrWEEiP8ASlLVHVfvaRUNB6_MaZ9Lznr2dw==/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 Logo: https://picserve.netplus.ch/channels/lemanbleu.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1683. L EQUIPE [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDc0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sZXF1aXBlMjEvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGUyY2YxZWQ4YTk0YTUyNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.V-0xGjHmoFqb3Djt0urHtTzDaH2L4wIsGVZn3f5kbtYtKhSBR_N86IEHLoHG2HXVKmZfIGzpy4owaf02ima9Rw==/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+URL: https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjY1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2xlcXVpcGUyMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIyY2Y0M2Q2YWE4NTQ2ZTM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbMTAwXX0=.wru-_yf4xcEQCNvXXD6eC7hN8tcpfDkdWcBrQtGSQMV1VYv14BehBDgfQlxXbe3PhPetmveQ3jV_Lra-ZVMLJw==/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 Logo: https://picserve.netplus.ch/channels/lequipe21.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1684. M6 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTAxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tNmhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI5ZDQ0M2Q4Njc5NDAyMjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.6R028doHH01BViAiHnKbZAIVcXSZGZX_RTE274KUWmKDyotYjEhvDJGisAczuCbNGJBoatOovWY-4Hs34lzEJw==/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjkwIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL202aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZmJmY2YwY2JhZmY5MzRmMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.azfgagBMuMNfqdHmXqjmJ8YUPim3LQIlWLwl_icCwJu65TiRvZqrqoLCbdGqVcuMK4R2onWSTQ43XANXBzE-Bg==/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 Logo: https://picserve.netplus.ch/channels/m6hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1685. MAX TV [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDM5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tYXh0di9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkYjE1MWZjZjFjOTcyNDBlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.-ABHQ5ETXmWEukltf5OKn8EIhKHxGVFSTdKx-qMX_z6U3R9tnszvgTe4sFfMduejuU5X7ahnDBTslgErHBmsQg==/live/eds/maxtv/browser-HLS8/maxtv.m3u8
+URL: https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzAxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL21heHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRjNWQ3ZTZjNmFiZDJhMGEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIzOCIsInNvdXJjZXMiOls0OF19.OJVQNkVEz6NoE2GlCDzvA-j_R8zGwtEXPAwQnnX309WyQwP3CkZoHdI4HtSbifx-GXEnC1CxIz3QJ6OWZJO-1w==/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 Logo: https://picserve.netplus.ch/channels/maxtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1686. NOVO 19 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTg0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ub3ZvMTkvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOTc4MDBmY2FkYWZjZjhhMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.AsA61yyn8_I2KJ4k3bZU8tg6HrG0B6VCa9_1dyEVVNm_RCJ3vBxSFVmwtljock4hcvUz2OPfrfo1nI9nFibx3Q==/live/eds/novo19/browser-HLS8/novo19.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzE5Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL25vdm8xOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwZWU1ZjBjZjU4MThlYmEwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.E6vEP6Vi2RztjZaKh5w8esVj3rWCxJk5rY_YpcFn7aTMvG7UAnhiw6SuF3ySAOiNqBiruChGElNj-Nf1fEU7XQ==/live/eds/novo19/browser-HLS8/novo19.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1687. NRTV [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDg0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ucnR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZmYzE0NTg0ZDY0MmY5MWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.rzuyjXD4mxcOVQkbSo1SFfi2C8925qTG6C1H2sE8LPCxUeIfBfWRYlc2MmIPNmp0cxa34zf_8g7bJJt-lLCd8Q==/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzA0Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL25ydHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZmRhNTU1NDM1ZDc4MzYxNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.y5KZeJMbD3SurajSs2GM9wjXtZQgQtKo0iUZOzo5hzU7nE0DR60AZeArk51Nqqze75FQ0-4136DtXqMikIHl5g==/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 Logo: https://picserve.netplus.ch/channels/nrtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1688. RMC DECOUVERTE [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDA1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ybWNkZWNvdXZlcnRlL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJhMDdjYjZhZmYxY2VjZmYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.ZpJNkdrRPfZyqLNRNcJRJ8QiEosLljPkIGdgLhiJI2_CFxPto4xjZC4GqBb9fQ62bAEmaD7-akAGeIyDhCAIzw==/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjcxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3JtY2RlY291dmVydGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZmJmY2YwY2JhZmY5MzRmMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.h4_6UM98oD-Zkh7ZgN8ISH85PDfAigmOfiUVmyDBSOFIzbSUllPnpLGaTbIg7LJKSuhh3S_0xe9DGTd-PoEdWA==/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
 Logo: https://picserve.netplus.ch/channels/rmcdecouverte.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1689. RMC STORY [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTA0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9udW1lcm8yMy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjRiYzcxZmY3MGIzYjRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.vtvJC19bB5CMDQjTO6Tyj0h2s4goFLBqBz2yyeQozvE6Geq8CVxwTVH2Tf7P8wBlqQosO7ZZIiJBFKWbr6R1xw==/live/eds/numero23/browser-HLS8/numero23.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjA4Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL251bWVybzIzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzN2NjZDYwZjJlNjdmYTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19._Rsogfh-YInDLepPAiOft4j9Qib2JEZwTQ-wTfbusv9Wi0786NqtgLXvk19VsdSerkSMSyKdxH4dWLL-VzEkTg==/live/eds/numero23/browser-HLS8/numero23.m3u8
 Logo: https://picserve.netplus.ch/channels/numero23.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1690. RTS 1 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDYzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHMxaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGMyODdlYjUwNWNiMGRhNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.G8BVHYAX5RNpq7OAdY2Uv8MRwAe8xqiA6IABETeVVJWtm_LJiwrs0q5VaLf92oZY2_Z0KJtrLbqhSgzfHfYuWA==/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjQ1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZWM2NTY1MTc3NDAwMjNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.Sp2rFIyqo9VV-9lwwVy96IA9e0ey4UVU5VJIZ2DNQtWKdhXOwqrhx60pReCpa_TAH8w8oywBiqvD3an-1iZaKg==/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 Logo: https://picserve.netplus.ch/channels/rts1hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1691. RTS 2 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDY5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHMyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNzM2ZmRkM2MwNmQ5ODQzYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.rl8X5D0a19p5EppmiJPZsQnsjOUHKpJlghZ7hUSqcLtUNG13a5hE0VKRXtCEMzXJN7q2-hZIoGHGGfWn-cUQ7A==/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjYxIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmOWZmODE1MmVmOTEyZDZjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.cxOaTR0z0eliGhVxM1EoUnh4-QfNegFAlJ45Ccu9_KT3SRmoSuidxct5YcJYI9vhSBp6mXwfWtXewyFQ02OzLg==/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 Logo: https://picserve.netplus.ch/channels/rts2hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1692. T18 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkxOTg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90MTgvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMzg5NWNmMDE5ODUwN2Q3YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.borE_XZACJjedcCv-kAZjWcz_-UFHbO2fgk1h4hFQQw8LUTBeC4Zd0i1qU8dG8YLDfgk1yZHWzCho8jcy0qjvQ==/live/eds/t18/browser-HLS8/t18.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjQ3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3QxOC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIzY2Y5MzM4ZmQxZWM4ZDdkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.EAJls4_bwrYwt5lTylkaE8BPs05sD5cruHtj_Qmz-IuhWdRD1-XKmnJgtzkUuzZRDqRo0gO8tids0LojNSxw2w==/live/eds/t18/browser-HLS8/t18.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1693. TF1 HD [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDgwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZjFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxZWFiNzRkYWVjNDhmN2NkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.zwbSPJBJP_6aVmL_qo0W6cJLZLgKAzLynzGlQdZZ3-oDb5vuhs4NFd7rEHbwTQgg-G8Gqg2X91XIMcCfhMpSLA==/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1Mjc4Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3RmMWhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjczZjc5NWM1NWFkNjZjOTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.xX8-o4Iznp8PpJPmewdA_aurmpcTdpmJsJd-I--7p6PMUAnF2qOVMNG-el9Zt1Kc8myzmTVn1hIRmPlu2H-Pqw==/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 Logo: https://picserve.netplus.ch/channels/tf1hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1694. TF1 SERIES [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTA2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9oZDEvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNmU5MTRlNWZhMmZiMDM5OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.ew-4tzqDAgwBNl9aPEOMQaa14FVzXOSNi_5B-S67oFhMHHvb_QmjHAkHovr5uVntVSchtSipkQufYpIZ1FpReQ==/live/eds/hd1/browser-HLS8/hd1.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjEwIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL2hkMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMTAyZTJiOWI4YjEwYWU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.3hRFgj4-W78P60dr6VPjdkeZxIFv7uTpUmir80tS9IxQo-kxMntpifjdn8Fmh0vbSRynIacyNSsO9qlB6_IEOg==/live/eds/hd1/browser-HLS8/hd1.m3u8
 Logo: https://picserve.netplus.ch/channels/hd1.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1695. TFX [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTI2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9udDEvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzcwOTBlNDJhOGRiMzcxNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.JuarzTtu5ULlyOswcFNWnyTzDC-RWA9Fst2owj0w-sQr-mDX2UOQagu1GLgd3XLOlmlqWe3r1TFQSBQZWhoS6Q==/live/eds/nt1/browser-HLS8/nt1.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjM5Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL250MS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkODg5YWY1NGQyODY3NTMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.bIxkI-KfRQBw0rnNKgKUWyjLz4fe_4FmHQm9OJ4_1aOfyx9V3chovVxcRrh8QeDh0OxWpFGQ00I3k7C3hfazJg==/live/eds/nt1/browser-HLS8/nt1.m3u8
 Logo: https://picserve.netplus.ch/channels/nt1.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1696. TMC [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDY2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90bWMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODhmZTE1NTFiODQ5MzYzMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.KgQQHP0EjWhir_ks7yrJmzC64unEOK_os3cX-Vc2JEix1d32JI4rw5SkpQqNveQRjPLZvnVrNVwsRUg9wu1MzA==/live/eds/tmc/browser-HLS8/tmc.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjEyIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3RtYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlMzI1ZDI1MzMxZGI4MWVkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.Fbw7nh6N7qHauLhaF6i_0PC2HQfPFZuSa-Ufe6wKnYCnn8zfYsNL4aFU9S-mxULxhmd459JlifI9Nxfm11T99w==/live/eds/tmc/browser-HLS8/tmc.m3u8
 Logo: https://picserve.netplus.ch/channels/tmc.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1697. TV5 MONDE FBS [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDAxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90djVtb25kZWZicy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIzNTQ4MWY4ZjNhYWNkOWE4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.EzSC_H3OuA4VmCSpANxIpvc2h1qPkkfTBaoHbpLSxVrPbiHyG4iAQwHcc3F4IzOAEFfDanDXXu7iWTxgr8PkxQ==/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjgzIiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3R2NW1vbmRlZmJzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQxYzk0YzAzOWE5NTdmY2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.BVppnIZsSdqPyy5AuylfAPteE5ADHuEgajBjatuOZ1RmlKR9NjhAZGDb_1lPyk-LWjop0FxpHbBz7cyzSXHWhw==/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 Logo: https://picserve.netplus.ch/channels/tv5mondefbs.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1698. TV8 MONT BLANC [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDM1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90djhtb250YmxhbmMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMGU5NzEzY2IxZDQzODJkYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.cQnXi5hslyRJDmtmy6PeDX2s6Pxm8mXNle930ECki0OQdQOtDBXALA4HGX_ZEja7eCyxUDKMlMqmNDi6TbH61Q==/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjU2Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3R2OG1vbnRibGFuYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI2NjE5YmQxM2Y0MjNmYWE5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.7J7BrPoYTTWMEO7iz25_E4ST00oBVAyl1NqIFyu008Yl39LUaUwvYNa033q8BwwKfgPKsP2giok-zVUONqCp9g==/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 Logo: https://picserve.netplus.ch/channels/tv8montblanc.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1699. TVM3 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMTIzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjUyZTU4NzYxMzhiNjUzZjEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.Y8fULDEHAPx_0H6srdO4JTAEYv-CnEryBG3_m1rijrw-yx_PgxWMA4paMb6zC-z6tHZVEhIm8CwUXdT0rqjN3w==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjA1Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3R2bTMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzI5NTgyYzZjNGNmNDA5MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.eH2fqWIQEDzdpPFr3VPEgIikTSOwA3OmpW3VzFL0iIufW30J0S1b6-YH66_gHlU96O5-g-vBN78XI7imHW_GYA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 Logo: https://picserve.netplus.ch/channels/tvm3.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1700. VAL TV [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDU0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy92YWx0di9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxNzc3MjgwOWJhMzk1Yzg5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.07DXX4VBGYGxjaurCeMkI9NKc2IDvtCZrR006G8ndmFiUtmQjJkF62BO-1miCBly05I_HGx1qs0qVfxrf8rpEg==/live/eds/valtv/browser-HLS8/valtv.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MjI3Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3ZhbHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQyNWU3NDkzNTRmN2VlNTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.upBqlrhJMJAEfm6fY8-ybkJlPxA1tyCSnQ-veYqXIaWUjWTcPQUMhpwgXl-YTf6dmsiLwMAaSBAQKmqEgmbGkg==/live/eds/valtv/browser-HLS8/valtv.m3u8
 Logo: https://picserve.netplus.ch/channels/valtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1701. W9 [FR]
-URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NTkyMDI3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy93OS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1MmQ3NjY0NjFjMjRmZDkyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.n-nOda0JZkMVHZsFWXtqRUCr1IDT4NzXS_sMzOfEMvWtuk_ZIBwRAkK6Cbqiif_vzuTHNIaFoBC0N0bq8Uh_Lg==/live/eds/w9/browser-HLS8/w9.m3u8
+URL: https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjM1MzA2Iiwic2lwIjoiMTg1LjE1OS4xNTcuNzUiLCJwYXRoIjoiL2xpdmUvZWRzL3c5L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMwNDUxOGQ0YjIyNGM1MTkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.7fAmEWmXK3sBDjGgAGyB0qfuWDjIcS1uAcdAnopaxSC5YEtX5hm6YjyqmqN04VJl3Hqzm132n6Fn5JqSJ02SGw==/live/eds/w9/browser-HLS8/w9.m3u8
 Logo: https://picserve.netplus.ch/channels/w9.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
