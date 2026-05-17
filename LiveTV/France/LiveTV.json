@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-16 22:19:25",
+  "date": "2026-05-17 07:55:21",
   "channels": {
     "Entertainment": [
       {
@@ -1155,10 +1155,10 @@
     "Culture;General": [
       {
         "name": "zenith (1080p)",
-        "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
+        "logo": "https://znth.tv/images/logo.png",
         "group": "Culture;General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
+        "url": "https://live.azenagroup.com/zenith/index.ll.m3u8"
       }
     ],
     "FRANCE": [
@@ -1167,7 +1167,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/a6cAWZdscdsPNz7q.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/gdNUGpDlXBoDZMz.m3u8"
       },
       {
         "name": "2. France 2 [1080p-france.tv]",
@@ -1230,7 +1230,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/kgNyp1YcMSwFqhL.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/tRFy3AwkG4etq9F.m3u8"
       },
       {
         "name": "47. Arte [1080p-france.tv]",
@@ -1265,14 +1265,14 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/43LeZE1yHwq9Qli9.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/2rrfLOyLl0dYTr.m3u8"
       },
       {
         "name": "11. TFX [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/kHCEuizKFCtdbZd0.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/1LlwSsZVnoFERS2.m3u8"
       },
       {
         "name": "13. BFM TV [1080p-rmcbfmplay.com]",
@@ -1300,7 +1300,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/d6M80xjVpH9X2y.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/sq9IlfuTeEMnG9E.m3u8"
       },
       {
         "name": "16. France Info [1080p-france.tv]",
@@ -1321,7 +1321,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/ZvsReBxe0cig6VEg.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/7JSrElmIAhwCD95g.m3u8"
       },
       {
         "name": "21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]",
@@ -1335,7 +1335,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/RpLASQMFAfdvqzrf.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/ejkZq9zXF6bKKRa.m3u8"
       },
       {
         "name": "23. RMC STORY [1080p-rmcbfmplay.com]",
@@ -1370,7 +1370,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/gXPBIK188RZy/jbf7B4nhbKdgb6uq.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ldIsJPh6FcO/z1CnCKhgchSukp.m3u8"
       },
       {
         "name": "40. CANAL+ EN CLAIR [1080p-canalplus.com]",
@@ -1416,28 +1416,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=KgsiqIfr8-dTc8Q5GbTNy10OxRCUmF08SnegsfAnVu8JyllSM2Bw7J8E0ESvpjrZVPJjEe9kgZywvVhD-Awa9GAuyK4CYJhMdiUkx9mpyqc"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=H8HTYnebR7XlsYALNVY8KQXS7P_8xFo9vHr6zjlrqkUq845g5VZanEF9ZqRnt7uQVsHVBKPvTct6cNUllktBLhbbId8RZvoa0bfq8665sb0"
       },
       {
         "name": "79. Tennis Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=3k5GpMeOFTZHqt0bJ7IsDpiE3VIsrgSok_rHMrkxoeWA97EPAXrnQZVlvvNAoG4JsqGmruM7RGOjvdzA67M1GnzG9VheocW7R1tK7ACEPk4"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=AW78vHX4Dt1V1TUHCwrCVTaAfc1kTr9p-RQjYQgM2tmqqHffl5_IwI2LniuYiiLGCL2sPbEZR3wn0hseQI2syY61JLQ_dtWzr_pZh8JHL6E"
       },
       {
         "name": "80. My new video title",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=I4TR7gnj947_UmTcOUaND-OP8ReV3OiaUV8iQSfipmFgXpiQUBg-AcEjCdBF_-jOJtKYR_WVpr78NOftEXNNuLkThc1Vs4HiYVf_vzcFHKQ"
-      },
-      {
-        "name": "82. L'Équipe live  4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "LEQUIPE.FR",
-        "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=CrC2ZJcI0hCgA7c6iwHxSgQlXgz4p23VOFpG83XrISJ79wMkjtvDWnLIw_TBvmwdGnM5F_CRZ178CLlk-3mDpr8MdYPtwmNBbi2poGTMC-U"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=OCVMgPPP8c3TxZCqDIjGRQgX1B1yE-LIkyc6QJe-3YUHpqXM2hLAqo9rD49jly5Nsa7sI5j2zEDMJDH6rmIkNhzybrcOiMUrozlV-xgErlM"
       }
     ],
     "FRANCE.TV": [
@@ -1498,189 +1491,182 @@
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8"
       },
       {
-        "name": "125. TV DU FESTIVAL [1080p-france.tv]",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "FRANCE.TV",
-        "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv-du-festival.m3u8"
-      },
-      {
-        "name": "126. FRANCE 3 ALPES [1080p-france.tv]",
+        "name": "125. FRANCE 3 ALPES [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8"
       },
       {
-        "name": "127. FRANCE 3 ALSACE [1080p-france.tv]",
+        "name": "126. FRANCE 3 ALSACE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8"
       },
       {
-        "name": "128. FRANCE 3 AQUITAINE [1080p-france.tv]",
+        "name": "127. FRANCE 3 AQUITAINE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8"
       },
       {
-        "name": "129. FRANCE 3 AUVERGNE [1080p-france.tv]",
+        "name": "128. FRANCE 3 AUVERGNE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8"
       },
       {
-        "name": "130. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]",
+        "name": "129. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8"
       },
       {
-        "name": "131. FRANCE 3 BOURGOGNE [1080p-france.tv]",
+        "name": "130. FRANCE 3 BOURGOGNE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8"
       },
       {
-        "name": "132. FRANCE 3 BRETAGNE [1080p-france.tv]",
+        "name": "131. FRANCE 3 BRETAGNE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8"
       },
       {
-        "name": "133. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]",
+        "name": "132. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8"
       },
       {
-        "name": "134. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]",
+        "name": "133. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8"
       },
       {
-        "name": "135. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]",
+        "name": "134. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8"
       },
       {
-        "name": "136. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]",
+        "name": "135. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8"
       },
       {
-        "name": "137. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]",
+        "name": "136. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8"
       },
       {
-        "name": "138. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]",
+        "name": "137. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8"
       },
       {
-        "name": "139. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]",
+        "name": "138. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8"
       },
       {
-        "name": "140. FRANCE 3 LIMOUSIN [1080p-france.tv]",
+        "name": "139. FRANCE 3 LIMOUSIN [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8"
       },
       {
-        "name": "141. FRANCE 3 LORRAINE [1080p-france.tv]",
+        "name": "140. FRANCE 3 LORRAINE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8"
       },
       {
-        "name": "142. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]",
+        "name": "141. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8"
       },
       {
-        "name": "143. NOA [1080p-france.tv]",
+        "name": "142. NOA [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8"
       },
       {
-        "name": "144. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]",
+        "name": "143. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8"
       },
       {
-        "name": "145. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]",
+        "name": "144. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8"
       },
       {
-        "name": "146. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]",
+        "name": "145. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8"
       },
       {
-        "name": "147. FRANCE 3 PICARDIE [1080p-france.tv]",
+        "name": "146. FRANCE 3 PICARDIE [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8"
       },
       {
-        "name": "148. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]",
+        "name": "147. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8"
       },
       {
-        "name": "149. FRANCE 3 PROVENCE ALPES [1080p-france.tv]",
+        "name": "148. FRANCE 3 PROVENCE ALPES [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8"
       },
       {
-        "name": "150. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]",
+        "name": "149. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]",
         "logo": "https://i.imgur.com/SdwDJct.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8"
       },
       {
-        "name": "151. OUTRE-MER EN CONTINU [1080p-france.tv]",
+        "name": "150. OUTRE-MER EN CONTINU [1080p-france.tv]",
         "logo": "https://i.imgur.com/M4mQ8iG.png",
         "group": "FRANCE.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
@@ -3609,336 +3595,336 @@
         "logo": "https://picserve.netplus.ch/channels/6ter.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzg0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzLzZ0ZXIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMzMzYjNlMzU4NWY3YjdmMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.tfAVe3zNAhg2UOyx92YifJBzBtFjQCQNJ5NwzQuEnUFfL5oHG87cD6yRxqSaB1i2KwgPHDMzbadv2L2UjLhuRA==/live/eds/6ter/browser-HLS8/6ter.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzYxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzLzZ0ZXIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNjM5Y2RjZjk1NjY3NGY2MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.Eia97ZI3u5-3tfCHCIh7HQi_9qXe_n80pMrsdywKSQGQ_gbUEfwqxwWHAvrs2w2h2cZcgjFTFbAht18YazWv7A==/live/eds/6ter/browser-HLS8/6ter.m3u8"
       },
       {
         "name": "1655. ARTE HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/artehd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODI5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2FydGVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIyMjY1MWUxMjJlMDljOTBkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.xokrpHhTfW1Cnt9Hr_tB49n1xsDkZcxCe9EfUcgiDSklXvnmrArPaGfq1g8dcKjGnoTSTUj3Onpdnws1jqB_Fw==/live/eds/artehd/browser-HLS8/artehd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODQ2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2FydGVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIyNmI5NTZlZWNkNTNjZDViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.eM7O_rES6LtwCvEPwWVD7XIM8TYqY0CXJYeCgPaQ7XCTQ8U2NA7XW28O0rJ832nuscu9QoYva_hUzO6e-_Hmjw==/live/eds/artehd/browser-HLS8/artehd.m3u8"
       },
       {
         "name": "1656. BFM BUSINESS [FR]",
         "logo": "https://picserve.netplus.ch/channels/bfmbusiness.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzg3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JmbWJ1c2luZXNzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImY3OWEyZGEzYTNkOGExZjkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.zs3mkRIi81dRx23mImGlEQnHeMk_ZxJbkSs2l0_UHDvxMfZcYrKXJYyuLoY1VkZBjBNZEoo5Ls-wF1u8OsKDhA==/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODgzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JmbWJ1c2luZXNzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdhYzI0ZTQ2NDAwNmQ3NDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.Cfo_OORJ8Q9S4XTIKTj7OsQxJOcLGBBj7b6d_8hhxzvJe1XWnodTKjvPHpcO_JwZAB9AszfClNixkhwD_HL-WA==/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8"
       },
       {
         "name": "1657. BFM TV [FR]",
         "logo": "https://picserve.netplus.ch/channels/bfmtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODc3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJiYzA4YTg0YjMwYmZjMWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.sfERRIPXNhVjCaSO4nduVweSH0K7N8RAlbmF67dlBuu5e83nBJGm_xWONPspEgsmMYPq2xNHZ0A0RFBkFPGhUA==/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODk1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlYTQ3YWMwNWY2NmI3ZWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.4rXYTUbpe79m6xVvFkeKWetGgL3Uty2O5IdM48qF55NnaKYrd8OGiCP9pZy4yB3OWMaY15nA8ZaxYZVOcZ2yeg==/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8"
       },
       {
         "name": "1658. BLUE ZOOM FR [FR]",
         "logo": "https://picserve.netplus.ch/channels/bluezoomfr.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzU2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JsdWV6b29tZnIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYTRjYTliNzhiNDkxNmY1NyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.vBahxja6No0kDKeneEnj_0dWnr0k6zA1D9KIMlFP0rD2dpPwKxQBvtvnnGpurL3c8ADHLpAsP4M3XoWlfMR8kg==/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzc3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2JsdWV6b29tZnIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODY1NDdhYzYyN2Q4MzE0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.S4crpto6gmaRCGZY7l6GtvxT9M6HRGC72RLf6JZk4DzPTLDx6D40l5GbogBNvc_yYPEMtEJhOwIgwMcG8ApiIw==/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8"
       },
       {
         "name": "1659. CANAL 9 [FR]",
         "logo": "https://picserve.netplus.ch/channels/canal9.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODcwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJhYjU0ZGE2MmY5ZTAzNTAyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.0ln-4AYbe9PDxy8yUm6WX0do4DTafFsDzA1opsC04PzlCKc5ATrAqXchUKoOaaTyYC5uhkGiWgX9AbJ2sT_Aiw==/live/eds/canal9/browser-HLS8/canal9.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODY1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjYTkzNGI5YWI3OWM3NTEyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.MCEy6PwFZomQJh-HSqnQsY5FcsQR9Cn1DgZdvredS49yWhidIk_QOJEFiTZZGtcxONb50jm02gktnsPeZDUw_A==/live/eds/canal9/browser-HLS8/canal9.m3u8"
       },
       {
         "name": "1660. CANAL ALPHA JU [FR]",
         "logo": "https://picserve.netplus.ch/channels/canalalphaju.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzcyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFqdS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4Mzk2ZmVkMWNmYWZiMzA0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.LNl2MY9wDQTfJEbxdsSGiEhQWG8qbK-k4O-rT1Gp0mGe6Dgi9eR6LJ6v2bE1tGmGE9Aqmn3Jq34Uu2z3PitQIw==/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODczIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFqdS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1NzE3ZTg3Y2YyMDU1ZjhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.MhixLUw-bWQg6lvG6e8aiueWLJqu1FgMecaboRpeJ9yroR1pgfOXM0PUTPzsnv-2UgVVg5NUoNB9xZyxlIcd8A==/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8"
       },
       {
         "name": "1661. CANAL ALPHA NE [FR]",
         "logo": "https://picserve.netplus.ch/channels/canalalphane.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODgwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFuZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmZThhMTg1MDQ2YTdlMjIyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.Zx7cxV4meX2EATYSAMOOMKgF1HSU4OGtqAgfJ_c6GoBJpXqQV_MSbuMdfxAMKEdv6w4xzt3XWO8M3woKFR2Skg==/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODUyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NhbmFsYWxwaGFuZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxNGQ1YTA2MTYwOTAyYzNmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.3ZnYzKBAxEYxUVCoST1gjDsNx6E5-I22eP5nUibLoCZzyu1IHOFpXX-RIiUxxFuqmnaQ9C9E-yVl9nTVokYxOQ==/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8"
       },
       {
         "name": "1662. CANALNEWS [FR]",
         "logo": "https://picserve.netplus.ch/channels/itele.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODkyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2l0ZWxlL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4NDNlZWEzYjY0OTY0YTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.TWb2qz13D707_S-xVVguPLcTWr7JxIcyJ_h7vs8w2ndN3FpJm7ZFkcLPfoLG9-qFw40n2ukm0o-zTWVXPVbXNg==/live/eds/itele/browser-HLS8/itele.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODEzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2l0ZWxlL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImY3MmVhYWVhYzQzZjQ4NjEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.vxLqN6O5OJyx40q1ZQwMfnnfg7jZubLA-HzYNY6qkTic2bH06jMo42bmlYxJObqHGLbZsbXU-Cch9p0cUDI1tA==/live/eds/itele/browser-HLS8/itele.m3u8"
       },
       {
         "name": "1663. CARAC 1 [FR]",
         "logo": "https://picserve.netplus.ch/channels/rougetv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODMyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3JvdWdldHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMWU3NjA2NzEyYWEyNmYwNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjM4Iiwic291cmNlcyI6WzQ4XX0=._SX7dIVV9vOWa-QUsqZIVoMWN3g5uueWBD15Sa25q0oK0JXBxKF8SvBpk9YprfOowxfu3mJHwbp0mnDReZ_Hsg==/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODE3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3JvdWdldHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODMzZThhNDNmYmIwNzQ1YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.ImNwowoHyjTxszCnlbM1JhZXBoyvZYPIz_lckj00-AJmiGkpnfGr52ZpCvZCceQ-ylDLo47fdZg_jQiymhXtuQ==/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
       },
       {
         "name": "1664. CARAC 2 [FR]",
         "logo": "https://picserve.netplus.ch/channels/onetv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODQzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL29uZXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZlMjZjNDNmNWJmMmRhYTgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.Wk4GajHT6P1yIBdIJeKBBPdDOpuDStNhvD0bgMxt6xLGfQ613uE_ePpNLVCWZvvZtfngjrrA9OKvO2UHTJcn3Q==/live/eds/onetv/browser-HLS8/onetv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODg2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL29uZXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYyNjVkN2QxNDc1MmExNDAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.hsLb7Mg-BYD12sdP3plQkcdOEi2JoN_T_TbuCVGDOrTYesU7VgZdjp23xTFnaEZrw5q8E8eGKdGSrAXkEovkEA==/live/eds/onetv/browser-HLS8/onetv.m3u8"
       },
       {
         "name": "1665. CARAC 3 [FR]",
         "logo": "https://picserve.netplus.ch/channels/lfmtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODE5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU2ZTEzODRkMWY2MTkzMDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.Lee7ZbWCWilghX6C3sbZ3eccf9riPbedYhnYFoqMcG2npCLKXSv_u_j8Pua6HN-6Hb0a8dk0OOEQNytbpXC-PQ==/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzY2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xmbXR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhiYWIyODM2OThjM2ZkNGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19._uN_fpAO3Nv41WhVQgj7VdNoGt1WHZueB2LOWLEyu2vtvIzCY95unlvbZg7IW_NEi6TmhuZx_SHmfjxLvfQ0QQ==/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8"
       },
       {
         "name": "1666. CARAC 4 [FR]",
         "logo": "https://picserve.netplus.ch/channels/tvsuisseplus.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODgzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2c3Vpc3NlcGx1cy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiMzRhOWJmMDlmOWI4Mjk1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.VFjTQt9DdMZWe_-ApzxRpNYEqykQAOoUFOo74b933FNjLS_aNoujLKDjxiEkB1-vEuwVpLUYZvSX2N8Q6R7H4g==/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzU3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2c3Vpc3NlcGx1cy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI3ZTAwMTQyMmQ2MjU4MmFhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.QuUonesPPKP_r9JrdjskzMCXLMjafwowvxKbN9IaGOOOR1rrzYI_gT00o8bd1o4VojELGDOsMqnpgZJBK4xYPw==/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8"
       },
       {
         "name": "1667. CARAC 5 [FR]",
         "logo": "https://picserve.netplus.ch/channels/teleswizz.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODI3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RlbGVzd2l6ei9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmMTgwYjgwNjNmOGMwM2RlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.Pma8ywkqy26NlYU323sQ1oQJc7uwu3VOgD7pR9_GO93z1Np335rTi7k19fz_CSUy400xeuND5dnsgfijG49Unw==/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODc2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RlbGVzd2l6ei9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjYTkzNGI5YWI3OWM3NTEyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.K_350ybqukwYeH1QYzJx9dSlG4iBSSDlRpcKPY4o9cTI4pKoJf6t6yappQdFQ_lc-MJuPFToKcdDpzi7A6TnYA==/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8"
       },
       {
         "name": "1668. CHERIE 25 [FR]",
         "logo": "https://picserve.netplus.ch/channels/cherie25.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODAwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NoZXJpZTI1L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ5N2IwODA3YjhlM2U1ZWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.4W731T2K1nltz2kFOBX_YQgqRpleO2-5cc15ERgngT3SFDtBtGWXdUeYcUx2Bd-Lu3jLf09UZMyjd-NpjkfXlg==/live/eds/cherie25/browser-HLS8/cherie25.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODI5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2NoZXJpZTI1L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4MjUyZTRhMWViN2VlOTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.d8CqeK551-camnYQepZnNTRrxfpKdp9nkZlfchuNroapJ1vn-oJCFMvxyQaSoApMehG5e-gRv-dTPaJ3ZLx-gw==/live/eds/cherie25/browser-HLS8/cherie25.m3u8"
       },
       {
         "name": "1669. CSTAR [FR]",
         "logo": "https://picserve.netplus.ch/channels/d17.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODQ2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2QxNy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZjY0ODBkNTEzY2E0ZTk1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.oZPPIaha2Y-HGh8IBw8R0zNfyrq-1v3bwpT69Xneug0kqAiO9wF-M7MhXB9e-GweV7TaXRMEHfD73GRr9Q0GwQ==/live/eds/d17/browser-HLS8/d17.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODkwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2QxNy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjOTMxZDI0Y2UwNWMxODcyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.DfAZquRPCpvRpO8V1I86LNzkGyXpsqLU4UAQQd2KbzmoxzNZa65t3__fUK756FdfM517whvvHHw6U-GSE-qLOg==/live/eds/d17/browser-HLS8/d17.m3u8"
       },
       {
         "name": "1670. EURONEWS [FR]",
         "logo": "https://picserve.netplus.ch/channels/euronews.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzkzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2V1cm9uZXdzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQxNWY4NzEzNjc0ODU1OGQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.RRPwAZYMoNNZIZiWFQCNxKsxHQBhDFjl18zoXwXAEToLZAZSRlDd8UW-pRBRd8-D5O2zDTlPwySYI1gL2avrNw==/live/eds/euronews/browser-HLS8/euronews.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4OTA2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2V1cm9uZXdzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU2MThlY2E3Y2RiZWNlODQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.befA3f73SoLLqwZF81ElwcRuLxvotO5OK95vWIt9iH22jdKcnrz0m96X-3lj8LyNmKiYS9aa6JHsVMZoJ8zpIg==/live/eds/euronews/browser-HLS8/euronews.m3u8"
       },
       {
         "name": "1671. FRANCE 24 [FR]",
         "logo": "https://picserve.netplus.ch/channels/france24.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODE1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTI0L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4ZjZmNGY1OTcyYTM1Y2EiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.ZkO9aHKT7Yj-ozgaj7FjOrJ0wJdkFQY6vkrxcMUm8V_HaVCfmCiEwZND3TFwXl4FRuEZF3uoBW5GP-V5_7VsBg==/live/eds/france24/browser-HLS8/france24.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzgxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTI0L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImExY2VhMjhiMDA5ZTZhYjciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.jTb6dj3S3UDrp9SaWyPfj3B5I5iLom1MgeO0cUFHNsxIlElszTWeDA49rXUL_KhMX6tfqjQmgSQJMmkmmL2uFQ==/live/eds/france24/browser-HLS8/france24.m3u8"
       },
       {
         "name": "1672. FRANCE 2 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/france2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzk4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxMmY1ZDEzYzVhMzM0MDIyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.ZyhMlTtuUqVks3GG2Mjn9n_XIl91mczVr6mYSvmlH3dj5ownO4d4wWAkMp-xv6CdE3FW0JUR-0f8f0lJKs0MRg==/live/eds/france2hd/browser-HLS8/france2hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODY5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI5NzQwMDdmZDQ4ZTU2M2E2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.YKbMg-lQoJvepl5OSdsxdDFPnlP3C-Jl7AhP8yI4hnsMurwP1zUvc6Uz6XRmZkXgNmW8EbFnChRBpAjIZuk7Yg==/live/eds/france2hd/browser-HLS8/france2hd.m3u8"
       },
       {
         "name": "1673. FRANCE 3 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/france3hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODIzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTNoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZDAyZjdmZTNkNGExZjkyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.uUKn811zP22N1X9p83CflWJgvUU-OgW1fs6Jok77uxnPwfev0IX48-5P6417JMbPY8ZWkM86_qRFDpZ3EjSX9Q==/live/eds/france3hd/browser-HLS8/france3hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzg0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTNoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmOTJiMzhhNGMwNTU1MzA5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.r7yxPgBE6DG8imuMn8RAP51dycKZbnBnaSEpDB10ZjkYrahuJ8Fvu1pEJKG110ewWJy2YfKDAEWnmmPd2CydjQ==/live/eds/france3hd/browser-HLS8/france3hd.m3u8"
       },
       {
         "name": "1674. FRANCE 4 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/france4hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODU0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTRoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI5NzBkZGMxNDcxMzMxMjQ5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.W-gRBU66ld5CThOCmYYx93YTHAg82Qy-2oh1QJSdBwmWX0ANe2wBCAstSARIOs-SmEFUfh0-iJ5SCIEnu05ogQ==/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODI1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTRoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4Njc5ZTg5YmFkNjZlODZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.kSg1QxfZPU0K1eHWP_k65cHJnb7-YAqEEPc6WTmSOmmnhmYqvkQTAkGyVeqBucocrAE0Ha7wPeEl-Yxx0jtSTA==/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
       },
       {
         "name": "1675. FRANCE 5 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/france5hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODUxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNDVkZTk4ZTExZDlhNzQwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.xXDA_O7W-SBb2je91nDjvmOoWhcRZ7cgKoLSfMpg1HcIWwlwpcpo-1a24P8yh1_29U2dvAGbsXt-u0LbYxamHA==/live/eds/france5hd/browser-HLS8/france5hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODA2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZTVoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI2YmMwM2UwN2JlMjUxYmU2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.qkl3MAoICi_pu5LBbJYzCQ9SbZE-7SPFETqf5Zz0ADDDaNrTMvB_pmOED5ZJWFtpXLJ4Pzai2RTs6HwOLF2c-w==/live/eds/france5hd/browser-HLS8/france5hd.m3u8"
       },
       {
         "name": "1676. FRANCE INFO [FR]",
         "logo": "https://picserve.netplus.ch/channels/franceinfo.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzY1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZWluZm8vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZTFmNzRkNDkzNDJkOWRkZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.yF3iT3Qgi4hUXuLszQJJ9WNzM4PgNg5eAPuHqShKqnRvOj6oRQxc1-zw5uomqx65tSx3R960oCT9LQrNkOp1gA==/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODk5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2ZyYW5jZWluZm8vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzViZmUzNWRkZDUyMzQ0OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.yNUm-UNvxIHxX0TubyS-wSAea4sH6EFouXMLl0IFfm63nLBBfBN-e1l5WS0u4qp6QFRRSHZlJpSVpW_kRhSTSw==/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8"
       },
       {
         "name": "1677. GULLI [FR]",
         "logo": "https://picserve.netplus.ch/channels/gulli.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzYwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2d1bGxpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM1ZmJhZmE1MDU3ZTdhMWIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.3aEHc9afb9dx7J7ryVTuAoDcuZLVFOwarEWeYMaTq4HUbZtrts3l6zFXmQ3rca__DecWF5h1jyNey5nbvfJk2w==/live/eds/gulli/browser-HLS8/gulli.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODM2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2d1bGxpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWVkYTE0ZDE3NDE5MWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.EB1DGzvIVMayOoSXRsbAoHdWw9ufm8MyoWgAQKEEsuTcQTfUekEQGz8cdwsMkuOZ9nKk8HsOmWw-F8ASvraXBw==/live/eds/gulli/browser-HLS8/gulli.m3u8"
       },
       {
         "name": "1678. KTO [FR]",
         "logo": "https://picserve.netplus.ch/channels/kto.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODM5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2t0by9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlODUyYjJjOGIxNDE3NTMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.2koKZaCgdZqYeZP0wm4ZEY_RuNhzoW6WEFNusZPh4Bm9OineBob0TtX16oF_JrJVzFG1tzdCI21biZHFRFyCtw==/live/eds/kto/browser-HLS8/kto.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4OTAyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2t0by9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjOWEyNTlkZjhmZGQ1YjRlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.A2CKwlhza8F57CDew0iXKvqx39g4Fp_jkDPAdFVnW2sAh7R8U6-W-LgpaCpxd3cX3ei-gy9lkaQGL2_6FfQeWA==/live/eds/kto/browser-HLS8/kto.m3u8"
       },
       {
         "name": "1679. LA TELE [FR]",
         "logo": "https://picserve.netplus.ch/channels/latele.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzc4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xhdGVsZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNTg3ZTAwMmZjNzAyYjYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.hgtEhykwpi1DBMqkxgOcDtk6E41-d0rOzmzgC-jGEUeVDTnZ-X8MMFvnoir-eZOfMKldwzSotCadx8Ya0NfQ2g==/live/eds/latele/browser-HLS8/latele.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzkxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xhdGVsZS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzNmM2Y4OWU0M2ZlY2ZhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.VxaYdtCg6fgg_FdcEplb16jofimYN28TYN2s-iHl4fwrQ8B8qD5LEqysE0sLuAtdSAHKlLAxql_ZumyGbfDUPQ==/live/eds/latele/browser-HLS8/latele.m3u8"
       },
       {
         "name": "1680. LCI [FR]",
         "logo": "https://picserve.netplus.ch/channels/lci.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzY4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xjaS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIzNGQ3YWJhOWIxNjdkYzAyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.MXlnDyqgJK4SZeCKY5TNVkQIo5DLF5eUa5n5xt6Y6d1DEDcV60f1GS1S2xAbbpILMOHfUGVMeEJDsPq3v7sMsQ==/live/eds/lci/browser-HLS8/lci.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODIxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xjaS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJhYjBkMjg1MzVjNjFhYzA1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.v1HnzqSoEavO-Dc6Vi_KmOdqpXuotd0HXoYe_YHkVuG0ZEBu29vTK3OYcUqzwIW11mDSDLWs5l82UiUz0DeUAg==/live/eds/lci/browser-HLS8/lci.m3u8"
       },
       {
         "name": "1681. LCP [FR]",
         "logo": "https://picserve.netplus.ch/channels/lcp.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzc1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xjcC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlMGYyZjM4MGRiMDI2NDI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.0EKr2H7dyR-Yk9pYF6k7b4ZREsNPhCaKhM5zVWYa4ZMmnVVVxlpS3orzacwX3OzESfxrjKLsLh0fQxSTUNQ5IQ==/live/eds/lcp/browser-HLS8/lcp.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODU1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xjcC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0OWZjYzg3NTc4ZjQ3MGVjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.ejqLXeyH1vXp9INV9re1MMws6rWCDmVx3vCH8kLm36NOl1PMrGQ-9DKFcpdHVBRz7mgzrcjn1MTdnB7xm9kH-g==/live/eds/lcp/browser-HLS8/lcp.m3u8"
       },
       {
         "name": "1682. LEMAN BLEU [FR]",
         "logo": "https://picserve.netplus.ch/channels/lemanbleu.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzgyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xlbWFuYmxldS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjM2U5NTdhODRhNDVkODQyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.kSE7MQD9JtdjM9iTLkOOirVBO_cZRVBIKmvILWGquxYoAOyKNR7oxl0dDykhd9bvKwQ70YQ8XSCDfx-R6oYYmw==/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODQ4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xlbWFuYmxldS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmZTYxYWIzMmNmNzE5ZTUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.f7EGLNkRIgIz5fp-nayqwq1EM4dAri6YetUjn7m__oShFtM8odviJfd6c29c0C8DXVatgbJM96ArXpM7dpwmeA==/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8"
       },
       {
         "name": "1683. L EQUIPE [FR]",
         "logo": "https://picserve.netplus.ch/channels/lequipe21.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODY3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xlcXVpcGUyMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1OGQ5Njg4MmI2NDNkNzhhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.sm68ykuWzPIwy5zfMZToDHssgc2BwyNZ9F8mpJ83kKJWm_dDcSR2KsdVysA1p8rphTkvjOHZRY8cugHl8OW5nQ==/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzg4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2xlcXVpcGUyMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIxYmFiZjFkZGZiMTM2MzBmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.bJc6zCi9LCf8NVt7J4LrDuxfRZe3r35-rYynW4MqNuIAKBDLzjBje58m9YYxapMINVyHBG7BHGqKBX4636iS1w==/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
       },
       {
         "name": "1684. M6 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/m6hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODA1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL202aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNzk0ZDE2NDRlZDU2NDFhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.pNGFDaVtHscbfEUAOlgWhtNfcR4Po5XLuU6wYOxfRGFq7bypizWRRZrSYk0CXQIWdk0NHEuoIWsilPnB_LTO-g==/live/eds/m6hd/browser-HLS8/m6hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODU5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL202aGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZGQzYTEzNmU3YWZiZDc0YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.XehHvTx86n8swoQWstKNmfFQDChd5sUw7i_jbr8q5-H0HIzjP52c8FdlJDAg4OrnvkrMasKkOwAkIOy9t0-IzQ==/live/eds/m6hd/browser-HLS8/m6hd.m3u8"
       },
       {
         "name": "1685. MAX TV [FR]",
         "logo": "https://picserve.netplus.ch/channels/maxtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODM1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL21heHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjBkZThmYTU4ODc2NzRiMmYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.Afr1ix9U-vG3cF_d9QYnvd186Q4WhD3q7FYFgFn9zA8YIEsnPVZEUJB0mwRZrpn2iy0Beq9J_g8Af-ZwtbaW2A==/live/eds/maxtv/browser-HLS8/maxtv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzcwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL21heHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImY1MjUxNTY3NTVlYWU0OTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.SfJDrFo-yudz6NHMzttoMwk8j8iKNWozbpKDeCivpPqSZ0i-HjKYGc_d4H9vKMLkORA6XHwRLnpvoHFv5PcYtA==/live/eds/maxtv/browser-HLS8/maxtv.m3u8"
       },
       {
         "name": "1686. NOVO 19 [FR]",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODg2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL25vdm8xOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlNGRhMDdjNTFjZTIwMjgwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.iqC0Ukx_NpQ2alDePl23_jHmF1uh4bh4ZbwzpQ9iXT7bRI5y4Ii4KegR6fG-RlBbx_WJtm8AiRntMYpLhRpo1A==/live/eds/novo19/browser-HLS8/novo19.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODkzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL25vdm8xOS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkOTU4NjFlZWI0Yjk4ZTMzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.fdCmlEF2bfVt3Isnwn-1sFKuCSpfe1XiQje2MXruwpIdwFY9YEHwsizhPQ82e5jIqcZQ9Qc-glrDyxX_6fuSWQ==/live/eds/novo19/browser-HLS8/novo19.m3u8"
       },
       {
         "name": "1687. NRTV [FR]",
         "logo": "https://picserve.netplus.ch/channels/nrtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzkxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL25ydHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzQ2MzdmZGFhNWQ3NTM5YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.mA9TEjdUjqEaarzNV0taA_6VzgikS4nXbN2kpuqwTf43wCzDfVey-xlxJfDfQC93_AQXVkdx8qlcHyGiJgRXVQ==/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODc5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL25ydHYvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWEzNDUzMzI0NzU3N2U5MCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.vLksYiYqe9AyIZv2nGK5jb1NObEEefL4dPQ2wLGZJpeYC1-4ifaCdfS3r8_iQKhyiKIWYFt5-LsKrBxS9omamQ==/live/eds/nrtv/browser-HLS8/nrtv.m3u8"
       },
       {
         "name": "1688. RMC DECOUVERTE [FR]",
         "logo": "https://picserve.netplus.ch/channels/rmcdecouverte.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODg5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3JtY2RlY291dmVydGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODQ3NGNjYzg0MWZiOWUzMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.wvjuxTYrCJXsol3cK4Y08Y_Hp2n6Hs0P0fo8SPLYsP58_Up63LNLuMzm8g-fn8O0oFtA-ygc2j_d9toys3YLEw==/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODYxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3JtY2RlY291dmVydGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZmFkMTVlODZjNTUyYzBiZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.F1EOwcj8zrAFwC4Y95kH8oy8uyVgr2QeN1HuOjtL2K6s7HAFK3saiAUuMcVqLL9qIfnUj2Q8wBeyeoKXVnisPg==/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8"
       },
       {
         "name": "1689. RMC STORY [FR]",
         "logo": "https://picserve.netplus.ch/channels/numero23.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODExIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL251bWVybzIzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE3YWRjMmY4MTYyMmJmNjEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.e-ZdaxYpzvfyfFCVlbcn8l7HZHHc9NJTGlWl1YyprGMuZWSmTMD1MxRszIdnfEcTyv3ASac4FCEkqRp7TQRzUQ==/live/eds/numero23/browser-HLS8/numero23.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODA5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL251bWVybzIzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg4NGNkNGU3ZTZjOGRmM2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.WFeKs0xbHjcE1MKU11FrrJIxKpuwwZOxr4lfLdxJJjKCvmCog1TDkk2cLW0r3yhJOV-0kJ3h2RotQq8cFFaq0w==/live/eds/numero23/browser-HLS8/numero23.m3u8"
       },
       {
         "name": "1690. RTS 1 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/rts1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODU4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0NjVjZjhiNjQyZTExYzI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.I6_184MkbvzOVMcw_GOnNQ0EkclhuNe_Wd_B3-nGsi2fZmqg7ImP39Bc9xy54laVSvoTjgPB_Ankk5Q9yKcyOQ==/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODM4Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0YjY0NjY4OTQxMzU3MDNkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.mojLB6ZTcR2qeardF_aUHznOEgQMv02_vVibdRACdWnThn3my6wC6JeFkinkCuO3hoUmr-bGeKtyLlcbgnndMg==/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8"
       },
       {
         "name": "1691. RTS 2 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/rts2hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzk2Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwOGY2ZjRmNTk3MmEzNWNhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.h10-g_HVNKlyCzNjpZ3Ok_gJCCqW59vI1Agz0ma0oMNFnRkhLvGwO70lz2zuAjEJxMZItcpnfrjqjjO0haDbsA==/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzk3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3J0czJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4YzU5YjY2OTA5NDg0MmRiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.zPRJGKDK1Mdk-S_KFb8Lur4Why_4z0nr7eVyqMtMdGYgEMm3gFvuXKkeNK5ca7wVfRRrdWRr5d5Zm8lrOvsN_w==/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8"
       },
       {
         "name": "1692. T18 [FR]",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzYyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3QxOC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNzlhMmRhM2EzZDhhMWY5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.MNcGvDKrJ9b8bTMZJ5LOzBXkyH6ll8vZyN8LS7UotaRFWoYL-vzAwgdN1sCQ5MeZEUztpQQXaqMbpmqPnQrFRA==/live/eds/t18/browser-HLS8/t18.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzYzIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3QxOC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIyNzk2NWRiNjEwNDA4MzRkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.iHF7PtF7Dg4gMlWGegPWzTLXpw7TPHrZdOaMcUVBFfSBBsd5JNGr_QM9oz8Hpm2Hq8cyzsps6XIcX4bLaMKdBQ==/live/eds/t18/browser-HLS8/t18.m3u8"
       },
       {
         "name": "1693. TF1 HD [FR]",
         "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODY1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RmMWhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJmMTJhMjcxOTIxYzllMDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.-R9zagtyNVTkBEh5BCDFMA7q7NBx32Hmf5jf2L9aGlzIufyAKqXRwJtl_SO95jZDqXpU_UbVhFRFCbB6U4wOpA==/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4NzU0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RmMWhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRhMjg1OWU5Y2FhMGRkNzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.Aa-j0oxu6Vm5QFrQ0DE_sY7aECKLGdI0ENwKQSkQPKSVtnH0mFx3UefPbJtHMKUlVQo5fiOBM4RO6fducIkG0w==/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8"
       },
       {
         "name": "1694. TF1 SERIES [FR]",
         "logo": "https://picserve.netplus.ch/channels/hd1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODczIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2hkMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIyNGY5YTQ4NmFiYWEzNGViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.pDbHxBchIyrrTdQ24oPjEx56DKPRt4DqbTQtzIUL6NFHDCkJsH4S2XMdovcXtmEpLDxt47FmANJKF0tz3pCECQ==/live/eds/hd1/browser-HLS8/hd1.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODIyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL2hkMS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiIwYjY3NjQyM2I1ZDk1MWU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.ACBWpD3ho4G-1ZRyz2SxyFNgfrMQlw3pdL-xAjR18U7207x7lzND2vOtm0KFdYxDNl4lEikHkfQ2urg4Y1_1QQ==/live/eds/hd1/browser-HLS8/hd1.m3u8"
       },
       {
         "name": "1695. TFX [FR]",
         "logo": "https://picserve.netplus.ch/channels/nt1.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODIxIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL250MS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzA5NmJkZjFhOWFmNmUyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbMTAwXX0=.acNqYHpE11SMx89KEQURtNtmTB-oLVX2O43sbj0YYg34EpKc6jD7VU4Or3OP9wakYmTjvCU6GhVE1gDX9DavsQ==/live/eds/nt1/browser-HLS8/nt1.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzk1Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL250MS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI2YjYxZWQ0YTMxMTNjN2M3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.Z1-TEtpKkRAfbzL_IbKUyvQ9vHImjSuzZOG6i4ZSsqRUDDB92wT1OrmO7gc-IGfIcJ0l2Nf9U1VUKTPDTRobEQ==/live/eds/nt1/browser-HLS8/nt1.m3u8"
       },
       {
         "name": "1696. TMC [FR]",
         "logo": "https://picserve.netplus.ch/channels/tmc.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODYyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RtYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI5MjViNTczYjEwOTA4M2E5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.RaOlnCJHSuDXizMZV66y-j_P2DBSRWrj-nxRC3cmt5Y9QQ3N9LWDIVxl4eg7Xxe0bK1NyrKkI6EtvsnFz2drKw==/live/eds/tmc/browser-HLS8/tmc.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODA0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3RtYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJhZWI2MmY2NjdjN2Q4ZGRjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.uD7NDaN5XYD5lepOXccfcw2yMCRaojgjLQAb-uyMLbDAFehCO0hdxdYGq8E3V8ML5XSfk8kdBCJOfU8mwa3KBA==/live/eds/tmc/browser-HLS8/tmc.m3u8"
       },
       {
         "name": "1697. TV5 MONDE FBS [FR]",
         "logo": "https://picserve.netplus.ch/channels/tv5mondefbs.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODQ5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2NW1vbmRlZmJzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAwNmM3YmY0MjdlYzcxNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.oPoqta-P2RiPclEjWGLWiQcx4ARKk6Hjm_BMyboIxAVq3Pml28yZen7l0-z6XrbPX3JzrY5qiLqVvxglGaxQww==/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODY3Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2NW1vbmRlZmJzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU3ZmI2MzIzOWY5MjVhN2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.qqU7h_nlcxoFkAxasYUB5eyhcWrnvRDhhFtXuUapE1Nc1u4ykwfI7O7wWAfQlHiho0cpDOaNuDD8VlXrD5BGxQ==/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8"
       },
       {
         "name": "1698. TV8 MONT BLANC [FR]",
         "logo": "https://picserve.netplus.ch/channels/tv8montblanc.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyNzU0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2OG1vbnRibGFuYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0ZjU4MWVjY2M3N2ZiMmViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.uAxwvbupRAzpi6KrrkAbfl-KBweJfu3aulaKABBtVbt2n9yXDrLJonE5_1ENuGkVYAZIwHoPRBC_dn9yGhmgpQ==/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4Nzc0Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2OG1vbnRibGFuYy9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmOTJiMzhhNGMwNTU1MzA5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.R9kO98XF_EDD8_ytpfOuvbhZjdhsWEXTIHTvzkjXChq4WQO67U8G73lE2xdclWqxPu0dJun19YSGVW40uRGYeQ==/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8"
       },
       {
         "name": "1699. TVM3 [FR]",
         "logo": "https://picserve.netplus.ch/channels/tvm3.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODYwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2bTMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMzU0MGE2Y2ZjZThmZmFkNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzEwMF19.kbN6Qq4JnxJpJ8Sr1pikZJYCfLSJMgSAvUzaWxV-penUHhKjUKChWXQBs5hCvNrlPpOFEaMs8Rt9YcLGUyuZmA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODMyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3R2bTMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYTJiMWEwM2U3ZDRkMGVkMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.Khikke1hFC61pJXIs5Gnf9tjsniOON6gvGV66loOvFvxPe8ks57qbbyFEW8Mx0YTCc9SS4ampeEyi7dTvsytPA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8"
       },
       {
         "name": "1700. VAL TV [FR]",
         "logo": "https://picserve.netplus.ch/channels/valtv.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODAyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3ZhbHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijc1MGFlNzMzZGYxM2QwODUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.JMF2-yItcTHEhn6KxhOvA7V5w1Mf09sSCcxmJ2rHwZXxjLZb2AIx12WV4x-nfQ63XdfUY_EKB2sKeIuX6i_a4Q==/live/eds/valtv/browser-HLS8/valtv.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODAwIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3ZhbHR2L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAwM2JlNTBmMWU1YTQxMmQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.zCqeDiGA0mCtHCJMLf9P0Uogz6BQ1sgzB_FSbxulDJOD0-hMfyx052poUGMgP-aypNZOQmIs-9_zGBjlQw4UPg==/live/eds/valtv/browser-HLS8/valtv.m3u8"
       },
       {
         "name": "1701. W9 [FR]",
         "logo": "https://picserve.netplus.ch/channels/w9.png",
         "group": "NETPLUS.TV",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTYyODA5Iiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3c5L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg1ZTFkMjQyNjM5YTJhNzMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.cqXjgIG8Hic585Z1iDhumpB0F8cDHlrgZKnfKFinO6w-10VudVqWGhtBbM-rp4fMdgMQeIkZV3jge9SjhhcfCw==/live/eds/w9/browser-HLS8/w9.m3u8"
+        "url": "https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4OTk4ODQyIiwic2lwIjoiMjEyLjEwNC4yMTQuMzAiLCJwYXRoIjoiL2xpdmUvZWRzL3c5L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkYjBiMTRmNjg1MjQ2YTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.NXtVh7ZEuJcT-jhkypVob7xX5cLfQGXhMQXNXCT7SSPPObmYL6PvZjeJH9yMFqmOckKZnCzA8Z0Jdd9TDnod0g==/live/eds/w9/browser-HLS8/w9.m3u8"
       },
       {
         "name": "1702. CANALE 5 [IT][CH-ONLY]",
