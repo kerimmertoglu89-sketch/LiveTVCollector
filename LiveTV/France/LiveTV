@@ -1160,19 +1160,25 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=H8HTYnebR7XlsYALNVY8KQXS7P_8xFo9vHr6zjlrqkUq845g5VZanEF9ZqRnt7uQVsHVBKPvTct6cNUllktBLhbbId8RZvoa0bfq8665sb0",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=NSNKzrxbvq_RBVc8gYBTvOlGZXlqggFeX63iHTOKGGjUR09tJm2ok_wB1sU2F0ufzQXmxPFtrnfdmupvEc1NoopXm32K_EuL-7mr7T5WMWw",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "79. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=AW78vHX4Dt1V1TUHCwrCVTaAfc1kTr9p-RQjYQgM2tmqqHffl5_IwI2LniuYiiLGCL2sPbEZR3wn0hseQI2syY61JLQ_dtWzr_pZh8JHL6E",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=_PDXj-YwUF4juR9tWq5dsmtJSv9x82vikZNDl9eUZPwnzcMS0UlK2AIpIZ3itYJwplIcphyyDSpcBVw36-psfHajg2h1W5djKqYEzp9-O1I",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=OCVMgPPP8c3TxZCqDIjGRQgX1B1yE-LIkyc6QJe-3YUHpqXM2hLAqo9rD49jly5Nsa7sI5j2zEDMJDH6rmIkNhzybrcOiMUrozlV-xgErlM",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=WY7TxQRg3KdlNmgb7_hEWnxMFHQ9US3ed_VThoZB5rHhPrGNlQI0aJOO7ZZRXTlmXcFjXt_03XEOdVpCRxyLfbzHXpw2VxcvCN0Am6wqs28",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "81. L'Équipe live 3",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=CfPwcE7lEQm0ncub8uUemEqeZNjZPptg_SGJVBk9WTpBsRHm5BvumhzapIfqCH47YgvUPfh6_QocO9I66tODhIKbOk9HRmaWVqGwOV0AKvA",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

@@ -386,11 +386,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60" group-title="CANALPLUS",67. Europe 1 [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",78. la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=H8HTYnebR7XlsYALNVY8KQXS7P_8xFo9vHr6zjlrqkUq845g5VZanEF9ZqRnt7uQVsHVBKPvTct6cNUllktBLhbbId8RZvoa0bfq8665sb0
+https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=NSNKzrxbvq_RBVc8gYBTvOlGZXlqggFeX63iHTOKGGjUR09tJm2ok_wB1sU2F0ufzQXmxPFtrnfdmupvEc1NoopXm32K_EuL-7mr7T5WMWw
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",79. Tennis Channel
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=AW78vHX4Dt1V1TUHCwrCVTaAfc1kTr9p-RQjYQgM2tmqqHffl5_IwI2LniuYiiLGCL2sPbEZR3wn0hseQI2syY61JLQ_dtWzr_pZh8JHL6E
+https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=_PDXj-YwUF4juR9tWq5dsmtJSv9x82vikZNDl9eUZPwnzcMS0UlK2AIpIZ3itYJwplIcphyyDSpcBVw36-psfHajg2h1W5djKqYEzp9-O1I
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",80. My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=OCVMgPPP8c3TxZCqDIjGRQgX1B1yE-LIkyc6QJe-3YUHpqXM2hLAqo9rD49jly5Nsa7sI5j2zEDMJDH6rmIkNhzybrcOiMUrozlV-xgErlM
+https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=WY7TxQRg3KdlNmgb7_hEWnxMFHQ9US3ed_VThoZB5rHhPrGNlQI0aJOO7ZZRXTlmXcFjXt_03XEOdVpCRxyLfbzHXpw2VxcvCN0Am6wqs28
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",81. L'Équipe live 3
+https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=CfPwcE7lEQm0ncub8uUemEqeZNjZPptg_SGJVBk9WTpBsRHm5BvumhzapIfqCH47YgvUPfh6_QocO9I66tODhIKbOk9HRmaWVqGwOV0AKvA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQmIjgs.png" group-title="FRANCE.TV",115. FRANCE TV DOCS [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESz1gbr.png" group-title="FRANCE.TV",116. FRANCE TV SÉRIES [1080p-france.tv]
