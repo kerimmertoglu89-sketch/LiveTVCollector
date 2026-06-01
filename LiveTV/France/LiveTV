@@ -24,12 +24,6 @@
     "img": "https://i.imgur.com/ecXMjNl.png"
   },
   {
-    "name": "BET Classics",
-    "type": "Entertainment",
-    "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
-    "img": "https://i.imgur.com/pyqZgU7.png"
-  },
-  {
     "name": "C Star (720p) [Geo-Blocked]",
     "type": "Entertainment",
     "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd",
@@ -268,18 +262,6 @@
     "type": "Animation",
     "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
     "img": "https://i.imgur.com/lA9UFMG.png"
-  },
-  {
-    "name": "One Piece",
-    "type": "Animation",
-    "url": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
-    "img": "https://i.imgur.com/XsvbAWR.png"
-  },
-  {
-    "name": "South Park",
-    "type": "Animation",
-    "url": "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8",
-    "img": "https://i.imgur.com/qA3KsTh.png"
   },
   {
     "name": "Africa 24 (1080p)",
@@ -600,12 +582,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
   },
   {
-    "name": "Nickelodeon Teen (720p)",
-    "type": "Kids",
-    "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
-    "img": "https://i.imgur.com/OWRUPA4.png"
-  },
-  {
     "name": "Canal+ Foot",
     "type": "Sports",
     "url": "https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2",
@@ -822,12 +798,6 @@
     "img": "https://i.imgur.com/72JmyjM.png"
   },
   {
-    "name": "Pluto TV Investigation",
-    "type": "Documentary",
-    "url": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
-    "img": "https://i.imgur.com/8LdACfR.png"
-  },
-  {
     "name": "Zylo Into Crime (1080p)",
     "type": "Documentary",
     "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
@@ -966,12 +936,6 @@
     "img": "https://i.imgur.com/tGmKbil.png"
   },
   {
-    "name": "Voyages & Saveurs (720p)",
-    "type": "Lifestyle;Travel",
-    "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
-    "img": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png"
-  },
-  {
     "name": "zenith (1080p)",
     "type": "Culture;General",
     "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
@@ -980,7 +944,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/KVrcg5N0AAvRAaSX.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/GqJRmzqGTVJ06cHl.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -1034,7 +998,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/Bt6kAdrsY2t2mAzR.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/MVDPGtg7sGoOABTu.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1064,13 +1028,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/M0Vb3fIVvAifs3Z.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/yM1q9seEd0IfFn8x.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/Z0aCHlKcBV95EZcP.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/qsJ8BHg6taVQYDH.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1094,7 +1058,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/BkiH07xQkfpXJan9.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/FDF92XNOU9iPi6.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1112,7 +1076,7 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/mcnyJCFXKOkj6Vk.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/rzLSprP1IdNepy0q.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1124,7 +1088,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/jrtYTUIMMvJCb3CS.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/4CTPgf9eeg5AR7P.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1154,7 +1118,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aI1LjxF2n3de/UgUiVgfFECJaOcW0.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JPUUwehIBfFp/kR8PXI4Li0QLRpjq.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1190,13 +1154,13 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=TMy9P595ekIL5oEcWeGls6MReEiQv9rKGXkQqRqoTaeXdND6kjM0nRDMi1PxyOrjxle7L7VLWJm3GVfDUBXSaoajkNIwtgshX1_NJO3kHPA",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=6GTuNQwpkZy2838NmfkfBDbKktBWDOe3D0Y61ifrUiansv6Ro5maJbCjMXbhySX9t50V6a2LI90XpZKhMDpJEmu0fN6M-iUww65tFm-lh-8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=HU7VtzZ0w56bNLU0OOE98QwV2qajiTTDAnVJcAUj4vIAAu-5HM5SXxADlEWM06Hf-ovJ5wYZ4iSi4aY80cDxUcOIRCr6y1_U0OHx62haMuQ",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=DgIECCTDvpN48JWiBLCrAhcKdj_EZXYrXZcA5YGQzZ0M3JO_p-h4vRkzxoizMP3kc0PUPuhgchmUi_fa1Gs83ybve1ZwFT6qPXSCR3B0xFE",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1242,247 +1206,163 @@
     "img": "https://i.imgur.com/b4ASOV2.png"
   },
   {
-    "name": "124. 1/8 DE FINALE : MIRRA ANDREEVA VS JIL TEICHMANN [SSAI][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/18-de-finale-mirra-andreeva-vs-jil-teichmann.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "125. COURT N°10 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n10-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "126. COURT N°11 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n11-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "127. COURT N°12 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n12-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "128. COURT N°13 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n13-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "129. COURT N°14 - JOURNÉE 8 [SSAI][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n14-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "130. COURT N°2 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n2-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "131. COURT N°3 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n3-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "132. COURT N°4 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n4-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "133. COURT N°6 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n6-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "134. COURT N°7 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n7-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "135. COURT N°8 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n8-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "136. COURT N°9 - JOURNÉE 8 [1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-n9-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "137. COURT SIMONNE-MATHIEU - JOURNÉE 8 [SSAI][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/court-simonne-mathieu-journée-8.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "138. CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]",
+    "name": "124. CHAINE ROLAND-GARROS [SSAI][1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8",
     "img": "https://i.imgur.com/UpLgsLw.png"
   },
   {
-    "name": "139. FRANCE 3 ALPES [1080p-france.tv]",
+    "name": "125. FRANCE 3 ALPES [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "140. FRANCE 3 ALSACE [1080p-france.tv]",
+    "name": "126. FRANCE 3 ALSACE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "141. FRANCE 3 AQUITAINE [1080p-france.tv]",
+    "name": "127. FRANCE 3 AQUITAINE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "142. FRANCE 3 AUVERGNE [1080p-france.tv]",
+    "name": "128. FRANCE 3 AUVERGNE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "143. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]",
+    "name": "129. FRANCE 3 BASSE-NORMANDIE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "144. FRANCE 3 BOURGOGNE [1080p-france.tv]",
+    "name": "130. FRANCE 3 BOURGOGNE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "145. FRANCE 3 BRETAGNE [1080p-france.tv]",
+    "name": "131. FRANCE 3 BRETAGNE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "146. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]",
+    "name": "132. FRANCE 3 CENTRE-VAL DE LOIRE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "147. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]",
+    "name": "133. FRANCE 3 CHAMPAGNE-ARDENNE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "148. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]",
+    "name": "134. FRANCE 3 CORSE VIA STELLA [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "149. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]",
+    "name": "135. FRANCE 3 CÔTE D'AZUR [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "150. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]",
+    "name": "136. FRANCE 3 FRANCHE-COMTÉ [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "151. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]",
+    "name": "137. FRANCE 3 HAUTE-NORMANDIE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "152. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]",
+    "name": "138. FRANCE 3 LANGUEDOC-ROUSSILLON [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "153. FRANCE 3 LIMOUSIN [1080p-france.tv]",
+    "name": "139. FRANCE 3 LIMOUSIN [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "154. FRANCE 3 LORRAINE [1080p-france.tv]",
+    "name": "140. FRANCE 3 LORRAINE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "155. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]",
+    "name": "141. FRANCE 3 MIDI-PYRÉNÉES [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "156. NOA [1080p-france.tv]",
+    "name": "142. NOA [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "157. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]",
+    "name": "143. FRANCE 3 NORD PAS-DE-CALAIS [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "158. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]",
+    "name": "144. FRANCE 3 PARIS ILE-DE-FRANCE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "159. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]",
+    "name": "145. FRANCE 3 PAYS DE LA LOIRE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "160. FRANCE 3 PICARDIE [1080p-france.tv]",
+    "name": "146. FRANCE 3 PICARDIE [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "161. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]",
+    "name": "147. FRANCE 3 POITOU-CHARENTES [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "162. FRANCE 3 PROVENCE ALPES [1080p-france.tv]",
+    "name": "148. FRANCE 3 PROVENCE ALPES [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "163. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]",
+    "name": "149. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8",
     "img": "https://i.imgur.com/SdwDJct.png"
   },
   {
-    "name": "164. OUTRE-MER EN CONTINU [1080p-france.tv]",
+    "name": "150. OUTRE-MER EN CONTINU [1080p-france.tv]",
     "type": "FRANCE.TV",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8",
     "img": "https://i.imgur.com/M4mQ8iG.png"
