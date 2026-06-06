@@ -938,7 +938,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/HjCfniYI5fXlrjA8.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/sg3aTDvKKgBjPcx1.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -992,7 +992,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/DK5wlHVFnE1emoO5.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/yZVTXwnahfyyeI.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1022,13 +1022,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/7V1bzfIPOzvwiMx.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/rP5CTiuL7rnMRD0F.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/yyYfXmE34ixJIjfc.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/vzhQpCSSyuIscLN.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/5YTMw4oC4TnC3Ekr.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/nsSFAsvZDnCJnJPB.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/FPzZ1wZzZa70S40y.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/RsPTjIPpSE5QC6bC.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/W5JkZ1qIxFAw0No.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/VxmaP2qndSjtESf.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yJnoQzqK5qpW/LwDgo9z5isjZAXw.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/O4Ua7opyrOPU/XHk1FpeAApyDzs.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1146,15 +1146,33 @@
     "img": "https://s2.dmcdn.net/u/1W-uR1f7ntIfZU4bn/60x60"
   },
   {
+    "name": "78. la chaine L'Équipe en direct",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=sPxP1wnonyXp7ETQaGNmrJ9pP05IEE_mXjppyGvsqPPHkk8cmq2kV4Djs7JfwBL5turp52rfGJcCY_cBl0sSjJW_2Nb9AKZ3IGSR65Gl6QM",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "79. L'Équipe live 5",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=IPFFaNEL447KyNxBqVGMWxQvABSLgdYcOXvw9WWFK__4Ic4VHQNjtNGTqm90w5VOykYmm0wR-_dNtYclOFpGR1pm9ODFdAdo-CgAEuU6fRw",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "80. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=gnMHfFiP-xdrfM7CpBSDQopa8YUaQjKREMeaLJDWf5Yz0ut0EMsT3UoOtP9J-DbIwwiV-g6zQyngNKUFVXX7cHzi8OEtmz83k_krsSVpeik",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=AhSi4JGWTVA5A7O69QSffoL4GtKV2UpM9bgB0VafhrYoSU4KvMCY_b9VwhybfOcMOyzvHQRij-xu_L8nHalpwiQtQM6HqmReKukbzal9Nk4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "81. L'Équipe live 3",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=M95oHzGqJ4C31pA13UdWTjhjpvKZR2AtutsXD-izjfG7qkE_SmX-2Li3aRNQL5H37-55oJWGzwu_GlCsZgQDipxzc4i8Mojd9-3hXg4s7rM",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "82. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=aBzMUoUpeTGAfndFsKy5hYU_XF9FAH7-wbByGDwU2TcvOhYS_H0IKYZEcDtqcGctv0i_BmIrjA9ilhcKl9AGfgGL3L_r60L0_fsUdTOGjyE",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=uRSeWXowtVDnbQsO9g62CdajgXBDO7tbgpi475FwCpWSShERaF1QRSvVREQPsOOMkBk8Ed8w81LX4Mf8gNef9ysI6dLhphEoUm5Ay-UV1DI",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
