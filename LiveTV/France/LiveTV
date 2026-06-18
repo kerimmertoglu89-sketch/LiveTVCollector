@@ -1178,7 +1178,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/WXr65d1V4tnPjqLP.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/jgIcbeF3hukvS3dy.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -1232,7 +1232,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/NFMlmwgf08nRmYsC.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/Qf5cvt8uLQ7BJJn.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1262,13 +1262,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/6DqZ4YdkzWkrz2pS.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/YZXVrmNJUyh133.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/PPpSdfhQyN38qq48.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/jptNUVAzj3oHf7A8.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1292,7 +1292,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/lTnTrmsGXLbz9OcG.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/LycKZJ47lr383TfY.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1310,7 +1310,7 @@
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/Kt99t4VjOj8TqE.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/ucm0yIu3W2UgllY.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/wJ82NzJU4ui4gkiE.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/DuTobxCTcjA1dAL.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/iB5xv0sTEi5J/YsxDLuEgOcx2dmr.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rWqpH6mm1N8X/1Qe3mti0NbSh8n7.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1388,19 +1388,25 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=hb8IcPcIgxxUMpqknGpErYexwj0NOs6gttVOkV4sClXhyaSXMGOGTVE_QA-fpAB7nooq52_MU8xTfa1TRJNJyGHeXQXgWdBrUs-1QLOWMLI",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=1Qmr90bjpqxBPSEsaq8YqGO1ZSf4EaMG0jcPKrDkYd_ZzVkGjT4-hr7EF7Z9GxN89f_X4HjPngKyRxdAaNJ79e3gsJtKR7pdAm9OpzLZv8E",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "79. L'Équipe live 3",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=d88cr5YwPLfqKHs5f5L_jZICcpYZUwu2buPpxk3KoHdfU5PC924sE4nSuc0nVSIUucGzoUEsugmVMpwcVjOsnwuIn_oCvd7YvTJ-O5zA_ss",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=PJzCkmWkUMccNE9hFEAJy54ABSusYiwlH80y1UALvM1DSAkp8k-m9ojR0rwR_5_Z-6XQAGpYej_EqPo3SZtnOvw1AWCDJNC9rgNpbws8_kk",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=JikXyZB87Ym0Gw94TZEY5X_e3IrdDipy4RNujSg5u8kDfUCb2uh97k47BuRai-iziQ3CoAwVzQlT8IKlNtgyiuRkSww_WnjDmGV0SSWvczY",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "81. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=bo8E8TT8D9AU6uraNAvXy7l5NRKFhHXskGvb4VybdEA8QCohSe3mKlVpGaivKVbl2HVhVZuoWdoH0GCK-e5nJpP3IJ97evSWzI1VwYeOpac",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=SKf4H_b_SLagfUwjdxYDFaoR7_YQFS9FfjYuFmT4H_XapeFd7uZFM3Nn_ba_E9sj1g0WC7j3fBRkrH9ED7IzjN--he_HV_wkMdCtiQaCvgo",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2280,7 +2286,7 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD110000181_20241015T040244SQUARE.png"
   },
   {
-    "name": "1063. MGG FAST [1080p-samsungtvplus]",
+    "name": "1063. Bons Plans et Arnaques [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FRBC3900003ZH",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20260616T034218SQUARE.png"
@@ -2340,7 +2346,7 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png"
   },
   {
-    "name": "1073. Doc Story [1080p-samsungtvplus]",
+    "name": "1073. Top Action [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR1200001N2",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20260616T034222SQUARE.png"
