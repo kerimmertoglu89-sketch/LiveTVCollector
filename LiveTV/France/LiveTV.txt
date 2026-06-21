@@ -378,7 +378,7 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: FRANCE
 Name: 1. TF1 [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/ojoveDTONHZ38tDc.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/h34raejkSSdFKqg.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -428,7 +428,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 46. ARTE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/OMvPZ2k3oG8fXHvW.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/z2hyz3hikF6Fa1F.m3u8
 Logo: https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -458,12 +458,12 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 10. TMC [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/7hNl30lwbgNv09Ka.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/nY6K4e1QplgxYRmZ.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 11. TFX [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/7tLu6nXlpKsWYNIe.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/VzGRrd4YIvjIXqs.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -483,7 +483,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 15. LCI [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/4IvJIwfDHKbM9HGn.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/JesPcwyCa0QEJyl.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -498,7 +498,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 20. TF1 Séries Films [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/GLkZIVDWarwcPPvT.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/LXRISKmgqCJZXQ.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -508,7 +508,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/kL07Pnx4d5Zt9Cc.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/rWTcdPMTWe3FUnf0.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -538,7 +538,7 @@ Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100c
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 35. LE FIGARO TV [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QewJsUCbLpW/AznBK8LdqdgLqrm0.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Y4RMNmsYHw9d/R9zbMKu8fKqnQMn.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -778,6 +778,11 @@ URL: http://69.64.57.208/france2/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
+URL: http://85.14.32.26:8800/udp/239.100.10.144:5000
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: France 5 (1080p)
 URL: http://69.64.57.208/france5/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png
@@ -855,6 +860,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
 Group: Kids
+Name: BabyTV France HD (720p)
+URL: http://41.223.30.230/BABYTV/index.m3u8
+Logo: https://i.imgur.com/4BDJ5FT.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Bob l'éponge (720p)
 URL: https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 Logo: https://i.imgur.com/ITwU1yZ.png
@@ -870,8 +880,8 @@ URL: https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffc
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
-Name: Gulli
-URL: https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
+Name: like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
+URL: http://99.27.51.147:8080/Gulli/index.m3u8
 Logo: https://i.imgur.com/kqYssbW.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -935,22 +945,17 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: LEQUIPE.FR
 Name: 78. la chaine L'Équipe en direct
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=gyQzfJ3aZsLB5S24dF2ggV64CCkXS_9-TPnK7qiB-aw-2882p_39rdagwQVseC5DvzuJpE2HTu8GzvVuwlU6696e7I09xRmO7h4cOFD6D2Q
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
---------------------------------------------------
-Name: 79. L'Équipe live  4
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=dkalVTsWr-sw8Y0sGN_lfR_kXZ1ZJGIGxt-pAqELzzAXg26kCs45MUisDiqgZYnqmtwwNATiiAkL6vmfe4BE__lJAKxfH_WDKvGn8ux4GQQ
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=S0ooJ7kQvQyMiJz9rBomjk8IhAJuELYnLBzFGnEfC0EWPvMPKPmFjnLyPKlZ0msDCBcivJ0ujSSJY-rJWyCIfCrD270N8hc0Yt6pwPmtaXU
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 80. My new video title
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=U4bO4uh-RMWJ2_gPhhVy3jsg7EyCdBfLh6pzQ9FZjIhQjb8_6QolgZP75nbXacftgwtspJ49e16btBEYSclDhI0WksC8xdRVIkUBB9WfQdU
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=ceMJE7HDNvOCJoDuEvaJWFqId-mPnQoc1l8LpVGVvNe8cTSChuSPIiwfHiUKsF93FghF8CBW5VKTyNi-YGNeMgOpi9NsRVMvn7tdgowE6uM
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 81. Tennis Channel
-URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=W_LBFISaGOG370lxmCTk29SLj-vGqauH2K-cJXUwtk9ky50N_Pc7hk2cbd19Z6R1csMYX_UDOCwMCBuKDZizwTjneW7h_6s74cPfioL9BwM
+URL: https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=25Osqkjw6ovZa0ETfaQ5iHXARM2PVa0ZN1yesckt7I31XW0uPw7VeHgYmsjSLNahxJeUbJufeJI3hhJereGhP6klG6IzRGLB1r4hPjhFyrU
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1211,6 +1216,21 @@ URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls
 Logo: https://i.imgur.com/deC4z34.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: Trace Africa
+URL: https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+Logo: https://i.imgur.com/kPUkoS7.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Afrikora
+URL: https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+Logo: https://i.imgur.com/CQDdnhp.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Ayiti
+URL: https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+Logo: https://i.imgur.com/KkJ6fet.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Trace Brasil (1080p)
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 Logo: https://i.imgur.com/DFBocPu.png
@@ -1221,14 +1241,54 @@ URL: https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/pla
 Logo: https://i.imgur.com/DFBocPu.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: Trace Caribbean
+URL: https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+Logo: https://i.imgur.com/ZHD7Vxy.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Jama
+URL: https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+Logo: https://i.imgur.com/pthX34m.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Kitoko
+URL: https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+Logo: https://i.imgur.com/q6vkMrU.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Trace Latina (1080p)
 URL: https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/CUVAi4u.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: Trace Mboa
+URL: https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+Logo: https://i.imgur.com/cYwkCj2.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Muzika
+URL: https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+Logo: https://i.imgur.com/xsEGIXO.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Mziki
+URL: https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+Logo: https://i.imgur.com/l3X9Gg4.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Naija
+URL: https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+Logo: https://i.imgur.com/Rguekcp.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Trace Urban (Australia) (1080p)
 URL: https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/DLIbUMx.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Trace Vanilla Islands
+URL: https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+Logo: https://i.imgur.com/ngF58fe.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: TZiK [Not 24/7]
