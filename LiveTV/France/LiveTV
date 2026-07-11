@@ -738,12 +738,6 @@
     "img": "https://i.imgur.com/w4kAX1V.png"
   },
   {
-    "name": "Canal+ (1080p)",
-    "type": "Entertainment",
-    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
-    "img": "https://i.imgur.com/5HcyMnW.png"
-  },
-  {
     "name": "CATFISH TV (720p)",
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8",
@@ -1020,12 +1014,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png"
   },
   {
-    "name": "Canal+ Sport (1080p)",
-    "type": "Sports",
-    "url": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
-    "img": "https://i.imgur.com/EOXnU15.png"
-  },
-  {
     "name": "Equidia (1080p)",
     "type": "Sports",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
@@ -1176,19 +1164,13 @@
     "img": "https://i.imgur.com/deC4z34.png"
   },
   {
-    "name": "Trace Africa",
+    "name": "Trace Africa (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
     "img": "https://i.imgur.com/kPUkoS7.png"
   },
   {
-    "name": "Trace Afrikora",
-    "type": "Music",
-    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-    "img": "https://i.imgur.com/CQDdnhp.png"
-  },
-  {
-    "name": "Trace Ayiti",
+    "name": "Trace Ayiti (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
     "img": "https://i.imgur.com/KkJ6fet.png"
@@ -1206,19 +1188,19 @@
     "img": "https://i.imgur.com/DFBocPu.png"
   },
   {
-    "name": "Trace Caribbean",
+    "name": "Trace Caribbean (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
     "img": "https://i.imgur.com/ZHD7Vxy.png"
   },
   {
-    "name": "Trace Jama",
+    "name": "Trace Jama (1080p)",
     "type": "Music",
-    "url": "https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
     "img": "https://i.imgur.com/pthX34m.png"
   },
   {
-    "name": "Trace Kitoko",
+    "name": "Trace Kitoko (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
     "img": "https://i.imgur.com/q6vkMrU.png"
@@ -1226,32 +1208,38 @@
   {
     "name": "Trace Latina (1080p)",
     "type": "Music",
-    "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
     "img": "https://i.imgur.com/CUVAi4u.png"
   },
   {
-    "name": "Trace Mboa",
+    "name": "Trace Mboa (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
     "img": "https://i.imgur.com/cYwkCj2.png"
   },
   {
-    "name": "Trace Muzika",
+    "name": "Trace Muzika (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
     "img": "https://i.imgur.com/xsEGIXO.png"
   },
   {
-    "name": "Trace Mziki",
+    "name": "Trace Mziki (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
     "img": "https://i.imgur.com/l3X9Gg4.png"
   },
   {
-    "name": "Trace Naija",
+    "name": "Trace Naija (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
     "img": "https://i.imgur.com/Rguekcp.png"
+  },
+  {
+    "name": "Trace Teranga (1080p)",
+    "type": "Music",
+    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+    "img": "https://i.imgur.com/CQDdnhp.png"
   },
   {
     "name": "Trace Urban (Australia) (1080p)",
@@ -1260,13 +1248,13 @@
     "img": "https://i.imgur.com/DLIbUMx.png"
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",Trace Urban HD",
+    "name": "Trace Urban France (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
     "img": "https://i.imgur.com/DLIbUMx.png"
   },
   {
-    "name": "Trace Vanilla Islands",
+    "name": "Trace Vanilla Islands (1080p)",
     "type": "Music",
     "url": "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8",
     "img": "https://i.imgur.com/ngF58fe.png"
@@ -1422,9 +1410,9 @@
     "img": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png"
   },
   {
-    "name": "Trace Gospel (1080p)",
+    "name": "Trace Gospel Africa Franco (1080p)",
     "type": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
     "img": "https://i.imgur.com/X0UmU3K.png"
   },
   {
@@ -1472,7 +1460,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/MmetFPWDaYABwcN.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/FARJ33Htp08n8.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -1526,7 +1514,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/KtYeiYMHwm6K0Yo.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/aBs7LN3cIqz23W9.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1544,7 +1532,7 @@
   {
     "name": "52. LCP - PUBLIC SÉNAT [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/wWvHYUc9B0sviAb.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/8i1EEJhHRxmMtn.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png"
   },
   {
@@ -1562,13 +1550,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/6avEZPdMzp1yRWC.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/Nrh73R1oASVQUlZ.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/q3hmYEYGVQ9Rs2EP.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/K1d2XcES4oguacdJ.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1586,7 +1574,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/uqfYQZOZHLFVS3C.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/FhwWpcmoRjP6MOsK.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1604,13 +1592,13 @@
   {
     "name": "19. NOVO19 [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/bXL7bSyDVwEvfkDF.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/jrMbsTh7EVzxSlUN.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png"
   },
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/F25yeLKdtDyw1K.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/cZ14Lb85Ur7dD1W.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1622,7 +1610,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/oZH63MeW5nURmaMk.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/rWivYTMlzDbn0BLD.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1658,7 +1646,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/ZXeQCbWuSjVRVXdM.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/0VFQ1OV954p5atJC.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1688,19 +1676,19 @@
   {
     "name": "78. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=p_AiJIRzABX2JqQyBjGAX_rLaMlV4iU3XlszuYYO2fgZqAmMK2tidxpbk_V9-8wW3GFjX0if1yyjcIYcVEmesDz0NAf9sVtxBA4_AHvu5Lk",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=oT803aBCmHLzbIT0qqgm_smXI-chej9KrpFRqpt4LrqRZGnPuWfVAuczxvwMGQE3VZMBXcSDnmf3Nlt5wzDesc_s11JcoZFZcX7WUUOmBxw",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=qEqtNA_QH1OwsKw7qMy69a6Vn_F-Abb3TabycWc9RAvSqv6MSSFHEDNNjaTol3ToE1L5Qx2CZKPQ3zju8ejpTmt0f7hGG_rLjfT-huBMenM",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=7M3n3UpOTf7fVymT1-otI6DPfUb7qpRZP14lc1Jww9G8-5-KKMQYBCtotk-MUk06ShINDPK3QDRmR65_3STN9Qwd2HoSEI-CSGkF0pEjcmg",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "81. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=3pwHTdQv57cAPtRfOWm0XYlejkYbjBxmydFIhBZAikvyI6cUaVYEjQfbauGzBTejUj-S2ayqG9u3VJ3Y-QjFzMruXtrKZBlMT7tKpBM4r1g",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=hFQeh5W2A9GqbYlIDRIWDLiXWsdjkp07-rszQxMwak4gm_UG8zaEeiFXyNSx3gJ5FMgDQ7Np3B1A4qYCWq-H_Y5Dx262IL4QLzFXluuhENo",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1904,7 +1892,7 @@
   {
     "name": "210. RED BULL TV",
     "type": "TF1PLUS",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HNmzIYoSFZZ7/VZp0n4Jug2MXn19.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Uadzy8IcOhko/hqsSSbhUNwhLYkU8.m3u8",
     "img": "https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png"
   },
   {
