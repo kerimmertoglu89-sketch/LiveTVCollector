@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22 07:22:42",
+  "date": "2026-07-22 15:46:43",
   "channels": {
     "Entertainment": [
       {
@@ -1852,7 +1852,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/Rfa3Yx66cHfd7hS3.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/JTByarvkvH2W2Myo.m3u8"
       },
       {
         "name": "2. France 2 [1080p-france.tv]",
@@ -1915,7 +1915,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/IQ3oX85mt0yK3jy5.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/xLLBNE8xABJwKe7K.m3u8"
       },
       {
         "name": "47. Arte [1080p-france.tv]",
@@ -1936,7 +1936,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/FZXbocb7BawFj2Uf.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/wuAo8IxYYh1rxC10.m3u8"
       },
       {
         "name": "51. LCP-AN [1080p-dailymotion.com]",
@@ -1957,14 +1957,14 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/NrZGf1fQbxSdCH.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/bd6LEmwOxwkXuFk.m3u8"
       },
       {
         "name": "11. TFX [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/todO294h1tXsx10.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/NGYFpkFEGOLFA76.m3u8"
       },
       {
         "name": "13. BFM TV [1080p-rmcbfmplay.com]",
@@ -1985,7 +1985,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/eQv8xtz1HvF2U8e.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/7qSh3aTJHEebzpdn.m3u8"
       },
       {
         "name": "16. France Info [1080p-france.tv]",
@@ -2006,14 +2006,14 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/eBkDPTihT9vPMsTE.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/Yjkn09JTcZJKWK9I.m3u8"
       },
       {
         "name": "20. TF1 Séries Films [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/tYQO7GE5QWPgEqm.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/dHU5f8380IMK26TR.m3u8"
       },
       {
         "name": "21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]",
@@ -2027,7 +2027,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/ueciGsM0owKWiG4O.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/awH8GNpnXoErjJF.m3u8"
       },
       {
         "name": "23. RMC STORY [1080p-rmcbfmplay.com]",
@@ -2069,7 +2069,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/jaMCGrKKpTPfdFt.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/3v85bpWBalFs0o.m3u8"
       },
       {
         "name": "40. CANAL+ EN CLAIR [1080p-canalplus.com]",
@@ -2108,21 +2108,28 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=-xrixXN2PNRu08pljjfZSQkl97FC2inqt6Yf0xsXakrkPSlNDRjnHaI3Ydumn5q7vq-gKWP1p51fg2FkejqhRk3JUIxdwJOFkIQFGObg_bQ"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=ivQxG_86UHwEo-BQAOb9ajP_yoOJk7Aa1H_LD6uwY4DmYV2Wss3puVXC4ypDvlxJffTZGyMzkEt4hEK8bqqUJxDa_ksfg0rLVOsOsrAfstc"
       },
       {
         "name": "79. My new video title",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=p9UlqIjp1HjyFNHmaUVfAOV5b-l_VRanEyA7fiI9UCNxKtHLl9ETQjN7_NAIkSI6o7sGuTfvnNI-r0zOv3QnKJRfJGChz7C8eAkqfM_EDuk"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=pPYEFp_Ybmbh_CeQCCeR4n36865Sd-D9uVuXMBnb9o0J_AJ7P0h0VCmOBmKZX74KKhnaRdSY5ceQgi25a-4ZH8DI4Im66_LsPlBU19qk9HQ"
       },
       {
         "name": "80. Tennis Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=QFkuF2LwuakRekO_vxXdon0fCpGGtnqcnCrIVv9PnhX8ZrjpqWmm4l17EODQNm0LTTx8xGg7jytaY6-SFy9-K_q6o3w_xCNdG46N4gvGAvI"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=HNcBiII6r-Un7C96TjOXtZBRqc8goFLZEhIn6NTfIFMXaQ03QvoC9EkqhGpJvNUpn-fzCfKwr2L5PDMJvkY2eRZKfapC55b-Anpgp8LEMqE"
+      },
+      {
+        "name": "81. L'Équipe live 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "LEQUIPE.FR",
+        "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=fAFXi9vWHxcT_YzEfUwhqIxcNtCwCNcwDBcuXZvf4v7pmh3g7e-Uz8Wve2wymPFeUJYyqQtHQZOHLvprQ1yzG-xKFOan_NUtcevI_RSo-c0"
       }
     ],
     "FRANCE.TV": [
@@ -2364,7 +2371,7 @@
         "logo": "https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png",
         "group": "TF1PLUS",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0MAh46COgwKE/RFMCxVowQsf1fyE.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PDKcMasfKzcE/AsXy6gRRyA69nhSG.m3u8"
       }
     ],
     "EQUIDIA": [
@@ -2842,7 +2849,7 @@
       },
       {
         "name": "1010. ADN [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260707T051618SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FRBD5100001ZA"
@@ -2933,7 +2940,7 @@
       },
       {
         "name": "1026. Emotion'L [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20251209T004344SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20260721T035724SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FRBB340000115"
@@ -3192,7 +3199,7 @@
       },
       {
         "name": "1068. RMC alerte secours [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260707T051738SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR30000271"
@@ -3549,7 +3556,7 @@
       },
       {
         "name": "1142. Invitation au voyage [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20260407T040137SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20260721T035806SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR3700004HZ"
@@ -3738,7 +3745,7 @@
       },
       {
         "name": "1173. Shark TV [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000002JN_20260707T051746SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000002JN_20260721T035919SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR4000002JN"
@@ -3752,7 +3759,7 @@
       },
       {
         "name": "1175. 100% Kidz [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260224T030928SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260721T035841SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR3400004L5"
@@ -3794,7 +3801,7 @@
       },
       {
         "name": "1181. Masha et Michka [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR38000024W_20260120T031404SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR38000024W_20260721T093948SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR38000024W"
@@ -3829,7 +3836,7 @@
       },
       {
         "name": "1186. Merhaba Amour [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800003N7_20260310T031740SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800003N7_20260721T035811SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR3800003N7"
@@ -3871,7 +3878,7 @@
       },
       {
         "name": "1192. Brut. [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260528T055308SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260721T035858SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR700007HY"
@@ -3983,14 +3990,14 @@
       },
       {
         "name": "1208. Sony One Séries Thriller [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20260421T123928SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20260721T035826SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR3000125U"
       },
       {
         "name": "1209. Sony One Séries Comédie [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20260421T123916SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20260721T035818SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/stvp-FR3000082K"
