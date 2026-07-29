@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28 22:49:54",
+  "date": "2026-07-29 07:21:18",
   "channels": {
     "Entertainment": [
       {
@@ -976,13 +976,6 @@
         "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8"
       },
       {
-        "name": "RMC Decouverte (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/RMCDECOUVERTE/index.m3u8"
-      },
-      {
         "name": "RMC Story (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png",
         "group": "Undefined",
@@ -1083,27 +1076,61 @@
         "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8"
       }
     ],
-    "Kids": [
+    "Animation;Kids": [
       {
-        "name": "BabyTV France HD (720p)",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
-        "group": "Kids",
+        "name": "Banijay Mr Bean Animé (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.223.30.230/BABYTV/index.m3u8"
+        "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
       },
+      {
+        "name": "Detective Conan France (720p)",
+        "logo": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8"
+      },
+      {
+        "name": "Pluto TV Retro Toons",
+        "logo": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
+      },
+      {
+        "name": "Teletoon+ (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8"
+      }
+    ],
+    "Business;News": [
+      {
+        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"Business;News\",BFM Business (1080p)",
+        "logo": "https://i.imgur.com/psqIHn4.png",
+        "group": "Business;News",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+      }
+    ],
+    "News;Science": [
+      {
+        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News;Science\",BFM Tech & Co (1080p)",
+        "logo": "https://i.imgur.com/FQ0FpXV.png",
+        "group": "News;Science",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+      }
+    ],
+    "Kids": [
       {
         "name": "Bob l'éponge (720p)",
         "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8"
-      },
-      {
-        "name": "Canal J HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/CANALJ/index.m3u8"
       },
       {
         "name": "Disney Jr. (1080p)",
@@ -1132,13 +1159,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://99.27.51.147:8080/Gulli/index.m3u8"
-      },
-      {
-        "name": "Gulli HD (720p)",
-        "logo": "https://i.imgur.com/kqYssbW.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/GULLI/index.m3u8"
       },
       {
         "name": "iCarly TV",
@@ -1197,66 +1217,11 @@
         "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8"
       },
       {
-        "name": "TiJi HD (720p)",
-        "logo": "https://i.imgur.com/ZjsfAGb.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/TIJI/index.m3u8"
-      },
-      {
         "name": "Tortues Ninja TV (720p)",
         "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Banijay Mr Bean Animé (1080p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
-      },
-      {
-        "name": "Detective Conan France (720p)",
-        "logo": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8"
-      },
-      {
-        "name": "Pluto TV Retro Toons",
-        "logo": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
-      },
-      {
-        "name": "Teletoon+ (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8"
-      }
-    ],
-    "Business;News": [
-      {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"Business;News\",BFM Business (1080p)",
-        "logo": "https://i.imgur.com/psqIHn4.png",
-        "group": "Business;News",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
-      }
-    ],
-    "News;Science": [
-      {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News;Science\",BFM Tech & Co (1080p)",
-        "logo": "https://i.imgur.com/FQ0FpXV.png",
-        "group": "News;Science",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
       }
     ],
     "Sports": [
@@ -1338,13 +1303,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
-      },
-      {
-        "name": "National Geographic Wild (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/NATGEO-WILD/index.m3u8"
       },
       {
         "name": "Nature Time France (1080p)",
@@ -1661,11 +1619,11 @@
         "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8"
       },
       {
-        "name": "KTO (720p)",
+        "name": "KTO (504p)",
         "logo": "https://i.imgur.com/EY6TsdV.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://41.205.77.102/KTO/index.m3u8"
+        "url": "http://145.239.5.177/354/index.m3u8"
       }
     ],
     "Lifestyle": [
@@ -1845,7 +1803,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/IID26E9Up4kGPhP5.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/ibcoDKcYzW7j5HNw.m3u8"
       },
       {
         "name": "2. France 2 [1080p-france.tv]",
@@ -1908,7 +1866,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/x98bJhCa5XCLwNCz.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/1MzYtePirUydeRaN.m3u8"
       },
       {
         "name": "47. Arte [1080p-france.tv]",
@@ -1929,7 +1887,7 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/j5HWc5HwuZwIPJV.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/kCrayA00rVqd4dBv.m3u8"
       },
       {
         "name": "51. LCP-AN [1080p-dailymotion.com]",
@@ -1950,14 +1908,14 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/knzKclVfEfYmE6Hp.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/fFx74H2zNMGgReYU.m3u8"
       },
       {
         "name": "11. TFX [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/yakZFVxAZtEIltg0.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/hlnwhQwO1cuVftl.m3u8"
       },
       {
         "name": "13. BFM TV [1080p-rmcbfmplay.com]",
@@ -1978,7 +1936,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/51UBtdtrriPiJuKp.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/M4I6ddtb35wajf.m3u8"
       },
       {
         "name": "16. France Info [1080p-france.tv]",
@@ -1999,14 +1957,14 @@
         "logo": "https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/nqdKOaNQiMBrwn7t.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/0aBvDFHll5V5mZg.m3u8"
       },
       {
         "name": "20. TF1 Séries Films [720p-tf1.fr]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/6eeRcayBGohjH1BI.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/orfVMnNQ1wOFVqHe.m3u8"
       },
       {
         "name": "21. LA CHAÎNE L'ÉQUIPE [1080p-dailymotion.com]",
@@ -2020,7 +1978,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/lXmIU7JA0bWT.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/rsLhYnMZBM9Jn1qB.m3u8"
       },
       {
         "name": "23. RMC STORY [1080p-rmcbfmplay.com]",
@@ -2062,7 +2020,7 @@
         "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100",
         "group": "FRANCE",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/PoDMPRAlHtcwlvW3.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/JOpPozGlMlWdWpH7.m3u8"
       },
       {
         "name": "40. CANAL+ EN CLAIR [1080p-canalplus.com]",
@@ -2101,14 +2059,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=R1-cU4iILeV_CUEll1oRkCz96TqjKovUCVc8LQeNHQReZ69iV-5BeY2-5HayvR7NSrIeomtNiihsXxgAXmaNIq8EdrRJtJMWgRM_VV-Lne0"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=pEY42On5Udh5shVgb4ZDF1qWxHGeF-Gj0akTo6pIIFzpaZzQ9b8rP-z0v4RoLD4ciu9brSBWsGShSqtBvjvcIeMomfNPKgf2zbpRWD__KPI"
       },
       {
         "name": "80. Tennis Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "LEQUIPE.FR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=HTGw4hzFi8nTII3lwEDfZgatSnnJ8CFbQYv_U8tJphKtUOxap7u7ibWAuIPFdIN3TyKK48PJiJgAz80kn70LbhYOYrCZnLwdjti3WEvUa28"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=BYAiDJZ4YdyoVKcS3p1fSs1QkHSMXH2AQiYpDmpEAzewzySmTaExUxHPx67AAPmezPuuLNE0u9aUxjtCyFQ15P6GKnqZjgSU-wt_0k7sYC8"
       }
     ],
     "FRANCE.TV": [
@@ -2350,7 +2308,7 @@
         "logo": "https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png",
         "group": "TF1PLUS",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zFczSdtUN2WV/IBcF7No5n0p0WOo9.m3u8"
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Q4fyWbsOHVHS/isN03aFjZH98CA48.m3u8"
       }
     ],
     "EQUIDIA": [
