@@ -30,27 +30,15 @@
     "img": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png"
   },
   {
-    "name": "DNTV",
-    "type": "Entertainment",
-    "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
-    "img": "https://i.imgur.com/Pw1ifln.png"
-  },
-  {
-    "name": "Just Tattoo of Us",
-    "type": "Entertainment",
-    "url": "https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8",
-    "img": "https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",M6 (1080p)",
     "type": "Entertainment",
     "url": "http://99.27.51.147:8080/M6/index.m3u8",
     "img": "https://i.imgur.com/7GVp3fW.png"
   },
   {
-    "name": "MTV (720p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV",
     "type": "Entertainment",
-    "url": "http://41.205.70.146/MTVFRANCE/index.m3u8",
+    "url": "http://99.27.51.147:8080/MTV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
@@ -64,12 +52,6 @@
     "type": "Entertainment",
     "url": "https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8",
     "img": "https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png"
-  },
-  {
-    "name": "Pluto TV Footanim'",
-    "type": "Entertainment",
-    "url": "https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8",
-    "img": "https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png"
   },
   {
     "name": "Pluto TV French Collection",
@@ -162,12 +144,6 @@
     "img": "https://i.imgur.com/090tCQ5.png"
   },
   {
-    "name": "Angers Tele (180p)",
-    "type": "General",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8",
-    "img": "https://i.imgur.com/CMKKbaP.png"
-  },
-  {
     "name": "Antenne Réunion (720p) [Not 24/7]",
     "type": "General",
     "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
@@ -186,22 +162,10 @@
     "img": "https://i.imgur.com/y94bhqX.jpg"
   },
   {
-    "name": "Canal 32 (1080p)",
-    "type": "General",
-    "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
-    "img": "https://i.imgur.com/lAsE6kN.png"
-  },
-  {
     "name": "Cannes Lérins TV (1080p)",
     "type": "General",
     "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
     "img": "https://i.imgur.com/atlgnum.png"
-  },
-  {
-    "name": "France 2 (1080p)",
-    "type": "General",
-    "url": "http://69.64.57.208/france2/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"General\",France 3",
@@ -222,34 +186,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg"
   },
   {
-    "name": "France 5 (1080p)",
+    "name": "France 5 (720p)",
     "type": "General",
-    "url": "http://69.64.57.208/france5/mono.m3u8",
+    "url": "http://145.239.5.177/305/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png"
-  },
-  {
-    "name": "France Inter (288p)",
-    "type": "General",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8",
-    "img": "https://i.imgur.com/MgBeU52.png"
-  },
-  {
-    "name": "ici Elsass (180p)",
-    "type": "General",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg"
   },
   {
     "name": "Le Figaro IDF (1080p)",
     "type": "General",
     "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
     "img": "https://i.imgur.com/a8RuRUQ.png"
-  },
-  {
-    "name": "Men's UP TV (288p)",
-    "type": "General",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8",
-    "img": "https://i.imgur.com/5BZwRFs.png"
   },
   {
     "name": "Puissance TV",
@@ -456,28 +402,10 @@
     "img": "https://i.imgur.com/u8N6uoj.png"
   },
   {
-    "name": "Franceinfo",
-    "type": "News",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
-    "img": "https://i.imgur.com/eITXz6A.png"
-  },
-  {
     "name": "LCI HD (1080p)",
     "type": "News",
-    "url": "http://151.80.18.177:86/LCI_HD/index.m3u8",
+    "url": "http://145.239.5.177/368/index.m3u8",
     "img": "https://i.imgur.com/DED8EXs.png"
-  },
-  {
-    "name": "Le Media TV (180p)",
-    "type": "News",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
-    "img": "https://i.imgur.com/OK20oyl.png"
-  },
-  {
-    "name": "Lyon Capitale TV (180p)",
-    "type": "News",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8",
-    "img": "https://i.imgur.com/4WfnEaj.png"
   },
   {
     "name": "RT France (1080p) [Geo-blocked]",
@@ -600,18 +528,6 @@
     "img": "https://i.imgur.com/uJC8rXr.png"
   },
   {
-    "name": "Sony One Series Comedie (1080p)",
-    "type": "Series",
-    "url": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
-    "img": "https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png"
-  },
-  {
-    "name": "Sony One Series Thriller (1080p)",
-    "type": "Series",
-    "url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-    "img": "https://i.imgur.com/RVS8LDj.png"
-  },
-  {
     "name": "Tout le monde déteste Chris",
     "type": "Series",
     "url": "https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8",
@@ -634,132 +550,6 @@
     "type": "Series",
     "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
     "img": "https://i.imgur.com/fEjNAps.png"
-  },
-  {
-    "name": "AraBel (180p)",
-    "type": "Undefined",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8",
-    "img": "https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png"
-  },
-  {
-    "name": "B Smart TV (320p)",
-    "type": "Undefined",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8",
-    "img": "https://i.imgur.com/RyVEFcG.png"
-  },
-  {
-    "name": "Caillou",
-    "type": "Undefined",
-    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
-    "img": "https://i.imgur.com/RgKaoe4.png"
-  },
-  {
-    "name": "Generations TV (576p)",
-    "type": "Undefined",
-    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
-    "img": "https://i.imgur.com/NgBrDMe.png"
-  },
-  {
-    "name": "ILTV (720p)",
-    "type": "Undefined",
-    "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/fVhrJHK.png"
-  },
-  {
-    "name": "MDL (720p)",
-    "type": "Undefined",
-    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/REN30bx.png"
-  },
-  {
-    "name": "Radio Frontieres",
-    "type": "Undefined",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8",
-    "img": "https://www.frontieresmedia.fr/img/logo.svg"
-  },
-  {
-    "name": "RFM TV [Not 24/7]",
-    "type": "Undefined",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
-    "img": "https://i.imgur.com/FVDTJxW.png"
-  },
-  {
-    "name": "RMC Story (1080p)",
-    "type": "Undefined",
-    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"
-  },
-  {
-    "name": "Serie Club (720p)",
-    "type": "Undefined",
-    "url": "http://145.239.5.177/355/index.m3u8",
-    "img": "https://i.imgur.com/V8wRRg5.png"
-  },
-  {
-    "name": "Sud Radio (288p)",
-    "type": "Undefined",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8",
-    "img": "https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Syfy",
-    "type": "Undefined",
-    "url": "http://99.27.51.147:8080/SYFY/index.m3u8",
-    "img": "https://i.imgur.com/gUOXdjv.png"
-  },
-  {
-    "name": "Telenantes (180p)",
-    "type": "Undefined",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8",
-    "img": "https://i.imgur.com/G1SCqNI.png"
-  },
-  {
-    "name": "Teva (1080p)",
-    "type": "Undefined",
-    "url": "http://145.239.5.177/356/index.m3u8",
-    "img": "https://i.imgur.com/kDW0hN5.png"
-  },
-  {
-    "name": "TFX (720p)",
-    "type": "Undefined",
-    "url": "http://145.239.5.177/315/index.m3u8",
-    "img": "https://i.imgur.com/d91GcVf.png"
-  },
-  {
-    "name": "TiVi5 Monde [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
-    "img": "https://i.imgur.com/fVVKpmk.png"
-  },
-  {
-    "name": "TV78 (720p)",
-    "type": "Undefined",
-    "url": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
-    "img": "https://i.imgur.com/stzE1Ij.png"
-  },
-  {
-    "name": "TV Breizh (1080p)",
-    "type": "Undefined",
-    "url": "http://145.239.5.177/318/index.m3u8",
-    "img": "https://i.imgur.com/O8W4yhn.png"
-  },
-  {
-    "name": "TVR (Bretagne) (720p)",
-    "type": "Undefined",
-    "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
-    "img": "https://www.tvr.bzh/favicon-1024.png"
-  },
-  {
-    "name": "ViàMatélé (1080p)",
-    "type": "Undefined",
-    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
-    "img": "https://i.imgur.com/XVCV9rj.png"
-  },
-  {
-    "name": "Vosges Télévision (576p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
-    "img": "https://i.imgur.com/7y7ancc.png"
   },
   {
     "name": "Banijay Mr Bean Animé (1080p)",
@@ -874,6 +664,102 @@
     "type": "Kids",
     "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
     "img": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"
+  },
+  {
+    "name": "Caillou",
+    "type": "Undefined",
+    "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+    "img": "https://i.imgur.com/RgKaoe4.png"
+  },
+  {
+    "name": "Generations TV (576p)",
+    "type": "Undefined",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "img": "https://i.imgur.com/NgBrDMe.png"
+  },
+  {
+    "name": "ILTV (720p)",
+    "type": "Undefined",
+    "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/fVhrJHK.png"
+  },
+  {
+    "name": "MDL (720p)",
+    "type": "Undefined",
+    "url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/REN30bx.png"
+  },
+  {
+    "name": "RFM TV [Not 24/7]",
+    "type": "Undefined",
+    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
+    "img": "https://i.imgur.com/FVDTJxW.png"
+  },
+  {
+    "name": "RMC Story (1080p)",
+    "type": "Undefined",
+    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png"
+  },
+  {
+    "name": "Serie Club (720p)",
+    "type": "Undefined",
+    "url": "http://145.239.5.177/355/index.m3u8",
+    "img": "https://i.imgur.com/V8wRRg5.png"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Syfy",
+    "type": "Undefined",
+    "url": "http://99.27.51.147:8080/SYFY/index.m3u8",
+    "img": "https://i.imgur.com/gUOXdjv.png"
+  },
+  {
+    "name": "Teva (1080p)",
+    "type": "Undefined",
+    "url": "http://145.239.5.177/356/index.m3u8",
+    "img": "https://i.imgur.com/kDW0hN5.png"
+  },
+  {
+    "name": "TFX (720p)",
+    "type": "Undefined",
+    "url": "http://145.239.5.177/315/index.m3u8",
+    "img": "https://i.imgur.com/d91GcVf.png"
+  },
+  {
+    "name": "TiVi5 Monde [Geo-blocked]",
+    "type": "Undefined",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
+    "img": "https://i.imgur.com/fVVKpmk.png"
+  },
+  {
+    "name": "TV78 (720p)",
+    "type": "Undefined",
+    "url": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
+    "img": "https://i.imgur.com/stzE1Ij.png"
+  },
+  {
+    "name": "TV Breizh (1080p)",
+    "type": "Undefined",
+    "url": "http://145.239.5.177/318/index.m3u8",
+    "img": "https://i.imgur.com/O8W4yhn.png"
+  },
+  {
+    "name": "TVR (Bretagne) (720p)",
+    "type": "Undefined",
+    "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "img": "https://www.tvr.bzh/favicon-1024.png"
+  },
+  {
+    "name": "ViàMatélé (1080p)",
+    "type": "Undefined",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "img": "https://i.imgur.com/XVCV9rj.png"
+  },
+  {
+    "name": "Vosges Télévision (576p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+    "img": "https://i.imgur.com/7y7ancc.png"
   },
   {
     "name": "Canal+ Cinemas (720p)",
@@ -996,12 +882,6 @@
     "img": "https://i.imgur.com/8sHuxxS.png"
   },
   {
-    "name": "Wild Side TV",
-    "type": "Movies",
-    "url": "https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8",
-    "img": "https://i.imgur.com/cQkfRhH.png"
-  },
-  {
     "name": "Zylo Ciné Nanar (1080p)",
     "type": "Movies",
     "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
@@ -1054,12 +934,6 @@
     "type": "Sports",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
     "img": "https://i.imgur.com/M1Ee79b.png"
-  },
-  {
-    "name": "L'Equipe (1080p)",
-    "type": "Sports",
-    "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-    "img": "https://i.imgur.com/t35zhM9.png"
   },
   {
     "name": "Pluto TV Snooker 900 (720p)",
@@ -1128,12 +1002,6 @@
     "img": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Comedy\",Novo Comedy (720p)",
-    "type": "Comedy",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
-    "img": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png"
-  },
-  {
     "name": "Pluto TV Comédie",
     "type": "Comedy",
     "url": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8",
@@ -1158,12 +1026,6 @@
     "img": "https://i.imgur.com/ab6p2SW.png"
   },
   {
-    "name": "Fun Radio",
-    "type": "Music",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8",
-    "img": "https://i.imgur.com/wgxuYsQ.png"
-  },
-  {
     "name": "Littoral FM (720p)",
     "type": "Music",
     "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
@@ -1176,22 +1038,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png"
   },
   {
-    "name": "MCM Pop",
-    "type": "Music",
-    "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554",
-    "img": "https://i.imgur.com/j31lBL7.png"
-  },
-  {
     "name": "MCM Top (1080p)",
     "type": "Music",
     "url": "http://89.33.29.118/MCM/index.m3u8",
     "img": "https://i.imgur.com/EVtWQLd.png"
-  },
-  {
-    "name": "Melody (288p)",
-    "type": "Music",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8",
-    "img": "https://i.imgur.com/9GVyQ6x.png"
   },
   {
     "name": "Mezzo (1080p)",
@@ -1204,12 +1054,6 @@
     "type": "Music",
     "url": "http://stream.mcquack.net/276/index.m3u8",
     "img": "https://i.imgur.com/H9ytKPN.png"
-  },
-  {
-    "name": "Mouv' TV (288p)",
-    "type": "Music",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8",
-    "img": "https://i.imgur.com/64nzKEu.jpg"
   },
   {
     "name": "NRJ Hits",
@@ -1228,18 +1072,6 @@
     "type": "Music",
     "url": "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8",
     "img": "https://i.imgur.com/89yWH5L.png"
-  },
-  {
-    "name": "Radio Karaoke (288p)",
-    "type": "Music",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8",
-    "img": "https://i.imgur.com/9uRggjD.png"
-  },
-  {
-    "name": "RTL2",
-    "type": "Music",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8",
-    "img": "https://i.imgur.com/deC4z34.png"
   },
   {
     "name": "Trace Africa (1080p)",
@@ -1344,12 +1176,6 @@
     "img": "https://i.imgur.com/TAagRkn.png"
   },
   {
-    "name": "EMCI TV (288p)",
-    "type": "Religious",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Evandis Gospel TV (1080p)",
     "type": "Religious",
     "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8",
@@ -1378,12 +1204,6 @@
     "type": "Lifestyle",
     "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
     "img": "https://i.imgur.com/vXbAeD0.png"
-  },
-  {
-    "name": "Maison & Travaux TV (288p)",
-    "type": "Lifestyle",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8",
-    "img": "https://i.imgur.com/uYpc6nE.png"
   },
   {
     "name": "Monte Carlo Digital Television (1080p)",
@@ -1416,34 +1236,10 @@
     "img": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png"
   },
   {
-    "name": "Pluto TV 2010's Classics",
-    "type": "Movies;Series",
-    "url": "https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8",
-    "img": "https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png"
-  },
-  {
-    "name": "Star Trek: The Original Series",
-    "type": "Movies;Series",
-    "url": "https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8",
-    "img": "https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png"
-  },
-  {
     "name": "Museum TV [Geo-blocked]",
     "type": "Culture",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
     "img": "https://i.imgur.com/WbjURLo.png"
-  },
-  {
-    "name": "My Gospel TV",
-    "type": "Music;Religious",
-    "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
-    "img": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png"
-  },
-  {
-    "name": "Trace Gospel Africa Franco (1080p)",
-    "type": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
-    "img": "https://i.imgur.com/X0UmU3K.png"
   },
   {
     "name": "MyZen TV (1080p)",
@@ -1464,16 +1260,16 @@
     "img": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png"
   },
   {
-    "name": "Public Senat 24/24",
-    "type": "Legislative",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8",
-    "img": "https://i.imgur.com/nHWWLBP.png"
-  },
-  {
     "name": "RMC Life (1080p)",
     "type": "Entertainment;Interactive",
     "url": "http://145.239.5.177/333/index.m3u8",
     "img": "https://img1.dc2.oqee.net/channel_pictures/3606/w512"
+  },
+  {
+    "name": "Trace Gospel Africa Franco (1080p)",
+    "type": "Music;Religious",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
+    "img": "https://i.imgur.com/X0UmU3K.png"
   },
   {
     "name": "Voyages & Saveurs (720p)",
@@ -1490,7 +1286,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/AnYayV83vPnBeRq3.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/medF4rhoZj7g1D.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -1544,7 +1340,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/ZUjnQrRo58wSw0nG.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/Xf0OUp3DaMleyxri.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1562,7 +1358,7 @@
   {
     "name": "52. LCP - PUBLIC SÉNAT [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/cSA45rts6dZ17uGv.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/cF64eWfjMWMSa50.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png"
   },
   {
@@ -1574,13 +1370,13 @@
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/QrNHEXrISp3RR0aN.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/qlXYg1tlVfhZBwN7.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/lhefOLuCw74YkG6.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/ORXBC1pLiklOCn8J.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1598,7 +1394,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/pSHXVK4um16mYFsv.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/TybTm44t09x1p0.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1616,13 +1412,13 @@
   {
     "name": "19. NOVO19 [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/qeOOU9HA58Os.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/11X81NqvMZViAwrO.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png"
   },
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/0QWvlokt3DHZ5Qyi.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/a1TR2Jbq0CzzKJy.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1634,7 +1430,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/dqRkuOdmpGhAdCUC.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/kkTvBic84sJeiDi.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1670,7 +1466,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/IrhtEO3XbKTycpx.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/IRsDWZ5xuYkdB41.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1694,19 +1490,31 @@
   {
     "name": "78. My new video title",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=nbsTDwnHTVZGCAAp0PToFblmRVCKR52R2Z3kpuhmW3XuX522K7ssbMpdlmrvbZWOH3n5aaksA-H2twc_J92FBea1XJekNjZrTz2GgsdP3UU",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=dp1bYh_lXf3M0WACkK8BWYK4llxp4HAHHiiGAWp2CooIcd3n6oSaot9eABqhsuamCWUOzo86VEJPxItBf2vPhh7lqGCQ0PWqKwPJ92AvT_M",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "79. L'Équipe live 2",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=XNVQvDB2IfeELSVX6k_C_Z8SrXC6nlSmnSL3BW_mOm3AgaUbVsTxZkONmP3H113ks8drKSUyvSvDkmTscm0q6APIe5SgH4vOhVAFUYWq3C8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "80. Tennis Channel",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=qELnSUFZ0ne3AVuvG_xc05kksQKLdx7_jx_DZfK7onawRMyU6AoQeltwv3oYcc_YrUbsYtb-ToL7o8pKNA73ZYYTHUsFNpUh0f1mGFiwwlM",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=p3KfeIBSxBSfp8P_j1b1B9hOGMTxIi2zCVaJhAXgvTgDpoxykjTQE0zVJYn6jinJzwYjeZCKUHDTs8_eYOyBeFg3sMd2IXp0yAZ5qcnkoK4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "81. la chaine L'Équipe en direct",
     "type": "LEQUIPE.FR",
-    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=AuLdqYaZ-BbZIsKf6VC8dxPaLqfwVLLgB55IT76AuiWb8Lh1Qp9o0HhKZ0Piv502lW2R0MlPaiDaOFxbQWkNiH072GirXZOjoJVRoaXxjRU",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=AHHsH6bNYoXs1ZMNA-L405wByEr-Ax4c7BoDmFubZ1owgsC1nTaan0cY_rgWWbaEMRV3T4a1BjXSolnmToGQKiKD8T_hDkL47q1tKW6E700",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "82. L'Équipe live  4",
+    "type": "LEQUIPE.FR",
+    "url": "https://cdndirector.dailymotion.com/cdn/live/video/x6hd06p.m3u8?sec=X1WGpcfl9ptclFB08xCNt--ERq12CcxUmQwpKYdeBWyUp-h9ajWKQJm6i_pDTenGLIcGTf1OadurQyuBkG22KBKsVldXC625NYB8eJnnIR4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1910,7 +1718,7 @@
   {
     "name": "210. RED BULL TV",
     "type": "TF1PLUS",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/RsET6HZzetEk/918M4MsVn6fVR3G.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UUmCbp0raIKK/VYr5MHioWUgats03.m3u8",
     "img": "https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png"
   },
   {
