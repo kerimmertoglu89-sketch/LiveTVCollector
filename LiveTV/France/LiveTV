@@ -204,12 +204,6 @@
     "img": "https://i.imgur.com/hrm5QnU.png"
   },
   {
-    "name": "Paris Premiere (720p)",
-    "type": "General",
-    "url": "http://193.254.245.162/PARIS-PREMIERE/index.m3u8",
-    "img": "https://i.imgur.com/ily4bEm.png"
-  },
-  {
     "name": "Puissance TV",
     "type": "General",
     "url": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8",
@@ -1122,12 +1116,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png"
   },
   {
-    "name": "Nicktoons (France) (1080p)",
-    "type": "Kids",
-    "url": "http://193.254.245.162/NICKELODEON/index.m3u8",
-    "img": "https://i.imgur.com/OWRUPA4.png"
-  },
-  {
     "name": "Pluto TV Kids Classics FR (720p)",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
@@ -1286,7 +1274,7 @@
   {
     "name": "1. TF1 [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/kdJh3VOAPLZPIH.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/lYQ0aQO6Z1WNeNI.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100"
   },
   {
@@ -1340,7 +1328,7 @@
   {
     "name": "46. ARTE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/JkQyDmLnicE9GPkp.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/xVZrBpjCcMtq1VNn.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png"
   },
   {
@@ -1358,19 +1346,19 @@
   {
     "name": "52. LCP - PUBLIC SÉNAT [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/VsWb8Nlen1sUZM.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/6ioWNsCfA7TPYre.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png"
   },
   {
     "name": "10. TMC [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/CYrsz1uFScoF4OR.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/8nx2he91qSfeVCEk.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100"
   },
   {
     "name": "11. TFX [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/uI2JP8FLsNsIzj1.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/lYG0oqnGiQxFdfxl.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100"
   },
   {
@@ -1394,7 +1382,7 @@
   {
     "name": "15. LCI [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/TVWPTDIAPuLnB9C0.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/dTickTA1TCQoWsO7.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100"
   },
   {
@@ -1406,13 +1394,13 @@
   {
     "name": "19. NOVO19 [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/WhteD5iYQ6wqrEaT.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/QfoMXtDvakahZZOd.m3u8",
     "img": "https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png"
   },
   {
     "name": "20. TF1 Séries Films [720p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/AP2iosjLUe78NEm.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/2WAUI4S3GZnpQpZR.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100"
   },
   {
@@ -1424,7 +1412,7 @@
   {
     "name": "44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/YItcTmpYfzOt5KUP.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/uZlaN9Nq6fz1yJbS.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100"
   },
   {
@@ -1460,7 +1448,7 @@
   {
     "name": "35. LE FIGARO TV [1080p-tf1.fr]",
     "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/vwhtcpQ2orQOoJ.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/LyL8LH1ukUDDLK.m3u8",
     "img": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100"
   },
   {
@@ -1497,19 +1485,31 @@
     "name": "78. la chaine L'Équipe en direct [dailymotion.com]",
     "type": "LEQUIPE.FR",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8",
-    "img": "https://s1.dmcdn.net/u/5LK8J1gpjgFG86B-n/60x60"
+    "img": "https://s2.dmcdn.net/u/5LK8J1gpsSlfTeyVx/60x60"
   },
   {
     "name": "79. Tennis Channel [dailymotion.com]",
     "type": "LEQUIPE.FR",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8",
-    "img": "https://s1.dmcdn.net/u/5LK8J1gpjgFG86B-n/60x60"
+    "img": "https://s1.dmcdn.net/u/5LK8J1gpsSlfTeyVx/60x60"
   },
   {
     "name": "80. Journal du Golf [dailymotion.com]",
     "type": "LEQUIPE.FR",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8",
-    "img": "https://s1.dmcdn.net/u/5LK8J1gpjgFG86B-n/60x60"
+    "img": "https://s2.dmcdn.net/u/5LK8J1gpsSlfTeyVx/60x60"
+  },
+  {
+    "name": "81. L'Équipe live 3 [dailymotion.com]",
+    "type": "LEQUIPE.FR",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-3-dm.m3u8",
+    "img": "https://s1.dmcdn.net/u/5LK8J1gpsSlfTeyVx/60x60"
+  },
+  {
+    "name": "82. L'Équipe live 5 [dailymotion.com]",
+    "type": "LEQUIPE.FR",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-5-dm.m3u8",
+    "img": "https://s2.dmcdn.net/u/5LK8J1gpsSlfTeyVx/60x60"
   },
   {
     "name": "115. FRANCE TV DOCS [1080p-france.tv]",
@@ -1722,15 +1722,9 @@
     "img": "https://i.imgur.com/M4mQ8iG.png"
   },
   {
-    "name": "152. RÉUNION 1ÈRE [NOT 24/7][1080p-france.tv]",
-    "type": "FRANCE.TV",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8",
-    "img": "https://i.imgur.com/M4mQ8iG.png"
-  },
-  {
     "name": "210. RED BULL TV",
     "type": "TF1PLUS",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/8BjX9udYSZbc/YgIYfYMsjrynVd97.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/b4bRMSqXh82Q/lMY2RSObHH8igtez.m3u8",
     "img": "https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png"
   },
   {
@@ -2385,7 +2379,7 @@
     "name": "1058. Epicurieux avec Jamy [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FRBD5100003TP",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20260915T041447SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20261013T053855SQUARE.png"
   },
   {
     "name": "1059. MTV Classics [1080p-samsungtvplus]",
@@ -2595,7 +2589,7 @@
     "name": "1111. Drive TV [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FRBD3600001BQ",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20261013T053847SQUARE.png"
   },
   {
     "name": "1116. World Poker Tour [1080p-samsungtvplus]",
@@ -2709,7 +2703,7 @@
     "name": "1139. Ça Chauffe en Cuisine [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR34000032F",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20260929T041515SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20261013T053923SQUARE.png"
   },
   {
     "name": "1140. Pluto TV Cuisine [1080p-samsungtvplus]",
@@ -2967,7 +2961,7 @@
     "name": "1189. Skyrock [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR4000005KE",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20260707T051753SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20261013T053909SQUARE.png"
   },
   {
     "name": "1190. House of Creators [1080p-samsungtvplus]",
@@ -3051,13 +3045,13 @@
     "name": "1203. So Foot+ [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR12000040D",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20260929T041508SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20261013T053916SQUARE.png"
   },
   {
     "name": "1204. Motor Racing [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR900002B4",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20260528T055414SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261013T053902SQUARE.png"
   },
   {
     "name": "1205. Metal.Rocks [1080p-samsungtvplus]",
@@ -3069,7 +3063,7 @@
     "name": "1206. Dragon TV [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/stvp-FR130000539",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20260929T041442SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20261013T053842SQUARE.png"
   },
   {
     "name": "1207. Quantum Makers [1080p-samsungtvplus]",
